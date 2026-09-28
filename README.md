@@ -174,7 +174,7 @@ Pour régénérer les analyses automatiquement toutes les heures, éditez votre 
 
 Puis ajoutez la ligne suivante :
 
-`*/5 * * * * cd /home/gleaphe/Desktop/APPS/skyrock/Bases && /usr/bin/python3 analyser.py >> analyser.log 2>&1`
+`* * * * * cd /home/USER/Desktop/APPS/skyrock/Bases && /usr/bin/python3 analyser.py >> analyser.log 2>&1`
 
 ---
 
