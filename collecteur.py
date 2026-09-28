@@ -31,7 +31,7 @@ API_URL     = "https://skyrock.fm/api/v3/player/onair/parisidf"
 DOSSIER     = os.path.expanduser('~/Desktop/APPS/skyrock/Bases')
 DB          = os.path.join(DOSSIER, 'skyrock.db')
 LOG         = os.path.join(DOSSIER, 'collecteur.log')
-INTERVALLE  = 120      # secondes entre deux appels
+INTERVALLE  = 60      # secondes entre deux appels
 TIMEOUT     = 10       # timeout HTTP
 MAX_ERREURS = 10       # après N erreurs consécutives, on s'arrête
 
