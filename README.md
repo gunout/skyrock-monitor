@@ -36,7 +36,8 @@
 
 ## 🎯 Aperçu
 
-<img width="1683" height="2781" alt="Screenshot 2026-09-29 at 01-16-41 SKYROCK __ Monitor" src="https://github.com/user-attachments/assets/7ff75357-b299-4437-b1f9-3b1d7533e61b" />
+<img width="1683" height="3008" alt="Screenshot 2026-09-29 at 03-01-24 Skyrock — Monitor" src="https://github.com/user-attachments/assets/0309c29d-113c-4ab0-a2c4-dd5ff6913228" />
+
 
 
 
