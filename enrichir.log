@@ -1,0 +1,38 @@
+[2026-09-28 23:43:35] Morceaux à enrichir : 6
+[2026-09-28 23:43:35] — Pocahontas (durée Skyrock : 162s)
+[2026-09-28 23:43:36]   ⚠ Match approximatif (écart 6s) : PLK – Pocahontas (168s)
+[2026-09-28 23:43:37] — Mélo Décalé (durée Skyrock : 151s)
+[2026-09-28 23:43:37]   ✓ Tiakola – Mélo Décalé (156s)
+[2026-09-28 23:43:38] — Olivia Valere (durée Skyrock : 121s)
+[2026-09-28 23:43:38]   ⚠ Match approximatif (écart 26s) : Lagui – Mandat de dépôt (147s)
+[2026-09-28 23:43:38] — Coachella (durée Skyrock : 151s)
+[2026-09-28 23:43:39]   ✓ abel31 – coachella (146s)
+[2026-09-28 23:43:39] — Dracula (JENNIE Remix) (durée Skyrock : 201s)
+[2026-09-28 23:43:40]   ✓ Tame Impala – Dracula (205s)
+[2026-09-28 23:43:40] — Pineapple (durée Skyrock : 157s)
+[2026-09-28 23:43:41]   ✓ Leto – Pineapple (160s)
+[2026-09-28 23:43:41] Terminé — enrichis : 6, approximatifs : 2, échecs : 0
+[2026-09-29 00:11:23] Morceaux à enrichir : 1
+[2026-09-29 00:11:24]   ✗ Sicario                                            (aucun match, écart 28s)
+[2026-09-29 00:11:24] Terminé — enrichis : 0 (dont 0 approximatifs), échecs : 1
+[2026-09-29 00:16:12] Morceaux à enrichir : 7
+[2026-09-29 00:16:12]   ✗ Sicario                                            (aucun match, écart 28s)
+[2026-09-29 00:16:13]   ⚠ Pocahontas                               → PLK – Pocahontas (168s)
+[2026-09-29 00:16:14]   ⚠ Mélo Décalé                              → Tiakola – Mélo Décalé (156s)
+[2026-09-29 00:16:15]   ✗ Olivia Valere                                      (aucun match, écart 45s)
+[2026-09-29 00:16:15]   ⚠ Coachella                                → abel31 – coachella (146s)
+[2026-09-29 00:16:16]   ⚠ Dracula                                  → Tame Impala – Dracula (205s)
+[2026-09-29 00:16:17]   ✓ Pineapple                                → Leto – Pineapple (160s)
+[2026-09-29 00:16:17] Terminé — enrichis : 5 (dont 4 approximatifs), échecs : 2
+[2026-09-29 00:20:10] Morceaux à enrichir : 1
+[2026-09-29 00:20:11]   ✗ Sicario                                            (aucun match, écart 28s)
+[2026-09-29 00:20:11] Terminé — enrichis : 0 (dont 0 approximatifs), échecs : 1
+[2026-09-29 00:22:39] Morceaux à enrichir : 7
+[2026-09-29 00:22:40]   ✗ Sicario                                            (aucun match, écart 28s)
+[2026-09-29 00:22:41]   ⚠ Pocahontas                               → PLK – Pocahontas (168s)
+[2026-09-29 00:22:42]   ⚠ Mélo Décalé                              → Tiakola – Mélo Décalé (156s)
+[2026-09-29 00:22:44]   ✗ Olivia Valere                                      (aucun match, écart 45s)
+[2026-09-29 00:22:44]   ⚠ Coachella                                → abel31 – coachella (146s)
+[2026-09-29 00:22:46]   ⚠ Dracula                                  → Tame Impala – Dracula (205s)
+[2026-09-29 00:22:48]   ✓ Pineapple                                → Leto – Pineapple (160s)
+[2026-09-29 00:22:49] Terminé — enrichis : 5 (dont 4 approximatifs), échecs : 2

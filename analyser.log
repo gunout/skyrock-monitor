@@ -1,0 +1,116 @@
+Base : 7 diffusions, dont 0 sans artiste
+
+=== 00 VOLUME GLOBAL ===
+ nb_diffusions  nb_artistes  nb_titres premiere_date derniere_date  heures_antenne  duree_moy_s
+             7            7          7    2026-09-28    2026-09-29             0.3        152.0
+
+=== 01 TOP ARTISTES ===
+   artistes  nb_diffusions  titres_differents  minutes_antenne
+Tame Impala              1                  1              3.4
+        PLK              1                  1              2.7
+       Leto              1                  1              2.6
+   TK, Gims              1                  1              2.5
+    Tiakola              1                  1              2.5
+      Lagui              1                  1              2.0
+      Timal              1                  1              2.0
+
+=== 02 TOP TITRES ===
+   artistes         titre  nb_diffusions  minutes_antenne
+Tame Impala       Dracula              1              3.4
+        PLK    Pocahontas              1              2.7
+       Leto     Pineapple              1              2.6
+    Tiakola   Mélo Décalé              1              2.5
+   TK, Gims     Coachella              1              2.5
+      Timal       Sicario              1              2.0
+      Lagui Olivia Valere              1              2.0
+
+=== 03 REPARTITION HORAIRE ===
+ heure  nb_diffusions  minutes
+     0              1      2.0
+    21              3      8.5
+    22              2      4.5
+    23              1      2.7
+
+=== 04 REPARTITION JOURNALIERE ===
+      date  nb_diffusions  titres_differents  artistes_differents  heures
+2026-09-28              6                  6                    6    0.26
+2026-09-29              1                  1                    1    0.03
+
+=== 05 TOP ARTISTE PAR HEURE ===
+ heure    artistes  nb_diffusions
+     0       Timal              1
+    21 Tame Impala              1
+    22     Tiakola              1
+    23         PLK              1
+
+=== 06 ARTISTES RECURRENTS ===
+Empty DataFrame
+Columns: [artistes, nb_jours, nb_diffusions, minutes]
+Index: []
+
+=== 07 TITRES RECURRENTS ===
+Empty DataFrame
+Columns: [artistes, titre, nb_jours, nb_diffusions]
+Index: []
+
+=== 08 DUREE MOYENNE ===
+Empty DataFrame
+Columns: [artistes, titre, nb_diffusions, duree_moy_s, duree_min_s, duree_max_s]
+Index: []
+
+=== 09 JOUR SEMAINE ===
+ jour  nb_diffusions  heures
+Lundi              6    0.26
+Mardi              1    0.03
+
+=== 10 EMISSIONS ===
+               titre                                                  animateurs  nb_passages            premiere            derniere
+Difool – Radio Libre Difool, Cedric le belge, Romano, Karim, Samy, Marie, Guigui            1 2026-09-28 19:00:00 2026-09-28 19:00:00
+
+=== 11 HEURES ACTIVITE ===
+ heure  nb_diffusions  minutes
+     0              1      2.0
+    23              1      2.7
+    22              2      4.5
+    21              3      8.5
+
+=== 12 SANS ARTISTE ===
+Empty DataFrame
+Columns: [uid, titre, duree, date, heure]
+Index: []
+
+=== 13 ARTISTES DIVERSIFIES ===
+Empty DataFrame
+Columns: [artistes, nb_titres_differents, nb_diffusions, ratio]
+Index: []
+
+=== 14 TOP LIKES ===
+Empty DataFrame
+Columns: [artistes, titre, likes]
+Index: []
+
+=== 15 PAR ANNEE ===
+ annee  nb_diffusions
+  2026              6
+  2025              1
+
+=== 16 EXPLICIT ===
+type_contenu  nb   pct
+    Explicit   5 100.0
+
+=== 17 TOP ALBUMS ===
+       album    artistes  nb_diffusions
+     Sicario       Timal              1
+   Pineapple        Leto              1
+ Mélo Décalé     Tiakola              1
+Grand Garçon         PLK              1
+    En Croix       Lagui              1
+     Dracula Tame Impala              1
+   Coachella    TK, Gims              1
+
+=== 18 DERNIER MORCEAU ===
+  titre artistes                                                                                         cover_deezer cover_uri                                                                                                                                                                                                                                                                preview_mp3       date  heure   album  annee   start_ts
+Sicario    Timal https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg      None https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1790630038~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=cab3afe9049ae92110cde409cf2b2c80415c5f3b754863b242b4be8d4efab79a 2026-09-29      0 Sicario   2026 1790626185
+
+✅ Analyse terminée. Résultats dans : /home/gleaphe/Desktop/APPS/skyrock/Bases/resultats
+   18 fichiers CSV générés.
