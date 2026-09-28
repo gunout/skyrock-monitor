@@ -36,6 +36,10 @@
 
 ## 🎯 Aperçu
 
+<img width="1683" height="2781" alt="Screenshot 2026-09-29 at 01-16-41 SKYROCK __ Monitor" src="https://github.com/user-attachments/assets/7ff75357-b299-4437-b1f9-3b1d7533e61b" />
+
+
+
 **Skyrock Monitor** est un pipeline complet qui :
 
 1. **Collecte** en temps réel les morceaux diffusés sur Skyrock via l'API non officielle du site
