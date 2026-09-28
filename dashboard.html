@@ -1,211 +1,163 @@
+cat > ~/Desktop/APPS/skyrock/Bases/dashboard.html << 'HTMLEOF'
 <!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SKYROCK // Monitor</title>
+<title>Skyrock — Monitor</title>
 <script src="https://cdn.plot.ly/plotly-2.27.0.min.js" charset="utf-8"></script>
 <style>
   :root {
-    --neon: #00e5ff;
-    --neon-2: #7c4dff;
-    --neon-3: #ff007a;
-    --green: #00ffa3;
-    --bg-0: #05050a;
-    --bg-1: #0a0a14;
-    --card: rgba(20, 20, 35, 0.6);
-    --border: rgba(0, 229, 255, 0.15);
-    --border-hover: rgba(0, 229, 255, 0.5);
-    --text: #e8e8f5;
-    --muted: #6a6a80;
-    --glow: 0 0 20px rgba(0, 229, 255, 0.3);
-    --glow-strong: 0 0 40px rgba(0, 229, 255, 0.5);
+    --sky-red: #e60023;
+    --sky-red-dark: #c4001e;
+    --sky-black: #000000;
+    --sky-dark: #1a1a1a;
+    --sky-gray: #f5f5f5;
+    --sky-gray-2: #ececec;
+    --sky-border: #e0e0e0;
+    --sky-text: #111111;
+    --sky-muted: #666666;
+    --sky-white: #ffffff;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html, body {
-    background: var(--bg-0);
-    color: var(--text);
-    font-family: 'Space Grotesk', 'Inter', -apple-system, sans-serif;
+    background: var(--sky-white);
+    color: var(--sky-text);
+    font-family: 'Helvetica Neue', 'Roboto Condensed', Arial, sans-serif;
     min-height: 100vh;
-    overflow-x: hidden;
+    font-size: 14px;
   }
 
-  /* Fond animé */
-  body::before {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background:
-      radial-gradient(circle at 20% 20%, rgba(0, 229, 255, 0.08) 0%, transparent 40%),
-      radial-gradient(circle at 80% 80%, rgba(124, 77, 255, 0.08) 0%, transparent 40%),
-      radial-gradient(circle at 50% 50%, rgba(255, 0, 122, 0.03) 0%, transparent 60%);
-    pointer-events: none;
-    z-index: 0;
-  }
-  body::after {
-    content: '';
-    position: fixed;
-    inset: 0;
-    background-image:
-      linear-gradient(rgba(0, 229, 255, 0.03) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(0, 229, 255, 0.03) 1px, transparent 1px);
-    background-size: 40px 40px;
-    pointer-events: none;
-    z-index: 0;
-  }
-  .app { position: relative; z-index: 1; }
-
-  /* ============ HUD HAUT ============ */
-  .hud-top {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: rgba(5, 5, 10, 0.85);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border-bottom: 1px solid var(--border);
-    padding: 12px 24px;
+  /* ============ BANDEAU HAUT ============ */
+  .topbar {
+    background: var(--sky-black);
+    color: #fff;
+    padding: 8px 24px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 20px;
-  }
-  .hud-left, .hud-right {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-  }
-  .live-dot {
-    width: 10px; height: 10px;
-    background: var(--neon-3);
-    border-radius: 50%;
-    box-shadow: 0 0 10px var(--neon-3);
-    animation: pulse 1.4s infinite;
-  }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; transform: scale(1); }
-    50% { opacity: 0.5; transform: scale(1.5); }
-  }
-  .hud-label {
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: var(--muted);
-    font-weight: 600;
-  }
-  .hud-value {
-    font-size: 13px;
-    color: var(--neon);
-    font-weight: 700;
-    font-variant-numeric: tabular-nums;
-  }
-  .refresh-btn {
-    background: transparent;
-    border: 1px solid var(--border);
-    color: var(--neon);
-    padding: 6px 14px;
-    border-radius: 4px;
     font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1px;
     text-transform: uppercase;
-    letter-spacing: 1.5px;
-    cursor: pointer;
-    transition: all 0.2s;
-    font-weight: 600;
   }
-  .refresh-btn:hover {
-    background: rgba(0, 229, 255, 0.1);
-    border-color: var(--neon);
-    box-shadow: var(--glow);
+  .topbar .live {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #fff;
   }
-  .refresh-btn.spin { animation: rotate 0.6s linear; }
-  @keyframes rotate { to { transform: rotate(360deg); } }
+  .topbar .live::before {
+    content: '';
+    width: 8px; height: 8px;
+    background: var(--sky-red);
+    border-radius: 50%;
+    animation: blink 1.5s infinite;
+  }
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+  }
+  .topbar .meta { color: #999; font-size: 10px; }
 
   /* ============ HEADER ============ */
   .header {
-    padding: 32px 24px 24px;
-    text-align: center;
-    position: relative;
+    background: var(--sky-white);
+    padding: 20px 24px;
+    border-bottom: 3px solid var(--sky-black);
+    display: flex;
+    align-items: center;
+    gap: 20px;
   }
   .logo {
-    font-size: 56px;
+    font-size: 36px;
     font-weight: 900;
-    letter-spacing: -3px;
-    font-family: 'Arial Black', sans-serif;
-    background: linear-gradient(120deg, var(--neon) 0%, var(--neon-2) 50%, var(--neon-3) 100%);
-    background-size: 200% 200%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    animation: gradientShift 6s ease infinite;
-    text-shadow: 0 0 40px rgba(0, 229, 255, 0.3);
+    letter-spacing: -2px;
+    color: var(--sky-black);
+    font-family: 'Arial Black', Arial, sans-serif;
   }
-  @keyframes gradientShift {
-    0%, 100% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-  }
+  .logo span { color: var(--sky-red); }
   .logo-sub {
-    color: var(--muted);
-    font-size: 11px;
+    color: var(--sky-muted);
+    font-size: 10px;
     text-transform: uppercase;
-    letter-spacing: 8px;
-    margin-top: 4px;
+    letter-spacing: 4px;
+    border-left: 1px solid var(--sky-border);
+    padding-left: 20px;
+    font-weight: 700;
+  }
+
+  /* ============ NAV ============ */
+  .nav {
+    background: var(--sky-black);
+    padding: 0 24px;
+    display: flex;
+    gap: 0;
+    overflow-x: auto;
+  }
+  .nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1.5px;
+    white-space: nowrap;
+    border-bottom: 3px solid transparent;
+    transition: all 0.15s;
+  }
+  .nav a:hover {
+    background: var(--sky-red);
+    border-bottom-color: #fff;
+  }
+
+  /* ============ ÉTAT ============ */
+  #etat {
+    background: var(--sky-gray);
+    border-left: 4px solid var(--sky-red);
+    padding: 10px 16px;
+    font-size: 12px;
+    margin: 16px 24px 0;
+    color: var(--sky-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
     font-weight: 600;
+  }
+  #etat.erreur {
+    background: #ffe5e9;
+    border-left-color: var(--sky-red);
+    color: var(--sky-red-dark);
   }
 
   /* ============ ON AIR ============ */
   .on-air {
-    margin: 0 24px 24px;
-    background: var(--card);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border: 1px solid var(--border);
-    border-radius: 12px;
+    margin: 16px 24px 24px;
+    background: var(--sky-white);
+    border: 1px solid var(--sky-border);
+    border-left: 6px solid var(--sky-red);
     padding: 20px;
     display: flex;
     align-items: center;
     gap: 20px;
     position: relative;
-    overflow: hidden;
     transition: all 0.3s;
   }
-  .on-air::before {
-    content: '';
-    position: absolute;
-    left: 0; top: 0; bottom: 0;
-    width: 4px;
-    background: linear-gradient(180deg, var(--neon), var(--neon-2));
-    box-shadow: var(--glow);
-  }
-  .on-air::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(90deg, transparent, rgba(0, 229, 255, 0.03), transparent);
-    animation: scan 4s linear infinite;
-    pointer-events: none;
-  }
-  @keyframes scan {
-    0% { transform: translateX(-100%); }
-    100% { transform: translateX(100%); }
+  .on-air.stale {
+    border-left-color: var(--sky-muted);
+    opacity: 0.7;
   }
   .on-air .cover {
     width: 100px; height: 100px;
-    border-radius: 8px;
-    background: var(--bg-1);
+    background: var(--sky-gray-2);
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
-    border: 1px solid var(--border);
-    box-shadow: 0 0 20px rgba(0, 229, 255, 0.2);
-    transition: all 0.3s;
-  }
-  .on-air .cover:hover {
-    transform: scale(1.05);
-    box-shadow: var(--glow-strong);
+    border: 1px solid var(--sky-border);
   }
   .on-air .info { flex: 1; min-width: 0; }
   .on-air .label {
-    color: var(--neon-3);
+    color: var(--sky-red);
     font-size: 10px;
     font-weight: 800;
     text-transform: uppercase;
@@ -216,151 +168,131 @@
     gap: 8px;
   }
   .on-air .label::before {
-    content: '●';
-    animation: pulse 1.4s infinite;
+    content: '';
+    width: 8px; height: 8px;
+    background: var(--sky-red);
+    border-radius: 50%;
+    animation: blink 1.5s infinite;
   }
+  .on-air.stale .label { color: var(--sky-muted); }
+  .on-air.stale .label::before { background: var(--sky-muted); animation: none; }
   .on-air .titre {
-    font-size: 24px;
-    font-weight: 800;
-    color: #fff;
+    font-size: 26px;
+    font-weight: 900;
+    color: var(--sky-black);
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     letter-spacing: -0.5px;
+    text-transform: uppercase;
   }
   .on-air .artiste {
-    color: var(--neon);
+    color: var(--sky-muted);
     font-size: 15px;
     margin-top: 4px;
     font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
   }
   .on-air .extrait {
-    color: var(--green);
-    font-size: 12px;
-    margin-top: 10px;
-    text-decoration: none;
     display: inline-flex;
     align-items: center;
     gap: 6px;
+    background: var(--sky-red);
+    color: #fff;
+    font-size: 11px;
+    margin-top: 12px;
     padding: 6px 12px;
-    border: 1px solid var(--green);
-    border-radius: 4px;
+    border: none;
+    text-decoration: none;
     transition: all 0.2s;
     text-transform: uppercase;
-    letter-spacing: 1px;
-    font-weight: 700;
+    letter-spacing: 1.5px;
+    font-weight: 800;
   }
   .on-air .extrait:hover {
-    background: rgba(0, 255, 163, 0.1);
-    box-shadow: 0 0 15px rgba(0, 255, 163, 0.4);
+    background: var(--sky-red-dark);
   }
   .on-air .countdown {
     text-align: right;
     font-variant-numeric: tabular-nums;
   }
   .on-air .countdown-label {
-    color: var(--muted);
+    color: var(--sky-muted);
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-weight: 600;
+    font-weight: 700;
   }
   .on-air .countdown-value {
-    font-size: 32px;
+    font-size: 38px;
     font-weight: 900;
-    color: var(--neon);
-    text-shadow: var(--glow);
+    color: var(--sky-red);
     margin-top: 4px;
+    letter-spacing: -1px;
   }
+  .on-air.stale .countdown-value { color: var(--sky-muted); }
 
   /* ============ KPI ============ */
   .kpis {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 16px;
-    margin: 0 24px 32px;
+    gap: 1px;
+    background: var(--sky-border);
+    border: 1px solid var(--sky-border);
+    margin: 0 24px 24px;
   }
   .kpi {
-    background: var(--card);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border: 1px solid var(--border);
-    border-radius: 10px;
+    background: var(--sky-white);
     padding: 20px;
     position: relative;
-    overflow: hidden;
-    transition: all 0.3s;
-    cursor: default;
-    animation: fadeUp 0.5s ease backwards;
+    transition: all 0.2s;
   }
-  .kpi:nth-child(1) { animation-delay: 0.05s; }
-  .kpi:nth-child(2) { animation-delay: 0.1s; }
-  .kpi:nth-child(3) { animation-delay: 0.15s; }
-  .kpi:nth-child(4) { animation-delay: 0.2s; }
-  .kpi:nth-child(5) { animation-delay: 0.25s; }
   .kpi:hover {
-    border-color: var(--border-hover);
-    transform: translateY(-2px);
-    box-shadow: var(--glow);
+    background: var(--sky-gray);
   }
   .kpi::before {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0;
-    height: 2px;
-    background: linear-gradient(90deg, var(--neon), var(--neon-2), var(--neon-3));
-    background-size: 200% 100%;
-    animation: gradientShift 4s linear infinite;
+    height: 3px;
+    background: var(--sky-red);
   }
   .kpi-label {
-    color: var(--muted);
+    color: var(--sky-muted);
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 700;
   }
   .kpi-value {
-    font-size: 36px;
+    font-size: 38px;
     font-weight: 900;
-    color: #fff;
-    margin-top: 8px;
+    color: var(--sky-black);
+    margin-top: 6px;
     letter-spacing: -1.5px;
     font-variant-numeric: tabular-nums;
-    text-shadow: 0 0 20px rgba(0, 229, 255, 0.3);
   }
-  .kpi-value.neon { color: var(--neon); }
-  .kpi-value.green { color: var(--green); }
-  .kpi-value.pink { color: var(--neon-3); }
 
-  /* ============ SECTIONS ============ */
+  /* ============ CONTENEUR ============ */
   .conteneur {
     max-width: 1600px;
     margin: 0 auto;
     padding: 0 24px 60px;
   }
   .section-titre {
-    font-size: 11px;
+    font-size: 14px;
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 4px;
-    color: var(--neon);
-    margin: 32px 0 16px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    text-shadow: var(--glow);
-  }
-  .section-titre::before {
-    content: '';
-    width: 4px; height: 4px;
-    background: var(--neon);
-    box-shadow: var(--glow);
-    transform: rotate(45deg);
+    letter-spacing: 3px;
+    color: var(--sky-black);
+    margin: 32px 0 12px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid var(--sky-black);
+    display: inline-block;
   }
 
-  /* ============ GRILLE ============ */
+  /* ============ GRILLES ============ */
   .grille {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
@@ -376,53 +308,32 @@
 
   /* ============ CARTES ============ */
   .carte {
-    background: var(--card);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    overflow: hidden;
-    transition: all 0.3s;
-    animation: fadeUp 0.6s ease backwards;
+    background: var(--sky-white);
+    border: 1px solid var(--sky-border);
+    transition: all 0.2s;
   }
   .carte:hover {
-    border-color: var(--border-hover);
-    box-shadow: 0 0 30px rgba(0, 229, 255, 0.1);
-  }
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
+    border-color: var(--sky-black);
   }
   .carte-titre {
-    padding: 14px 18px;
+    padding: 12px 16px;
     font-size: 11px;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: var(--text);
-    background: rgba(0, 0, 0, 0.3);
-    border-bottom: 1px solid var(--border);
+    color: #fff;
+    background: var(--sky-black);
     display: flex;
     align-items: center;
     justify-content: space-between;
-    position: relative;
-  }
-  .carte-titre::before {
-    content: '';
-    position: absolute;
-    left: 0; top: 0; bottom: 0;
-    width: 3px;
-    background: linear-gradient(180deg, var(--neon), transparent);
   }
   .carte-titre .badge {
-    background: linear-gradient(90deg, var(--neon), var(--neon-2));
-    color: #000;
-    padding: 3px 10px;
-    border-radius: 10px;
+    background: var(--sky-red);
+    color: #fff;
+    padding: 2px 8px;
     font-size: 9px;
     font-weight: 900;
     letter-spacing: 1px;
-    box-shadow: var(--glow);
   }
   .carte-corps { padding: 16px; }
 
@@ -435,96 +346,71 @@
   th, td {
     padding: 10px 12px;
     text-align: left;
-    border-bottom: 1px solid var(--border);
+    border-bottom: 1px solid var(--sky-border);
   }
   th {
-    color: var(--muted);
-    font-weight: 700;
+    color: #fff;
+    font-weight: 800;
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 1.5px;
+    background: var(--sky-dark);
   }
   tr {
-    transition: all 0.2s;
+    transition: all 0.15s;
     cursor: pointer;
   }
   tr:hover {
-    background: rgba(0, 229, 255, 0.06);
-    transform: translateX(3px);
+    background: var(--sky-gray);
   }
+  td { color: var(--sky-text); font-weight: 500; }
   .rang {
     display: inline-block;
-    width: 26px;
+    width: 24px;
     text-align: center;
     font-weight: 900;
-    color: var(--neon);
+    color: var(--sky-black);
     margin-right: 8px;
-    font-size: 12px;
-    font-variant-numeric: tabular-nums;
+    font-size: 13px;
   }
   .rang.top3 {
-    color: #000;
-    background: linear-gradient(135deg, var(--neon), var(--neon-2));
-    border-radius: 4px;
+    background: var(--sky-red);
+    color: #fff;
     padding: 2px 0;
-    box-shadow: var(--glow);
   }
 
-  /* ============ ÉTAT ============ */
-  #etat {
-    background: var(--card);
-    border-left: 3px solid var(--neon);
-    padding: 12px 16px;
-    font-size: 12px;
-    margin: 0 24px 24px;
-    color: var(--muted);
-    border-radius: 4px;
-    letter-spacing: 0.5px;
-  }
-  #etat.erreur { border-left-color: var(--neon-3); color: var(--neon-3); }
+  /* ============ VIDE ============ */
   .vide {
-    color: var(--muted);
+    color: var(--sky-muted);
     font-style: italic;
     padding: 24px;
     text-align: center;
     font-size: 12px;
+    text-transform: uppercase;
     letter-spacing: 1px;
   }
 
-  /* ============ MODALE ============
-     (clic sur un artiste) */
+  /* ============ MODALE ============ */
   .modale {
     position: fixed;
     inset: 0;
-    background: rgba(0, 0, 0, 0.85);
-    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0.75);
     display: none;
     align-items: center;
     justify-content: center;
     z-index: 1000;
     padding: 24px;
-    animation: fadeIn 0.2s;
   }
   .modale.visible { display: flex; }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
   .modale-contenu {
-    background: linear-gradient(135deg, rgba(20, 20, 35, 0.95), rgba(30, 30, 50, 0.95));
-    border: 1px solid var(--border-hover);
-    border-radius: 16px;
+    background: var(--sky-white);
+    border-top: 6px solid var(--sky-red);
     padding: 32px;
     max-width: 700px;
     max-height: 80vh;
     overflow-y: auto;
-    box-shadow: 0 0 60px rgba(0, 229, 255, 0.2);
-    animation: popIn 0.3s;
     width: 100%;
-  }
-  @keyframes popIn {
-    from { transform: scale(0.9); opacity: 0; }
-    to { transform: scale(1); opacity: 1; }
+    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
   }
   .modale-header {
     display: flex;
@@ -532,137 +418,131 @@
     justify-content: space-between;
     margin-bottom: 20px;
     padding-bottom: 16px;
-    border-bottom: 1px solid var(--border);
+    border-bottom: 3px solid var(--sky-black);
   }
   .modale-titre {
     font-size: 24px;
     font-weight: 900;
-    background: linear-gradient(120deg, var(--neon), var(--neon-2));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: var(--sky-black);
+    text-transform: uppercase;
+    letter-spacing: -0.5px;
   }
   .modale-close {
-    background: transparent;
-    border: 1px solid var(--border);
-    color: var(--muted);
+    background: var(--sky-black);
+    border: none;
+    color: #fff;
     width: 32px; height: 32px;
-    border-radius: 50%;
     cursor: pointer;
     font-size: 18px;
+    font-weight: 900;
     transition: all 0.2s;
   }
   .modale-close:hover {
-    color: var(--neon-3);
-    border-color: var(--neon-3);
-    box-shadow: 0 0 10px var(--neon-3);
+    background: var(--sky-red);
   }
   .artiste-morceau {
     display: flex;
     align-items: center;
     gap: 12px;
-    padding: 12px;
-    border-bottom: 1px solid var(--border);
-    transition: all 0.2s;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--sky-border);
+    transition: all 0.15s;
   }
   .artiste-morceau:hover {
-    background: rgba(0, 229, 255, 0.05);
-    padding-left: 18px;
+    background: var(--sky-gray);
+    padding-left: 12px;
   }
   .artiste-morceau .pochette {
     width: 48px; height: 48px;
-    border-radius: 6px;
-    background: var(--bg-1);
+    background: var(--sky-gray-2);
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
-    border: 1px solid var(--border);
+    border: 1px solid var(--sky-border);
   }
   .artiste-morceau .infos { flex: 1; min-width: 0; }
   .artiste-morceau .titre-m {
-    font-weight: 700;
-    color: #fff;
+    font-weight: 800;
+    color: var(--sky-black);
     font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
   }
   .artiste-morceau .meta-m {
-    color: var(--muted);
+    color: var(--sky-muted);
     font-size: 11px;
     margin-top: 2px;
   }
   .artiste-morceau .heure-m {
-    color: var(--neon);
-    font-size: 11px;
-    font-weight: 700;
+    color: var(--sky-red);
+    font-size: 12px;
+    font-weight: 800;
     font-variant-numeric: tabular-nums;
   }
 
   /* ============ FOOTER ============ */
   footer {
+    margin-top: 60px;
     padding: 32px 24px;
+    background: var(--sky-black);
+    color: #999;
     text-align: center;
-    color: var(--muted);
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 3px;
-    border-top: 1px solid var(--border);
-    margin-top: 60px;
+    font-weight: 700;
   }
-  footer strong {
-    color: var(--neon);
-    text-shadow: var(--glow);
-  }
+  footer strong { color: var(--sky-red); }
 
-  /* Responsive */
+  /* ============ RESPONSIVE ============ */
   @media (max-width: 700px) {
-    .logo { font-size: 36px; }
+    .logo { font-size: 24px; }
+    .logo-sub { display: none; }
     .kpi-value { font-size: 28px; }
     .on-air { flex-direction: column; text-align: center; }
     .on-air .countdown { text-align: center; }
     .grille { grid-template-columns: 1fr; }
+    .nav a { padding: 10px 12px; font-size: 10px; }
   }
 </style>
 </head>
 <body>
-<div class="app">
 
-<!-- HUD -->
-<div class="hud-top">
-  <div class="hud-left">
-    <div class="live-dot"></div>
-    <div>
-      <div class="hud-label">Status</div>
-      <div class="hud-value">EN DIRECT</div>
-    </div>
-  </div>
-  <div class="hud-right">
-    <div>
-      <div class="hud-label">Dernière synchro</div>
-      <div class="hud-value" id="horodatage">—</div>
-    </div>
-    <button class="refresh-btn" id="refresh-btn" onclick="charger()">↻ Recharger</button>
-  </div>
+<!-- Topbar -->
+<div class="topbar">
+  <div class="live">En direct</div>
+  <div class="meta" id="horodatage">—</div>
 </div>
 
 <!-- Header -->
 <div class="header">
-  <div class="logo">SKYROCK</div>
-  <div class="logo-sub">Monitor · Programmation</div>
+  <div class="logo">SKY<span>ROCK</span></div>
+  <div class="logo-sub">Monitor Programmation</div>
 </div>
 
+<!-- Navigation -->
+<div class="nav">
+  <a href="#classement">Classement</a>
+  <a href="#temporel">Répartition</a>
+  <a href="#analyses">Analyses</a>
+  <a href="#details">Détails</a>
+</div>
+
+<!-- État -->
 <div id="etat">Initialisation...</div>
 
 <!-- On Air -->
 <div class="on-air" id="on-air" style="display:none;">
   <div class="cover" id="on-air-cover"></div>
   <div class="info">
-    <div class="label">Morceau en cours</div>
+    <div class="label" id="on-air-label">Morceau en cours</div>
     <div class="titre" id="on-air-titre">—</div>
     <div class="artiste" id="on-air-artiste">—</div>
     <a class="extrait" id="on-air-extrait" href="#" target="_blank" style="display:none;">▶ Extraire 30s</a>
   </div>
   <div class="countdown">
-    <div class="countdown-label">Depuis diffusion</div>
-    <div class="countdown-value" id="countdown">00:00</div>
+    <div class="countdown-label" id="countdown-label">Depuis diffusion</div>
+    <div class="countdown-value" id="countdown">--:--</div>
   </div>
 </div>
 
@@ -671,7 +551,7 @@
 
 <div class="conteneur">
 
-  <div class="section-titre">Classement</div>
+  <h2 class="section-titre" id="classement">Classement</h2>
   <div class="grille">
     <div class="carte">
       <div class="carte-titre">Top artistes <span class="badge">TOP 15</span></div>
@@ -683,7 +563,7 @@
     </div>
   </div>
 
-  <div class="section-titre">Répartition temporelle</div>
+  <h2 class="section-titre" id="temporel">Répartition temporelle</h2>
   <div class="grille">
     <div class="carte">
       <div class="carte-titre">Par heure</div>
@@ -700,7 +580,7 @@
     <div class="carte-corps"><div id="chart-jours"></div></div>
   </div>
 
-  <div class="section-titre">Analyses</div>
+  <h2 class="section-titre" id="analyses">Analyses</h2>
   <div class="grille-3">
     <div class="carte">
       <div class="carte-titre">Par année</div>
@@ -716,7 +596,7 @@
     </div>
   </div>
 
-  <div class="section-titre">Détails</div>
+  <h2 class="section-titre" id="details">Détails</h2>
   <div class="grille">
     <div class="carte">
       <div class="carte-titre">Artistes récurrents <span class="badge">CLIQUABLE</span></div>
@@ -742,7 +622,7 @@
 </div>
 
 <footer>
-  <strong>SKYROCK MONITOR</strong> · Données skyrock.fm · Enrichissement Deezer · v2.0
+  <strong>SKYROCK MONITOR</strong> · Données skyrock.fm · Deezer · v2.2
 </footer>
 
 <!-- Modale -->
@@ -756,16 +636,21 @@
   </div>
 </div>
 
-</div>
-
 <script>
 // ============================================================
-// VARIABLES GLOBALES
+// CONFIG
 // ============================================================
-let DONNEES = {};         // Cache des CSV
-let ARTISTES_INDEX = {};  // Index artiste → liste de morceaux
+const SEUIL_VIEUX_MORCEAU = 300;
+const AUTO_REFRESH_MS = 60000;
+
+// ============================================================
+// VARIABLES
+// ============================================================
+let DONNEES = {};
+let ARTISTES_INDEX = {};
 let INTERVALLE_AUTO = null;
 let DERNIER_MORCEAU_TS = 0;
+let DERNIER_MORCEAU_DUREE = 0;
 
 // ============================================================
 // PARSER CSV
@@ -819,8 +704,7 @@ async function lireCSV(nom) {
 // ============================================================
 async function charger() {
   const btn = document.getElementById('refresh-btn');
-  btn.classList.add('spin');
-  setTimeout(() => btn.classList.remove('spin'), 600);
+  if (btn) { btn.classList.add('spin'); setTimeout(() => btn.classList.remove('spin'), 600); }
 
   const noms = [
     '00_volume_global', '01_top_artistes', '02_top_titres',
@@ -844,16 +728,16 @@ async function charger() {
   const etat = document.getElementById('etat');
   if (erreurs === noms.length) {
     etat.className = 'erreur';
-    etat.innerHTML = '❌ Impossible de lire les CSV. Ouvrez via <code>http://localhost:8005/dashboard.html</code>.';
+    etat.innerHTML = 'Impossible de lire les CSV. Ouvrez via <strong>http://localhost:8005/dashboard.html</strong>';
     return;
   } else if (erreurs > 0) {
     etat.className = '';
-    etat.textContent = `⚠ ${erreurs} CSV manquants.`;
+    etat.textContent = `${erreurs} CSV manquants`;
   } else {
-    etat.textContent = '✅ Données synchronisées';
+    etat.textContent = 'Données synchronisées';
   }
   document.getElementById('horodatage').textContent =
-    new Date().toLocaleTimeString('fr-FR');
+    'Mise à jour : ' + new Date().toLocaleTimeString('fr-FR');
 
   construire(data);
   chargerOnAir(data['18_dernier_morceau']);
@@ -863,42 +747,81 @@ async function charger() {
 // ON AIR
 // ============================================================
 function chargerOnAir(rows) {
-  if (!rows || !rows.length) return;
+  const bloc = document.getElementById('on-air');
+  const label = document.getElementById('on-air-label');
+  const titreEl = document.getElementById('on-air-titre');
+  const artisteEl = document.getElementById('on-air-artiste');
+  const countdownEl = document.getElementById('countdown');
+  const countdownLabelEl = document.getElementById('countdown-label');
+  const coverEl = document.getElementById('on-air-cover');
+  const extraitEl = document.getElementById('on-air-extrait');
+
+  if (!rows || !rows.length) {
+    bloc.style.display = 'flex';
+    bloc.classList.add('stale');
+    label.textContent = 'En attente';
+    titreEl.textContent = 'Aucun morceau';
+    artisteEl.textContent = '—';
+    countdownEl.textContent = '--:--';
+    coverEl.style.backgroundImage = '';
+    extraitEl.style.display = 'none';
+    return;
+  }
+
   const r = rows[0];
-  document.getElementById('on-air').style.display = 'flex';
-  document.getElementById('on-air-titre').textContent = r.titre || '—';
-  document.getElementById('on-air-artiste').textContent = r.artistes || '—';
+  const maintenant = Math.floor(Date.now() / 1000);
+  const debut = Number(r.start_ts) || 0;
+  const age = maintenant - debut;
+  const estVieux = age > SEUIL_VIEUX_MORCEAU;
 
-  const cover = document.getElementById('on-air-cover');
-  if (r.cover_deezer) cover.style.backgroundImage = `url('${r.cover_deezer}')`;
-  else if (r.cover_uri) cover.style.backgroundImage = `url('${r.cover_uri}')`;
+  DERNIER_MORCEAU_TS = debut;
+  DERNIER_MORCEAU_DUREE = (Number(r.end_ts) || 0) - debut;
 
-  const a = document.getElementById('on-air-extrait');
-  if (r.preview_mp3) {
-    a.href = r.preview_mp3;
-    a.style.display = 'inline-flex';
+  bloc.style.display = 'flex';
+  if (estVieux) {
+    bloc.classList.add('stale');
+    label.textContent = 'Dernier morceau connu';
+    countdownLabelEl.textContent = 'Il y a';
   } else {
-    a.style.display = 'none';
+    bloc.classList.remove('stale');
+    label.textContent = 'Morceau en cours';
+    countdownLabelEl.textContent = 'Depuis diffusion';
   }
 
-  // Compteur depuis diffusion
-  if (r.start_ts) {
-    DERNIER_MORCEAU_TS = Number(r.start_ts);
-    majCompteur();
+  titreEl.textContent = r.titre || '—';
+  artisteEl.textContent = r.artistes || '(artiste inconnu)';
+
+  if (r.cover_deezer) coverEl.style.backgroundImage = `url('${r.cover_deezer}')`;
+  else if (r.cover_uri) coverEl.style.backgroundImage = `url('${r.cover_uri}')`;
+  else coverEl.style.backgroundImage = '';
+
+  if (r.preview_mp3 && !estVieux) {
+    extraitEl.href = r.preview_mp3;
+    extraitEl.style.display = 'inline-flex';
+  } else {
+    extraitEl.style.display = 'none';
   }
+
+  majCompteur();
 }
 
 function majCompteur() {
-  if (!DERNIER_MORCEAU_TS) return;
-  const sec = Math.max(0, Math.floor(Date.now() / 1000) - DERNIER_MORCEAU_TS);
+  const el = document.getElementById('countdown');
+  if (!el) return;
+  if (!DERNIER_MORCEAU_TS) { el.textContent = '--:--'; return; }
+  const sec = Math.floor(Date.now() / 1000) - DERNIER_MORCEAU_TS;
+  if (sec > SEUIL_VIEUX_MORCEAU) { el.textContent = '--:--'; return; }
+  if (DERNIER_MORCEAU_DUREE > 0 && sec >= DERNIER_MORCEAU_DUREE) {
+    el.textContent = '--:--'; return;
+  }
   const m = String(Math.floor(sec / 60)).padStart(2, '0');
   const s = String(sec % 60).padStart(2, '0');
-  document.getElementById('countdown').textContent = `${m}:${s}`;
+  el.textContent = `${m}:${s}`;
 }
 setInterval(majCompteur, 1000);
 
 // ============================================================
-// MODALE ARTISTE
+// MODALE
 // ============================================================
 function ouvrirModaleArtiste(artiste) {
   const morceaux = ARTISTES_INDEX[artiste] || [];
@@ -934,16 +857,12 @@ document.addEventListener('keydown', e => {
 function construire(data) {
   const vide = '<div class="vide">Pas encore de données</div>';
 
-  // Index artistes
   ARTISTES_INDEX = {};
   if (data['01_top_artistes']) {
     data['01_top_artistes'].forEach(a => {
       if (a.artistes) ARTISTES_INDEX[a.artistes] = [];
     });
   }
-  // Charge les morceaux depuis 18 (dernier) pour la modale
-  // Pour un index complet, il faudrait un CSV "tous_morceaux"
-  // On utilise top_titres en attendant
   if (data['02_top_titres']) {
     data['02_top_titres'].forEach(t => {
       if (t.artistes) {
@@ -953,107 +872,92 @@ function construire(data) {
     });
   }
 
-  // KPI
   const vol = data['00_volume_global'][0] || {};
   const kpis = [
-    ['Diffusions', vol.nb_diffusions ?? 0, 'neon'],
-    ['Artistes', vol.nb_artistes ?? 0, ''],
-    ['Titres', vol.nb_titres ?? 0, ''],
-    ['Heures d\'antenne', (vol.heures_antenne ?? 0).toFixed(2), 'green'],
-    ['Durée moy.', (vol.duree_moy_s ?? 0).toFixed(0) + 's', 'pink'],
+    ['Diffusions', vol.nb_diffusions ?? 0],
+    ['Artistes', vol.nb_artistes ?? 0],
+    ['Titres', vol.nb_titres ?? 0],
+    ['Heures d\'antenne', (vol.heures_antenne ?? 0).toFixed(2)],
+    ['Durée moy.', (vol.duree_moy_s ?? 0).toFixed(0) + 's'],
   ];
-  document.getElementById('kpis').innerHTML = kpis.map(([l, v, cls]) =>
+  document.getElementById('kpis').innerHTML = kpis.map(([l, v]) =>
     `<div class="kpi"><div class="kpi-label">${l}</div>
-     <div class="kpi-value ${cls}">${v}</div></div>`
+     <div class="kpi-value">${v}</div></div>`
   ).join('');
 
-  // Plotly layout futuriste
   const layout = {
-    paper_bgcolor: 'rgba(0,0,0,0)',
-    plot_bgcolor: 'rgba(0,0,0,0)',
-    font: { color: '#e8e8f5', size: 11, family: 'Inter, sans-serif' },
-    margin: { l: 150, r: 20, t: 10, b: 40 },
-    xaxis: { gridcolor: 'rgba(0, 229, 255, 0.1)', zerolinecolor: 'rgba(0, 229, 255, 0.2)' },
-    yaxis: { gridcolor: 'rgba(0, 229, 255, 0.1)', zerolinecolor: 'rgba(0, 229, 255, 0.2)' },
+    paper_bgcolor: '#ffffff',
+    plot_bgcolor: '#ffffff',
+    font: { color: '#111', size: 11, family: 'Helvetica Neue, Arial' },
+    margin: { l: 140, r: 20, t: 10, b: 40 },
+    xaxis: { gridcolor: '#eee', zerolinecolor: '#ccc', linecolor: '#ccc' },
+    yaxis: { gridcolor: '#eee', zerolinecolor: '#ccc', linecolor: '#ccc' },
   };
   const opts = { displayModeBar: false, responsive: true };
-  const NEON = '#00e5ff';
-  const NEON2 = '#7c4dff';
-  const GREEN = '#00ffa3';
+  const RED = '#e60023';
+  const BLACK = '#000000';
+  const GRAY = '#666666';
 
-  // Top artistes
   if (data['01_top_artistes'].length) {
     const d = data['01_top_artistes'].slice(0, 15);
     Plotly.newPlot('chart-artistes', [{
       type: 'bar', orientation: 'h',
       x: d.map(r => r.minutes_antenne || r.nb_diffusions),
       y: d.map(r => r.artistes),
-      marker: {
-        color: d.map((_, i) => `rgba(0, 229, 255, ${1 - i * 0.05})`),
-        line: { color: NEON, width: 1 },
-      },
+      marker: { color: RED },
       hovertemplate: '<b>%{y}</b><br>%{x} min<extra></extra>',
     }], { ...layout, yaxis: { autorange: 'reversed' } }, opts);
   } else document.getElementById('chart-artistes').innerHTML = vide;
 
-  // Top titres
   if (data['02_top_titres'].length) {
     const d = data['02_top_titres'].slice(0, 15);
     Plotly.newPlot('chart-titres', [{
       type: 'bar', orientation: 'h',
       x: d.map(r => r.nb_diffusions),
       y: d.map(r => `${r.artistes} – ${r.titre}`.slice(0, 40)),
-      marker: {
-        color: d.map((_, i) => `rgba(124, 77, 255, ${1 - i * 0.05})`),
-        line: { color: NEON2, width: 1 },
-      },
+      marker: { color: BLACK },
       hovertemplate: '<b>%{y}</b><br>%{x} diffusions<extra></extra>',
     }], { ...layout, yaxis: { autorange: 'reversed' } }, opts);
   } else document.getElementById('chart-titres').innerHTML = vide;
 
-  // Heures
   if (data['03_repartition_horaire'].length) {
     const d = data['03_repartition_horaire'];
     Plotly.newPlot('chart-heures', [{
       type: 'bar', x: d.map(r => r.heure), y: d.map(r => r.nb_diffusions),
-      marker: { color: NEON, line: { color: NEON, width: 1 } },
+      marker: { color: RED },
     }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 40 },
           xaxis: { title: 'Heure' },
           yaxis: { title: 'Diffusions' } }, opts);
   } else document.getElementById('chart-heures').innerHTML = vide;
 
-  // Semaine
   if (data['09_jour_semaine'].length) {
     const d = data['09_jour_semaine'];
     Plotly.newPlot('chart-semaine', [{
       type: 'bar', x: d.map(r => r.jour), y: d.map(r => r.nb_diffusions),
-      marker: { color: NEON2, line: { color: NEON2, width: 1 } },
+      marker: { color: BLACK },
     }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 40 } }, opts);
   } else document.getElementById('chart-semaine').innerHTML = vide;
 
-  // Jours
   if (data['04_repartition_journaliere'].length) {
     const d = data['04_repartition_journaliere'];
     Plotly.newPlot('chart-jours', [{
       type: 'scatter', mode: 'lines+markers',
       x: d.map(r => r.date), y: d.map(r => r.nb_diffusions),
-      line: { color: NEON, width: 3, shape: 'spline' },
-      marker: { size: 10, color: NEON, line: { color: '#fff', width: 2 } },
+      line: { color: RED, width: 3 },
+      marker: { size: 10, color: RED },
       fill: 'tozeroy',
-      fillcolor: 'rgba(0, 229, 255, 0.08)',
+      fillcolor: 'rgba(230, 0, 35, 0.08)',
     }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 60 } }, opts);
   } else document.getElementById('chart-jours').innerHTML = vide;
 
-  // Années
   if (data['15_par_annee'].length) {
     const d = data['15_par_annee'];
     Plotly.newPlot('chart-annees', [{
       type: 'bar', x: d.map(r => r.annee), y: d.map(r => r.nb_diffusions),
-      marker: { color: GREEN, line: { color: GREEN, width: 1 } },
+      marker: { color: BLACK },
     }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 40 } }, opts);
   } else document.getElementById('chart-annees').innerHTML = vide;
 
-  // Explicit
   if (data['16_explicit'].length) {
     const d = data['16_explicit'];
     Plotly.newPlot('chart-explicit', [{
@@ -1061,13 +965,12 @@ function construire(data) {
       labels: d.map(r => r.type_contenu),
       values: d.map(r => r.nb),
       hole: 0.6,
-      marker: { colors: ['#ffc400', GREEN, '#666'], line: { color: '#000', width: 2 } },
+      marker: { colors: [RED, BLACK, GRAY] },
       textinfo: 'label+percent',
-      textfont: { color: '#fff', size: 12 },
+      textfont: { color: '#111', size: 12 },
     }], { ...layout, margin: { l: 20, r: 20, t: 10, b: 20 } }, opts);
   } else document.getElementById('chart-explicit').innerHTML = vide;
 
-  // Tableaux
   rendreTable('table-albums', data['17_top_albums'], [
     { cle: 'album', titre: 'Album' },
     { cle: 'artistes', titre: 'Artiste' },
@@ -1124,17 +1027,14 @@ function rendreTable(id, rows, colonnes, vide, cliquable) {
   cible.innerHTML = html + '</tbody></table>';
 }
 
-// ============================================================
-// AUTO-REFRESH
-// ============================================================
 function demarrerAuto() {
   if (INTERVALLE_AUTO) clearInterval(INTERVALLE_AUTO);
-  INTERVALLE_AUTO = setInterval(charger, 60000); // toutes les 60s
+  INTERVALLE_AUTO = setInterval(charger, AUTO_REFRESH_MS);
 }
 
-// Lancer
 charger();
 demarrerAuto();
 </script>
 </body>
 </html>
+HTMLEOF
