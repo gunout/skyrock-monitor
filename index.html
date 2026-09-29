@@ -18,6 +18,7 @@
     --sky-muted: #666666;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
   html, body {
     background: #fff;
     color: var(--sky-text);
@@ -25,6 +26,8 @@
     min-height: 100vh;
     font-size: 14px;
   }
+
+  /* Topbar */
   .topbar {
     background: var(--sky-black);
     color: #fff;
@@ -36,6 +39,9 @@
     font-weight: 700;
     letter-spacing: 1px;
     text-transform: uppercase;
+    position: sticky;
+    top: 0;
+    z-index: 100;
   }
   .topbar .live { display: inline-flex; align-items: center; gap: 8px; }
   .topbar .live::before {
@@ -50,6 +56,24 @@
     50% { opacity: 0.3; }
   }
   .topbar .meta { color: #999; font-size: 10px; }
+  .topbar .actions { display: flex; align-items: center; gap: 12px; }
+  .refresh-btn {
+    background: transparent;
+    border: 1px solid #444;
+    color: #fff;
+    padding: 4px 12px;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .refresh-btn:hover { background: var(--sky-red); border-color: var(--sky-red); }
+  .refresh-btn.spin { animation: rotate 0.6s linear; }
+  @keyframes rotate { to { transform: rotate(360deg); } }
+
+  /* Header */
   .header {
     background: #fff;
     padding: 20px 24px;
@@ -75,11 +99,16 @@
     padding-left: 20px;
     font-weight: 700;
   }
+
+  /* Navigation */
   .nav {
     background: var(--sky-black);
     padding: 0 24px;
     display: flex;
     overflow-x: auto;
+    position: sticky;
+    top: 32px;
+    z-index: 99;
   }
   .nav a {
     color: #fff;
@@ -94,6 +123,8 @@
     transition: all 0.15s;
   }
   .nav a:hover { background: var(--sky-red); border-bottom-color: #fff; }
+
+  /* État */
   #etat {
     background: var(--sky-gray);
     border-left: 4px solid var(--sky-red);
@@ -106,6 +137,8 @@
     font-weight: 600;
   }
   #etat.erreur { background: #ffe5e9; color: var(--sky-red-dark); }
+
+  /* On Air */
   .on-air {
     margin: 16px 24px 24px;
     background: #fff;
@@ -194,6 +227,8 @@
     margin-top: 4px;
   }
   .on-air.stale .countdown-value { color: var(--sky-muted); }
+
+  /* KPI */
   .kpis {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -230,6 +265,8 @@
     margin-top: 6px;
     letter-spacing: -1.5px;
   }
+
+  /* Conteneur */
   .conteneur { max-width: 1600px; margin: 0 auto; padding: 0 24px 60px; }
   .section-titre {
     font-size: 14px;
@@ -241,7 +278,10 @@
     padding-bottom: 8px;
     border-bottom: 3px solid var(--sky-black);
     display: inline-block;
+    scroll-margin-top: 110px;
   }
+
+  /* Grilles */
   .grille {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
@@ -254,6 +294,8 @@
     gap: 16px;
     margin-bottom: 16px;
   }
+
+  /* Cartes */
   .carte {
     background: #fff;
     border: 1px solid var(--sky-border);
@@ -279,6 +321,8 @@
     letter-spacing: 1px;
   }
   .carte-corps { padding: 16px; }
+
+  /* Tableaux */
   table { width: 100%; border-collapse: collapse; font-size: 13px; }
   th, td {
     padding: 10px 12px;
@@ -303,6 +347,8 @@
     margin-right: 8px;
   }
   .rang.top3 { background: var(--sky-red); color: #fff; padding: 2px 0; }
+
+  /* Vide */
   .vide {
     color: var(--sky-muted);
     font-style: italic;
@@ -312,6 +358,88 @@
     text-transform: uppercase;
     letter-spacing: 1px;
   }
+
+  /* Modale */
+  .modale {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.75);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    padding: 24px;
+  }
+  .modale.visible { display: flex; }
+  .modale-contenu {
+    background: #fff;
+    border-top: 6px solid var(--sky-red);
+    padding: 32px;
+    max-width: 700px;
+    max-height: 80vh;
+    overflow-y: auto;
+    width: 100%;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+  }
+  .modale-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 3px solid var(--sky-black);
+  }
+  .modale-titre {
+    font-size: 24px;
+    font-weight: 900;
+    color: var(--sky-black);
+    text-transform: uppercase;
+  }
+  .modale-close {
+    background: var(--sky-black);
+    border: none;
+    color: #fff;
+    width: 32px; height: 32px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 900;
+    transition: all 0.2s;
+  }
+  .modale-close:hover { background: var(--sky-red); }
+  .artiste-morceau {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--sky-border);
+  }
+  .artiste-morceau .pochette {
+    width: 48px; height: 48px;
+    background: var(--sky-gray-2);
+    background-size: cover;
+    background-position: center;
+    flex-shrink: 0;
+    border: 1px solid var(--sky-border);
+  }
+  .artiste-morceau .infos { flex: 1; min-width: 0; }
+  .artiste-morceau .titre-m {
+    font-weight: 800;
+    color: var(--sky-black);
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  .artiste-morceau .meta-m {
+    color: var(--sky-muted);
+    font-size: 11px;
+    margin-top: 2px;
+  }
+  .artiste-morceau .heure-m {
+    color: var(--sky-red);
+    font-size: 12px;
+    font-weight: 800;
+  }
+
+  /* Footer */
   footer {
     margin-top: 60px;
     padding: 32px 24px;
@@ -324,6 +452,8 @@
     font-weight: 700;
   }
   footer strong { color: var(--sky-red); }
+
+  /* Responsive */
   @media (max-width: 700px) {
     .logo { font-size: 24px; }
     .logo-sub { display: none; }
@@ -331,6 +461,7 @@
     .on-air { flex-direction: column; text-align: center; }
     .on-air .countdown { text-align: center; }
     .grille { grid-template-columns: 1fr; }
+    .nav a { padding: 10px 12px; font-size: 10px; }
   }
 </style>
 </head>
@@ -338,7 +469,10 @@
 
 <div class="topbar">
   <div class="live">En direct</div>
-  <div class="meta" id="horodatage">—</div>
+  <div class="actions">
+    <div class="meta" id="horodatage">—</div>
+    <button class="refresh-btn" id="refresh-btn" onclick="charger()">↻ Recharger</button>
+  </div>
 </div>
 
 <div class="header">
@@ -372,47 +506,112 @@
 <div class="kpis" id="kpis"></div>
 
 <div class="conteneur">
-  <h2 class="section-titre">Classement</h2>
+
+  <h2 class="section-titre" id="classement">Classement</h2>
   <div class="grille">
-    <div class="carte"><div class="carte-titre">Top artistes <span class="badge">TOP 15</span></div><div class="carte-corps"><div id="chart-artistes"></div></div></div>
-    <div class="carte"><div class="carte-titre">Top titres <span class="badge">TOP 15</span></div><div class="carte-corps"><div id="chart-titres"></div></div></div>
+    <div class="carte">
+      <div class="carte-titre">Top artistes <span class="badge">TOP 15</span></div>
+      <div class="carte-corps"><div id="chart-artistes"></div></div>
+    </div>
+    <div class="carte">
+      <div class="carte-titre">Top titres <span class="badge">TOP 15</span></div>
+      <div class="carte-corps"><div id="chart-titres"></div></div>
+    </div>
   </div>
 
-  <h2 class="section-titre">Répartition temporelle</h2>
+  <h2 class="section-titre" id="temporel">Répartition temporelle</h2>
   <div class="grille">
-    <div class="carte"><div class="carte-titre">Par heure</div><div class="carte-corps"><div id="chart-heures"></div></div></div>
-    <div class="carte"><div class="carte-titre">Par jour de la semaine</div><div class="carte-corps"><div id="chart-semaine"></div></div></div>
+    <div class="carte">
+      <div class="carte-titre">Par heure</div>
+      <div class="carte-corps"><div id="chart-heures"></div></div>
+    </div>
+    <div class="carte">
+      <div class="carte-titre">Par jour de la semaine</div>
+      <div class="carte-corps"><div id="chart-semaine"></div></div>
+    </div>
   </div>
-  <div class="carte" style="margin-bottom:16px;"><div class="carte-titre">Évolution journalière</div><div class="carte-corps"><div id="chart-jours"></div></div></div>
 
-  <h2 class="section-titre">Analyses</h2>
+  <div class="carte" style="margin-bottom:16px;">
+    <div class="carte-titre">Évolution journalière</div>
+    <div class="carte-corps"><div id="chart-jours"></div></div>
+  </div>
+
+  <h2 class="section-titre" id="analyses">Analyses</h2>
   <div class="grille-3">
-    <div class="carte"><div class="carte-titre">Par année</div><div class="carte-corps"><div id="chart-annees"></div></div></div>
-    <div class="carte"><div class="carte-titre">Explicit vs Clean</div><div class="carte-corps"><div id="chart-explicit"></div></div></div>
-    <div class="carte"><div class="carte-titre">Top albums</div><div class="carte-corps"><div id="table-albums"></div></div></div>
+    <div class="carte">
+      <div class="carte-titre">Par année</div>
+      <div class="carte-corps"><div id="chart-annees"></div></div>
+    </div>
+    <div class="carte">
+      <div class="carte-titre">Explicit vs Clean</div>
+      <div class="carte-corps"><div id="chart-explicit"></div></div>
+    </div>
+    <div class="carte">
+      <div class="carte-titre">Top albums</div>
+      <div class="carte-corps"><div id="table-albums"></div></div>
+    </div>
   </div>
 
-  <h2 class="section-titre">Détails</h2>
+  <h2 class="section-titre" id="details">Détails</h2>
   <div class="grille">
-    <div class="carte"><div class="carte-titre">Artistes récurrents</div><div class="carte-corps"><div id="table-recurrents"></div></div></div>
-    <div class="carte"><div class="carte-titre">Titres récurrents</div><div class="carte-corps"><div id="table-titres-rec"></div></div></div>
+    <div class="carte">
+      <div class="carte-titre">Artistes récurrents <span class="badge">CLIQUABLE</span></div>
+      <div class="carte-corps"><div id="table-recurrents"></div></div>
+    </div>
+    <div class="carte">
+      <div class="carte-titre">Titres récurrents</div>
+      <div class="carte-corps"><div id="table-titres-rec"></div></div>
+    </div>
   </div>
+
   <div class="grille">
-    <div class="carte"><div class="carte-titre">Artistes diversifiés</div><div class="carte-corps"><div id="table-diversif"></div></div></div>
-    <div class="carte"><div class="carte-titre">Émissions</div><div class="carte-corps"><div id="table-emissions"></div></div></div>
+    <div class="carte">
+      <div class="carte-titre">Artistes diversifiés <span class="badge">CLIQUABLE</span></div>
+      <div class="carte-corps"><div id="table-diversif"></div></div>
+    </div>
+    <div class="carte">
+      <div class="carte-titre">Émissions</div>
+      <div class="carte-corps"><div id="table-emissions"></div></div>
+    </div>
   </div>
+
 </div>
 
 <footer>
   <strong>SKYROCK MONITOR</strong> · Données skyrock.fm · Deezer · v3.0
 </footer>
 
-<script>
-const SEUIL_VIEUX = 300;
-const AUTO_REFRESH = 120000; // 2 min
-let DERNIER_TS = 0, DERNIER_DUREE = 0;
+<div class="modale" id="modale" onclick="if(event.target===this) fermerModale()">
+  <div class="modale-contenu">
+    <div class="modale-header">
+      <div class="modale-titre" id="modale-titre">—</div>
+      <button class="modale-close" onclick="fermerModale()">×</button>
+    </div>
+    <div id="modale-corps"></div>
+  </div>
+</div>
 
+<script>
+// ============================================================
+// CONFIG
+// ============================================================
+const SEUIL_VIEUX = 300;
+const AUTO_REFRESH = 120000;
+
+// ============================================================
+// VARIABLES
+// ============================================================
+let ARTISTES_INDEX = {};
+let DERNIER_TS = 0;
+let DERNIER_DUREE = 0;
+
+// ============================================================
+// CHARGEMENT
+// ============================================================
 async function charger() {
+  const btn = document.getElementById('refresh-btn');
+  if (btn) { btn.classList.add('spin'); setTimeout(() => btn.classList.remove('spin'), 600); }
+
   const etat = document.getElementById('etat');
   try {
     const rep = await fetch(`data.json?t=${Date.now()}`);
@@ -427,15 +626,17 @@ async function charger() {
   } catch (e) {
     etat.className = 'erreur';
     etat.textContent = 'Erreur : ' + e.message;
+    console.error(e);
   }
 }
 
+// ============================================================
+// ON AIR
+// ============================================================
 function chargerOnAir(r) {
-  if (!r || !r.titre) {
-    document.getElementById('on-air').style.display = 'none';
-    return;
-  }
   const bloc = document.getElementById('on-air');
+  if (!r || !r.titre) { bloc.style.display = 'none'; return; }
+
   const maintenant = Math.floor(Date.now() / 1000);
   const debut = Number(r.start_ts) || 0;
   const age = maintenant - debut;
@@ -471,6 +672,7 @@ function chargerOnAir(r) {
 
 function majCompteur() {
   const el = document.getElementById('countdown');
+  if (!el) return;
   if (!DERNIER_TS) { el.textContent = '--:--'; return; }
   const sec = Math.floor(Date.now() / 1000) - DERNIER_TS;
   if (sec > SEUIL_VIEUX || (DERNIER_DUREE > 0 && sec >= DERNIER_DUREE)) {
@@ -483,8 +685,60 @@ function majCompteur() {
 }
 setInterval(majCompteur, 1000);
 
+// ============================================================
+// MODALE
+// ============================================================
+function ouvrirModaleArtiste(artiste) {
+  const morceaux = ARTISTES_INDEX[artiste] || [];
+  document.getElementById('modale-titre').textContent = artiste;
+  const corps = document.getElementById('modale-corps');
+  if (!morceaux.length) {
+    corps.innerHTML = '<div class="vide">Aucun morceau enregistré</div>';
+  } else {
+    corps.innerHTML = morceaux.map(m => `
+      <div class="artiste-morceau">
+        <div class="pochette" style="${m.cover_deezer ? `background-image:url('${m.cover_deezer}')` : ''}"></div>
+        <div class="infos">
+          <div class="titre-m">${m.titre || '—'}</div>
+          <div class="meta-m">${m.album || ''} ${m.annee ? '· ' + m.annee : ''}</div>
+        </div>
+        <div class="heure-m">${m.heure != null ? m.heure + 'h' : ''}</div>
+      </div>
+    `).join('');
+  }
+  document.getElementById('modale').classList.add('visible');
+}
+
+function fermerModale() {
+  document.getElementById('modale').classList.remove('visible');
+}
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') fermerModale();
+});
+
+// ============================================================
+// CONSTRUCTION
+// ============================================================
 function construire(d) {
   const vide = '<div class="vide">Pas encore de données</div>';
+
+  // Index pour la modale
+  ARTISTES_INDEX = {};
+  if (d.top_artistes) {
+    d.top_artistes.forEach(a => {
+      if (a.artistes) ARTISTES_INDEX[a.artistes] = [];
+    });
+  }
+  if (d.top_titres) {
+    d.top_titres.forEach(t => {
+      if (t.artistes) {
+        if (!ARTISTES_INDEX[t.artistes]) ARTISTES_INDEX[t.artistes] = [];
+        ARTISTES_INDEX[t.artistes].push(t);
+      }
+    });
+  }
+
+  // KPI
   const vol = d.volume || {};
   const kpis = [
     ['Diffusions', vol.nb_diffusions ?? 0],
@@ -497,6 +751,7 @@ function construire(d) {
     `<div class="kpi"><div class="kpi-label">${l}</div><div class="kpi-value">${v}</div></div>`
   ).join('');
 
+  // Plotly
   const layout = {
     paper_bgcolor: '#fff', plot_bgcolor: '#fff',
     font: { color: '#111', size: 11, family: 'Helvetica Neue, Arial' },
@@ -514,6 +769,7 @@ function construire(d) {
       x: a.map(r => r.minutes_antenne || r.nb_diffusions),
       y: a.map(r => r.artistes),
       marker: { color: RED },
+      hovertemplate: '<b>%{y}</b><br>%{x} min<extra></extra>',
     }], { ...layout, yaxis: { autorange: 'reversed' } }, opts);
   } else document.getElementById('chart-artistes').innerHTML = vide;
 
@@ -524,6 +780,7 @@ function construire(d) {
       x: t.map(r => r.nb_diffusions),
       y: t.map(r => `${r.artistes} – ${r.titre}`.slice(0, 40)),
       marker: { color: BLACK },
+      hovertemplate: '<b>%{y}</b><br>%{x} diffusions<extra></extra>',
     }], { ...layout, yaxis: { autorange: 'reversed' } }, opts);
   } else document.getElementById('chart-titres').innerHTML = vide;
 
@@ -566,31 +823,50 @@ function construire(d) {
     }], { ...layout, margin: { l: 20, r: 20, t: 10, b: 20 } }, opts);
   } else document.getElementById('chart-explicit').innerHTML = vide;
 
+  // Tableaux
   rendreTable('table-albums', d.albums, [
-    { c: 'album', t: 'Album' }, { c: 'artistes', t: 'Artiste' }, { c: 'nb_diffusions', t: 'Diff.' }
-  ], vide);
+    { c: 'album', t: 'Album' },
+    { c: 'artistes', t: 'Artiste' },
+    { c: 'nb_diffusions', t: 'Diff.' }
+  ], vide, false);
+
   rendreTable('table-recurrents', d.recurrents, [
-    { c: 'artistes', t: 'Artiste' }, { c: 'nb_jours', t: 'Jours' }, { c: 'nb_diffusions', t: 'Diff.' }
-  ], vide);
+    { c: 'artistes', t: 'Artiste' },
+    { c: 'nb_jours', t: 'Jours' },
+    { c: 'nb_diffusions', t: 'Diff.' }
+  ], vide, true);
+
   rendreTable('table-titres-rec', d.titres_recurrents, [
-    { c: 'artistes', t: 'Artiste' }, { c: 'titre', t: 'Titre' }, { c: 'nb_jours', t: 'Jours' }
-  ], vide);
+    { c: 'artistes', t: 'Artiste' },
+    { c: 'titre', t: 'Titre' },
+    { c: 'nb_jours', t: 'Jours' }
+  ], vide, false);
+
   rendreTable('table-diversif', d.diversifies, [
-    { c: 'artistes', t: 'Artiste' }, { c: 'nb_titres_differents', t: 'Titres' }, { c: 'nb_diffusions', t: 'Diff.' }
-  ], vide);
+    { c: 'artistes', t: 'Artiste' },
+    { c: 'nb_titres_differents', t: 'Titres' },
+    { c: 'nb_diffusions', t: 'Diff.' }
+  ], vide, true);
+
   rendreTable('table-emissions', d.emissions, [
-    { c: 'titre', t: 'Émission' }, { c: 'animateurs', t: 'Animateurs' }, { c: 'nb_passages', t: 'Passages' }
-  ], vide);
+    { c: 'titre', t: 'Émission' },
+    { c: 'animateurs', t: 'Animateurs' },
+    { c: 'nb_passages', t: 'Passages' }
+  ], vide, false);
 }
 
-function rendreTable(id, rows, cols, vide) {
+function rendreTable(id, rows, cols, vide, cliquable) {
   const cible = document.getElementById(id);
   if (!rows || !rows.length) { cible.innerHTML = vide; return; }
   let html = '<table><thead><tr>';
   for (const c of cols) html += `<th>${c.t}</th>`;
   html += '</tr></thead><tbody>';
   rows.forEach((r, i) => {
-    html += '<tr>';
+    const artiste = r.artistes || r.titre || '';
+    const onclick = cliquable && artiste
+      ? `onclick="ouvrirModaleArtiste('${artiste.replace(/'/g, "\\'")}')"`
+      : '';
+    html += `<tr ${onclick}>`;
     cols.forEach((c, j) => {
       let v = r[c.c] ?? '';
       if (j === 0 && typeof v === 'string' && cols.length > 1) {
@@ -604,6 +880,7 @@ function rendreTable(id, rows, cols, vide) {
   cible.innerHTML = html + '</tbody></table>';
 }
 
+// Lancer
 charger();
 setInterval(charger, AUTO_REFRESH);
 </script>
