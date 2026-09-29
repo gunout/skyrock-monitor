@@ -32,12 +32,14 @@ jobs:
       - name: Installer dépendances
         run: pip install requests pandas
 
-      - name: Collecter (1 passe)
+      - name: Collecter (2 passes)
         run: |
           python3 -c "
-          import sys
+          import sys, time
           sys.path.insert(0, '.')
           from collecteur import test_unique
+          test_unique()
+          time.sleep(30)
           test_unique()
           " || echo "Collecte échouée, on continue"
 
