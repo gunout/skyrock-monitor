@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-09-29T01:37:08.045034",
-  "genere_ts": 1790645828,
+  "genere_le": "2026-09-29T06:15:34.994889",
+  "genere_ts": 1790662534,
   "volume": {
-    "nb_diffusions": 63,
+    "nb_diffusions": 66,
     "nb_artistes": 40,
     "nb_titres": 43,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-09-29",
-    "heures_antenne": 3.04,
-    "duree_moy_s": 173.7
+    "heures_antenne": 3.17,
+    "duree_moy_s": 173.0
   },
   "top_artistes": [
     {
@@ -30,6 +30,12 @@
       "minutes_antenne": 10.1
     },
     {
+      "artistes": "GIMS",
+      "nb_diffusions": 3,
+      "titres_differents": 1,
+      "minutes_antenne": 9.0
+    },
+    {
       "artistes": "Guy2bezbar",
       "nb_diffusions": 3,
       "titres_differents": 2,
@@ -48,6 +54,12 @@
       "minutes_antenne": 7.3
     },
     {
+      "artistes": "Timal",
+      "nb_diffusions": 3,
+      "titres_differents": 1,
+      "minutes_antenne": 6.9
+    },
+    {
       "artistes": "Slimane",
       "nb_diffusions": 2,
       "titres_differents": 1,
@@ -58,12 +70,6 @@
       "nb_diffusions": 2,
       "titres_differents": 1,
       "minutes_antenne": 6.1
-    },
-    {
-      "artistes": "GIMS",
-      "nb_diffusions": 2,
-      "titres_differents": 1,
-      "minutes_antenne": 5.9
     },
     {
       "artistes": "disiz",
@@ -96,6 +102,12 @@
       "minutes_antenne": 5.1
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 2,
+      "titres_differents": 1,
+      "minutes_antenne": 4.9
+    },
+    {
       "artistes": "Lagui",
       "nb_diffusions": 2,
       "titres_differents": 1,
@@ -108,12 +120,6 @@
       "minutes_antenne": 4.5
     },
     {
-      "artistes": "Timal",
-      "nb_diffusions": 2,
-      "titres_differents": 1,
-      "minutes_antenne": 4.4
-    },
-    {
       "artistes": "Eminem",
       "nb_diffusions": 1,
       "titres_differents": 1,
@@ -124,12 +130,6 @@
       "nb_diffusions": 1,
       "titres_differents": 1,
       "minutes_antenne": 4.2
-    },
-    {
-      "artistes": "Arcade Player",
-      "nb_diffusions": 1,
-      "titres_differents": 1,
-      "minutes_antenne": 3.9
     }
   ],
   "top_titres": [
@@ -140,10 +140,22 @@
       "minutes_antenne": 10.5
     },
     {
+      "artistes": "GIMS",
+      "titre": "VIVE LA MONNAIE",
+      "nb_diffusions": 3,
+      "minutes_antenne": 9.0
+    },
+    {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_diffusions": 3,
       "minutes_antenne": 7.5
+    },
+    {
+      "artistes": "Timal",
+      "titre": "Sicario",
+      "nb_diffusions": 3,
+      "minutes_antenne": 6.9
     },
     {
       "artistes": "Aya Nakamura",
@@ -170,10 +182,10 @@
       "minutes_antenne": 5.6
     },
     {
-      "artistes": "GIMS",
-      "titre": "VIVE LA MONNAIE",
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
       "nb_diffusions": 2,
-      "minutes_antenne": 5.9
+      "minutes_antenne": 4.9
     },
     {
       "artistes": "Groove Crackers",
@@ -218,12 +230,6 @@
       "minutes_antenne": 6.7
     },
     {
-      "artistes": "Timal",
-      "titre": "Sicario",
-      "nb_diffusions": 2,
-      "minutes_antenne": 4.4
-    },
-    {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_diffusions": 2,
@@ -246,12 +252,6 @@
       "titre": "Ramenez la coupe à la maison (16-Bit Vegedream Emulation)",
       "nb_diffusions": 1,
       "minutes_antenne": 3.9
-    },
-    {
-      "artistes": "Ariana Grande",
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "nb_diffusions": 1,
-      "minutes_antenne": 3.2
     }
   ],
   "heures": [
@@ -276,6 +276,14 @@
       "nb_diffusions": 6
     },
     {
+      "heure": 5,
+      "nb_diffusions": 5
+    },
+    {
+      "heure": 6,
+      "nb_diffusions": 1
+    },
+    {
       "heure": 21,
       "nb_diffusions": 3
     },
@@ -296,8 +304,8 @@
     },
     {
       "date": "2026-09-29",
-      "nb_diffusions": 63,
-      "titres_differents": 46
+      "nb_diffusions": 69,
+      "titres_differents": 47
     }
   ],
   "semaine": [
@@ -307,7 +315,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 63
+      "nb_diffusions": 69
     }
   ],
   "recurrents": [
@@ -400,7 +408,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 35
+      "nb_diffusions": 37
     },
     {
       "annee": 2025,
@@ -408,7 +416,7 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     },
     {
       "annee": 2022,
@@ -442,11 +450,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 32
+      "nb": 33
     },
     {
       "type_contenu": "Explicit",
-      "nb": 29
+      "nb": 31
     }
   ],
   "albums": [
@@ -456,6 +464,16 @@
       "nb_diffusions": 4
     },
     {
+      "album": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "nb_diffusions": 3
+    },
+    {
+      "album": "Sicario",
+      "artistes": "Timal",
+      "nb_diffusions": 3
+    },
+    {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
       "nb_diffusions": 3
@@ -463,16 +481,6 @@
     {
       "album": "melodrama",
       "artistes": "disiz",
-      "nb_diffusions": 2
-    },
-    {
-      "album": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "nb_diffusions": 2
-    },
-    {
-      "album": "Sicario",
-      "artistes": "Timal",
       "nb_diffusions": 2
     },
     {
@@ -493,6 +501,11 @@
     {
       "album": "MADE",
       "artistes": "BIGBANG",
+      "nb_diffusions": 2
+    },
+    {
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 2
     },
     {
@@ -544,27 +557,100 @@
       "album": "hate that i made you love me",
       "artistes": "Ariana Grande",
       "nb_diffusions": 1
-    },
-    {
-      "album": "WpointM",
-      "artistes": "Tiakola",
-      "nb_diffusions": 1
     }
   ],
   "dernier_morceau": {
-    "titre": "melodrama",
-    "artistes": "disiz",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1790646726~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=557995ec72028484f718d7a46c3097a8c7e31b9c4ab5bbf83565c80776ac2f1d",
+    "titre": "Maladie",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+    "preview_mp3": null,
     "date": "2026-09-29",
-    "heure": 1,
-    "album": "melodrama",
-    "annee": 2025,
-    "start_ts": 1790645745,
-    "end_ts": 1790645919
+    "heure": 6,
+    "album": null,
+    "annee": null,
+    "start_ts": 1790661673,
+    "end_ts": 1790661794
   },
   "derniers_morceaux": [
+    {
+      "titre": "Maladie",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-09-29",
+      "heure": 6,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790661673,
+      "end_ts": 1790661794
+    },
+    {
+      "titre": "Rockabye",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/27/SKYC.8277433708403328727.12.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-09-29",
+      "heure": 5,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790660916,
+      "end_ts": 1790661106
+    },
+    {
+      "titre": "Rockabye",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://skyrock.fm/resources/webradios/default_pochette_600.jpg",
+      "preview_mp3": null,
+      "date": "2026-09-29",
+      "heure": 5,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790660666,
+      "end_ts": 1790660856
+    },
+    {
+      "titre": "Sicario",
+      "artistes": "Timal",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1790663431~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=c3f51b71ca6c3bfd2e48b95c8df9405f83f220ed27249e5afafe5003f3609246",
+      "date": "2026-09-29",
+      "heure": 5,
+      "album": "Sicario",
+      "annee": 2026,
+      "start_ts": 1790660507,
+      "end_ts": 1790660654
+    },
+    {
+      "titre": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1790663432~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=28d29fec89ebbcd904c2067d0da1b771caf8572f6db94893c55fe73adce26298",
+      "date": "2026-09-29",
+      "heure": 5,
+      "album": "La petasse",
+      "annee": 2024,
+      "start_ts": 1790659388,
+      "end_ts": 1790659534
+    },
+    {
+      "titre": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1790663433~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=c56fb6f3329222da597f330ea8dd4106da180b993a2eed528caf5c4c3bf8bb5c",
+      "date": "2026-09-29",
+      "heure": 5,
+      "album": "VIVE LA MONNAIE",
+      "annee": 2026,
+      "start_ts": 1790658868,
+      "end_ts": 1790659054
+    },
     {
       "titre": "melodrama",
       "artistes": "disiz",
@@ -616,84 +702,6 @@
       "annee": 2025,
       "start_ts": 1790645223,
       "end_ts": 1790645405
-    },
-    {
-      "titre": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1790646297~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=b387fc5936e27400cd09c6ca92dc98e125a8ef69acd72bbe1009d6e40fbe9a33",
-      "date": "2026-09-29",
-      "heure": 1,
-      "album": "VIVE LA MONNAIE",
-      "annee": 2026,
-      "start_ts": 1790645045,
-      "end_ts": 1790645223
-    },
-    {
-      "titre": "I Know What You Want",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.226392134671957425.8.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-09-29",
-      "heure": 1,
-      "album": null,
-      "annee": null,
-      "start_ts": 1790644771,
-      "end_ts": 1790645051
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1790646298~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=6e0f1bd84f6e55cf13eeb2001bb4699310196627d87c0ba31d2297b61bba0dcc",
-      "date": "2026-09-29",
-      "heure": 1,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1790644620,
-      "end_ts": 1790644771
-    },
-    {
-      "titre": "Cote à la hausse",
-      "artistes": "Bouss",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1790646299~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=6fdd296c483e12deb847ef533cb0ab338507bf0d71223d652790e215f1ce9c59",
-      "date": "2026-09-29",
-      "heure": 1,
-      "album": "Et si j'échoue ??",
-      "annee": 2025,
-      "start_ts": 1790644452,
-      "end_ts": 1790644620
-    },
-    {
-      "titre": "Players",
-      "artistes": "Groove Crackers",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/bfd04406cc7d3a3054c4c838dca40107/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.2748741840121188716.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/5/0/b35be75fa8c33e145e12ca636e406e34.mp3?hdnea=exp=1790646300~acl=/api/1/1/b/3/5/0/b35be75fa8c33e145e12ca636e406e34.mp3*~data=user_id=0,application_id=42~hmac=99f17a6aa52ab9cea6611c13bb1ee5a24187b7358810bd8af3577ef11b034731",
-      "date": "2026-09-29",
-      "heure": 1,
-      "album": "Players",
-      "annee": 2024,
-      "start_ts": 1790644447,
-      "end_ts": 1790644583
-    },
-    {
-      "titre": "Je pense à toi",
-      "artistes": "Guy2bezbar",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f650339f6ac5227a8702147af20fa70a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.1607869065038250617.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3?hdnea=exp=1790645295~acl=/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3*~data=user_id=0,application_id=42~hmac=243ddd9f444cc31ed1af86adf0163378955c5047a1bedf2b58ee942000dbc5d5",
-      "date": "2026-09-29",
-      "heure": 1,
-      "album": "Jeunesse Dorée",
-      "annee": 2025,
-      "start_ts": 1790644253,
-      "end_ts": 1790644423
     }
   ]
 }
