@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-09-29T01:30:34.070377",
-  "genere_ts": 1790645434,
+  "genere_le": "2026-09-29T01:37:08.045034",
+  "genere_ts": 1790645828,
   "volume": {
-    "nb_diffusions": 62,
+    "nb_diffusions": 63,
     "nb_artistes": 40,
     "nb_titres": 43,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-09-29",
-    "heures_antenne": 2.99,
+    "heures_antenne": 3.04,
     "duree_moy_s": 173.7
   },
   "top_artistes": [
@@ -64,6 +64,12 @@
       "nb_diffusions": 2,
       "titres_differents": 1,
       "minutes_antenne": 5.9
+    },
+    {
+      "artistes": "disiz",
+      "nb_diffusions": 2,
+      "titres_differents": 1,
+      "minutes_antenne": 5.8
     },
     {
       "artistes": "Bouss",
@@ -124,12 +130,6 @@
       "nb_diffusions": 1,
       "titres_differents": 1,
       "minutes_antenne": 3.9
-    },
-    {
-      "artistes": "Will Smith",
-      "nb_diffusions": 1,
-      "titres_differents": 1,
-      "minutes_antenne": 3.7
     }
   ],
   "top_titres": [
@@ -230,6 +230,12 @@
       "minutes_antenne": 5.5
     },
     {
+      "artistes": "disiz",
+      "titre": "melodrama",
+      "nb_diffusions": 2,
+      "minutes_antenne": 5.8
+    },
+    {
       "artistes": "Adèle Castillon",
       "titre": "Été avec toi",
       "nb_diffusions": 1,
@@ -246,12 +252,6 @@
       "titre": "hate that i made you love me (ari lyric draft from bed)",
       "nb_diffusions": 1,
       "minutes_antenne": 3.2
-    },
-    {
-      "artistes": "Beyoncé",
-      "titre": "Naughty Girl",
-      "nb_diffusions": 1,
-      "minutes_antenne": 3.4
     }
   ],
   "heures": [
@@ -261,7 +261,7 @@
     },
     {
       "heure": 1,
-      "nb_diffusions": 13
+      "nb_diffusions": 15
     },
     {
       "heure": 2,
@@ -296,7 +296,7 @@
     },
     {
       "date": "2026-09-29",
-      "nb_diffusions": 61,
+      "nb_diffusions": 63,
       "titres_differents": 46
     }
   ],
@@ -307,7 +307,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 61
+      "nb_diffusions": 63
     }
   ],
   "recurrents": [
@@ -404,7 +404,7 @@
     },
     {
       "annee": 2025,
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "annee": 2024,
@@ -442,7 +442,7 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 31
+      "nb": 32
     },
     {
       "type_contenu": "Explicit",
@@ -459,6 +459,11 @@
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
       "nb_diffusions": 3
+    },
+    {
+      "album": "melodrama",
+      "artistes": "disiz",
+      "nb_diffusions": 2
     },
     {
       "album": "VIVE LA MONNAIE",
@@ -536,11 +541,6 @@
       "nb_diffusions": 1
     },
     {
-      "album": "melodrama",
-      "artistes": "disiz",
-      "nb_diffusions": 1
-    },
-    {
       "album": "hate that i made you love me",
       "artistes": "Ariana Grande",
       "nb_diffusions": 1
@@ -552,19 +552,45 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Pineapple",
-    "artistes": "Leto",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1790646332~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=37b4ebe18e2d8dc81fb5239e056e85be19afe19c00405cfb1e3ac88b6bb2d8f9",
+    "titre": "melodrama",
+    "artistes": "disiz",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1790646726~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=557995ec72028484f718d7a46c3097a8c7e31b9c4ab5bbf83565c80776ac2f1d",
     "date": "2026-09-29",
     "heure": 1,
-    "album": "Pineapple",
-    "annee": 2026,
-    "start_ts": 1790645404,
-    "end_ts": 1790645561
+    "album": "melodrama",
+    "annee": 2025,
+    "start_ts": 1790645745,
+    "end_ts": 1790645919
   },
   "derniers_morceaux": [
+    {
+      "titre": "melodrama",
+      "artistes": "disiz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1790646726~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=557995ec72028484f718d7a46c3097a8c7e31b9c4ab5bbf83565c80776ac2f1d",
+      "date": "2026-09-29",
+      "heure": 1,
+      "album": "melodrama",
+      "annee": 2025,
+      "start_ts": 1790645745,
+      "end_ts": 1790645919
+    },
+    {
+      "titre": "Baraque au Bled",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/13/SKYC.252558941252410713.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-09-29",
+      "heure": 1,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790645561,
+      "end_ts": 1790645747
+    },
     {
       "titre": "Pineapple",
       "artistes": "Leto",
@@ -668,32 +694,6 @@
       "annee": 2025,
       "start_ts": 1790644253,
       "end_ts": 1790644423
-    },
-    {
-      "titre": "Players",
-      "artistes": "Groove Crackers",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/bfd04406cc7d3a3054c4c838dca40107/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.2748741840121188716.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/5/0/b35be75fa8c33e145e12ca636e406e34.mp3?hdnea=exp=1790645296~acl=/api/1/1/b/3/5/0/b35be75fa8c33e145e12ca636e406e34.mp3*~data=user_id=0,application_id=42~hmac=91d7e07f364df90098d903f89e05712b9ca2856a1333912b132502b32178404b",
-      "date": "2026-09-29",
-      "heure": 1,
-      "album": "Players",
-      "annee": 2024,
-      "start_ts": 1790644109,
-      "end_ts": 1790644245
-    },
-    {
-      "titre": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.2090592626626782774.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1790645297~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=54ab503d3064f9166c6e1abacf2c60158d4d301cb27d0a48c143c5d0b5a61d54",
-      "date": "2026-09-29",
-      "heure": 1,
-      "album": "Dracula (with JENNIE)",
-      "annee": 2026,
-      "start_ts": 1790643910,
-      "end_ts": 1790644111
     }
   ]
 }
