@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-09-29T00:50:28.533797",
-  "genere_ts": 1790643028,
+  "genere_le": "2026-09-29T00:55:39.635987",
+  "genere_ts": 1790643339,
   "volume": {
-    "nb_diffusions": 49,
+    "nb_diffusions": 50,
     "nb_artistes": 38,
     "nb_titres": 41,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-09-29",
-    "heures_antenne": 2.4,
-    "duree_moy_s": 176.1
+    "heures_antenne": 2.44,
+    "duree_moy_s": 175.9
   },
   "top_artistes": [
     {
@@ -40,6 +40,12 @@
       "nb_diffusions": 2,
       "titres_differents": 1,
       "minutes_antenne": 6.2
+    },
+    {
+      "artistes": "Vacra",
+      "nb_diffusions": 2,
+      "titres_differents": 1,
+      "minutes_antenne": 5.5
     },
     {
       "artistes": "PLK",
@@ -124,12 +130,6 @@
       "nb_diffusions": 1,
       "titres_differents": 1,
       "minutes_antenne": 3.2
-    },
-    {
-      "artistes": "Teddy Swims",
-      "nb_diffusions": 1,
-      "titres_differents": 1,
-      "minutes_antenne": 3.2
     }
   ],
   "top_titres": [
@@ -174,6 +174,12 @@
       "titre": "Sicario",
       "nb_diffusions": 2,
       "minutes_antenne": 4.4
+    },
+    {
+      "artistes": "Vacra",
+      "titre": "Fille à Papa",
+      "nb_diffusions": 2,
+      "minutes_antenne": 5.5
     },
     {
       "artistes": "Adèle Castillon",
@@ -246,18 +252,12 @@
       "titre": "Je pense à toi",
       "nb_diffusions": 1,
       "minutes_antenne": 2.8
-    },
-    {
-      "artistes": "Guy2bezbar",
-      "titre": "Wagyu du Jap'",
-      "nb_diffusions": 1,
-      "minutes_antenne": 1.9
     }
   ],
   "heures": [
     {
       "heure": 0,
-      "nb_diffusions": 7
+      "nb_diffusions": 8
     },
     {
       "heure": 1,
@@ -296,7 +296,7 @@
     },
     {
       "date": "2026-09-29",
-      "nb_diffusions": 47,
+      "nb_diffusions": 48,
       "titres_differents": 43
     }
   ],
@@ -307,7 +307,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 47
+      "nb_diffusions": 48
     }
   ],
   "recurrents": [
@@ -400,7 +400,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 27
+      "nb_diffusions": 28
     },
     {
       "annee": 2025,
@@ -446,7 +446,7 @@
     },
     {
       "type_contenu": "Explicit",
-      "nb": 23
+      "nb": 24
     }
   ],
   "albums": [
@@ -473,6 +473,11 @@
     {
       "album": "Grand Garçon",
       "artistes": "PLK",
+      "nb_diffusions": 2
+    },
+    {
+      "album": "Fille à Papa",
+      "artistes": "Vacra",
       "nb_diffusions": 2
     },
     {
@@ -544,27 +549,35 @@
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
       "nb_diffusions": 1
-    },
-    {
-      "album": "Multitude",
-      "artistes": "Stromae",
-      "nb_diffusions": 1
     }
   ],
   "dernier_morceau": {
-    "titre": "Dangerous",
-    "artistes": null,
-    "cover_deezer": null,
-    "cover_uri": "https://media.skyrock.fm/covers/40/SKYC.3552366125640845940.14.0.jpg",
-    "preview_mp3": null,
+    "titre": "Fille à Papa",
+    "artistes": "Vacra",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1790644238~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=2c7cbbfb2711bf6f94e0c7d50a224b9c4bda0afec890d39479c766eb1227428d",
     "date": "2026-09-29",
     "heure": 0,
-    "album": null,
-    "annee": null,
-    "start_ts": 1790642962,
-    "end_ts": 1790643229
+    "album": "Fille à Papa",
+    "annee": 2026,
+    "start_ts": 1790643225,
+    "end_ts": 1790643391
   },
   "derniers_morceaux": [
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1790644238~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=2c7cbbfb2711bf6f94e0c7d50a224b9c4bda0afec890d39479c766eb1227428d",
+      "date": "2026-09-29",
+      "heure": 0,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1790643225,
+      "end_ts": 1790643391
+    },
     {
       "titre": "Dangerous",
       "artistes": null,
@@ -681,19 +694,6 @@
       "annee": 2026,
       "start_ts": 1790640595,
       "end_ts": 1790640726
-    },
-    {
-      "titre": "Lovin On Me",
-      "artistes": "midnight Berlin",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/8db156e1ddb6e85920501ed6b5aecd7c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/28/SKYC.1443037276162752128.18.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/7/0/d371f07147b5adbf649a16654ef34865.mp3?hdnea=exp=1790641361~acl=/api/1/1/d/3/7/0/d371f07147b5adbf649a16654ef34865.mp3*~data=user_id=0,application_id=42~hmac=456f273ac73c2bf0f5e8d1ebccf4e5b6a70540463f76519a302d28b02c2f0a87",
-      "date": "2026-09-29",
-      "heure": 4,
-      "album": "Lovin On Me",
-      "annee": 2024,
-      "start_ts": 1790640458,
-      "end_ts": 1790640594
     }
   ]
 }
