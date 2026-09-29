@@ -16,18 +16,15 @@
     --sky-border: #e0e0e0;
     --sky-text: #111111;
     --sky-muted: #666666;
-    --sky-white: #ffffff;
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html, body {
-    background: var(--sky-white);
+    background: #fff;
     color: var(--sky-text);
-    font-family: 'Helvetica Neue', 'Roboto Condensed', Arial, sans-serif;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     min-height: 100vh;
     font-size: 14px;
   }
-
-  /* ============ BANDEAU HAUT ============ */
   .topbar {
     background: var(--sky-black);
     color: #fff;
@@ -40,12 +37,7 @@
     letter-spacing: 1px;
     text-transform: uppercase;
   }
-  .topbar .live {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    color: #fff;
-  }
+  .topbar .live { display: inline-flex; align-items: center; gap: 8px; }
   .topbar .live::before {
     content: '';
     width: 8px; height: 8px;
@@ -58,10 +50,8 @@
     50% { opacity: 0.3; }
   }
   .topbar .meta { color: #999; font-size: 10px; }
-
-  /* ============ HEADER ============ */
   .header {
-    background: var(--sky-white);
+    background: #fff;
     padding: 20px 24px;
     border-bottom: 3px solid var(--sky-black);
     display: flex;
@@ -85,13 +75,10 @@
     padding-left: 20px;
     font-weight: 700;
   }
-
-  /* ============ NAV ============ */
   .nav {
     background: var(--sky-black);
     padding: 0 24px;
     display: flex;
-    gap: 0;
     overflow-x: auto;
   }
   .nav a {
@@ -106,12 +93,7 @@
     border-bottom: 3px solid transparent;
     transition: all 0.15s;
   }
-  .nav a:hover {
-    background: var(--sky-red);
-    border-bottom-color: #fff;
-  }
-
-  /* ============ ÉTAT ============ */
+  .nav a:hover { background: var(--sky-red); border-bottom-color: #fff; }
   #etat {
     background: var(--sky-gray);
     border-left: 4px solid var(--sky-red);
@@ -123,29 +105,19 @@
     letter-spacing: 1px;
     font-weight: 600;
   }
-  #etat.erreur {
-    background: #ffe5e9;
-    border-left-color: var(--sky-red);
-    color: var(--sky-red-dark);
-  }
-
-  /* ============ ON AIR ============ */
+  #etat.erreur { background: #ffe5e9; color: var(--sky-red-dark); }
   .on-air {
     margin: 16px 24px 24px;
-    background: var(--sky-white);
+    background: #fff;
     border: 1px solid var(--sky-border);
     border-left: 6px solid var(--sky-red);
     padding: 20px;
     display: flex;
     align-items: center;
     gap: 20px;
-    position: relative;
     transition: all 0.3s;
   }
-  .on-air.stale {
-    border-left-color: var(--sky-muted);
-    opacity: 0.7;
-  }
+  .on-air.stale { border-left-color: var(--sky-muted); opacity: 0.7; }
   .on-air .cover {
     width: 100px; height: 100px;
     background: var(--sky-gray-2);
@@ -182,7 +154,6 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    letter-spacing: -0.5px;
     text-transform: uppercase;
   }
   .on-air .artiste {
@@ -202,20 +173,13 @@
     font-size: 11px;
     margin-top: 12px;
     padding: 6px 12px;
-    border: none;
     text-decoration: none;
-    transition: all 0.2s;
     text-transform: uppercase;
     letter-spacing: 1.5px;
     font-weight: 800;
   }
-  .on-air .extrait:hover {
-    background: var(--sky-red-dark);
-  }
-  .on-air .countdown {
-    text-align: right;
-    font-variant-numeric: tabular-nums;
-  }
+  .on-air .extrait:hover { background: var(--sky-red-dark); }
+  .on-air .countdown { text-align: right; font-variant-numeric: tabular-nums; }
   .on-air .countdown-label {
     color: var(--sky-muted);
     font-size: 10px;
@@ -228,11 +192,8 @@
     font-weight: 900;
     color: var(--sky-red);
     margin-top: 4px;
-    letter-spacing: -1px;
   }
   .on-air.stale .countdown-value { color: var(--sky-muted); }
-
-  /* ============ KPI ============ */
   .kpis {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -242,14 +203,12 @@
     margin: 0 24px 24px;
   }
   .kpi {
-    background: var(--sky-white);
+    background: #fff;
     padding: 20px;
     position: relative;
     transition: all 0.2s;
   }
-  .kpi:hover {
-    background: var(--sky-gray);
-  }
+  .kpi:hover { background: var(--sky-gray); }
   .kpi::before {
     content: '';
     position: absolute;
@@ -270,15 +229,8 @@
     color: var(--sky-black);
     margin-top: 6px;
     letter-spacing: -1.5px;
-    font-variant-numeric: tabular-nums;
   }
-
-  /* ============ CONTENEUR ============ */
-  .conteneur {
-    max-width: 1600px;
-    margin: 0 auto;
-    padding: 0 24px 60px;
-  }
+  .conteneur { max-width: 1600px; margin: 0 auto; padding: 0 24px 60px; }
   .section-titre {
     font-size: 14px;
     font-weight: 900;
@@ -290,8 +242,6 @@
     border-bottom: 3px solid var(--sky-black);
     display: inline-block;
   }
-
-  /* ============ GRILLES ============ */
   .grille {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
@@ -304,15 +254,9 @@
     gap: 16px;
     margin-bottom: 16px;
   }
-
-  /* ============ CARTES ============ */
   .carte {
-    background: var(--sky-white);
+    background: #fff;
     border: 1px solid var(--sky-border);
-    transition: all 0.2s;
-  }
-  .carte:hover {
-    border-color: var(--sky-black);
   }
   .carte-titre {
     padding: 12px 16px;
@@ -335,13 +279,7 @@
     letter-spacing: 1px;
   }
   .carte-corps { padding: 16px; }
-
-  /* ============ TABLEAUX ============ */
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 13px;
-  }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
   th, td {
     padding: 10px 12px;
     text-align: left;
@@ -355,30 +293,16 @@
     letter-spacing: 1.5px;
     background: var(--sky-dark);
   }
-  tr {
-    transition: all 0.15s;
-    cursor: pointer;
-  }
-  tr:hover {
-    background: var(--sky-gray);
-  }
-  td { color: var(--sky-text); font-weight: 500; }
+  tr { transition: all 0.15s; cursor: pointer; }
+  tr:hover { background: var(--sky-gray); }
   .rang {
     display: inline-block;
     width: 24px;
     text-align: center;
     font-weight: 900;
-    color: var(--sky-black);
     margin-right: 8px;
-    font-size: 13px;
   }
-  .rang.top3 {
-    background: var(--sky-red);
-    color: #fff;
-    padding: 2px 0;
-  }
-
-  /* ============ VIDE ============ */
+  .rang.top3 { background: var(--sky-red); color: #fff; padding: 2px 0; }
   .vide {
     color: var(--sky-muted);
     font-style: italic;
@@ -388,98 +312,6 @@
     text-transform: uppercase;
     letter-spacing: 1px;
   }
-
-  /* ============ MODALE ============ */
-  .modale {
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.75);
-    display: none;
-    align-items: center;
-    justify-content: center;
-    z-index: 1000;
-    padding: 24px;
-  }
-  .modale.visible { display: flex; }
-  .modale-contenu {
-    background: var(--sky-white);
-    border-top: 6px solid var(--sky-red);
-    padding: 32px;
-    max-width: 700px;
-    max-height: 80vh;
-    overflow-y: auto;
-    width: 100%;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.5);
-  }
-  .modale-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 20px;
-    padding-bottom: 16px;
-    border-bottom: 3px solid var(--sky-black);
-  }
-  .modale-titre {
-    font-size: 24px;
-    font-weight: 900;
-    color: var(--sky-black);
-    text-transform: uppercase;
-    letter-spacing: -0.5px;
-  }
-  .modale-close {
-    background: var(--sky-black);
-    border: none;
-    color: #fff;
-    width: 32px; height: 32px;
-    cursor: pointer;
-    font-size: 18px;
-    font-weight: 900;
-    transition: all 0.2s;
-  }
-  .modale-close:hover {
-    background: var(--sky-red);
-  }
-  .artiste-morceau {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 12px 0;
-    border-bottom: 1px solid var(--sky-border);
-    transition: all 0.15s;
-  }
-  .artiste-morceau:hover {
-    background: var(--sky-gray);
-    padding-left: 12px;
-  }
-  .artiste-morceau .pochette {
-    width: 48px; height: 48px;
-    background: var(--sky-gray-2);
-    background-size: cover;
-    background-position: center;
-    flex-shrink: 0;
-    border: 1px solid var(--sky-border);
-  }
-  .artiste-morceau .infos { flex: 1; min-width: 0; }
-  .artiste-morceau .titre-m {
-    font-weight: 800;
-    color: var(--sky-black);
-    font-size: 14px;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-  }
-  .artiste-morceau .meta-m {
-    color: var(--sky-muted);
-    font-size: 11px;
-    margin-top: 2px;
-  }
-  .artiste-morceau .heure-m {
-    color: var(--sky-red);
-    font-size: 12px;
-    font-weight: 800;
-    font-variant-numeric: tabular-nums;
-  }
-
-  /* ============ FOOTER ============ */
   footer {
     margin-top: 60px;
     padding: 32px 24px;
@@ -492,8 +324,6 @@
     font-weight: 700;
   }
   footer strong { color: var(--sky-red); }
-
-  /* ============ RESPONSIVE ============ */
   @media (max-width: 700px) {
     .logo { font-size: 24px; }
     .logo-sub { display: none; }
@@ -501,25 +331,21 @@
     .on-air { flex-direction: column; text-align: center; }
     .on-air .countdown { text-align: center; }
     .grille { grid-template-columns: 1fr; }
-    .nav a { padding: 10px 12px; font-size: 10px; }
   }
 </style>
 </head>
 <body>
 
-<!-- Topbar -->
 <div class="topbar">
   <div class="live">En direct</div>
   <div class="meta" id="horodatage">—</div>
 </div>
 
-<!-- Header -->
 <div class="header">
   <div class="logo">SKY<span>ROCK</span></div>
   <div class="logo-sub">Monitor Programmation</div>
 </div>
 
-<!-- Navigation -->
 <div class="nav">
   <a href="#classement">Classement</a>
   <a href="#temporel">Répartition</a>
@@ -527,10 +353,8 @@
   <a href="#details">Détails</a>
 </div>
 
-<!-- État -->
 <div id="etat">Initialisation...</div>
 
-<!-- On Air -->
 <div class="on-air" id="on-air" style="display:none;">
   <div class="cover" id="on-air-cover"></div>
   <div class="info">
@@ -545,273 +369,113 @@
   </div>
 </div>
 
-<!-- KPI -->
 <div class="kpis" id="kpis"></div>
 
 <div class="conteneur">
-
-  <h2 class="section-titre" id="classement">Classement</h2>
+  <h2 class="section-titre">Classement</h2>
   <div class="grille">
-    <div class="carte">
-      <div class="carte-titre">Top artistes <span class="badge">TOP 15</span></div>
-      <div class="carte-corps"><div id="chart-artistes"></div></div>
-    </div>
-    <div class="carte">
-      <div class="carte-titre">Top titres <span class="badge">TOP 15</span></div>
-      <div class="carte-corps"><div id="chart-titres"></div></div>
-    </div>
+    <div class="carte"><div class="carte-titre">Top artistes <span class="badge">TOP 15</span></div><div class="carte-corps"><div id="chart-artistes"></div></div></div>
+    <div class="carte"><div class="carte-titre">Top titres <span class="badge">TOP 15</span></div><div class="carte-corps"><div id="chart-titres"></div></div></div>
   </div>
 
-  <h2 class="section-titre" id="temporel">Répartition temporelle</h2>
+  <h2 class="section-titre">Répartition temporelle</h2>
   <div class="grille">
-    <div class="carte">
-      <div class="carte-titre">Par heure</div>
-      <div class="carte-corps"><div id="chart-heures"></div></div>
-    </div>
-    <div class="carte">
-      <div class="carte-titre">Par jour de la semaine</div>
-      <div class="carte-corps"><div id="chart-semaine"></div></div>
-    </div>
+    <div class="carte"><div class="carte-titre">Par heure</div><div class="carte-corps"><div id="chart-heures"></div></div></div>
+    <div class="carte"><div class="carte-titre">Par jour de la semaine</div><div class="carte-corps"><div id="chart-semaine"></div></div></div>
   </div>
+  <div class="carte" style="margin-bottom:16px;"><div class="carte-titre">Évolution journalière</div><div class="carte-corps"><div id="chart-jours"></div></div></div>
 
-  <div class="carte" style="margin-bottom:16px;">
-    <div class="carte-titre">Évolution journalière</div>
-    <div class="carte-corps"><div id="chart-jours"></div></div>
-  </div>
-
-  <h2 class="section-titre" id="analyses">Analyses</h2>
+  <h2 class="section-titre">Analyses</h2>
   <div class="grille-3">
-    <div class="carte">
-      <div class="carte-titre">Par année</div>
-      <div class="carte-corps"><div id="chart-annees"></div></div>
-    </div>
-    <div class="carte">
-      <div class="carte-titre">Explicit vs Clean</div>
-      <div class="carte-corps"><div id="chart-explicit"></div></div>
-    </div>
-    <div class="carte">
-      <div class="carte-titre">Top albums</div>
-      <div class="carte-corps"><div id="table-albums"></div></div>
-    </div>
+    <div class="carte"><div class="carte-titre">Par année</div><div class="carte-corps"><div id="chart-annees"></div></div></div>
+    <div class="carte"><div class="carte-titre">Explicit vs Clean</div><div class="carte-corps"><div id="chart-explicit"></div></div></div>
+    <div class="carte"><div class="carte-titre">Top albums</div><div class="carte-corps"><div id="table-albums"></div></div></div>
   </div>
 
-  <h2 class="section-titre" id="details">Détails</h2>
+  <h2 class="section-titre">Détails</h2>
   <div class="grille">
-    <div class="carte">
-      <div class="carte-titre">Artistes récurrents <span class="badge">CLIQUABLE</span></div>
-      <div class="carte-corps"><div id="table-recurrents"></div></div>
-    </div>
-    <div class="carte">
-      <div class="carte-titre">Titres récurrents</div>
-      <div class="carte-corps"><div id="table-titres-rec"></div></div>
-    </div>
+    <div class="carte"><div class="carte-titre">Artistes récurrents</div><div class="carte-corps"><div id="table-recurrents"></div></div></div>
+    <div class="carte"><div class="carte-titre">Titres récurrents</div><div class="carte-corps"><div id="table-titres-rec"></div></div></div>
   </div>
-
   <div class="grille">
-    <div class="carte">
-      <div class="carte-titre">Artistes diversifiés</div>
-      <div class="carte-corps"><div id="table-diversif"></div></div>
-    </div>
-    <div class="carte">
-      <div class="carte-titre">Émissions</div>
-      <div class="carte-corps"><div id="table-emissions"></div></div>
-    </div>
+    <div class="carte"><div class="carte-titre">Artistes diversifiés</div><div class="carte-corps"><div id="table-diversif"></div></div></div>
+    <div class="carte"><div class="carte-titre">Émissions</div><div class="carte-corps"><div id="table-emissions"></div></div></div>
   </div>
-
 </div>
 
 <footer>
-  <strong>SKYROCK MONITOR</strong> · Données skyrock.fm · Deezer · v2.2
+  <strong>SKYROCK MONITOR</strong> · Données skyrock.fm · Deezer · v3.0
 </footer>
 
-<!-- Modale -->
-<div class="modale" id="modale" onclick="if(event.target===this) fermerModale()">
-  <div class="modale-contenu">
-    <div class="modale-header">
-      <div class="modale-titre" id="modale-titre">—</div>
-      <button class="modale-close" onclick="fermerModale()">×</button>
-    </div>
-    <div id="modale-corps"></div>
-  </div>
-</div>
-
 <script>
-// ============================================================
-// CONFIG
-// ============================================================
-const SEUIL_VIEUX_MORCEAU = 300;
-const AUTO_REFRESH_MS = 60000;
+const SEUIL_VIEUX = 300;
+const AUTO_REFRESH = 120000; // 2 min
+let DERNIER_TS = 0, DERNIER_DUREE = 0;
 
-// ============================================================
-// VARIABLES
-// ============================================================
-let DONNEES = {};
-let ARTISTES_INDEX = {};
-let INTERVALLE_AUTO = null;
-let DERNIER_MORCEAU_TS = 0;
-let DERNIER_MORCEAU_DUREE = 0;
-
-// ============================================================
-// PARSER CSV
-// ============================================================
-function parserCSV(texte) {
-  if (texte.charCodeAt(0) === 0xFEFF) texte = texte.slice(1);
-  const lignes = [];
-  let ligne = [], champ = '', dansGuillemets = false;
-  for (let i = 0; i < texte.length; i++) {
-    const c = texte[i];
-    if (dansGuillemets) {
-      if (c === '"') {
-        if (texte[i + 1] === '"') { champ += '"'; i++; }
-        else dansGuillemets = false;
-      } else champ += c;
-    } else {
-      if (c === '"') dansGuillemets = true;
-      else if (c === ',') { ligne.push(champ); champ = ''; }
-      else if (c === '\n') { ligne.push(champ); lignes.push(ligne); ligne = []; champ = ''; }
-      else if (c === '\r') {}
-      else champ += c;
-    }
-  }
-  if (champ.length || ligne.length) { ligne.push(champ); lignes.push(ligne); }
-  if (!lignes.length) return [];
-  const entetes = lignes[0].map(h => h.trim());
-  return lignes.slice(1).filter(l => l.length === entetes.length).map(l => {
-    const obj = {};
-    entetes.forEach((h, i) => {
-      const v = l[i];
-      const num = Number(v);
-      obj[h] = (v !== '' && !isNaN(num)) ? num : v;
-    });
-    return obj;
-  });
-}
-
-async function lireCSV(nom) {
-  try {
-    const rep = await fetch(`resultats/${nom}.csv?t=${Date.now()}`);
-    if (!rep.ok) throw new Error(`HTTP ${rep.status}`);
-    return parserCSV(await rep.text());
-  } catch (e) {
-    console.warn(`CSV ${nom} indisponible :`, e.message);
-    return null;
-  }
-}
-
-// ============================================================
-// CHARGEMENT
-// ============================================================
 async function charger() {
-  const btn = document.getElementById('refresh-btn');
-  if (btn) { btn.classList.add('spin'); setTimeout(() => btn.classList.remove('spin'), 600); }
-
-  const noms = [
-    '00_volume_global', '01_top_artistes', '02_top_titres',
-    '03_repartition_horaire', '04_repartition_journaliere',
-    '05_top_artiste_par_heure', '06_artistes_recurrents',
-    '07_titres_recurrents', '08_duree_moyenne', '09_jour_semaine',
-    '10_emissions', '11_heures_activite', '13_artistes_diversifies',
-    '14_top_likes', '15_par_annee', '16_explicit', '17_top_albums',
-    '18_dernier_morceau'
-  ];
-
-  const data = {};
-  let erreurs = 0;
-  for (const n of noms) {
-    const d = await lireCSV(n);
-    if (d === null) erreurs++;
-    data[n] = d || [];
-  }
-  DONNEES = data;
-
   const etat = document.getElementById('etat');
-  if (erreurs === noms.length) {
-    etat.className = 'erreur';
-    etat.innerHTML = 'Impossible de lire les CSV. Ouvrez via <strong>http://localhost:8005/dashboard.html</strong>';
-    return;
-  } else if (erreurs > 0) {
+  try {
+    const rep = await fetch(`data.json?t=${Date.now()}`);
+    if (!rep.ok) throw new Error(`HTTP ${rep.status}`);
+    const data = await rep.json();
     etat.className = '';
-    etat.textContent = `${erreurs} CSV manquants`;
-  } else {
     etat.textContent = 'Données synchronisées';
+    document.getElementById('horodatage').textContent =
+      'Mise à jour : ' + new Date(data.genere_ts * 1000).toLocaleString('fr-FR');
+    construire(data);
+    chargerOnAir(data.dernier_morceau);
+  } catch (e) {
+    etat.className = 'erreur';
+    etat.textContent = 'Erreur : ' + e.message;
   }
-  document.getElementById('horodatage').textContent =
-    'Mise à jour : ' + new Date().toLocaleTimeString('fr-FR');
-
-  construire(data);
-  chargerOnAir(data['18_dernier_morceau']);
 }
 
-// ============================================================
-// ON AIR
-// ============================================================
-function chargerOnAir(rows) {
-  const bloc = document.getElementById('on-air');
-  const label = document.getElementById('on-air-label');
-  const titreEl = document.getElementById('on-air-titre');
-  const artisteEl = document.getElementById('on-air-artiste');
-  const countdownEl = document.getElementById('countdown');
-  const countdownLabelEl = document.getElementById('countdown-label');
-  const coverEl = document.getElementById('on-air-cover');
-  const extraitEl = document.getElementById('on-air-extrait');
-
-  if (!rows || !rows.length) {
-    bloc.style.display = 'flex';
-    bloc.classList.add('stale');
-    label.textContent = 'En attente';
-    titreEl.textContent = 'Aucun morceau';
-    artisteEl.textContent = '—';
-    countdownEl.textContent = '--:--';
-    coverEl.style.backgroundImage = '';
-    extraitEl.style.display = 'none';
+function chargerOnAir(r) {
+  if (!r || !r.titre) {
+    document.getElementById('on-air').style.display = 'none';
     return;
   }
-
-  const r = rows[0];
+  const bloc = document.getElementById('on-air');
   const maintenant = Math.floor(Date.now() / 1000);
   const debut = Number(r.start_ts) || 0;
   const age = maintenant - debut;
-  const estVieux = age > SEUIL_VIEUX_MORCEAU;
+  const vieux = age > SEUIL_VIEUX;
 
-  DERNIER_MORCEAU_TS = debut;
-  DERNIER_MORCEAU_DUREE = (Number(r.end_ts) || 0) - debut;
+  DERNIER_TS = debut;
+  DERNIER_DUREE = (Number(r.end_ts) || 0) - debut;
 
   bloc.style.display = 'flex';
-  if (estVieux) {
-    bloc.classList.add('stale');
-    label.textContent = 'Dernier morceau connu';
-    countdownLabelEl.textContent = 'Il y a';
+  bloc.classList.toggle('stale', vieux);
+
+  document.getElementById('on-air-label').textContent =
+    vieux ? 'Dernier morceau connu' : 'Morceau en cours';
+  document.getElementById('countdown-label').textContent =
+    vieux ? 'Il y a' : 'Depuis diffusion';
+  document.getElementById('on-air-titre').textContent = r.titre || '—';
+  document.getElementById('on-air-artiste').textContent = r.artistes || '(artiste inconnu)';
+
+  const cover = document.getElementById('on-air-cover');
+  if (r.cover_deezer) cover.style.backgroundImage = `url('${r.cover_deezer}')`;
+  else if (r.cover_uri) cover.style.backgroundImage = `url('${r.cover_uri}')`;
+  else cover.style.backgroundImage = '';
+
+  const extrait = document.getElementById('on-air-extrait');
+  if (r.preview_mp3 && !vieux) {
+    extrait.href = r.preview_mp3;
+    extrait.style.display = 'inline-flex';
   } else {
-    bloc.classList.remove('stale');
-    label.textContent = 'Morceau en cours';
-    countdownLabelEl.textContent = 'Depuis diffusion';
+    extrait.style.display = 'none';
   }
-
-  titreEl.textContent = r.titre || '—';
-  artisteEl.textContent = r.artistes || '(artiste inconnu)';
-
-  if (r.cover_deezer) coverEl.style.backgroundImage = `url('${r.cover_deezer}')`;
-  else if (r.cover_uri) coverEl.style.backgroundImage = `url('${r.cover_uri}')`;
-  else coverEl.style.backgroundImage = '';
-
-  if (r.preview_mp3 && !estVieux) {
-    extraitEl.href = r.preview_mp3;
-    extraitEl.style.display = 'inline-flex';
-  } else {
-    extraitEl.style.display = 'none';
-  }
-
   majCompteur();
 }
 
 function majCompteur() {
   const el = document.getElementById('countdown');
-  if (!el) return;
-  if (!DERNIER_MORCEAU_TS) { el.textContent = '--:--'; return; }
-  const sec = Math.floor(Date.now() / 1000) - DERNIER_MORCEAU_TS;
-  if (sec > SEUIL_VIEUX_MORCEAU) { el.textContent = '--:--'; return; }
-  if (DERNIER_MORCEAU_DUREE > 0 && sec >= DERNIER_MORCEAU_DUREE) {
-    el.textContent = '--:--'; return;
+  if (!DERNIER_TS) { el.textContent = '--:--'; return; }
+  const sec = Math.floor(Date.now() / 1000) - DERNIER_TS;
+  if (sec > SEUIL_VIEUX || (DERNIER_DUREE > 0 && sec >= DERNIER_DUREE)) {
+    el.textContent = '--:--';
+    return;
   }
   const m = String(Math.floor(sec / 60)).padStart(2, '0');
   const s = String(sec % 60).padStart(2, '0');
@@ -819,59 +483,9 @@ function majCompteur() {
 }
 setInterval(majCompteur, 1000);
 
-// ============================================================
-// MODALE
-// ============================================================
-function ouvrirModaleArtiste(artiste) {
-  const morceaux = ARTISTES_INDEX[artiste] || [];
-  document.getElementById('modale-titre').textContent = artiste;
-  const corps = document.getElementById('modale-corps');
-  if (!morceaux.length) {
-    corps.innerHTML = '<div class="vide">Aucun morceau enregistré</div>';
-  } else {
-    corps.innerHTML = morceaux.map(m => `
-      <div class="artiste-morceau">
-        <div class="pochette" style="${m.cover_deezer ? `background-image:url('${m.cover_deezer}')` : ''}"></div>
-        <div class="infos">
-          <div class="titre-m">${m.titre || '—'}</div>
-          <div class="meta-m">${m.album || ''} ${m.annee ? '· ' + m.annee : ''}</div>
-        </div>
-        <div class="heure-m">${m.heure != null ? m.heure + 'h' : ''}</div>
-      </div>
-    `).join('');
-  }
-  document.getElementById('modale').classList.add('visible');
-}
-
-function fermerModale() {
-  document.getElementById('modale').classList.remove('visible');
-}
-document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') fermerModale();
-});
-
-// ============================================================
-// CONSTRUCTION
-// ============================================================
-function construire(data) {
+function construire(d) {
   const vide = '<div class="vide">Pas encore de données</div>';
-
-  ARTISTES_INDEX = {};
-  if (data['01_top_artistes']) {
-    data['01_top_artistes'].forEach(a => {
-      if (a.artistes) ARTISTES_INDEX[a.artistes] = [];
-    });
-  }
-  if (data['02_top_titres']) {
-    data['02_top_titres'].forEach(t => {
-      if (t.artistes) {
-        if (!ARTISTES_INDEX[t.artistes]) ARTISTES_INDEX[t.artistes] = [];
-        ARTISTES_INDEX[t.artistes].push(t);
-      }
-    });
-  }
-
-  const vol = data['00_volume_global'][0] || {};
+  const vol = d.volume || {};
   const kpis = [
     ['Diffusions', vol.nb_diffusions ?? 0],
     ['Artistes', vol.nb_artistes ?? 0],
@@ -880,159 +494,118 @@ function construire(data) {
     ['Durée moy.', (vol.duree_moy_s ?? 0).toFixed(0) + 's'],
   ];
   document.getElementById('kpis').innerHTML = kpis.map(([l, v]) =>
-    `<div class="kpi"><div class="kpi-label">${l}</div>
-     <div class="kpi-value">${v}</div></div>`
+    `<div class="kpi"><div class="kpi-label">${l}</div><div class="kpi-value">${v}</div></div>`
   ).join('');
 
   const layout = {
-    paper_bgcolor: '#ffffff',
-    plot_bgcolor: '#ffffff',
+    paper_bgcolor: '#fff', plot_bgcolor: '#fff',
     font: { color: '#111', size: 11, family: 'Helvetica Neue, Arial' },
     margin: { l: 140, r: 20, t: 10, b: 40 },
-    xaxis: { gridcolor: '#eee', zerolinecolor: '#ccc', linecolor: '#ccc' },
-    yaxis: { gridcolor: '#eee', zerolinecolor: '#ccc', linecolor: '#ccc' },
+    xaxis: { gridcolor: '#eee', zerolinecolor: '#ccc' },
+    yaxis: { gridcolor: '#eee', zerolinecolor: '#ccc' },
   };
   const opts = { displayModeBar: false, responsive: true };
-  const RED = '#e60023';
-  const BLACK = '#000000';
-  const GRAY = '#666666';
+  const RED = '#e60023', BLACK = '#000';
 
-  if (data['01_top_artistes'].length) {
-    const d = data['01_top_artistes'].slice(0, 15);
+  if (d.top_artistes && d.top_artistes.length) {
+    const a = d.top_artistes.slice(0, 15);
     Plotly.newPlot('chart-artistes', [{
       type: 'bar', orientation: 'h',
-      x: d.map(r => r.minutes_antenne || r.nb_diffusions),
-      y: d.map(r => r.artistes),
+      x: a.map(r => r.minutes_antenne || r.nb_diffusions),
+      y: a.map(r => r.artistes),
       marker: { color: RED },
-      hovertemplate: '<b>%{y}</b><br>%{x} min<extra></extra>',
     }], { ...layout, yaxis: { autorange: 'reversed' } }, opts);
   } else document.getElementById('chart-artistes').innerHTML = vide;
 
-  if (data['02_top_titres'].length) {
-    const d = data['02_top_titres'].slice(0, 15);
+  if (d.top_titres && d.top_titres.length) {
+    const t = d.top_titres.slice(0, 15);
     Plotly.newPlot('chart-titres', [{
       type: 'bar', orientation: 'h',
-      x: d.map(r => r.nb_diffusions),
-      y: d.map(r => `${r.artistes} – ${r.titre}`.slice(0, 40)),
+      x: t.map(r => r.nb_diffusions),
+      y: t.map(r => `${r.artistes} – ${r.titre}`.slice(0, 40)),
       marker: { color: BLACK },
-      hovertemplate: '<b>%{y}</b><br>%{x} diffusions<extra></extra>',
     }], { ...layout, yaxis: { autorange: 'reversed' } }, opts);
   } else document.getElementById('chart-titres').innerHTML = vide;
 
-  if (data['03_repartition_horaire'].length) {
-    const d = data['03_repartition_horaire'];
+  if (d.heures && d.heures.length) {
     Plotly.newPlot('chart-heures', [{
-      type: 'bar', x: d.map(r => r.heure), y: d.map(r => r.nb_diffusions),
+      type: 'bar', x: d.heures.map(r => r.heure), y: d.heures.map(r => r.nb_diffusions),
       marker: { color: RED },
-    }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 40 },
-          xaxis: { title: 'Heure' },
-          yaxis: { title: 'Diffusions' } }, opts);
+    }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 40 } }, opts);
   } else document.getElementById('chart-heures').innerHTML = vide;
 
-  if (data['09_jour_semaine'].length) {
-    const d = data['09_jour_semaine'];
+  if (d.semaine && d.semaine.length) {
     Plotly.newPlot('chart-semaine', [{
-      type: 'bar', x: d.map(r => r.jour), y: d.map(r => r.nb_diffusions),
+      type: 'bar', x: d.semaine.map(r => r.jour), y: d.semaine.map(r => r.nb_diffusions),
       marker: { color: BLACK },
     }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 40 } }, opts);
   } else document.getElementById('chart-semaine').innerHTML = vide;
 
-  if (data['04_repartition_journaliere'].length) {
-    const d = data['04_repartition_journaliere'];
+  if (d.jours && d.jours.length) {
     Plotly.newPlot('chart-jours', [{
       type: 'scatter', mode: 'lines+markers',
-      x: d.map(r => r.date), y: d.map(r => r.nb_diffusions),
-      line: { color: RED, width: 3 },
-      marker: { size: 10, color: RED },
-      fill: 'tozeroy',
-      fillcolor: 'rgba(230, 0, 35, 0.08)',
+      x: d.jours.map(r => r.date), y: d.jours.map(r => r.nb_diffusions),
+      line: { color: RED, width: 3 }, marker: { size: 10, color: RED },
+      fill: 'tozeroy', fillcolor: 'rgba(230,0,35,0.08)',
     }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 60 } }, opts);
   } else document.getElementById('chart-jours').innerHTML = vide;
 
-  if (data['15_par_annee'].length) {
-    const d = data['15_par_annee'];
+  if (d.annees && d.annees.length) {
     Plotly.newPlot('chart-annees', [{
-      type: 'bar', x: d.map(r => r.annee), y: d.map(r => r.nb_diffusions),
+      type: 'bar', x: d.annees.map(r => r.annee), y: d.annees.map(r => r.nb_diffusions),
       marker: { color: BLACK },
     }], { ...layout, margin: { l: 40, r: 20, t: 10, b: 40 } }, opts);
   } else document.getElementById('chart-annees').innerHTML = vide;
 
-  if (data['16_explicit'].length) {
-    const d = data['16_explicit'];
+  if (d.explicit && d.explicit.length) {
     Plotly.newPlot('chart-explicit', [{
-      type: 'pie',
-      labels: d.map(r => r.type_contenu),
-      values: d.map(r => r.nb),
-      hole: 0.6,
-      marker: { colors: [RED, BLACK, GRAY] },
+      type: 'pie', labels: d.explicit.map(r => r.type_contenu),
+      values: d.explicit.map(r => r.nb), hole: 0.6,
+      marker: { colors: [RED, BLACK, '#666'] },
       textinfo: 'label+percent',
-      textfont: { color: '#111', size: 12 },
     }], { ...layout, margin: { l: 20, r: 20, t: 10, b: 20 } }, opts);
   } else document.getElementById('chart-explicit').innerHTML = vide;
 
-  rendreTable('table-albums', data['17_top_albums'], [
-    { cle: 'album', titre: 'Album' },
-    { cle: 'artistes', titre: 'Artiste' },
-    { cle: 'nb_diffusions', titre: 'Diff.' },
-  ], vide, false);
-
-  rendreTable('table-recurrents', data['06_artistes_recurrents'], [
-    { cle: 'artistes', titre: 'Artiste' },
-    { cle: 'nb_jours', titre: 'Jours' },
-    { cle: 'nb_diffusions', titre: 'Diff.' },
-  ], vide, true);
-
-  rendreTable('table-titres-rec', data['07_titres_recurrents'], [
-    { cle: 'artistes', titre: 'Artiste' },
-    { cle: 'titre', titre: 'Titre' },
-    { cle: 'nb_jours', titre: 'Jours' },
-  ], vide, false);
-
-  rendreTable('table-diversif', data['13_artistes_diversifies'], [
-    { cle: 'artistes', titre: 'Artiste' },
-    { cle: 'nb_titres_differents', titre: 'Titres' },
-    { cle: 'nb_diffusions', titre: 'Diff.' },
-  ], vide, true);
-
-  rendreTable('table-emissions', data['10_emissions'], [
-    { cle: 'titre', titre: 'Émission' },
-    { cle: 'animateurs', titre: 'Animateurs' },
-    { cle: 'nb_passages', titre: 'Passages' },
-  ], vide, false);
+  rendreTable('table-albums', d.albums, [
+    { c: 'album', t: 'Album' }, { c: 'artistes', t: 'Artiste' }, { c: 'nb_diffusions', t: 'Diff.' }
+  ], vide);
+  rendreTable('table-recurrents', d.recurrents, [
+    { c: 'artistes', t: 'Artiste' }, { c: 'nb_jours', t: 'Jours' }, { c: 'nb_diffusions', t: 'Diff.' }
+  ], vide);
+  rendreTable('table-titres-rec', d.titres_recurrents, [
+    { c: 'artistes', t: 'Artiste' }, { c: 'titre', t: 'Titre' }, { c: 'nb_jours', t: 'Jours' }
+  ], vide);
+  rendreTable('table-diversif', d.diversifies, [
+    { c: 'artistes', t: 'Artiste' }, { c: 'nb_titres_differents', t: 'Titres' }, { c: 'nb_diffusions', t: 'Diff.' }
+  ], vide);
+  rendreTable('table-emissions', d.emissions, [
+    { c: 'titre', t: 'Émission' }, { c: 'animateurs', t: 'Animateurs' }, { c: 'nb_passages', t: 'Passages' }
+  ], vide);
 }
 
-function rendreTable(id, rows, colonnes, vide, cliquable) {
+function rendreTable(id, rows, cols, vide) {
   const cible = document.getElementById(id);
   if (!rows || !rows.length) { cible.innerHTML = vide; return; }
   let html = '<table><thead><tr>';
-  for (const c of colonnes) html += `<th>${c.titre}</th>`;
+  for (const c of cols) html += `<th>${c.t}</th>`;
   html += '</tr></thead><tbody>';
   rows.forEach((r, i) => {
-    const artiste = r.artistes || r.titre || '';
-    const onclick = cliquable && artiste
-      ? `onclick="ouvrirModaleArtiste('${artiste.replace(/'/g, "\\'")}')"`
-      : '';
-    html += `<tr ${onclick}>`;
-    colonnes.forEach((c, j) => {
-      let val = r[c.cle] ?? '';
-      if (j === 0 && typeof val === 'string' && colonnes.length > 1) {
+    html += '<tr>';
+    cols.forEach((c, j) => {
+      let v = r[c.c] ?? '';
+      if (j === 0 && typeof v === 'string' && cols.length > 1) {
         const cls = i < 3 ? 'rang top3' : 'rang';
-        val = `<span class="${cls}">${i + 1}</span>${val}`;
+        v = `<span class="${cls}">${i + 1}</span>${v}`;
       }
-      html += `<td>${val}</td>`;
+      html += `<td>${v}</td>`;
     });
     html += '</tr>';
   });
   cible.innerHTML = html + '</tbody></table>';
 }
 
-function demarrerAuto() {
-  if (INTERVALLE_AUTO) clearInterval(INTERVALLE_AUTO);
-  INTERVALLE_AUTO = setInterval(charger, AUTO_REFRESH_MS);
-}
-
 charger();
-demarrerAuto();
+setInterval(charger, AUTO_REFRESH);
 </script>
 </body>
 </html>
