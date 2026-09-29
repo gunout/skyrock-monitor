@@ -32,14 +32,12 @@ jobs:
       - name: Installer dépendances
         run: pip install requests pandas
 
-      - name: Collecter (2 passes)
+      - name: Collecter (1 passe)
         run: |
           python3 -c "
-          import sys, time
+          import sys
           sys.path.insert(0, '.')
           from collecteur import test_unique
-          test_unique()
-          time.sleep(30)
           test_unique()
           " || echo "Collecte échouée, on continue"
 
@@ -70,3 +68,11 @@ jobs:
 
       - uses: actions/deploy-pages@v4
         id: deployment
+
+  workflow-keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1
