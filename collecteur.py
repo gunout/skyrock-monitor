@@ -28,7 +28,7 @@ except ImportError as e:
 # CONFIGURATION
 # ============================================================
 API_URL     = "https://skyrock.fm/api/v3/player/onair/parisidf"
-DOSSIER     = os.path.expanduser('~/Desktop/APPS/skyrock/Bases')
+DOSSIER     = os.path.dirname(os.path.abspath(__file__))
 DB          = os.path.join(DOSSIER, 'skyrock.db')
 LOG         = os.path.join(DOSSIER, 'collecteur.log')
 INTERVALLE  = 60      # secondes entre deux appels

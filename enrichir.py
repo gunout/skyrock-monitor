@@ -19,7 +19,7 @@ from datetime import datetime
 # ============================================================
 # CONFIGURATION
 # ============================================================
-DOSSIER   = os.path.expanduser('~/Desktop/APPS/skyrock/Bases')
+DOSSIER   = os.path.dirname(os.path.abspath(__file__))
 DB        = os.path.join(DOSSIER, 'skyrock.db')
 LOG       = os.path.join(DOSSIER, 'enrichir.log')
 LOCK      = os.path.join(DOSSIER, '.enrichir.lock')
