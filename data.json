@@ -1,0 +1,703 @@
+{
+  "genere_le": "2026-09-29T04:27:20.087161",
+  "genere_ts": 1790641640,
+  "volume": {
+    "nb_diffusions": 47,
+    "nb_artistes": 36,
+    "nb_titres": 39,
+    "premiere_date": "2026-09-28",
+    "derniere_date": "2026-09-29",
+    "heures_antenne": 2.32,
+    "duree_moy_s": 177.7
+  },
+  "top_artistes": [
+    {
+      "artistes": "Tiakola",
+      "nb_diffusions": 3,
+      "titres_differents": 2,
+      "minutes_antenne": 8.6
+    },
+    {
+      "artistes": "Leto",
+      "nb_diffusions": 3,
+      "titres_differents": 1,
+      "minutes_antenne": 7.8
+    },
+    {
+      "artistes": "BIGBANG",
+      "nb_diffusions": 2,
+      "titres_differents": 1,
+      "minutes_antenne": 7.3
+    },
+    {
+      "artistes": "Tame Impala",
+      "nb_diffusions": 2,
+      "titres_differents": 2,
+      "minutes_antenne": 6.7
+    },
+    {
+      "artistes": "Ariana Grande",
+      "nb_diffusions": 2,
+      "titres_differents": 1,
+      "minutes_antenne": 6.4
+    },
+    {
+      "artistes": "PLK",
+      "nb_diffusions": 2,
+      "titres_differents": 1,
+      "minutes_antenne": 5.4
+    },
+    {
+      "artistes": "Guy2bezbar",
+      "nb_diffusions": 2,
+      "titres_differents": 2,
+      "minutes_antenne": 4.7
+    },
+    {
+      "artistes": "Lagui",
+      "nb_diffusions": 2,
+      "titres_differents": 1,
+      "minutes_antenne": 4.7
+    },
+    {
+      "artistes": "Timal",
+      "nb_diffusions": 2,
+      "titres_differents": 1,
+      "minutes_antenne": 4.4
+    },
+    {
+      "artistes": "Eminem",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 4.3
+    },
+    {
+      "artistes": "The Weeknd",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 4.2
+    },
+    {
+      "artistes": "USHER",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 4.2
+    },
+    {
+      "artistes": "Arcade Player",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 3.9
+    },
+    {
+      "artistes": "KAROL G",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 3.7
+    },
+    {
+      "artistes": "Will Smith",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 3.7
+    },
+    {
+      "artistes": "Shakira",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 3.6
+    },
+    {
+      "artistes": "Beyoncé",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 3.4
+    },
+    {
+      "artistes": "Yuston XIII",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 3.4
+    },
+    {
+      "artistes": "TRIANGLE DES BERMUDES",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 3.2
+    },
+    {
+      "artistes": "Adèle Castillon",
+      "nb_diffusions": 1,
+      "titres_differents": 1,
+      "minutes_antenne": 3.1
+    }
+  ],
+  "top_titres": [
+    {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_diffusions": 3,
+      "minutes_antenne": 7.8
+    },
+    {
+      "artistes": "Ariana Grande",
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "nb_diffusions": 2,
+      "minutes_antenne": 6.4
+    },
+    {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_diffusions": 2,
+      "minutes_antenne": 7.3
+    },
+    {
+      "artistes": "Lagui",
+      "titre": "Olivia Valere",
+      "nb_diffusions": 2,
+      "minutes_antenne": 4.7
+    },
+    {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_diffusions": 2,
+      "minutes_antenne": 5.4
+    },
+    {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 2,
+      "minutes_antenne": 5.0
+    },
+    {
+      "artistes": "Timal",
+      "titre": "Sicario",
+      "nb_diffusions": 2,
+      "minutes_antenne": 4.4
+    },
+    {
+      "artistes": "Adèle Castillon",
+      "titre": "Été avec toi",
+      "nb_diffusions": 1,
+      "minutes_antenne": 3.1
+    },
+    {
+      "artistes": "Arcade Player",
+      "titre": "Ramenez la coupe à la maison (16-Bit Vegedream Emulation)",
+      "nb_diffusions": 1,
+      "minutes_antenne": 3.9
+    },
+    {
+      "artistes": "Aya Nakamura",
+      "titre": "Sexy Nana",
+      "nb_diffusions": 1,
+      "minutes_antenne": 2.5
+    },
+    {
+      "artistes": "Bad Bunny",
+      "titre": "NUEVAYoL",
+      "nb_diffusions": 1,
+      "minutes_antenne": 3.0
+    },
+    {
+      "artistes": "Beyoncé",
+      "titre": "Naughty Girl",
+      "nb_diffusions": 1,
+      "minutes_antenne": 3.4
+    },
+    {
+      "artistes": "Bouss",
+      "titre": "Cote à la hausse",
+      "nb_diffusions": 1,
+      "minutes_antenne": 2.8
+    },
+    {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_diffusions": 1,
+      "minutes_antenne": 2.4
+    },
+    {
+      "artistes": "Eminem",
+      "titre": "Love The Way You Lie",
+      "nb_diffusions": 1,
+      "minutes_antenne": 4.3
+    },
+    {
+      "artistes": "GIMS",
+      "titre": "VIVE LA MONNAIE",
+      "nb_diffusions": 1,
+      "minutes_antenne": 3.0
+    },
+    {
+      "artistes": "Gambi",
+      "titre": "RENÉ CAOVILLA",
+      "nb_diffusions": 1,
+      "minutes_antenne": 2.2
+    },
+    {
+      "artistes": "Guy2bezbar",
+      "titre": "Je pense à toi",
+      "nb_diffusions": 1,
+      "minutes_antenne": 2.8
+    },
+    {
+      "artistes": "Guy2bezbar",
+      "titre": "Wagyu du Jap'",
+      "nb_diffusions": 1,
+      "minutes_antenne": 1.9
+    },
+    {
+      "artistes": "JYEUHAIR",
+      "titre": "Peace - Nouvelle École",
+      "nb_diffusions": 1,
+      "minutes_antenne": 2.1
+    }
+  ],
+  "heures": [
+    {
+      "heure": 0,
+      "nb_diffusions": 1
+    },
+    {
+      "heure": 1,
+      "nb_diffusions": 1
+    },
+    {
+      "heure": 2,
+      "nb_diffusions": 14
+    },
+    {
+      "heure": 3,
+      "nb_diffusions": 19
+    },
+    {
+      "heure": 4,
+      "nb_diffusions": 9
+    },
+    {
+      "heure": 21,
+      "nb_diffusions": 3
+    },
+    {
+      "heure": 22,
+      "nb_diffusions": 2
+    },
+    {
+      "heure": 23,
+      "nb_diffusions": 1
+    }
+  ],
+  "jours": [
+    {
+      "date": "2026-09-28",
+      "nb_diffusions": 6,
+      "titres_differents": 6
+    },
+    {
+      "date": "2026-09-29",
+      "nb_diffusions": 44,
+      "titres_differents": 40
+    }
+  ],
+  "semaine": [
+    {
+      "jour": "Lundi",
+      "nb_diffusions": 6
+    },
+    {
+      "jour": "Mardi",
+      "nb_diffusions": 44
+    }
+  ],
+  "recurrents": [
+    {
+      "artistes": "Leto",
+      "nb_jours": 2,
+      "nb_diffusions": 3,
+      "minutes": 7.8
+    },
+    {
+      "artistes": "Tiakola",
+      "nb_jours": 2,
+      "nb_diffusions": 3,
+      "minutes": 8.6
+    },
+    {
+      "artistes": "Lagui",
+      "nb_jours": 2,
+      "nb_diffusions": 2,
+      "minutes": 4.7
+    },
+    {
+      "artistes": "PLK",
+      "nb_jours": 2,
+      "nb_diffusions": 2,
+      "minutes": 5.4
+    },
+    {
+      "artistes": "Tame Impala",
+      "nb_jours": 2,
+      "nb_diffusions": 2,
+      "minutes": 6.7
+    }
+  ],
+  "titres_recurrents": [
+    {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_jours": 2,
+      "nb_diffusions": 3
+    },
+    {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_jours": 2,
+      "nb_diffusions": 2
+    },
+    {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_jours": 2,
+      "nb_diffusions": 2
+    },
+    {
+      "artistes": "Lagui",
+      "titre": "Olivia Valere",
+      "nb_jours": 2,
+      "nb_diffusions": 2
+    }
+  ],
+  "diversifies": [
+    {
+      "artistes": "Tiakola",
+      "nb_titres_differents": 2,
+      "nb_diffusions": 3
+    },
+    {
+      "artistes": "Guy2bezbar",
+      "nb_titres_differents": 2,
+      "nb_diffusions": 2
+    },
+    {
+      "artistes": "Tame Impala",
+      "nb_titres_differents": 2,
+      "nb_diffusions": 2
+    }
+  ],
+  "emissions": [
+    {
+      "titre": "Difool – Radio Libre",
+      "animateurs": "Difool, Cedric le belge, Romano, Karim, Samy, Marie, Guigui",
+      "nb_passages": 1
+    },
+    {
+      "titre": "Rap & RnB Non Stop",
+      "animateurs": "Corentin",
+      "nb_passages": 1
+    }
+  ],
+  "annees": [
+    {
+      "annee": 2026,
+      "nb_diffusions": 26
+    },
+    {
+      "annee": 2025,
+      "nb_diffusions": 8
+    },
+    {
+      "annee": 2024,
+      "nb_diffusions": 3
+    },
+    {
+      "annee": 2022,
+      "nb_diffusions": 2
+    },
+    {
+      "annee": 2021,
+      "nb_diffusions": 1
+    },
+    {
+      "annee": 2018,
+      "nb_diffusions": 1
+    },
+    {
+      "annee": 2016,
+      "nb_diffusions": 2
+    },
+    {
+      "annee": 2010,
+      "nb_diffusions": 1
+    },
+    {
+      "annee": 2004,
+      "nb_diffusions": 1
+    },
+    {
+      "annee": 2003,
+      "nb_diffusions": 1
+    },
+    {
+      "annee": 2002,
+      "nb_diffusions": 1
+    }
+  ],
+  "explicit": [
+    {
+      "type_contenu": "Clean",
+      "nb": 22
+    },
+    {
+      "type_contenu": "Explicit",
+      "nb": 23
+    }
+  ],
+  "albums": [
+    {
+      "album": "Pineapple",
+      "artistes": "Leto",
+      "nb_diffusions": 3
+    },
+    {
+      "album": "hate that i made you love me",
+      "artistes": "Ariana Grande",
+      "nb_diffusions": 2
+    },
+    {
+      "album": "Sicario",
+      "artistes": "Timal",
+      "nb_diffusions": 2
+    },
+    {
+      "album": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "nb_diffusions": 2
+    },
+    {
+      "album": "MADE",
+      "artistes": "BIGBANG",
+      "nb_diffusions": 2
+    },
+    {
+      "album": "Grand Garçon",
+      "artistes": "PLK",
+      "nb_diffusions": 2
+    },
+    {
+      "album": "En Croix",
+      "artistes": "Lagui",
+      "nb_diffusions": 2
+    },
+    {
+      "album": "Été avec toi",
+      "artistes": "Adèle Castillon",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "melodrama",
+      "artistes": "disiz",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "WpointM",
+      "artistes": "Tiakola",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "Wagyu du Jap'",
+      "artistes": "Guy2bezbar",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "UBER",
+      "artistes": "Moji x Sboy",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "The Impossible Game Soundtrack, Vol. 66",
+      "artistes": "Arcade Player",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "Sexy Nana",
+      "artistes": "Aya Nakamura",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "Recovery",
+      "artistes": "Eminem",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "Nouvelle École | Saison 3 | Partie 2 (Série Netflix)",
+      "artistes": "JYEUHAIR",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "artistes": "KAROL G",
+      "nb_diffusions": 1
+    },
+    {
+      "album": "Lovin On Me",
+      "artistes": "midnight Berlin",
+      "nb_diffusions": 1
+    }
+  ],
+  "dernier_morceau": {
+    "titre": "hate that i made you love me (ari lyric draft from bed)",
+    "artistes": "Ariana Grande",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1790642521~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=410d51bc41fda007178509b2c3c38a17c14bd36b06590049bf2bb3cc6f16fff6",
+    "date": "2026-09-29",
+    "heure": 4,
+    "album": "hate that i made you love me",
+    "annee": 2026,
+    "start_ts": 1790641570,
+    "end_ts": 1790641762
+  },
+  "derniers_morceaux": [
+    {
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "artistes": "Ariana Grande",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1790642521~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=410d51bc41fda007178509b2c3c38a17c14bd36b06590049bf2bb3cc6f16fff6",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "hate that i made you love me",
+      "annee": 2026,
+      "start_ts": 1790641570,
+      "end_ts": 1790641762
+    },
+    {
+      "titre": "UBER",
+      "artistes": "Moji x Sboy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/78b98745418aa0a06d74b47782613679/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3?hdnea=exp=1790642338~acl=/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3*~data=user_id=0,application_id=42~hmac=f5380bb23761bf88c96e2a245fc6f109178135bc5f16288b8b4bd3cc64d3874b",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "UBER",
+      "annee": 2022,
+      "start_ts": 1790641417,
+      "end_ts": 1790641573
+    },
+    {
+      "titre": "Yeah! (feat. Lil Jon & Ludacris)",
+      "artistes": "USHER",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b89c20012cccb051c8a4e04d98386f95/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/92/SKYC.4608826444481131692.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/0/0/52043805d69b8ee90ddf2e3188b057c3.mp3?hdnea=exp=1790642094~acl=/api/1/1/5/2/0/0/52043805d69b8ee90ddf2e3188b057c3.mp3*~data=user_id=0,application_id=42~hmac=11187c67c6fba06d3d316e0616381f4cad0b8760f56a3baca7715266ad48138f",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "Confessions (Expanded Edition)",
+      "annee": 2004,
+      "start_ts": 1790641167,
+      "end_ts": 1790641416
+    },
+    {
+      "titre": "La Nocturne",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://skyrock.fm/resources/webradios/default_pochette_600.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1790641911~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=bb2ab2fbae6c1193280e4d11ea6fbb507804571ba5c52849b953258c00ea4316",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "WpointM",
+      "annee": 2026,
+      "start_ts": 1790640955,
+      "end_ts": 1790641171
+    },
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1790641666~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=831aa91b718721293a6c3f8b9c28265294cc4475a98859aea94493c540c5e533",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1790640757,
+      "end_ts": 1790640962
+    },
+    {
+      "titre": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1790641543~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=ede9014031490c08eed192fd586d9e19eaf7f523e971c39be0c56c94e36edfff",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "RENÉ CAOVILLA",
+      "annee": 2026,
+      "start_ts": 1790640595,
+      "end_ts": 1790640726
+    },
+    {
+      "titre": "Lovin On Me",
+      "artistes": "midnight Berlin",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/8db156e1ddb6e85920501ed6b5aecd7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/28/SKYC.1443037276162752128.18.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/7/0/d371f07147b5adbf649a16654ef34865.mp3?hdnea=exp=1790641361~acl=/api/1/1/d/3/7/0/d371f07147b5adbf649a16654ef34865.mp3*~data=user_id=0,application_id=42~hmac=456f273ac73c2bf0f5e8d1ebccf4e5b6a70540463f76519a302d28b02c2f0a87",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "Lovin On Me",
+      "annee": 2024,
+      "start_ts": 1790640458,
+      "end_ts": 1790640594
+    },
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.71.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1790641176~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=6cc6a1a48f08307acf1e092a5ec5bcecde2ca67d6e84696b5a8f9a7912c4fa5a",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1790640241,
+      "end_ts": 1790640459
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1790640994~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=513b3aab310a0ea7b749cf6bd4fa590ed049393d7736f73fb2b26095f6bbd3b4",
+      "date": "2026-09-29",
+      "heure": 4,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1790640075,
+      "end_ts": 1790640232
+    },
+    {
+      "titre": "Olivia Valere",
+      "artistes": "Lagui",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1046544572444a58891477cc4b79a0b2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/1/0/e416e6e9429df172a5327e9ea47220df.mp3?hdnea=exp=1790640809~acl=/api/1/1/e/4/1/0/e416e6e9429df172a5327e9ea47220df.mp3*~data=user_id=0,application_id=42~hmac=93e8a1ca559d23f35c8dc29c96ac14e0af3bd8ecfa97f47b9435048a9eeacad8",
+      "date": "2026-09-29",
+      "heure": 3,
+      "album": "En Croix",
+      "annee": 2026,
+      "start_ts": 1790639888,
+      "end_ts": 1790640050
+    }
+  ]
+}
