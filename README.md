@@ -102,7 +102,7 @@ Idéal pour suivre les tendances musicales, analyser la rotation des titres, ou 
 | collecteur.py | Collecte + enrichissement en boucle |
 | enrichir.py | Module d'enrichissement Deezer (importé) |
 | analyser.py | Génère les 19 CSV dans resultats/ |
-| index.html | Dashboard interactif Plotly |
+| dshboard.html | Dashboard interactif Plotly |
 | skyrock.db | Base SQLite (non versionnée) |
 | resultats/ | CSV générés (non versionnés) |
 
@@ -163,7 +163,7 @@ Produit 19 CSV dans le dossier `resultats/`.
 
 Puis ouvrez dans votre navigateur :
 
-[http://localhost:8005/dashboard.html](http://localhost:8005/index.html)
+[http://localhost:8005/dashboard.html](http://localhost:8005/dashboard.html)
 
 ---
 
