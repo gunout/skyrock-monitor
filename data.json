@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-09-30T13:04:07.030914",
-  "genere_ts": 1790773447,
+  "genere_le": "2026-09-30T18:22:45.397873",
+  "genere_ts": 1790792565,
   "volume": {
-    "nb_diffusions": 96,
-    "nb_artistes": 45,
-    "nb_titres": 50,
+    "nb_diffusions": 101,
+    "nb_artistes": 46,
+    "nb_titres": 51,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-09-30",
-    "heures_antenne": 4.61,
-    "duree_moy_s": 172.7
+    "heures_antenne": 4.82,
+    "duree_moy_s": 171.7
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 7,
+      "nb_diffusions": 8,
       "titres_differents": 2,
-      "minutes_antenne": 18.7
+      "minutes_antenne": 21.3
     },
     {
       "artistes": "GIMS",
@@ -34,6 +34,12 @@
       "nb_diffusions": 4,
       "titres_differents": 2,
       "minutes_antenne": 13.4
+    },
+    {
+      "artistes": "Aya Nakamura",
+      "nb_diffusions": 5,
+      "titres_differents": 1,
+      "minutes_antenne": 12.7
     },
     {
       "artistes": "Bad Bunny",
@@ -60,16 +66,16 @@
       "minutes_antenne": 10.5
     },
     {
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 4,
-      "titres_differents": 1,
-      "minutes_antenne": 10.1
-    },
-    {
       "artistes": "Slimane",
       "nb_diffusions": 3,
       "titres_differents": 1,
       "minutes_antenne": 9.3
+    },
+    {
+      "artistes": "Gambi",
+      "nb_diffusions": 4,
+      "titres_differents": 2,
+      "minutes_antenne": 8.4
     },
     {
       "artistes": "Vacra",
@@ -108,10 +114,10 @@
       "minutes_antenne": 6.8
     },
     {
-      "artistes": "Gambi",
+      "artistes": "Djaksparo",
       "nb_diffusions": 3,
-      "titres_differents": 2,
-      "minutes_antenne": 6.4
+      "titres_differents": 1,
+      "minutes_antenne": 6.0
     },
     {
       "artistes": "disiz",
@@ -124,20 +130,20 @@
       "nb_diffusions": 2,
       "titres_differents": 1,
       "minutes_antenne": 5.6
-    },
-    {
-      "artistes": "Lagui",
-      "nb_diffusions": 2,
-      "titres_differents": 1,
-      "minutes_antenne": 4.7
     }
   ],
   "top_titres": [
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_diffusions": 6,
-      "minutes_antenne": 15.1
+      "nb_diffusions": 7,
+      "minutes_antenne": 17.6
+    },
+    {
+      "artistes": "Aya Nakamura",
+      "titre": "Sexy Nana",
+      "nb_diffusions": 5,
+      "minutes_antenne": 12.7
     },
     {
       "artistes": "PLK",
@@ -150,12 +156,6 @@
       "titre": "Sicario",
       "nb_diffusions": 5,
       "minutes_antenne": 11.7
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "titre": "Sexy Nana",
-      "nb_diffusions": 4,
-      "minutes_antenne": 10.1
     },
     {
       "artistes": "Bad Bunny",
@@ -180,6 +180,12 @@
       "titre": "La petasse",
       "nb_diffusions": 3,
       "minutes_antenne": 7.3
+    },
+    {
+      "artistes": "Djaksparo",
+      "titre": "Pangor (Swalalala)",
+      "nb_diffusions": 3,
+      "minutes_antenne": 6.0
     },
     {
       "artistes": "Josas",
@@ -224,8 +230,8 @@
       "minutes_antenne": 5.6
     },
     {
-      "artistes": "Djaksparo",
-      "titre": "Pangor (Swalalala)",
+      "artistes": "Gambi",
+      "titre": "COACHELLA",
       "nb_diffusions": 2,
       "minutes_antenne": 4.0
     },
@@ -246,12 +252,6 @@
       "titre": "Je pense à toi",
       "nb_diffusions": 2,
       "minutes_antenne": 5.7
-    },
-    {
-      "artistes": "Lagui",
-      "titre": "Olivia Valere",
-      "nb_diffusions": 2,
-      "minutes_antenne": 4.7
     }
   ],
   "heures": [
@@ -293,11 +293,11 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 5
+      "nb_diffusions": 10
     },
     {
       "heure": 18,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "heure": 21,
@@ -325,8 +325,8 @@
     },
     {
       "date": "2026-09-30",
-      "nb_diffusions": 18,
-      "titres_differents": 14
+      "nb_diffusions": 24,
+      "titres_differents": 17
     }
   ],
   "semaine": [
@@ -340,15 +340,15 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 18
+      "nb_diffusions": 24
     }
   ],
   "recurrents": [
     {
       "artistes": "Tiakola",
       "nb_jours": 3,
-      "nb_diffusions": 7,
-      "minutes": 18.7
+      "nb_diffusions": 8,
+      "minutes": 21.3
     },
     {
       "artistes": "PLK",
@@ -363,16 +363,16 @@
       "minutes": 13.4
     },
     {
+      "artistes": "Aya Nakamura",
+      "nb_jours": 2,
+      "nb_diffusions": 5,
+      "minutes": 12.7
+    },
+    {
       "artistes": "Timal",
       "nb_jours": 2,
       "nb_diffusions": 5,
       "minutes": 11.7
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "nb_jours": 2,
-      "nb_diffusions": 4,
-      "minutes": 10.1
     },
     {
       "artistes": "Bad Bunny",
@@ -381,16 +381,22 @@
       "minutes": 12.2
     },
     {
+      "artistes": "Gambi",
+      "nb_jours": 2,
+      "nb_diffusions": 4,
+      "minutes": 8.4
+    },
+    {
       "artistes": "Leto",
       "nb_jours": 2,
       "nb_diffusions": 4,
       "minutes": 10.5
     },
     {
-      "artistes": "Gambi",
+      "artistes": "Djaksparo",
       "nb_jours": 2,
       "nb_diffusions": 3,
-      "minutes": 6.4
+      "minutes": 6.0
     },
     {
       "artistes": "Josas",
@@ -416,7 +422,7 @@
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 3,
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "artistes": "PLK",
@@ -431,6 +437,12 @@
       "nb_diffusions": 5
     },
     {
+      "artistes": "Aya Nakamura",
+      "titre": "Sexy Nana",
+      "nb_jours": 2,
+      "nb_diffusions": 5
+    },
+    {
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_jours": 2,
@@ -439,12 +451,6 @@
     {
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
-      "nb_jours": 2,
-      "nb_diffusions": 4
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "titre": "Sexy Nana",
       "nb_jours": 2,
       "nb_diffusions": 4
     },
@@ -467,6 +473,12 @@
       "nb_diffusions": 3
     },
     {
+      "artistes": "Djaksparo",
+      "titre": "Pangor (Swalalala)",
+      "nb_jours": 2,
+      "nb_diffusions": 3
+    },
+    {
       "artistes": "Lagui",
       "titre": "Olivia Valere",
       "nb_jours": 2,
@@ -483,7 +495,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 7
+      "nb_diffusions": 8
     },
     {
       "artistes": "GIMS",
@@ -491,14 +503,14 @@
       "nb_diffusions": 5
     },
     {
-      "artistes": "Tame Impala",
+      "artistes": "Gambi",
       "nb_titres_differents": 2,
       "nb_diffusions": 4
     },
     {
-      "artistes": "Gambi",
+      "artistes": "Tame Impala",
       "nb_titres_differents": 2,
-      "nb_diffusions": 3
+      "nb_diffusions": 4
     },
     {
       "artistes": "Guy2bezbar",
@@ -521,11 +533,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 56
+      "nb_diffusions": 59
     },
     {
       "annee": 2025,
-      "nb_diffusions": 17
+      "nb_diffusions": 18
     },
     {
       "annee": 2024,
@@ -537,7 +549,7 @@
     },
     {
       "annee": 2021,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "annee": 2020,
@@ -575,22 +587,27 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 46
+      "nb": 49
     },
     {
       "type_contenu": "Explicit",
-      "nb": 48
+      "nb": 50
     }
   ],
   "albums": [
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "album": "Sicario",
       "artistes": "Timal",
+      "nb_diffusions": 5
+    },
+    {
+      "album": "Sexy Nana",
+      "artistes": "Aya Nakamura",
       "nb_diffusions": 5
     },
     {
@@ -604,11 +621,6 @@
       "nb_diffusions": 4
     },
     {
-      "album": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 4
-    },
-    {
       "album": "Pineapple",
       "artistes": "Leto",
       "nb_diffusions": 4
@@ -617,6 +629,11 @@
       "album": "DeBÍ TiRAR MáS FOToS",
       "artistes": "Bad Bunny",
       "nb_diffusions": 4
+    },
+    {
+      "album": "Pangor (Swalalala)",
+      "artistes": "Djaksparo",
+      "nb_diffusions": 3
     },
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -664,11 +681,6 @@
       "nb_diffusions": 2
     },
     {
-      "album": "Pangor (Swalalala)",
-      "artistes": "Djaksparo",
-      "nb_diffusions": 2
-    },
-    {
       "album": "MADE",
       "artistes": "BIGBANG",
       "nb_diffusions": 2
@@ -685,19 +697,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Deliciosa",
-    "artistes": "Josas",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b691f3bd93fd9eabaf85eeb6ac014197/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.1272903837126516885.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3?hdnea=exp=1790774340~acl=/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3*~data=user_id=0,application_id=42~hmac=b7d3f96eea344c832bd8b2fb299313ed9ee153e16f96613bf50b9278462dfd5a",
+    "titre": "COACHELLA",
+    "artistes": "Gambi",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1790793458~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=36aa59911b82640b8174d5ff08b85577150b241571405bfd1758b38803c51adb",
     "date": "2026-09-30",
-    "heure": 13,
-    "album": "Deliciosa",
-    "annee": 2026,
-    "start_ts": 1790773425,
-    "end_ts": 1790773587
+    "heure": 18,
+    "album": "COACHELLA",
+    "annee": 2025,
+    "start_ts": 1790792434,
+    "end_ts": 1790792555
   },
   "derniers_morceaux": [
+    {
+      "titre": "COACHELLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1790793458~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=36aa59911b82640b8174d5ff08b85577150b241571405bfd1758b38803c51adb",
+      "date": "2026-09-30",
+      "heure": 18,
+      "album": "COACHELLA",
+      "annee": 2025,
+      "start_ts": 1790792434,
+      "end_ts": 1790792555
+    },
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": "Djaksparo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1790793459~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=aec31d795c3e9251073389c74f46debe3a3f2cedef60cf0b88358cc31670736a",
+      "date": "2026-09-30",
+      "heure": 17,
+      "album": "Pangor (Swalalala)",
+      "annee": 2026,
+      "start_ts": 1790790917,
+      "end_ts": 1790791038
+    },
+    {
+      "titre": "Maladie",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-09-30",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790790499,
+      "end_ts": 1790790620
+    },
+    {
+      "titre": "Sexy Nana",
+      "artistes": "Aya Nakamura",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1790793461~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=89a288e34fa0be0b62f985aebc1696e43e760cb9b90b5b170cfde78dce4df9c6",
+      "date": "2026-09-30",
+      "heure": 17,
+      "album": "Sexy Nana",
+      "annee": 2026,
+      "start_ts": 1790790354,
+      "end_ts": 1790790506
+    },
+    {
+      "titre": "Tout en Gucci afro",
+      "artistes": "DJ Anilson",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c2bfdc22dd5db8872b3d074373fd3ffc/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/06/SKYC.5809535952983078706.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/9/0/2b96347041eca505a9c351cfcb1ec8ad.mp3?hdnea=exp=1790793462~acl=/api/1/1/2/b/9/0/2b96347041eca505a9c351cfcb1ec8ad.mp3*~data=user_id=0,application_id=42~hmac=8c2c91fa089e215a8780d19fcc7c1cb412158169ef7c76ecbc2f47f471a322fc",
+      "date": "2026-09-30",
+      "heure": 17,
+      "album": "Tout en Gucci afro",
+      "annee": 2021,
+      "start_ts": 1790790138,
+      "end_ts": 1790790357
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1790793463~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=6de890d95f7ab7bce9befa5df0e28e25edc0a2f1d010da472936ae8136d4d4e6",
+      "date": "2026-09-30",
+      "heure": 17,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1790789989,
+      "end_ts": 1790790140
+    },
     {
       "titre": "Deliciosa",
       "artistes": "Josas",
@@ -749,84 +839,6 @@
       "annee": 2026,
       "start_ts": 1790772912,
       "end_ts": 1790773064
-    },
-    {
-      "titre": "COACHELLA",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1790774344~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=03603120feb7c3240b98e83be8c908d8e35326973d9f89e268324dff34d97ddc",
-      "date": "2026-09-30",
-      "heure": 12,
-      "album": "COACHELLA",
-      "annee": 2025,
-      "start_ts": 1790772788,
-      "end_ts": 1790772909
-    },
-    {
-      "titre": "PROBATION",
-      "artistes": "Gazo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/432ff5009bbae87c7861862253aa24de/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/60/SKYC.7093642616918638560.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/a/0/16abd2baa4ea5c876875f80f96b02495.mp3?hdnea=exp=1790774345~acl=/api/1/1/1/6/a/0/16abd2baa4ea5c876875f80f96b02495.mp3*~data=user_id=0,application_id=42~hmac=d727e6244178b11db4e5c0d2bd2590e8cbf8b163c3ad43838ab2c5d6ab8c71e1",
-      "date": "2026-09-30",
-      "heure": 12,
-      "album": "PROBATION",
-      "annee": 2024,
-      "start_ts": 1790772178,
-      "end_ts": 1790772392
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1790751929~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=4d40a4800fd02e1e685ea7d00ea7e239fb158c76c815707acd7c554ab6ab3481",
-      "date": "2026-09-30",
-      "heure": 6,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1790750562,
-      "end_ts": 1790750715
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1790751930~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=30b6d4aeb8d8282e05308dbfab2428162fae484ba2de6652148d7d77f2db0e76",
-      "date": "2026-09-30",
-      "heure": 6,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1790749302,
-      "end_ts": 1790749446
-    },
-    {
-      "titre": "Pilé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-09-30",
-      "heure": 6,
-      "album": null,
-      "annee": null,
-      "start_ts": 1790748848,
-      "end_ts": 1790748995
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-09-30",
-      "heure": 5,
-      "album": null,
-      "annee": null,
-      "start_ts": 1790747967,
-      "end_ts": 1790748088
     }
   ]
 }
