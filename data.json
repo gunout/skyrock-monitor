@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-01T23:24:19.067682",
-  "genere_ts": 1790897059,
+  "genere_le": "2026-10-02T02:20:12.318575",
+  "genere_ts": 1790907612,
   "volume": {
-    "nb_diffusions": 130,
-    "nb_artistes": 53,
-    "nb_titres": 60,
+    "nb_diffusions": 135,
+    "nb_artistes": 54,
+    "nb_titres": 61,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-01",
-    "heures_antenne": 6.19,
-    "duree_moy_s": 171.5
+    "derniere_date": "2026-10-02",
+    "heures_antenne": 6.45,
+    "duree_moy_s": 171.9
   },
   "top_artistes": [
     {
@@ -37,27 +37,27 @@
     },
     {
       "artistes": "PLK",
+      "nb_diffusions": 7,
+      "titres_differents": 1,
+      "minutes_antenne": 18.9
+    },
+    {
+      "artistes": "Bad Bunny",
       "nb_diffusions": 6,
       "titres_differents": 1,
-      "minutes_antenne": 16.2
+      "minutes_antenne": 18.2
+    },
+    {
+      "artistes": "Guy2bezbar",
+      "nb_diffusions": 6,
+      "titres_differents": 2,
+      "minutes_antenne": 16.0
     },
     {
       "artistes": "GIMS",
       "nb_diffusions": 5,
       "titres_differents": 2,
       "minutes_antenne": 16.0
-    },
-    {
-      "artistes": "Bad Bunny",
-      "nb_diffusions": 5,
-      "titres_differents": 1,
-      "minutes_antenne": 15.2
-    },
-    {
-      "artistes": "Guy2bezbar",
-      "nb_diffusions": 5,
-      "titres_differents": 2,
-      "minutes_antenne": 13.2
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -96,6 +96,12 @@
       "minutes_antenne": 9.3
     },
     {
+      "artistes": "Bouss",
+      "nb_diffusions": 3,
+      "titres_differents": 1,
+      "minutes_antenne": 8.4
+    },
+    {
       "artistes": "Josas",
       "nb_diffusions": 3,
       "titres_differents": 1,
@@ -124,12 +130,6 @@
       "nb_diffusions": 2,
       "titres_differents": 2,
       "minutes_antenne": 7.0
-    },
-    {
-      "artistes": "Yuston XIII",
-      "nb_diffusions": 2,
-      "titres_differents": 1,
-      "minutes_antenne": 6.8
     }
   ],
   "top_titres": [
@@ -138,6 +138,12 @@
       "titre": "Sexy Nana",
       "nb_diffusions": 8,
       "minutes_antenne": 20.3
+    },
+    {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_diffusions": 7,
+      "minutes_antenne": 18.9
     },
     {
       "artistes": "Tiakola",
@@ -152,22 +158,22 @@
       "minutes_antenne": 19.4
     },
     {
-      "artistes": "PLK",
-      "titre": "Pocahontas",
-      "nb_diffusions": 6,
-      "minutes_antenne": 16.2
-    },
-    {
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
-      "nb_diffusions": 5,
-      "minutes_antenne": 15.2
+      "nb_diffusions": 6,
+      "minutes_antenne": 18.2
     },
     {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
       "nb_diffusions": 5,
       "minutes_antenne": 12.2
+    },
+    {
+      "artistes": "Guy2bezbar",
+      "titre": "Je pense à toi",
+      "nb_diffusions": 5,
+      "minutes_antenne": 14.2
     },
     {
       "artistes": "Tame Impala",
@@ -194,16 +200,16 @@
       "minutes_antenne": 12.1
     },
     {
-      "artistes": "Guy2bezbar",
-      "titre": "Je pense à toi",
-      "nb_diffusions": 4,
-      "minutes_antenne": 11.3
-    },
-    {
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_diffusions": 4,
       "minutes_antenne": 10.5
+    },
+    {
+      "artistes": "Bouss",
+      "titre": "Cote à la hausse",
+      "nb_diffusions": 3,
+      "minutes_antenne": 8.4
     },
     {
       "artistes": "Gambi",
@@ -242,12 +248,6 @@
       "minutes_antenne": 7.3
     },
     {
-      "artistes": "Bouss",
-      "titre": "Cote à la hausse",
-      "nb_diffusions": 2,
-      "minutes_antenne": 5.6
-    },
-    {
       "artistes": "Gambi",
       "titre": "COACHELLA",
       "nb_diffusions": 2,
@@ -265,7 +265,7 @@
     },
     {
       "heure": 2,
-      "nb_diffusions": 14
+      "nb_diffusions": 20
     },
     {
       "heure": 3,
@@ -348,6 +348,11 @@
       "date": "2026-10-01",
       "nb_diffusions": 30,
       "titres_differents": 24
+    },
+    {
+      "date": "2026-10-02",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -366,9 +371,19 @@
     {
       "jour": "Jeudi",
       "nb_diffusions": 30
+    },
+    {
+      "jour": "Vendredi",
+      "nb_diffusions": 6
     }
   ],
   "recurrents": [
+    {
+      "artistes": "PLK",
+      "nb_jours": 5,
+      "nb_diffusions": 7,
+      "minutes": 18.9
+    },
     {
       "artistes": "Tiakola",
       "nb_jours": 4,
@@ -376,10 +391,10 @@
       "minutes": 24.9
     },
     {
-      "artistes": "PLK",
+      "artistes": "Bad Bunny",
       "nb_jours": 4,
       "nb_diffusions": 6,
-      "minutes": 16.2
+      "minutes": 18.2
     },
     {
       "artistes": "Tame Impala",
@@ -400,10 +415,10 @@
       "minutes": 19.4
     },
     {
-      "artistes": "Bad Bunny",
+      "artistes": "Guy2bezbar",
       "nb_jours": 3,
-      "nb_diffusions": 5,
-      "minutes": 15.2
+      "nb_diffusions": 6,
+      "minutes": 16.0
     },
     {
       "artistes": "Djaksparo",
@@ -424,12 +439,6 @@
       "minutes": 10.6
     },
     {
-      "artistes": "Guy2bezbar",
-      "nb_jours": 2,
-      "nb_diffusions": 5,
-      "minutes": 13.2
-    },
-    {
       "artistes": "Timal",
       "nb_jours": 2,
       "nb_diffusions": 5,
@@ -440,6 +449,12 @@
       "nb_jours": 2,
       "nb_diffusions": 4,
       "minutes": 10.5
+    },
+    {
+      "artistes": "Bouss",
+      "nb_jours": 2,
+      "nb_diffusions": 3,
+      "minutes": 8.4
     },
     {
       "artistes": "Josas",
@@ -482,6 +497,12 @@
     {
       "artistes": "PLK",
       "titre": "Pocahontas",
+      "nb_jours": 5,
+      "nb_diffusions": 7
+    },
+    {
+      "artistes": "Bad Bunny",
+      "titre": "NUEVAYoL",
       "nb_jours": 4,
       "nb_diffusions": 6
     },
@@ -510,8 +531,8 @@
       "nb_diffusions": 5
     },
     {
-      "artistes": "Bad Bunny",
-      "titre": "NUEVAYoL",
+      "artistes": "Guy2bezbar",
+      "titre": "Je pense à toi",
       "nb_jours": 3,
       "nb_diffusions": 5
     },
@@ -540,12 +561,6 @@
       "nb_diffusions": 4
     },
     {
-      "artistes": "Guy2bezbar",
-      "titre": "Je pense à toi",
-      "nb_jours": 2,
-      "nb_diffusions": 4
-    },
-    {
       "artistes": "Josas",
       "titre": "Deliciosa",
       "nb_jours": 2,
@@ -554,6 +569,12 @@
     {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
+      "nb_jours": 2,
+      "nb_diffusions": 3
+    },
+    {
+      "artistes": "Bouss",
+      "titre": "Cote à la hausse",
       "nb_jours": 2,
       "nb_diffusions": 3
     },
@@ -589,6 +610,11 @@
       "nb_diffusions": 9
     },
     {
+      "artistes": "Guy2bezbar",
+      "nb_titres_differents": 2,
+      "nb_diffusions": 6
+    },
+    {
       "artistes": "Tame Impala",
       "nb_titres_differents": 2,
       "nb_diffusions": 6
@@ -600,11 +626,6 @@
     },
     {
       "artistes": "Gambi",
-      "nb_titres_differents": 2,
-      "nb_diffusions": 5
-    },
-    {
-      "artistes": "Guy2bezbar",
       "nb_titres_differents": 2,
       "nb_diffusions": 5
     },
@@ -634,11 +655,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 78
+      "nb_diffusions": 79
     },
     {
       "annee": 2025,
-      "nb_diffusions": 21
+      "nb_diffusions": 24
     },
     {
       "annee": 2024,
@@ -655,6 +676,10 @@
     {
       "annee": 2020,
       "nb_diffusions": 2
+    },
+    {
+      "annee": 2019,
+      "nb_diffusions": 1
     },
     {
       "annee": 2018,
@@ -692,11 +717,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 63
+      "nb": 65
     },
     {
       "type_contenu": "Explicit",
-      "nb": 65
+      "nb": 68
     }
   ],
   "albums": [
@@ -711,13 +736,18 @@
       "nb_diffusions": 7
     },
     {
+      "album": "Grand Garçon",
+      "artistes": "PLK",
+      "nb_diffusions": 7
+    },
+    {
       "album": "Fille à Papa",
       "artistes": "Vacra",
       "nb_diffusions": 7
     },
     {
-      "album": "Grand Garçon",
-      "artistes": "PLK",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "artistes": "Bad Bunny",
       "nb_diffusions": 6
     },
     {
@@ -731,13 +761,13 @@
       "nb_diffusions": 5
     },
     {
-      "album": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
+      "album": "Jeunesse Dorée",
+      "artistes": "Guy2bezbar",
       "nb_diffusions": 5
     },
     {
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "artistes": "Bad Bunny",
+      "album": "Dracula (with JENNIE)",
+      "artistes": "Tame Impala",
       "nb_diffusions": 5
     },
     {
@@ -756,11 +786,6 @@
       "nb_diffusions": 4
     },
     {
-      "album": "Jeunesse Dorée",
-      "artistes": "Guy2bezbar",
-      "nb_diffusions": 4
-    },
-    {
       "album": "RENÉ CAOVILLA",
       "artistes": "Gambi",
       "nb_diffusions": 3
@@ -768,6 +793,11 @@
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
+      "nb_diffusions": 3
+    },
+    {
+      "album": "Et si j'échoue ??",
+      "artistes": "Bouss",
       "nb_diffusions": 3
     },
     {
@@ -794,27 +824,100 @@
       "album": "WpointM",
       "artistes": "Tiakola",
       "nb_diffusions": 2
-    },
-    {
-      "album": "Players",
-      "artistes": "Groove Crackers",
-      "nb_diffusions": 2
     }
   ],
   "dernier_morceau": {
-    "titre": "La petasse",
-    "artistes": "DJ Jordan MasterBoy",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1790897953~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=cb820febed30a1f2a9468fe48e1438cecde717ac6236d5b59700a969b3d873af",
-    "date": "2026-10-01",
-    "heure": 23,
-    "album": "La petasse",
-    "annee": 2024,
-    "start_ts": 1790897046,
-    "end_ts": 1790897192
+    "titre": "Stay",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/78/SKYC.4110884397233576178.14.0.jpg",
+    "preview_mp3": null,
+    "date": "2026-10-02",
+    "heure": 2,
+    "album": null,
+    "annee": null,
+    "start_ts": 1790907574,
+    "end_ts": 1790907803
   },
   "derniers_morceaux": [
+    {
+      "titre": "Stay",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/78/SKYC.4110884397233576178.14.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-02",
+      "heure": 2,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790907574,
+      "end_ts": 1790907803
+    },
+    {
+      "titre": "Pocahontas",
+      "artistes": "PLK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1790908507~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=e5179cb0fa263b1a28c71479692f9501d4b7d07705c9a0fb8145b920211819c1",
+      "date": "2026-10-02",
+      "heure": 2,
+      "album": "Grand Garçon",
+      "annee": 2026,
+      "start_ts": 1790907408,
+      "end_ts": 1790907570
+    },
+    {
+      "titre": "NUEVAYoL",
+      "artistes": "Bad Bunny",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1790908508~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=6582216defc9c448d135d4dfa47807a5bb7bd69f50351805d4d2b232828efbdf",
+      "date": "2026-10-02",
+      "heure": 2,
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "annee": 2025,
+      "start_ts": 1790907226,
+      "end_ts": 1790907408
+    },
+    {
+      "titre": "Je pense à toi",
+      "artistes": "Guy2bezbar",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f650339f6ac5227a8702147af20fa70a/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.1607869065038250617.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3?hdnea=exp=1790908509~acl=/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3*~data=user_id=0,application_id=42~hmac=03922dab1f5ac6fc2abe0e9a162af89bd40362e675288f29c03e4e3aacf10ea7",
+      "date": "2026-10-02",
+      "heure": 2,
+      "album": "Jeunesse Dorée",
+      "annee": 2025,
+      "start_ts": 1790907056,
+      "end_ts": 1790907226
+    },
+    {
+      "titre": "Giant",
+      "artistes": "Calvin Harris",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/faa77ed242019d1c534e87da6bf153b0/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/86/SKYC.4310476525579147886.30.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/f/0/dbfbde29b0b6fcad262558410fcd2985.mp3?hdnea=exp=1790908510~acl=/api/1/1/d/b/f/0/dbfbde29b0b6fcad262558410fcd2985.mp3*~data=user_id=0,application_id=42~hmac=dbf2d33fa87e4f4790f2959c1d25df9f75e56918a82ef506e0259faeb6149008",
+      "date": "2026-10-02",
+      "heure": 2,
+      "album": "Giant",
+      "annee": 2019,
+      "start_ts": 1790906828,
+      "end_ts": 1790907055
+    },
+    {
+      "titre": "Cote à la hausse",
+      "artistes": "Bouss",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1790908511~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=6c8ec48005e73fd38c7ae01635167ae98705b4af67c0bdb7ba19b2f501ab3026",
+      "date": "2026-10-02",
+      "heure": 2,
+      "album": "Et si j'échoue ??",
+      "annee": 2025,
+      "start_ts": 1790906657,
+      "end_ts": 1790906825
+    },
     {
       "titre": "La petasse",
       "artistes": "DJ Jordan MasterBoy",
@@ -866,84 +969,6 @@
       "annee": 2025,
       "start_ts": 1790896523,
       "end_ts": 1790896705
-    },
-    {
-      "titre": "Je pense à toi",
-      "artistes": "Guy2bezbar",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f650339f6ac5227a8702147af20fa70a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.1607869065038250617.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3?hdnea=exp=1790897956~acl=/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3*~data=user_id=0,application_id=42~hmac=ffc3511df3cde1a84db48437bc14803fb089fdcd8ac36f98cda0df3306aba41f",
-      "date": "2026-10-01",
-      "heure": 23,
-      "album": "Jeunesse Dorée",
-      "annee": 2025,
-      "start_ts": 1790896351,
-      "end_ts": 1790896521
-    },
-    {
-      "titre": "Watch Me (Whip / Nae Nae)",
-      "artistes": "Silentó",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/294810837e79077c74039a2bde044dfe/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/60/SKYC.7086406359770834360.30.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/0/0/a204688c7e74520e3342609aefafb17b.mp3?hdnea=exp=1790897957~acl=/api/1/1/a/2/0/0/a204688c7e74520e3342609aefafb17b.mp3*~data=user_id=0,application_id=42~hmac=598cec66d3e2cfc6a99c8058717f21808c11f7edf02a2bdbb6be67dd955f5610",
-      "date": "2026-10-01",
-      "heure": 23,
-      "album": "Watch Me (Whip / Nae Nae)",
-      "annee": 2015,
-      "start_ts": 1790896173,
-      "end_ts": 1790896351
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1790884485~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=c4bf8c5a4c6ee34166dbb2d04704365bb652d906a4f99f1b4ee53c89007b8162",
-      "date": "2026-10-01",
-      "heure": 19,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1790883195,
-      "end_ts": 1790883357
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1790884486~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=16a5f131fcb4a37423fddd81d7b0ed3376f20a042492f91fb5090c128b49ec6b",
-      "date": "2026-10-01",
-      "heure": 18,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1790881162,
-      "end_ts": 1790881328
-    },
-    {
-      "titre": "Pangor (Swalalala)",
-      "artistes": "Djaksparo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1790884486~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=7dd54e526f81f07c197eaadb3738ab6600bb3b68ed72a134a4c191f289814bac",
-      "date": "2026-10-01",
-      "heure": 18,
-      "album": "Pangor (Swalalala)",
-      "annee": 2026,
-      "start_ts": 1790878734,
-      "end_ts": 1790878855
-    },
-    {
-      "titre": "Belvedere",
-      "artistes": "Bello&Dallas",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c9ee3f22f0b2d8eedaf73188f176fa79/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.2521995968359080751.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/d/0/e6d7d35c2b5a003742d7885dcc946e55.mp3?hdnea=exp=1790884487~acl=/api/1/1/e/6/d/0/e6d7d35c2b5a003742d7885dcc946e55.mp3*~data=user_id=0,application_id=42~hmac=d7dab6d9900b5d74f344ddd81f5a1b7770b2ab2c90556fa0a5cac5596bef69fb",
-      "date": "2026-10-01",
-      "heure": 17,
-      "album": "Belvedere",
-      "annee": 2026,
-      "start_ts": 1790877059,
-      "end_ts": 1790877180
     }
   ]
 }
