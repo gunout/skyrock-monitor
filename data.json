@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-02T08:38:41.646057",
-  "genere_ts": 1790930321,
+  "genere_le": "2026-10-02T14:57:45.658875",
+  "genere_ts": 1790953065,
   "volume": {
-    "nb_diffusions": 140,
-    "nb_artistes": 55,
-    "nb_titres": 62,
+    "nb_diffusions": 146,
+    "nb_artistes": 56,
+    "nb_titres": 63,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-02",
-    "heures_antenne": 6.69,
+    "heures_antenne": 6.97,
     "duree_moy_s": 171.9
   },
   "top_artistes": [
@@ -48,6 +48,12 @@
       "minutes_antenne": 18.2
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 7,
+      "titres_differents": 1,
+      "minutes_antenne": 17.0
+    },
+    {
       "artistes": "Guy2bezbar",
       "nb_diffusions": 6,
       "titres_differents": 2,
@@ -60,28 +66,28 @@
       "minutes_antenne": 16.0
     },
     {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 6,
+      "artistes": "KAROL G",
+      "nb_diffusions": 4,
       "titres_differents": 1,
-      "minutes_antenne": 14.6
+      "minutes_antenne": 14.9
+    },
+    {
+      "artistes": "Gambi",
+      "nb_diffusions": 7,
+      "titres_differents": 2,
+      "minutes_antenne": 14.8
+    },
+    {
+      "artistes": "Slimane",
+      "nb_diffusions": 4,
+      "titres_differents": 1,
+      "minutes_antenne": 12.4
     },
     {
       "artistes": "Timal",
       "nb_diffusions": 5,
       "titres_differents": 1,
       "minutes_antenne": 11.7
-    },
-    {
-      "artistes": "KAROL G",
-      "nb_diffusions": 3,
-      "titres_differents": 1,
-      "minutes_antenne": 11.2
-    },
-    {
-      "artistes": "Gambi",
-      "nb_diffusions": 5,
-      "titres_differents": 2,
-      "minutes_antenne": 10.6
     },
     {
       "artistes": "Leto",
@@ -100,12 +106,6 @@
       "nb_diffusions": 3,
       "titres_differents": 1,
       "minutes_antenne": 9.6
-    },
-    {
-      "artistes": "Slimane",
-      "nb_diffusions": 3,
-      "titres_differents": 1,
-      "minutes_antenne": 9.3
     },
     {
       "artistes": "Bouss",
@@ -146,6 +146,12 @@
       "minutes_antenne": 22.1
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_diffusions": 7,
+      "minutes_antenne": 17.0
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_diffusions": 7,
@@ -162,12 +168,6 @@
       "titre": "NUEVAYoL",
       "nb_diffusions": 6,
       "minutes_antenne": 18.2
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
-      "nb_diffusions": 6,
-      "minutes_antenne": 14.6
     },
     {
       "artistes": "Guy2bezbar",
@@ -200,10 +200,28 @@
       "minutes_antenne": 12.1
     },
     {
+      "artistes": "Gambi",
+      "titre": "RENÉ CAOVILLA",
+      "nb_diffusions": 4,
+      "minutes_antenne": 8.7
+    },
+    {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
+      "nb_diffusions": 4,
+      "minutes_antenne": 14.9
+    },
+    {
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_diffusions": 4,
       "minutes_antenne": 10.5
+    },
+    {
+      "artistes": "Slimane",
+      "titre": "Maladie",
+      "nb_diffusions": 4,
+      "minutes_antenne": 12.4
     },
     {
       "artistes": "Ariana Grande",
@@ -219,9 +237,9 @@
     },
     {
       "artistes": "Gambi",
-      "titre": "RENÉ CAOVILLA",
+      "titre": "COACHELLA",
       "nb_diffusions": 3,
-      "minutes_antenne": 6.5
+      "minutes_antenne": 6.0
     },
     {
       "artistes": "Josas",
@@ -230,28 +248,10 @@
       "minutes_antenne": 8.1
     },
     {
-      "artistes": "KAROL G",
-      "titre": "BbY WOW",
-      "nb_diffusions": 3,
-      "minutes_antenne": 11.2
-    },
-    {
-      "artistes": "Slimane",
-      "titre": "Maladie",
-      "nb_diffusions": 3,
-      "minutes_antenne": 9.3
-    },
-    {
       "artistes": "Yuston XIII",
       "titre": "Histoire sans fin",
       "nb_diffusions": 3,
       "minutes_antenne": 10.3
-    },
-    {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
-      "nb_diffusions": 2,
-      "minutes_antenne": 7.3
     }
   ],
   "heures": [
@@ -301,7 +301,7 @@
     },
     {
       "heure": 14,
-      "nb_diffusions": 6
+      "nb_diffusions": 12
     },
     {
       "heure": 17,
@@ -355,8 +355,8 @@
     },
     {
       "date": "2026-10-02",
-      "nb_diffusions": 12,
-      "titres_differents": 12
+      "nb_diffusions": 18,
+      "titres_differents": 17
     }
   ],
   "semaine": [
@@ -378,7 +378,7 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 12
+      "nb_diffusions": 18
     }
   ],
   "recurrents": [
@@ -421,8 +421,14 @@
     {
       "artistes": "DJ Jordan MasterBoy",
       "nb_jours": 3,
-      "nb_diffusions": 6,
-      "minutes": 14.6
+      "nb_diffusions": 7,
+      "minutes": 17.0
+    },
+    {
+      "artistes": "Gambi",
+      "nb_jours": 3,
+      "nb_diffusions": 7,
+      "minutes": 14.8
     },
     {
       "artistes": "Guy2bezbar",
@@ -443,22 +449,28 @@
       "minutes": 9.6
     },
     {
-      "artistes": "Gambi",
-      "nb_jours": 2,
-      "nb_diffusions": 5,
-      "minutes": 10.6
-    },
-    {
       "artistes": "Timal",
       "nb_jours": 2,
       "nb_diffusions": 5,
       "minutes": 11.7
     },
     {
+      "artistes": "KAROL G",
+      "nb_jours": 2,
+      "nb_diffusions": 4,
+      "minutes": 14.9
+    },
+    {
       "artistes": "Leto",
       "nb_jours": 2,
       "nb_diffusions": 4,
       "minutes": 10.5
+    },
+    {
+      "artistes": "Slimane",
+      "nb_jours": 2,
+      "nb_diffusions": 4,
+      "minutes": 12.4
     },
     {
       "artistes": "Bouss",
@@ -489,18 +501,6 @@
       "nb_jours": 2,
       "nb_diffusions": 2,
       "minutes": 4.7
-    },
-    {
-      "artistes": "Niska",
-      "nb_jours": 2,
-      "nb_diffusions": 2,
-      "minutes": 5.6
-    },
-    {
-      "artistes": "The Weeknd",
-      "nb_jours": 2,
-      "nb_diffusions": 2,
-      "minutes": 7.4
     }
   ],
   "titres_recurrents": [
@@ -538,7 +538,7 @@
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
       "nb_jours": 3,
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "artistes": "Tame Impala",
@@ -551,6 +551,12 @@
       "titre": "Je pense à toi",
       "nb_jours": 3,
       "nb_diffusions": 5
+    },
+    {
+      "artistes": "Gambi",
+      "titre": "RENÉ CAOVILLA",
+      "nb_jours": 3,
+      "nb_diffusions": 4
     },
     {
       "artistes": "Djaksparo",
@@ -571,8 +577,20 @@
       "nb_diffusions": 5
     },
     {
+      "artistes": "Slimane",
+      "titre": "Maladie",
+      "nb_jours": 2,
+      "nb_diffusions": 4
+    },
+    {
       "artistes": "Leto",
       "titre": "Pineapple",
+      "nb_jours": 2,
+      "nb_diffusions": 4
+    },
+    {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
       "nb_jours": 2,
       "nb_diffusions": 4
     },
@@ -590,7 +608,7 @@
     },
     {
       "artistes": "Gambi",
-      "titre": "RENÉ CAOVILLA",
+      "titre": "COACHELLA",
       "nb_jours": 2,
       "nb_diffusions": 3
     },
@@ -605,18 +623,6 @@
       "titre": "La Nocturne",
       "nb_jours": 2,
       "nb_diffusions": 2
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_jours": 2,
-      "nb_diffusions": 2
-    },
-    {
-      "artistes": "Lagui",
-      "titre": "Olivia Valere",
-      "nb_jours": 2,
-      "nb_diffusions": 2
     }
   ],
   "diversifies": [
@@ -624,6 +630,11 @@
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
       "nb_diffusions": 9
+    },
+    {
+      "artistes": "Gambi",
+      "nb_titres_differents": 2,
+      "nb_diffusions": 7
     },
     {
       "artistes": "Guy2bezbar",
@@ -637,11 +648,6 @@
     },
     {
       "artistes": "GIMS",
-      "nb_titres_differents": 2,
-      "nb_diffusions": 5
-    },
-    {
-      "artistes": "Gambi",
       "nb_titres_differents": 2,
       "nb_diffusions": 5
     },
@@ -671,19 +677,19 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 82
+      "nb_diffusions": 84
     },
     {
       "annee": 2025,
-      "nb_diffusions": 25
+      "nb_diffusions": 27
     },
     {
       "annee": 2024,
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "annee": 2022,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     },
     {
       "annee": 2021,
@@ -733,11 +739,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 67
+      "nb": 70
     },
     {
       "type_contenu": "Explicit",
-      "nb": 71
+      "nb": 74
     }
   ],
   "albums": [
@@ -757,14 +763,14 @@
       "nb_diffusions": 7
     },
     {
-      "album": "Grand Garçon",
-      "artistes": "PLK",
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 7
     },
     {
-      "album": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 6
+      "album": "Grand Garçon",
+      "artistes": "PLK",
+      "nb_diffusions": 7
     },
     {
       "album": "DeBÍ TiRAR MáS FOToS",
@@ -792,6 +798,11 @@
       "nb_diffusions": 4
     },
     {
+      "album": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "nb_diffusions": 4
+    },
+    {
       "album": "Pineapple",
       "artistes": "Leto",
       "nb_diffusions": 4
@@ -802,18 +813,18 @@
       "nb_diffusions": 4
     },
     {
-      "album": "hate that i made you love me",
-      "artistes": "Ariana Grande",
-      "nb_diffusions": 3
-    },
-    {
-      "album": "RENÉ CAOVILLA",
-      "artistes": "Gambi",
-      "nb_diffusions": 3
-    },
-    {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
+      "nb_diffusions": 4
+    },
+    {
+      "album": "Chroniques d’un cupidon",
+      "artistes": "Slimane",
+      "nb_diffusions": 4
+    },
+    {
+      "album": "hate that i made you love me",
+      "artistes": "Ariana Grande",
       "nb_diffusions": 3
     },
     {
@@ -832,30 +843,103 @@
       "nb_diffusions": 3
     },
     {
-      "album": "Chroniques d’un cupidon",
-      "artistes": "Slimane",
+      "album": "COACHELLA",
+      "artistes": "Gambi",
       "nb_diffusions": 3
-    },
-    {
-      "album": "melodrama",
-      "artistes": "disiz",
-      "nb_diffusions": 2
     }
   ],
   "dernier_morceau": {
-    "titre": "Ready Or Not",
-    "artistes": null,
-    "cover_deezer": null,
-    "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.7700563358815902022.14.0.jpg",
-    "preview_mp3": null,
+    "titre": "Maladie",
+    "artistes": "Slimane",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1790953958~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=d18f156955a7f2c85971187d098bfe29c5c4cb0d2604ce7d83eae2baf085987d",
     "date": "2026-10-02",
-    "heure": 8,
-    "album": null,
-    "annee": null,
-    "start_ts": 1790930175,
-    "end_ts": 1790930393
+    "heure": 14,
+    "album": "Chroniques d’un cupidon",
+    "annee": 2022,
+    "start_ts": 1790952902,
+    "end_ts": 1790953088
   },
   "derniers_morceaux": [
+    {
+      "titre": "Maladie",
+      "artistes": "Slimane",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1790953958~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=d18f156955a7f2c85971187d098bfe29c5c4cb0d2604ce7d83eae2baf085987d",
+      "date": "2026-10-02",
+      "heure": 14,
+      "album": "Chroniques d’un cupidon",
+      "annee": 2022,
+      "start_ts": 1790952902,
+      "end_ts": 1790953088
+    },
+    {
+      "titre": "COACHELLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1790953959~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=583cdf3770426062b3eebed00936282b3b5e5141c55c6b0d8ae9d4cd998d3d68",
+      "date": "2026-10-02",
+      "heure": 14,
+      "album": "COACHELLA",
+      "annee": 2025,
+      "start_ts": 1790952777,
+      "end_ts": 1790952898
+    },
+    {
+      "titre": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1790953960~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=59a2408edccf04db9a742d8e8ed941ad75edd53311d813dcffe486594f6bcab6",
+      "date": "2026-10-02",
+      "heure": 14,
+      "album": "RENÉ CAOVILLA",
+      "annee": 2026,
+      "start_ts": 1790952271,
+      "end_ts": 1790952402
+    },
+    {
+      "titre": "BbY WOW",
+      "artistes": "KAROL G",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1790953962~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=b3d721095debb558a7410a361a2f358937a4d639e35bb1e8c96fbaba0d06e156",
+      "date": "2026-10-02",
+      "heure": 14,
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "annee": 2026,
+      "start_ts": 1790952056,
+      "end_ts": 1790952279
+    },
+    {
+      "titre": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1790953963~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=489e058f8d451ec31dff1e15cffeaa650e3e08c5bceb1e389f6c56b8830467d5",
+      "date": "2026-10-02",
+      "heure": 14,
+      "album": "La petasse",
+      "annee": 2024,
+      "start_ts": 1790951913,
+      "end_ts": 1790952059
+    },
+    {
+      "titre": "Say It Right",
+      "artistes": "fwd/slash",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/394adafdfb8b3281fb1326c92ecf3680/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/80/SKYC.7612315212508936880.12.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/7/0/1f79a6d70bb71235f77700125190322e.mp3?hdnea=exp=1790953964~acl=/api/1/1/1/f/7/0/1f79a6d70bb71235f77700125190322e.mp3*~data=user_id=0,application_id=42~hmac=502fa99eefafd686b3a4fb880e388b5b03ee2796b39b8f5a47d98a1c92831fc0",
+      "date": "2026-10-02",
+      "heure": 14,
+      "album": "Say It Right",
+      "annee": 2025,
+      "start_ts": 1790951710,
+      "end_ts": 1790951922
+    },
     {
       "titre": "Ready Or Not",
       "artistes": null,
@@ -907,84 +991,6 @@
       "annee": 2025,
       "start_ts": 1790929612,
       "end_ts": 1790929768
-    },
-    {
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "artistes": "Ariana Grande",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1790931219~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=2f89659a2c7f58082ce7e6094f736c9c46328ff9941e3ba8dc16181ad5a9d281",
-      "date": "2026-10-02",
-      "heure": 8,
-      "album": "hate that i made you love me",
-      "annee": 2026,
-      "start_ts": 1790929419,
-      "end_ts": 1790929611
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1790931220~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=dec2d67febadd11ae02c3ed507dc3079aab0ebc9ef59cbb3540b6f4e3d382055",
-      "date": "2026-10-02",
-      "heure": 8,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1790929269,
-      "end_ts": 1790929415
-    },
-    {
-      "titre": "Stay",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/78/SKYC.4110884397233576178.14.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-02",
-      "heure": 2,
-      "album": null,
-      "annee": null,
-      "start_ts": 1790907574,
-      "end_ts": 1790907803
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1790908507~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=e5179cb0fa263b1a28c71479692f9501d4b7d07705c9a0fb8145b920211819c1",
-      "date": "2026-10-02",
-      "heure": 2,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1790907408,
-      "end_ts": 1790907570
-    },
-    {
-      "titre": "NUEVAYoL",
-      "artistes": "Bad Bunny",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1790908508~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=6582216defc9c448d135d4dfa47807a5bb7bd69f50351805d4d2b232828efbdf",
-      "date": "2026-10-02",
-      "heure": 2,
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "annee": 2025,
-      "start_ts": 1790907226,
-      "end_ts": 1790907408
-    },
-    {
-      "titre": "Je pense à toi",
-      "artistes": "Guy2bezbar",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f650339f6ac5227a8702147af20fa70a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.1607869065038250617.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3?hdnea=exp=1790908509~acl=/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3*~data=user_id=0,application_id=42~hmac=03922dab1f5ac6fc2abe0e9a162af89bd40362e675288f29c03e4e3aacf10ea7",
-      "date": "2026-10-02",
-      "heure": 2,
-      "album": "Jeunesse Dorée",
-      "annee": 2025,
-      "start_ts": 1790907056,
-      "end_ts": 1790907226
     }
   ]
 }
