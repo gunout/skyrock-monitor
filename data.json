@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-02T02:20:12.318575",
-  "genere_ts": 1790907612,
+  "genere_le": "2026-10-02T08:38:41.646057",
+  "genere_ts": 1790930321,
   "volume": {
-    "nb_diffusions": 135,
-    "nb_artistes": 54,
-    "nb_titres": 61,
+    "nb_diffusions": 140,
+    "nb_artistes": 55,
+    "nb_titres": 62,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-02",
-    "heures_antenne": 6.45,
+    "heures_antenne": 6.69,
     "duree_moy_s": 171.9
   },
   "top_artistes": [
@@ -16,6 +16,12 @@
       "nb_diffusions": 9,
       "titres_differents": 2,
       "minutes_antenne": 24.9
+    },
+    {
+      "artistes": "Vacra",
+      "nb_diffusions": 8,
+      "titres_differents": 1,
+      "minutes_antenne": 22.1
     },
     {
       "artistes": "Aya Nakamura",
@@ -28,12 +34,6 @@
       "nb_diffusions": 6,
       "titres_differents": 2,
       "minutes_antenne": 20.1
-    },
-    {
-      "artistes": "Vacra",
-      "nb_diffusions": 7,
-      "titres_differents": 1,
-      "minutes_antenne": 19.4
     },
     {
       "artistes": "PLK",
@@ -61,9 +61,9 @@
     },
     {
       "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 5,
+      "nb_diffusions": 6,
       "titres_differents": 1,
-      "minutes_antenne": 12.2
+      "minutes_antenne": 14.6
     },
     {
       "artistes": "Timal",
@@ -88,6 +88,18 @@
       "nb_diffusions": 4,
       "titres_differents": 1,
       "minutes_antenne": 10.5
+    },
+    {
+      "artistes": "Yuston XIII",
+      "nb_diffusions": 3,
+      "titres_differents": 1,
+      "minutes_antenne": 10.3
+    },
+    {
+      "artistes": "Ariana Grande",
+      "nb_diffusions": 3,
+      "titres_differents": 1,
+      "minutes_antenne": 9.6
     },
     {
       "artistes": "Slimane",
@@ -118,18 +130,6 @@
       "nb_diffusions": 2,
       "titres_differents": 2,
       "minutes_antenne": 7.4
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_diffusions": 2,
-      "titres_differents": 1,
-      "minutes_antenne": 7.3
-    },
-    {
-      "artistes": "Beyoncé",
-      "nb_diffusions": 2,
-      "titres_differents": 2,
-      "minutes_antenne": 7.0
     }
   ],
   "top_titres": [
@@ -138,6 +138,12 @@
       "titre": "Sexy Nana",
       "nb_diffusions": 8,
       "minutes_antenne": 20.3
+    },
+    {
+      "artistes": "Vacra",
+      "titre": "Fille à Papa",
+      "nb_diffusions": 8,
+      "minutes_antenne": 22.1
     },
     {
       "artistes": "PLK",
@@ -152,12 +158,6 @@
       "minutes_antenne": 17.6
     },
     {
-      "artistes": "Vacra",
-      "titre": "Fille à Papa",
-      "nb_diffusions": 7,
-      "minutes_antenne": 19.4
-    },
-    {
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
       "nb_diffusions": 6,
@@ -166,8 +166,8 @@
     {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
-      "nb_diffusions": 5,
-      "minutes_antenne": 12.2
+      "nb_diffusions": 6,
+      "minutes_antenne": 14.6
     },
     {
       "artistes": "Guy2bezbar",
@@ -206,6 +206,12 @@
       "minutes_antenne": 10.5
     },
     {
+      "artistes": "Ariana Grande",
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "nb_diffusions": 3,
+      "minutes_antenne": 9.6
+    },
+    {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
       "nb_diffusions": 3,
@@ -236,22 +242,16 @@
       "minutes_antenne": 9.3
     },
     {
-      "artistes": "Ariana Grande",
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "nb_diffusions": 2,
-      "minutes_antenne": 6.4
+      "artistes": "Yuston XIII",
+      "titre": "Histoire sans fin",
+      "nb_diffusions": 3,
+      "minutes_antenne": 10.3
     },
     {
       "artistes": "BIGBANG",
       "titre": "LOSER",
       "nb_diffusions": 2,
       "minutes_antenne": 7.3
-    },
-    {
-      "artistes": "Gambi",
-      "titre": "COACHELLA",
-      "nb_diffusions": 2,
-      "minutes_antenne": 4.0
     }
   ],
   "heures": [
@@ -286,6 +286,10 @@
     {
       "heure": 7,
       "nb_diffusions": 1
+    },
+    {
+      "heure": 8,
+      "nb_diffusions": 6
     },
     {
       "heure": 12,
@@ -351,8 +355,8 @@
     },
     {
       "date": "2026-10-02",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 12
     }
   ],
   "semaine": [
@@ -374,7 +378,7 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 6
+      "nb_diffusions": 12
     }
   ],
   "recurrents": [
@@ -389,6 +393,12 @@
       "nb_jours": 4,
       "nb_diffusions": 9,
       "minutes": 24.9
+    },
+    {
+      "artistes": "Vacra",
+      "nb_jours": 4,
+      "nb_diffusions": 8,
+      "minutes": 22.1
     },
     {
       "artistes": "Bad Bunny",
@@ -409,10 +419,10 @@
       "minutes": 20.3
     },
     {
-      "artistes": "Vacra",
+      "artistes": "DJ Jordan MasterBoy",
       "nb_jours": 3,
-      "nb_diffusions": 7,
-      "minutes": 19.4
+      "nb_diffusions": 6,
+      "minutes": 14.6
     },
     {
       "artistes": "Guy2bezbar",
@@ -427,10 +437,10 @@
       "minutes": 8.0
     },
     {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_jours": 2,
-      "nb_diffusions": 5,
-      "minutes": 12.2
+      "artistes": "Ariana Grande",
+      "nb_jours": 3,
+      "nb_diffusions": 3,
+      "minutes": 9.6
     },
     {
       "artistes": "Gambi",
@@ -463,10 +473,10 @@
       "minutes": 8.1
     },
     {
-      "artistes": "Ariana Grande",
+      "artistes": "Yuston XIII",
       "nb_jours": 2,
-      "nb_diffusions": 2,
-      "minutes": 6.4
+      "nb_diffusions": 3,
+      "minutes": 10.3
     },
     {
       "artistes": "Beyoncé",
@@ -501,6 +511,12 @@
       "nb_diffusions": 7
     },
     {
+      "artistes": "Vacra",
+      "titre": "Fille à Papa",
+      "nb_jours": 4,
+      "nb_diffusions": 8
+    },
+    {
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
       "nb_jours": 4,
@@ -513,16 +529,16 @@
       "nb_diffusions": 8
     },
     {
-      "artistes": "Vacra",
-      "titre": "Fille à Papa",
-      "nb_jours": 3,
-      "nb_diffusions": 7
-    },
-    {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 3,
       "nb_diffusions": 7
+    },
+    {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_jours": 3,
+      "nb_diffusions": 6
     },
     {
       "artistes": "Tame Impala",
@@ -543,14 +559,14 @@
       "nb_diffusions": 4
     },
     {
-      "artistes": "Timal",
-      "titre": "Sicario",
-      "nb_jours": 2,
-      "nb_diffusions": 5
+      "artistes": "Ariana Grande",
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "nb_jours": 3,
+      "nb_diffusions": 3
     },
     {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
+      "artistes": "Timal",
+      "titre": "Sicario",
       "nb_jours": 2,
       "nb_diffusions": 5
     },
@@ -559,6 +575,12 @@
       "titre": "Pineapple",
       "nb_jours": 2,
       "nb_diffusions": 4
+    },
+    {
+      "artistes": "Yuston XIII",
+      "titre": "Histoire sans fin",
+      "nb_jours": 2,
+      "nb_diffusions": 3
     },
     {
       "artistes": "Josas",
@@ -593,12 +615,6 @@
     {
       "artistes": "Lagui",
       "titre": "Olivia Valere",
-      "nb_jours": 2,
-      "nb_diffusions": 2
-    },
-    {
-      "artistes": "Ariana Grande",
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
       "nb_jours": 2,
       "nb_diffusions": 2
     }
@@ -655,15 +671,15 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 79
+      "nb_diffusions": 82
     },
     {
       "annee": 2025,
-      "nb_diffusions": 24
+      "nb_diffusions": 25
     },
     {
       "annee": 2024,
-      "nb_diffusions": 11
+      "nb_diffusions": 12
     },
     {
       "annee": 2022,
@@ -717,17 +733,22 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 65
+      "nb": 67
     },
     {
       "type_contenu": "Explicit",
-      "nb": 68
+      "nb": 71
     }
   ],
   "albums": [
     {
       "album": "Sexy Nana",
       "artistes": "Aya Nakamura",
+      "nb_diffusions": 8
+    },
+    {
+      "album": "Fille à Papa",
+      "artistes": "Vacra",
       "nb_diffusions": 8
     },
     {
@@ -741,9 +762,9 @@
       "nb_diffusions": 7
     },
     {
-      "album": "Fille à Papa",
-      "artistes": "Vacra",
-      "nb_diffusions": 7
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 6
     },
     {
       "album": "DeBÍ TiRAR MáS FOToS",
@@ -753,11 +774,6 @@
     {
       "album": "Sicario",
       "artistes": "Timal",
-      "nb_diffusions": 5
-    },
-    {
-      "album": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 5
     },
     {
@@ -786,6 +802,11 @@
       "nb_diffusions": 4
     },
     {
+      "album": "hate that i made you love me",
+      "artistes": "Ariana Grande",
+      "nb_diffusions": 3
+    },
+    {
       "album": "RENÉ CAOVILLA",
       "artistes": "Gambi",
       "nb_diffusions": 3
@@ -793,6 +814,11 @@
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
+      "nb_diffusions": 3
+    },
+    {
+      "album": "Les Enfants du Chaos",
+      "artistes": "Yuston XIII",
       "nb_diffusions": 3
     },
     {
@@ -814,32 +840,100 @@
       "album": "melodrama",
       "artistes": "disiz",
       "nb_diffusions": 2
-    },
-    {
-      "album": "hate that i made you love me",
-      "artistes": "Ariana Grande",
-      "nb_diffusions": 2
-    },
-    {
-      "album": "WpointM",
-      "artistes": "Tiakola",
-      "nb_diffusions": 2
     }
   ],
   "dernier_morceau": {
-    "titre": "Stay",
+    "titre": "Ready Or Not",
     "artistes": null,
     "cover_deezer": null,
-    "cover_uri": "https://media.skyrock.fm/covers/78/SKYC.4110884397233576178.14.0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.7700563358815902022.14.0.jpg",
     "preview_mp3": null,
     "date": "2026-10-02",
-    "heure": 2,
+    "heure": 8,
     "album": null,
     "annee": null,
-    "start_ts": 1790907574,
-    "end_ts": 1790907803
+    "start_ts": 1790930175,
+    "end_ts": 1790930393
   },
   "derniers_morceaux": [
+    {
+      "titre": "Ready Or Not",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.7700563358815902022.14.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-02",
+      "heure": 8,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790930175,
+      "end_ts": 1790930393
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1790931216~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=4f42f3b8997dd56032b8a2ccbddba71ef07c2772ebcc0ff2e9eeb2dfc09b63c4",
+      "date": "2026-10-02",
+      "heure": 8,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1790930007,
+      "end_ts": 1790930173
+    },
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1790931217~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=172ba937b48efc7827fc2452b49402bc9c39a0d146b40f3141813b99a2cc814f",
+      "date": "2026-10-02",
+      "heure": 8,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1790929770,
+      "end_ts": 1790929975
+    },
+    {
+      "titre": "UBER",
+      "artistes": "Cinco",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/518970baba39e7453016999fec796ef2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/a/0/56a08de0bfc9c522bb11add327333050.mp3?hdnea=exp=1790931218~acl=/api/1/1/5/6/a/0/56a08de0bfc9c522bb11add327333050.mp3*~data=user_id=0,application_id=42~hmac=a2b1b7f0d0a4d1cc8e9204518e62449f457a741dddaa5ca825a9137b047ed8f8",
+      "date": "2026-10-02",
+      "heure": 8,
+      "album": "TRAP LESSONS VOL.1",
+      "annee": 2025,
+      "start_ts": 1790929612,
+      "end_ts": 1790929768
+    },
+    {
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "artistes": "Ariana Grande",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1790931219~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=2f89659a2c7f58082ce7e6094f736c9c46328ff9941e3ba8dc16181ad5a9d281",
+      "date": "2026-10-02",
+      "heure": 8,
+      "album": "hate that i made you love me",
+      "annee": 2026,
+      "start_ts": 1790929419,
+      "end_ts": 1790929611
+    },
+    {
+      "titre": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1790931220~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=dec2d67febadd11ae02c3ed507dc3079aab0ebc9ef59cbb3540b6f4e3d382055",
+      "date": "2026-10-02",
+      "heure": 8,
+      "album": "La petasse",
+      "annee": 2024,
+      "start_ts": 1790929269,
+      "end_ts": 1790929415
+    },
     {
       "titre": "Stay",
       "artistes": null,
@@ -891,84 +985,6 @@
       "annee": 2025,
       "start_ts": 1790907056,
       "end_ts": 1790907226
-    },
-    {
-      "titre": "Giant",
-      "artistes": "Calvin Harris",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/faa77ed242019d1c534e87da6bf153b0/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/86/SKYC.4310476525579147886.30.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/f/0/dbfbde29b0b6fcad262558410fcd2985.mp3?hdnea=exp=1790908510~acl=/api/1/1/d/b/f/0/dbfbde29b0b6fcad262558410fcd2985.mp3*~data=user_id=0,application_id=42~hmac=dbf2d33fa87e4f4790f2959c1d25df9f75e56918a82ef506e0259faeb6149008",
-      "date": "2026-10-02",
-      "heure": 2,
-      "album": "Giant",
-      "annee": 2019,
-      "start_ts": 1790906828,
-      "end_ts": 1790907055
-    },
-    {
-      "titre": "Cote à la hausse",
-      "artistes": "Bouss",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1790908511~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=6c8ec48005e73fd38c7ae01635167ae98705b4af67c0bdb7ba19b2f501ab3026",
-      "date": "2026-10-02",
-      "heure": 2,
-      "album": "Et si j'échoue ??",
-      "annee": 2025,
-      "start_ts": 1790906657,
-      "end_ts": 1790906825
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1790897953~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=cb820febed30a1f2a9468fe48e1438cecde717ac6236d5b59700a969b3d873af",
-      "date": "2026-10-01",
-      "heure": 23,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1790897046,
-      "end_ts": 1790897192
-    },
-    {
-      "titre": "She Doesn't Mind",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4090751617577463520.6.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-01",
-      "heure": 23,
-      "album": null,
-      "annee": null,
-      "start_ts": 1790896820,
-      "end_ts": 1790897043
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1790897954~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=880453c7fec8f10bcc78b5bb23bcdfa69f0f9c7af208828303dd25635ca3930c",
-      "date": "2026-10-01",
-      "heure": 23,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1790896702,
-      "end_ts": 1790896814
-    },
-    {
-      "titre": "NUEVAYoL",
-      "artistes": "Bad Bunny",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1790897955~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=57786a00cb62a9239b0b5cf22fa4d3c727aab5406d78e03fb612d091cff2f818",
-      "date": "2026-10-01",
-      "heure": 23,
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "annee": 2025,
-      "start_ts": 1790896523,
-      "end_ts": 1790896705
     }
   ]
 }
