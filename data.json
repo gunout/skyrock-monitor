@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-02T14:57:45.658875",
-  "genere_ts": 1790953065,
+  "genere_le": "2026-10-02T19:42:29.557218",
+  "genere_ts": 1790970149,
   "volume": {
-    "nb_diffusions": 146,
+    "nb_diffusions": 150,
     "nb_artistes": 56,
     "nb_titres": 63,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-02",
-    "heures_antenne": 6.97,
-    "duree_moy_s": 171.9
+    "heures_antenne": 7.15,
+    "duree_moy_s": 171.6
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 9,
+      "nb_diffusions": 10,
       "titres_differents": 2,
-      "minutes_antenne": 24.9
+      "minutes_antenne": 28.4
     },
     {
       "artistes": "Vacra",
@@ -34,6 +34,12 @@
       "nb_diffusions": 6,
       "titres_differents": 2,
       "minutes_antenne": 20.1
+    },
+    {
+      "artistes": "Gambi",
+      "nb_diffusions": 9,
+      "titres_differents": 2,
+      "minutes_antenne": 19.0
     },
     {
       "artistes": "PLK",
@@ -66,22 +72,16 @@
       "minutes_antenne": 16.0
     },
     {
+      "artistes": "Slimane",
+      "nb_diffusions": 5,
+      "titres_differents": 1,
+      "minutes_antenne": 15.5
+    },
+    {
       "artistes": "KAROL G",
       "nb_diffusions": 4,
       "titres_differents": 1,
       "minutes_antenne": 14.9
-    },
-    {
-      "artistes": "Gambi",
-      "nb_diffusions": 7,
-      "titres_differents": 2,
-      "minutes_antenne": 14.8
-    },
-    {
-      "artistes": "Slimane",
-      "nb_diffusions": 4,
-      "titres_differents": 1,
-      "minutes_antenne": 12.4
     },
     {
       "artistes": "Timal",
@@ -170,10 +170,22 @@
       "minutes_antenne": 18.2
     },
     {
+      "artistes": "Gambi",
+      "titre": "RENÉ CAOVILLA",
+      "nb_diffusions": 5,
+      "minutes_antenne": 10.9
+    },
+    {
       "artistes": "Guy2bezbar",
       "titre": "Je pense à toi",
       "nb_diffusions": 5,
       "minutes_antenne": 14.2
+    },
+    {
+      "artistes": "Slimane",
+      "titre": "Maladie",
+      "nb_diffusions": 5,
+      "minutes_antenne": 15.5
     },
     {
       "artistes": "Tame Impala",
@@ -201,9 +213,9 @@
     },
     {
       "artistes": "Gambi",
-      "titre": "RENÉ CAOVILLA",
+      "titre": "COACHELLA",
       "nb_diffusions": 4,
-      "minutes_antenne": 8.7
+      "minutes_antenne": 8.1
     },
     {
       "artistes": "KAROL G",
@@ -218,12 +230,6 @@
       "minutes_antenne": 10.5
     },
     {
-      "artistes": "Slimane",
-      "titre": "Maladie",
-      "nb_diffusions": 4,
-      "minutes_antenne": 12.4
-    },
-    {
       "artistes": "Ariana Grande",
       "titre": "hate that i made you love me (ari lyric draft from bed)",
       "nb_diffusions": 3,
@@ -236,22 +242,16 @@
       "minutes_antenne": 8.4
     },
     {
-      "artistes": "Gambi",
-      "titre": "COACHELLA",
-      "nb_diffusions": 3,
-      "minutes_antenne": 6.0
-    },
-    {
       "artistes": "Josas",
       "titre": "Deliciosa",
       "nb_diffusions": 3,
       "minutes_antenne": 8.1
     },
     {
-      "artistes": "Yuston XIII",
-      "titre": "Histoire sans fin",
+      "artistes": "Tiakola",
+      "titre": "La Nocturne",
       "nb_diffusions": 3,
-      "minutes_antenne": 10.3
+      "minutes_antenne": 10.8
     }
   ],
   "heures": [
@@ -305,15 +305,15 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 13
+      "nb_diffusions": 16
     },
     {
       "heure": 18,
-      "nb_diffusions": 4
+      "nb_diffusions": 6
     },
     {
       "heure": 19,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "heure": 20,
@@ -355,8 +355,8 @@
     },
     {
       "date": "2026-10-02",
-      "nb_diffusions": 18,
-      "titres_differents": 17
+      "nb_diffusions": 24,
+      "titres_differents": 20
     }
   ],
   "semaine": [
@@ -378,21 +378,21 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 18
+      "nb_diffusions": 24
     }
   ],
   "recurrents": [
+    {
+      "artistes": "Tiakola",
+      "nb_jours": 5,
+      "nb_diffusions": 10,
+      "minutes": 28.4
+    },
     {
       "artistes": "PLK",
       "nb_jours": 5,
       "nb_diffusions": 7,
       "minutes": 18.9
-    },
-    {
-      "artistes": "Tiakola",
-      "nb_jours": 4,
-      "nb_diffusions": 9,
-      "minutes": 24.9
     },
     {
       "artistes": "Vacra",
@@ -413,6 +413,12 @@
       "minutes": 20.1
     },
     {
+      "artistes": "Gambi",
+      "nb_jours": 3,
+      "nb_diffusions": 9,
+      "minutes": 19.0
+    },
+    {
       "artistes": "Aya Nakamura",
       "nb_jours": 3,
       "nb_diffusions": 8,
@@ -423,12 +429,6 @@
       "nb_jours": 3,
       "nb_diffusions": 7,
       "minutes": 17.0
-    },
-    {
-      "artistes": "Gambi",
-      "nb_jours": 3,
-      "nb_diffusions": 7,
-      "minutes": 14.8
     },
     {
       "artistes": "Guy2bezbar",
@@ -449,6 +449,12 @@
       "minutes": 9.6
     },
     {
+      "artistes": "Slimane",
+      "nb_jours": 2,
+      "nb_diffusions": 5,
+      "minutes": 15.5
+    },
+    {
       "artistes": "Timal",
       "nb_jours": 2,
       "nb_diffusions": 5,
@@ -465,12 +471,6 @@
       "nb_jours": 2,
       "nb_diffusions": 4,
       "minutes": 10.5
-    },
-    {
-      "artistes": "Slimane",
-      "nb_jours": 2,
-      "nb_diffusions": 4,
-      "minutes": 12.4
     },
     {
       "artistes": "Bouss",
@@ -556,13 +556,19 @@
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
       "nb_jours": 3,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     },
     {
       "artistes": "Djaksparo",
       "titre": "Pangor (Swalalala)",
       "nb_jours": 3,
       "nb_diffusions": 4
+    },
+    {
+      "artistes": "Tiakola",
+      "titre": "La Nocturne",
+      "nb_jours": 3,
+      "nb_diffusions": 3
     },
     {
       "artistes": "Ariana Grande",
@@ -580,7 +586,7 @@
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_jours": 2,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     },
     {
       "artistes": "Leto",
@@ -591,6 +597,12 @@
     {
       "artistes": "KAROL G",
       "titre": "BbY WOW",
+      "nb_jours": 2,
+      "nb_diffusions": 4
+    },
+    {
+      "artistes": "Gambi",
+      "titre": "COACHELLA",
       "nb_jours": 2,
       "nb_diffusions": 4
     },
@@ -607,34 +619,22 @@
       "nb_diffusions": 3
     },
     {
-      "artistes": "Gambi",
-      "titre": "COACHELLA",
-      "nb_jours": 2,
-      "nb_diffusions": 3
-    },
-    {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
       "nb_jours": 2,
       "nb_diffusions": 3
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "La Nocturne",
-      "nb_jours": 2,
-      "nb_diffusions": 2
     }
   ],
   "diversifies": [
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 9
+      "nb_diffusions": 10
     },
     {
       "artistes": "Gambi",
       "nb_titres_differents": 2,
-      "nb_diffusions": 7
+      "nb_diffusions": 9
     },
     {
       "artistes": "Guy2bezbar",
@@ -677,11 +677,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 84
+      "nb_diffusions": 86
     },
     {
       "annee": 2025,
-      "nb_diffusions": 27
+      "nb_diffusions": 28
     },
     {
       "annee": 2024,
@@ -689,7 +689,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     },
     {
       "annee": 2021,
@@ -739,11 +739,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 70
+      "nb": 71
     },
     {
       "type_contenu": "Explicit",
-      "nb": 74
+      "nb": 77
     }
   ],
   "albums": [
@@ -783,6 +783,11 @@
       "nb_diffusions": 5
     },
     {
+      "album": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "nb_diffusions": 5
+    },
+    {
       "album": "Jeunesse Dorée",
       "artistes": "Guy2bezbar",
       "nb_diffusions": 5
@@ -793,13 +798,13 @@
       "nb_diffusions": 5
     },
     {
-      "album": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "nb_diffusions": 4
+      "album": "Chroniques d’un cupidon",
+      "artistes": "Slimane",
+      "nb_diffusions": 5
     },
     {
-      "album": "RENÉ CAOVILLA",
-      "artistes": "Gambi",
+      "album": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
       "nb_diffusions": 4
     },
     {
@@ -818,13 +823,18 @@
       "nb_diffusions": 4
     },
     {
-      "album": "Chroniques d’un cupidon",
-      "artistes": "Slimane",
+      "album": "COACHELLA",
+      "artistes": "Gambi",
       "nb_diffusions": 4
     },
     {
       "album": "hate that i made you love me",
       "artistes": "Ariana Grande",
+      "nb_diffusions": 3
+    },
+    {
+      "album": "WpointM",
+      "artistes": "Tiakola",
       "nb_diffusions": 3
     },
     {
@@ -836,32 +846,100 @@
       "album": "Et si j'échoue ??",
       "artistes": "Bouss",
       "nb_diffusions": 3
-    },
-    {
-      "album": "Deliciosa",
-      "artistes": "Josas",
-      "nb_diffusions": 3
-    },
-    {
-      "album": "COACHELLA",
-      "artistes": "Gambi",
-      "nb_diffusions": 3
     }
   ],
   "dernier_morceau": {
-    "titre": "Maladie",
-    "artistes": "Slimane",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1790953958~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=d18f156955a7f2c85971187d098bfe29c5c4cb0d2604ce7d83eae2baf085987d",
+    "titre": "RENÉ CAOVILLA",
+    "artistes": "Gambi",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1790971043~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=a9d6dd3fe6211958f02f19abd8fc60007334b57448fa3458684a2d6306dcb4d7",
     "date": "2026-10-02",
-    "heure": 14,
-    "album": "Chroniques d’un cupidon",
-    "annee": 2022,
-    "start_ts": 1790952902,
-    "end_ts": 1790953088
+    "heure": 19,
+    "album": "RENÉ CAOVILLA",
+    "annee": 2026,
+    "start_ts": 1790970061,
+    "end_ts": 1790970192
   },
   "derniers_morceaux": [
+    {
+      "titre": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1790971043~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=a9d6dd3fe6211958f02f19abd8fc60007334b57448fa3458684a2d6306dcb4d7",
+      "date": "2026-10-02",
+      "heure": 19,
+      "album": "RENÉ CAOVILLA",
+      "annee": 2026,
+      "start_ts": 1790970061,
+      "end_ts": 1790970192
+    },
+    {
+      "titre": "Maladie",
+      "artistes": "Slimane",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1790971044~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=82e0d9ae90ae27078cb89942301e91abb05e9cc44e105cfc9b0bb2c59f07ed7a",
+      "date": "2026-10-02",
+      "heure": 18,
+      "album": "Chroniques d’un cupidon",
+      "annee": 2022,
+      "start_ts": 1790967537,
+      "end_ts": 1790967723
+    },
+    {
+      "titre": "Olivia Valere",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-02",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790964958,
+      "end_ts": 1790965079
+    },
+    {
+      "titre": "COACHELLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1790971045~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=77691450259a96e899b1a551b99b95e209a8f3100d8733859ff5418107723aa7",
+      "date": "2026-10-02",
+      "heure": 17,
+      "album": "COACHELLA",
+      "annee": 2025,
+      "start_ts": 1790963384,
+      "end_ts": 1790963505
+    },
+    {
+      "titre": "Sale Mood",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.5248360063303355046.6.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-02",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1790962800,
+      "end_ts": 1790963007
+    },
+    {
+      "titre": "La Nocturne",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1790971047~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=f95813c54dab06e3b787bbe9da16bd15e74cd35bf266566abf854c5ca749d5d3",
+      "date": "2026-10-02",
+      "heure": 17,
+      "album": "WpointM",
+      "annee": 2026,
+      "start_ts": 1790962588,
+      "end_ts": 1790962804
+    },
     {
       "titre": "Maladie",
       "artistes": "Slimane",
@@ -913,84 +991,6 @@
       "annee": 2026,
       "start_ts": 1790952056,
       "end_ts": 1790952279
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1790953963~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=489e058f8d451ec31dff1e15cffeaa650e3e08c5bceb1e389f6c56b8830467d5",
-      "date": "2026-10-02",
-      "heure": 14,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1790951913,
-      "end_ts": 1790952059
-    },
-    {
-      "titre": "Say It Right",
-      "artistes": "fwd/slash",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/394adafdfb8b3281fb1326c92ecf3680/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/80/SKYC.7612315212508936880.12.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/f/7/0/1f79a6d70bb71235f77700125190322e.mp3?hdnea=exp=1790953964~acl=/api/1/1/1/f/7/0/1f79a6d70bb71235f77700125190322e.mp3*~data=user_id=0,application_id=42~hmac=502fa99eefafd686b3a4fb880e388b5b03ee2796b39b8f5a47d98a1c92831fc0",
-      "date": "2026-10-02",
-      "heure": 14,
-      "album": "Say It Right",
-      "annee": 2025,
-      "start_ts": 1790951710,
-      "end_ts": 1790951922
-    },
-    {
-      "titre": "Ready Or Not",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.7700563358815902022.14.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-02",
-      "heure": 8,
-      "album": null,
-      "annee": null,
-      "start_ts": 1790930175,
-      "end_ts": 1790930393
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1790931216~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=4f42f3b8997dd56032b8a2ccbddba71ef07c2772ebcc0ff2e9eeb2dfc09b63c4",
-      "date": "2026-10-02",
-      "heure": 8,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1790930007,
-      "end_ts": 1790930173
-    },
-    {
-      "titre": "Histoire sans fin",
-      "artistes": "Yuston XIII",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1790931217~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=172ba937b48efc7827fc2452b49402bc9c39a0d146b40f3141813b99a2cc814f",
-      "date": "2026-10-02",
-      "heure": 8,
-      "album": "Les Enfants du Chaos",
-      "annee": 2026,
-      "start_ts": 1790929770,
-      "end_ts": 1790929975
-    },
-    {
-      "titre": "UBER",
-      "artistes": "Cinco",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/518970baba39e7453016999fec796ef2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/6/a/0/56a08de0bfc9c522bb11add327333050.mp3?hdnea=exp=1790931218~acl=/api/1/1/5/6/a/0/56a08de0bfc9c522bb11add327333050.mp3*~data=user_id=0,application_id=42~hmac=a2b1b7f0d0a4d1cc8e9204518e62449f457a741dddaa5ca825a9137b047ed8f8",
-      "date": "2026-10-02",
-      "heure": 8,
-      "album": "TRAP LESSONS VOL.1",
-      "annee": 2025,
-      "start_ts": 1790929612,
-      "end_ts": 1790929768
     }
   ]
 }
