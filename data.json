@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-03T22:13:40.932100",
-  "genere_ts": 1791065620,
+  "genere_le": "2026-10-04T00:36:53.734362",
+  "genere_ts": 1791074213,
   "volume": {
-    "nb_diffusions": 182,
-    "nb_artistes": 64,
-    "nb_titres": 69,
+    "nb_diffusions": 188,
+    "nb_artistes": 66,
+    "nb_titres": 71,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-03",
-    "heures_antenne": 8.67,
-    "duree_moy_s": 171.5
+    "derniere_date": "2026-10-04",
+    "heures_antenne": 8.98,
+    "duree_moy_s": 172.0
   },
   "top_artistes": [
     {
@@ -72,6 +72,12 @@
       "minutes_antenne": 18.6
     },
     {
+      "artistes": "Leto",
+      "nb_diffusions": 7,
+      "titres_differents": 1,
+      "minutes_antenne": 18.3
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 7,
       "titres_differents": 1,
@@ -90,10 +96,10 @@
       "minutes_antenne": 16.0
     },
     {
-      "artistes": "Leto",
-      "nb_diffusions": 6,
+      "artistes": "BIGBANG",
+      "nb_diffusions": 4,
       "titres_differents": 1,
-      "minutes_antenne": 15.7
+      "minutes_antenne": 14.5
     },
     {
       "artistes": "Ariana Grande",
@@ -112,12 +118,6 @@
       "nb_diffusions": 4,
       "titres_differents": 1,
       "minutes_antenne": 11.1
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_diffusions": 3,
-      "titres_differents": 1,
-      "minutes_antenne": 10.9
     },
     {
       "artistes": "Josas",
@@ -164,6 +164,12 @@
       "minutes_antenne": 17.0
     },
     {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_diffusions": 7,
+      "minutes_antenne": 18.3
+    },
+    {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_diffusions": 7,
@@ -186,12 +192,6 @@
       "titre": "Sicario",
       "nb_diffusions": 7,
       "minutes_antenne": 16.5
-    },
-    {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_diffusions": 6,
-      "minutes_antenne": 15.7
     },
     {
       "artistes": "Djaksparo",
@@ -230,6 +230,12 @@
       "minutes_antenne": 12.8
     },
     {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_diffusions": 4,
+      "minutes_antenne": 14.5
+    },
+    {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
       "nb_diffusions": 4,
@@ -246,18 +252,12 @@
       "titre": "Deliciosa",
       "nb_diffusions": 4,
       "minutes_antenne": 10.8
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_diffusions": 4,
-      "minutes_antenne": 11.1
     }
   ],
   "heures": [
     {
       "heure": 0,
-      "nb_diffusions": 9
+      "nb_diffusions": 15
     },
     {
       "heure": 1,
@@ -366,9 +366,18 @@
       "date": "2026-10-03",
       "nb_diffusions": 36,
       "titres_differents": 30
+    },
+    {
+      "date": "2026-10-04",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
+    {
+      "jour": "Dimanche",
+      "nb_diffusions": 6
+    },
     {
       "jour": "Lundi",
       "nb_diffusions": 6
@@ -432,6 +441,12 @@
       "minutes": 22.1
     },
     {
+      "artistes": "Leto",
+      "nb_jours": 4,
+      "nb_diffusions": 7,
+      "minutes": 18.3
+    },
+    {
       "artistes": "Djaksparo",
       "nb_jours": 4,
       "nb_diffusions": 5,
@@ -474,16 +489,16 @@
       "minutes": 16.0
     },
     {
-      "artistes": "Leto",
-      "nb_jours": 3,
-      "nb_diffusions": 6,
-      "minutes": 15.7
-    },
-    {
       "artistes": "KAROL G",
       "nb_jours": 3,
       "nb_diffusions": 5,
       "minutes": 18.6
+    },
+    {
+      "artistes": "BIGBANG",
+      "nb_jours": 3,
+      "nb_diffusions": 4,
+      "minutes": 14.5
     },
     {
       "artistes": "Bouss",
@@ -508,12 +523,6 @@
       "nb_jours": 2,
       "nb_diffusions": 6,
       "minutes": 18.9
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_jours": 2,
-      "nb_diffusions": 3,
-      "minutes": 10.9
     }
   ],
   "titres_recurrents": [
@@ -544,6 +553,12 @@
     {
       "artistes": "Tame Impala",
       "titre": "Dracula (with JENNIE)",
+      "nb_jours": 4,
+      "nb_diffusions": 7
+    },
+    {
+      "artistes": "Leto",
+      "titre": "Pineapple",
       "nb_jours": 4,
       "nb_diffusions": 7
     },
@@ -590,12 +605,6 @@
       "nb_diffusions": 7
     },
     {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_jours": 3,
-      "nb_diffusions": 6
-    },
-    {
       "artistes": "KAROL G",
       "titre": "BbY WOW",
       "nb_jours": 3,
@@ -632,10 +641,10 @@
       "nb_diffusions": 4
     },
     {
-      "artistes": "GIMS",
-      "titre": "VIVE LA MONNAIE",
-      "nb_jours": 2,
-      "nb_diffusions": 5
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_jours": 3,
+      "nb_diffusions": 4
     }
   ],
   "diversifies": [
@@ -690,11 +699,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 106
+      "nb_diffusions": 108
     },
     {
       "annee": 2025,
-      "nb_diffusions": 31
+      "nb_diffusions": 32
     },
     {
       "annee": 2024,
@@ -706,7 +715,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "annee": 2021,
@@ -726,7 +735,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 3
+      "nb_diffusions": 4
     },
     {
       "annee": 2015,
@@ -734,6 +743,10 @@
     },
     {
       "annee": 2014,
+      "nb_diffusions": 1
+    },
+    {
+      "annee": 2012,
       "nb_diffusions": 1
     },
     {
@@ -756,11 +769,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 87
+      "nb": 91
     },
     {
       "type_contenu": "Explicit",
-      "nb": 93
+      "nb": 95
     }
   ],
   "albums": [
@@ -782,6 +795,11 @@
     {
       "album": "Sicario",
       "artistes": "Timal",
+      "nb_diffusions": 7
+    },
+    {
+      "album": "Pineapple",
+      "artistes": "Leto",
       "nb_diffusions": 7
     },
     {
@@ -808,11 +826,6 @@
       "album": "Chroniques d’un cupidon",
       "artistes": "Slimane",
       "nb_diffusions": 7
-    },
-    {
-      "album": "Pineapple",
-      "artistes": "Leto",
-      "nb_diffusions": 6
     },
     {
       "album": "VIVE LA MONNAIE",
@@ -850,6 +863,11 @@
       "nb_diffusions": 4
     },
     {
+      "album": "MADE",
+      "artistes": "BIGBANG",
+      "nb_diffusions": 4
+    },
+    {
       "album": "Et si j'échoue ??",
       "artistes": "Bouss",
       "nb_diffusions": 4
@@ -858,27 +876,100 @@
       "album": "Deliciosa",
       "artistes": "Josas",
       "nb_diffusions": 4
-    },
-    {
-      "album": "COACHELLA",
-      "artistes": "Gambi",
-      "nb_diffusions": 4
     }
   ],
   "dernier_morceau": {
-    "titre": "Falling",
-    "artistes": "Paul Edwards",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d2718e74ba0b2fdb59acf9a9a5b5e8b5/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/35/SKYC.4314016236381348735.10.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/0/0/af0fdf7b1243e957f46d6d975c022296.mp3?hdnea=exp=1791066515~acl=/api/1/1/a/f/0/0/af0fdf7b1243e957f46d6d975c022296.mp3*~data=user_id=0,application_id=42~hmac=98a456d4efc8964bc0cd0eda3a71678abbb30ff23b9afe74e66c546e9092f46a",
-    "date": "2026-10-03",
-    "heure": 22,
-    "album": "Falling",
-    "annee": 2026,
-    "start_ts": 1791065417,
-    "end_ts": 1791065567
+    "titre": "melodrama",
+    "artistes": "disiz",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1791075107~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=2009c982343dc36c929de4dbcc6d26492be43c0f54c679d0a56559e954239d8e",
+    "date": "2026-10-04",
+    "heure": 0,
+    "album": "melodrama",
+    "annee": 2025,
+    "start_ts": 1791074085,
+    "end_ts": 1791074259
   },
   "derniers_morceaux": [
+    {
+      "titre": "melodrama",
+      "artistes": "disiz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1791075107~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=2009c982343dc36c929de4dbcc6d26492be43c0f54c679d0a56559e954239d8e",
+      "date": "2026-10-04",
+      "heure": 0,
+      "album": "melodrama",
+      "annee": 2025,
+      "start_ts": 1791074085,
+      "end_ts": 1791074259
+    },
+    {
+      "titre": "Mr. Know It All",
+      "artistes": "Teddy Swims",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ae84b07e7cc79189d9f54948789633ac/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1100245519751421784.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/1/0/91186b8958202dd72bd19b5989190618.mp3?hdnea=exp=1791075108~acl=/api/1/1/9/1/1/0/91186b8958202dd72bd19b5989190618.mp3*~data=user_id=0,application_id=42~hmac=45f3d4b7732728226ed3064c9f5f93448fe401e59c4619ffd6bd61265959acfc",
+      "date": "2026-10-04",
+      "heure": 0,
+      "album": "Mr. Know It All",
+      "annee": 2026,
+      "start_ts": 1791073894,
+      "end_ts": 1791074088
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791075109~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=14dbd836fa6969dc812560f631d18ab225030d184010067a08b7aa0cb18e2248",
+      "date": "2026-10-04",
+      "heure": 0,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1791073723,
+      "end_ts": 1791073880
+    },
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.99.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791075110~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=5c1eadf7f1e4b2eaae73170923d91ceca139effa842b614ba39d4c00cb41ab7e",
+      "date": "2026-10-04",
+      "heure": 0,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1791073508,
+      "end_ts": 1791073726
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1791075111~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=b1a5312bab5569aeb60e5646a4c0133f16edf34b5ca6a325d65918be00238a39",
+      "date": "2026-10-04",
+      "heure": 0,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1791073344,
+      "end_ts": 1791073494
+    },
+    {
+      "titre": "P.I.M.P.",
+      "artistes": "Hits, Etc.",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04cc3a78913f6614f926e4e496234add/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.3768034903432288649.10.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/e/0/58eb15a9bbd55664b7fc02a8d3935959.mp3?hdnea=exp=1791075112~acl=/api/1/1/5/8/e/0/58eb15a9bbd55664b7fc02a8d3935959.mp3*~data=user_id=0,application_id=42~hmac=08fa8582e25a3c9c6f031e5f68996972163ebf0304da6c03845faaabed0cc5a8",
+      "date": "2026-10-04",
+      "heure": 0,
+      "album": "2000s Dance Party - Essential Pop and Hip Hop Hits",
+      "annee": 2012,
+      "start_ts": 1791073100,
+      "end_ts": 1791073346
+    },
     {
       "titre": "Falling",
       "artistes": "Paul Edwards",
@@ -930,84 +1021,6 @@
       "annee": 2026,
       "start_ts": 1791064813,
       "end_ts": 1791064994
-    },
-    {
-      "titre": "pushin P (feat. Young Thug)",
-      "artistes": "Gunna",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c9a811b4186b36330d6a4c6af3657915/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/09/SKYC.4822215674388224109.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/9/0/289abd9fad2635f308433dc9f0fa3246.mp3?hdnea=exp=1791066519~acl=/api/1/1/2/8/9/0/289abd9fad2635f308433dc9f0fa3246.mp3*~data=user_id=0,application_id=42~hmac=e13f208f923a3a6c1003ad0b43a83c4f97e4c158e672e83c6f1b1968ebc886cc",
-      "date": "2026-10-03",
-      "heure": 20,
-      "album": "DS4EVER",
-      "annee": 2022,
-      "start_ts": 1791060471,
-      "end_ts": 1791060604
-    },
-    {
-      "titre": "Olivia Valere",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-03",
-      "heure": 20,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791060288,
-      "end_ts": 1791060469
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1791056345~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=53901e6a59150db9c7d9b1b6e1bae0f8d10086b1317d994f4a8a600b3469f27a",
-      "date": "2026-10-03",
-      "heure": 19,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1791055424,
-      "end_ts": 1791055536
-    },
-    {
-      "titre": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.2090592626626782774.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1791056346~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=9c312c43486c40c29cf8d4d2c9849d23e3b4c064c3b6cad94097921f4e155c92",
-      "date": "2026-10-03",
-      "heure": 19,
-      "album": "Dracula (with JENNIE)",
-      "annee": 2026,
-      "start_ts": 1791055220,
-      "end_ts": 1791055421
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791056347~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=ff2d8effa99b5452a3c8c19d32e2e2c49e54cf79e43757172b728c26a3a1b08c",
-      "date": "2026-10-03",
-      "heure": 19,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791055060,
-      "end_ts": 1791055217
-    },
-    {
-      "titre": "Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",
-      "artistes": "TRIANGLE DES BERMUDES",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6bc17bedbade7c46e480434bc4345ced/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.7075776364981256857.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3?hdnea=exp=1791056348~acl=/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3*~data=user_id=0,application_id=42~hmac=273f6bfcae1a9dcedeb2908710ced84ec02436f5a8ebec172aae9eb3c313686d",
-      "date": "2026-10-03",
-      "heure": 19,
-      "album": "404",
-      "annee": 2026,
-      "start_ts": 1791054750,
-      "end_ts": 1791054941
     }
   ]
 }
