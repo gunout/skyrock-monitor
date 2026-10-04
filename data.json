@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-04T16:54:30.702422",
-  "genere_ts": 1791132870,
+  "genere_le": "2026-10-04T19:49:45.670109",
+  "genere_ts": 1791143385,
   "volume": {
-    "nb_diffusions": 201,
-    "nb_artistes": 71,
+    "nb_diffusions": 206,
+    "nb_artistes": 72,
     "nb_titres": 75,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-04",
-    "heures_antenne": 9.68,
-    "duree_moy_s": 173.4
+    "heures_antenne": 9.95,
+    "duree_moy_s": 173.8
   },
   "top_artistes": [
     {
@@ -30,6 +30,12 @@
       "minutes_antenne": 24.9
     },
     {
+      "artistes": "PLK",
+      "nb_diffusions": 9,
+      "titres_differents": 1,
+      "minutes_antenne": 24.3
+    },
+    {
       "artistes": "Leto",
       "nb_diffusions": 9,
       "titres_differents": 1,
@@ -42,16 +48,16 @@
       "minutes_antenne": 22.8
     },
     {
+      "artistes": "KAROL G",
+      "nb_diffusions": 6,
+      "titres_differents": 1,
+      "minutes_antenne": 22.3
+    },
+    {
       "artistes": "Slimane",
       "nb_diffusions": 7,
       "titres_differents": 1,
       "minutes_antenne": 21.7
-    },
-    {
-      "artistes": "PLK",
-      "nb_diffusions": 8,
-      "titres_differents": 1,
-      "minutes_antenne": 21.6
     },
     {
       "artistes": "Bad Bunny",
@@ -72,10 +78,10 @@
       "minutes_antenne": 18.9
     },
     {
-      "artistes": "KAROL G",
+      "artistes": "BIGBANG",
       "nb_diffusions": 5,
       "titres_differents": 1,
-      "minutes_antenne": 18.6
+      "minutes_antenne": 18.2
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -96,16 +102,10 @@
       "minutes_antenne": 16.0
     },
     {
-      "artistes": "BIGBANG",
-      "nb_diffusions": 4,
-      "titres_differents": 1,
-      "minutes_antenne": 14.5
-    },
-    {
       "artistes": "Ariana Grande",
-      "nb_diffusions": 4,
+      "nb_diffusions": 5,
       "titres_differents": 1,
-      "minutes_antenne": 12.8
+      "minutes_antenne": 16.0
     },
     {
       "artistes": "Bouss",
@@ -146,16 +146,16 @@
       "minutes_antenne": 23.6
     },
     {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_diffusions": 9,
+      "minutes_antenne": 24.3
+    },
+    {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_diffusions": 9,
       "minutes_antenne": 24.9
-    },
-    {
-      "artistes": "PLK",
-      "titre": "Pocahontas",
-      "nb_diffusions": 8,
-      "minutes_antenne": 21.6
     },
     {
       "artistes": "Tame Impala",
@@ -200,10 +200,28 @@
       "minutes_antenne": 13.1
     },
     {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
+      "nb_diffusions": 6,
+      "minutes_antenne": 22.3
+    },
+    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_diffusions": 6,
       "minutes_antenne": 21.6
+    },
+    {
+      "artistes": "Ariana Grande",
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "nb_diffusions": 5,
+      "minutes_antenne": 16.0
+    },
+    {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_diffusions": 5,
+      "minutes_antenne": 18.2
     },
     {
       "artistes": "Djaksparo",
@@ -222,24 +240,6 @@
       "titre": "Je pense à toi",
       "nb_diffusions": 5,
       "minutes_antenne": 14.2
-    },
-    {
-      "artistes": "KAROL G",
-      "titre": "BbY WOW",
-      "nb_diffusions": 5,
-      "minutes_antenne": 18.6
-    },
-    {
-      "artistes": "Ariana Grande",
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "nb_diffusions": 4,
-      "minutes_antenne": 12.8
-    },
-    {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
-      "nb_diffusions": 4,
-      "minutes_antenne": 14.5
     },
     {
       "artistes": "Bouss",
@@ -313,11 +313,11 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 6
+      "nb_diffusions": 11
     },
     {
       "heure": 19,
-      "nb_diffusions": 8
+      "nb_diffusions": 9
     },
     {
       "heure": 20,
@@ -369,14 +369,14 @@
     },
     {
       "date": "2026-10-04",
-      "nb_diffusions": 24,
-      "titres_differents": 20
+      "nb_diffusions": 30,
+      "titres_differents": 25
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 24
+      "nb_diffusions": 30
     },
     {
       "jour": "Lundi",
@@ -411,16 +411,16 @@
       "minutes": 39.3
     },
     {
+      "artistes": "PLK",
+      "nb_jours": 7,
+      "nb_diffusions": 9,
+      "minutes": 24.3
+    },
+    {
       "artistes": "Tame Impala",
       "nb_jours": 6,
       "nb_diffusions": 9,
       "minutes": 30.1
-    },
-    {
-      "artistes": "PLK",
-      "nb_jours": 6,
-      "nb_diffusions": 8,
-      "minutes": 21.6
     },
     {
       "artistes": "Vacra",
@@ -433,6 +433,12 @@
       "nb_jours": 5,
       "nb_diffusions": 7,
       "minutes": 21.3
+    },
+    {
+      "artistes": "Ariana Grande",
+      "nb_jours": 5,
+      "nb_diffusions": 5,
+      "minutes": 16.0
     },
     {
       "artistes": "Gambi",
@@ -453,16 +459,16 @@
       "minutes": 23.6
     },
     {
+      "artistes": "KAROL G",
+      "nb_jours": 4,
+      "nb_diffusions": 6,
+      "minutes": 22.3
+    },
+    {
       "artistes": "Djaksparo",
       "nb_jours": 4,
       "nb_diffusions": 5,
       "minutes": 10.0
-    },
-    {
-      "artistes": "Ariana Grande",
-      "nb_jours": 4,
-      "nb_diffusions": 4,
-      "minutes": 12.8
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -489,16 +495,10 @@
       "minutes": 16.0
     },
     {
-      "artistes": "KAROL G",
-      "nb_jours": 3,
-      "nb_diffusions": 5,
-      "minutes": 18.6
-    },
-    {
       "artistes": "BIGBANG",
       "nb_jours": 3,
-      "nb_diffusions": 4,
-      "minutes": 14.5
+      "nb_diffusions": 5,
+      "minutes": 18.2
     },
     {
       "artistes": "Bouss",
@@ -529,8 +529,8 @@
     {
       "artistes": "PLK",
       "titre": "Pocahontas",
-      "nb_jours": 6,
-      "nb_diffusions": 8
+      "nb_jours": 7,
+      "nb_diffusions": 9
     },
     {
       "artistes": "Vacra",
@@ -557,6 +557,12 @@
       "nb_diffusions": 6
     },
     {
+      "artistes": "Ariana Grande",
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "nb_jours": 5,
+      "nb_diffusions": 5
+    },
+    {
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_jours": 4,
@@ -569,6 +575,12 @@
       "nb_diffusions": 9
     },
     {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
+      "nb_jours": 4,
+      "nb_diffusions": 6
+    },
+    {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
       "nb_jours": 4,
@@ -579,12 +591,6 @@
       "titre": "Pangor (Swalalala)",
       "nb_jours": 4,
       "nb_diffusions": 5
-    },
-    {
-      "artistes": "Ariana Grande",
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "nb_jours": 4,
-      "nb_diffusions": 4
     },
     {
       "artistes": "Timal",
@@ -611,14 +617,14 @@
       "nb_diffusions": 7
     },
     {
-      "artistes": "KAROL G",
-      "titre": "BbY WOW",
+      "artistes": "Guy2bezbar",
+      "titre": "Je pense à toi",
       "nb_jours": 3,
       "nb_diffusions": 5
     },
     {
-      "artistes": "Guy2bezbar",
-      "titre": "Je pense à toi",
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
       "nb_jours": 3,
       "nb_diffusions": 5
     },
@@ -637,12 +643,6 @@
     {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
-      "nb_jours": 3,
-      "nb_diffusions": 4
-    },
-    {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
       "nb_jours": 3,
       "nb_diffusions": 4
     }
@@ -699,11 +699,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 116
+      "nb_diffusions": 119
     },
     {
       "annee": 2025,
-      "nb_diffusions": 32
+      "nb_diffusions": 33
     },
     {
       "annee": 2024,
@@ -735,7 +735,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     },
     {
       "annee": 2015,
@@ -773,11 +773,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 97
+      "nb": 101
     },
     {
       "type_contenu": "Explicit",
-      "nb": 102
+      "nb": 103
     }
   ],
   "albums": [
@@ -792,14 +792,14 @@
       "nb_diffusions": 9
     },
     {
-      "album": "Fille à Papa",
-      "artistes": "Vacra",
+      "album": "Grand Garçon",
+      "artistes": "PLK",
       "nb_diffusions": 9
     },
     {
-      "album": "Grand Garçon",
-      "artistes": "PLK",
-      "nb_diffusions": 8
+      "album": "Fille à Papa",
+      "artistes": "Vacra",
+      "nb_diffusions": 9
     },
     {
       "album": "Dracula (with JENNIE)",
@@ -842,6 +842,16 @@
       "nb_diffusions": 6
     },
     {
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "artistes": "KAROL G",
+      "nb_diffusions": 6
+    },
+    {
+      "album": "hate that i made you love me",
+      "artistes": "Ariana Grande",
+      "nb_diffusions": 5
+    },
+    {
       "album": "VIVE LA MONNAIE",
       "artistes": "GIMS",
       "nb_diffusions": 5
@@ -852,24 +862,14 @@
       "nb_diffusions": 5
     },
     {
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "artistes": "KAROL G",
+      "album": "MADE",
+      "artistes": "BIGBANG",
       "nb_diffusions": 5
     },
     {
       "album": "Jeunesse Dorée",
       "artistes": "Guy2bezbar",
       "nb_diffusions": 5
-    },
-    {
-      "album": "hate that i made you love me",
-      "artistes": "Ariana Grande",
-      "nb_diffusions": 4
-    },
-    {
-      "album": "MADE",
-      "artistes": "BIGBANG",
-      "nb_diffusions": 4
     },
     {
       "album": "Et si j'échoue ??",
@@ -883,19 +883,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Viens voir le docteur (Version alternative; Nouveau mix 2016)",
-    "artistes": "Doc Gynéco",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e09d4b53c2e85d1be83785468fda50aa/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/86/SKYC.6883124721916799086.2.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/f/0/36f8aaf3e53d062fff6d0146e8babfe1.mp3?hdnea=exp=1791133766~acl=/api/1/1/3/6/f/0/36f8aaf3e53d062fff6d0146e8babfe1.mp3*~data=user_id=0,application_id=42~hmac=81e21a44db34951d1b428b22106b442ceab49314cf6758f0d24c42adb8e156e3",
+    "titre": "Pocahontas",
+    "artistes": "PLK",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1791144279~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=91a3a4ae682b9a43e254454c5021887516c21b911a2eed010a29547ef53ff95d",
     "date": "2026-10-04",
-    "heure": 16,
-    "album": "Viens voir le docteur (Version alternative) [Nouveau mix 2016]",
-    "annee": 2016,
-    "start_ts": 1791132176,
-    "end_ts": 1791132481
+    "heure": 19,
+    "album": "Grand Garçon",
+    "annee": 2026,
+    "start_ts": 1791142433,
+    "end_ts": 1791142595
   },
   "derniers_morceaux": [
+    {
+      "titre": "Pocahontas",
+      "artistes": "PLK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1791144279~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=91a3a4ae682b9a43e254454c5021887516c21b911a2eed010a29547ef53ff95d",
+      "date": "2026-10-04",
+      "heure": 19,
+      "album": "Grand Garçon",
+      "annee": 2026,
+      "start_ts": 1791142433,
+      "end_ts": 1791142595
+    },
+    {
+      "titre": "BbY WOW",
+      "artistes": "KAROL G",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1791144280~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=4ebd94465d19fd2096ca8e9781ec46f8c805a3540415a8c19e92631519a3b90e",
+      "date": "2026-10-04",
+      "heure": 18,
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "annee": 2026,
+      "start_ts": 1791140334,
+      "end_ts": 1791140557
+    },
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.115.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791144281~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=69398d8e01ff36ac11083892cf84b9ceadbe9b8111cd97178093524b7b47f34c",
+      "date": "2026-10-04",
+      "heure": 18,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1791140116,
+      "end_ts": 1791140334
+    },
+    {
+      "titre": "Cinderella",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.5536442831145754751.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-04",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791139874,
+      "end_ts": 1791140183
+    },
+    {
+      "titre": "NUEVAYoL",
+      "artistes": "Guille Toledano",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b3ed6da2769c43fba0eee4060a020ae6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/5/0/d55603baa246aa2a6c856209f350acac.mp3?hdnea=exp=1791144283~acl=/api/1/1/d/5/5/0/d55603baa246aa2a6c856209f350acac.mp3*~data=user_id=0,application_id=42~hmac=dd05d4c95fc38d8b385ba3937287f86341ae3ffc2193d4c4f768471567e52e9d",
+      "date": "2026-10-04",
+      "heure": 18,
+      "album": "NUEVAYoL",
+      "annee": 2025,
+      "start_ts": 1791139718,
+      "end_ts": 1791139869
+    },
+    {
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "artistes": "Ariana Grande",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1791144284~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=6d6e10894357be9be9fe8ac3cad17f4653332602ecc989a9c366b12eb5a04f62",
+      "date": "2026-10-04",
+      "heure": 18,
+      "album": "hate that i made you love me",
+      "annee": 2026,
+      "start_ts": 1791139418,
+      "end_ts": 1791139610
+    },
     {
       "titre": "Viens voir le docteur (Version alternative; Nouveau mix 2016)",
       "artistes": "Doc Gynéco",
@@ -947,84 +1025,6 @@
       "annee": null,
       "start_ts": 1791131426,
       "end_ts": 1791131642
-    },
-    {
-      "titre": "Une princesse est morte",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.8657588325532730725.2.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-04",
-      "heure": 16,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791131256,
-      "end_ts": 1791131425
-    },
-    {
-      "titre": "Stressed out",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.4906262284466820810.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-04",
-      "heure": 16,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791130948,
-      "end_ts": 1791131258
-    },
-    {
-      "titre": "La Nocturne",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1791117561~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=b4733d6569648f3bc86fb2ebda56779a3d1df95ff121158514181c7da7b2258e",
-      "date": "2026-10-04",
-      "heure": 12,
-      "album": "WpointM",
-      "annee": 2026,
-      "start_ts": 1791116605,
-      "end_ts": 1791116821
-    },
-    {
-      "titre": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.2090592626626782774.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1791117562~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=5e5328005b24b83795c58e345732b79ee89012a93d944203ae8607ff60737fbe",
-      "date": "2026-10-04",
-      "heure": 12,
-      "album": "Dracula (with JENNIE)",
-      "annee": 2026,
-      "start_ts": 1791116404,
-      "end_ts": 1791116605
-    },
-    {
-      "titre": "PILE (remix)",
-      "artistes": "FC433ARMY",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9e2b49abb149bc0ffaed71e810117b97/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3?hdnea=exp=1791117563~acl=/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3*~data=user_id=0,application_id=42~hmac=76b0d374549cbc712d96932c6cb11161d7e5ae99ff0a94f483ab07a2479e24f1",
-      "date": "2026-10-04",
-      "heure": 12,
-      "album": "PILE (remix)",
-      "annee": 2026,
-      "start_ts": 1791116251,
-      "end_ts": 1791116398
-    },
-    {
-      "titre": "UBER",
-      "artistes": "Moji x Sboy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/78b98745418aa0a06d74b47782613679/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3?hdnea=exp=1791117564~acl=/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3*~data=user_id=0,application_id=42~hmac=7b1e7bb43a74a7e04365a51c3d435de6008d75d94ac98c9af7f9966aa8c022da",
-      "date": "2026-10-04",
-      "heure": 12,
-      "album": "UBER",
-      "annee": 2022,
-      "start_ts": 1791115943,
-      "end_ts": 1791116099
     }
   ]
 }
