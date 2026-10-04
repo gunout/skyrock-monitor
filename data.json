@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-04T12:24:26.975857",
-  "genere_ts": 1791116666,
+  "genere_le": "2026-10-04T16:54:30.702422",
+  "genere_ts": 1791132870,
   "volume": {
-    "nb_diffusions": 199,
-    "nb_artistes": 69,
-    "nb_titres": 73,
+    "nb_diffusions": 201,
+    "nb_artistes": 71,
+    "nb_titres": 75,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-04",
-    "heures_antenne": 9.51,
-    "duree_moy_s": 172.1
+    "heures_antenne": 9.68,
+    "duree_moy_s": 173.4
   },
   "top_artistes": [
     {
@@ -305,7 +305,7 @@
     },
     {
       "heure": 16,
-      "nb_diffusions": 6
+      "nb_diffusions": 12
     },
     {
       "heure": 17,
@@ -369,14 +369,14 @@
     },
     {
       "date": "2026-10-04",
-      "nb_diffusions": 18,
-      "titres_differents": 14
+      "nb_diffusions": 24,
+      "titres_differents": 20
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 18
+      "nb_diffusions": 24
     },
     {
       "jour": "Lundi",
@@ -735,7 +735,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     },
     {
       "annee": 2015,
@@ -758,6 +758,10 @@
       "nb_diffusions": 1
     },
     {
+      "annee": 2007,
+      "nb_diffusions": 1
+    },
+    {
       "annee": 2003,
       "nb_diffusions": 1
     },
@@ -769,7 +773,7 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 95
+      "nb": 97
     },
     {
       "type_contenu": "Explicit",
@@ -879,19 +883,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "La Nocturne",
-    "artistes": "Tiakola",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1791117561~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=b4733d6569648f3bc86fb2ebda56779a3d1df95ff121158514181c7da7b2258e",
+    "titre": "Viens voir le docteur (Version alternative; Nouveau mix 2016)",
+    "artistes": "Doc Gynéco",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e09d4b53c2e85d1be83785468fda50aa/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/86/SKYC.6883124721916799086.2.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/f/0/36f8aaf3e53d062fff6d0146e8babfe1.mp3?hdnea=exp=1791133766~acl=/api/1/1/3/6/f/0/36f8aaf3e53d062fff6d0146e8babfe1.mp3*~data=user_id=0,application_id=42~hmac=81e21a44db34951d1b428b22106b442ceab49314cf6758f0d24c42adb8e156e3",
     "date": "2026-10-04",
-    "heure": 12,
-    "album": "WpointM",
-    "annee": 2026,
-    "start_ts": 1791116605,
-    "end_ts": 1791116821
+    "heure": 16,
+    "album": "Viens voir le docteur (Version alternative) [Nouveau mix 2016]",
+    "annee": 2016,
+    "start_ts": 1791132176,
+    "end_ts": 1791132481
   },
   "derniers_morceaux": [
+    {
+      "titre": "Viens voir le docteur (Version alternative; Nouveau mix 2016)",
+      "artistes": "Doc Gynéco",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e09d4b53c2e85d1be83785468fda50aa/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/86/SKYC.6883124721916799086.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/f/0/36f8aaf3e53d062fff6d0146e8babfe1.mp3?hdnea=exp=1791133766~acl=/api/1/1/3/6/f/0/36f8aaf3e53d062fff6d0146e8babfe1.mp3*~data=user_id=0,application_id=42~hmac=81e21a44db34951d1b428b22106b442ceab49314cf6758f0d24c42adb8e156e3",
+      "date": "2026-10-04",
+      "heure": 16,
+      "album": "Viens voir le docteur (Version alternative) [Nouveau mix 2016]",
+      "annee": 2016,
+      "start_ts": 1791132176,
+      "end_ts": 1791132481
+    },
+    {
+      "titre": "What Goes Around...Comes Around (Radio Edit)",
+      "artistes": "Justin Timberlake",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1a0dab7f38abce466fecb31ca5b6b98a/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/39/SKYC.4837739770957216139.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/a/0/83ac2bd81e999aabc1952fbb252f5837.mp3?hdnea=exp=1791133767~acl=/api/1/1/8/3/a/0/83ac2bd81e999aabc1952fbb252f5837.mp3*~data=user_id=0,application_id=42~hmac=cc7ec01d071a7cdfc6e53aa23adb26b339082545028131f8b0cd5faf5d34396a",
+      "date": "2026-10-04",
+      "heure": 16,
+      "album": "What Goes Around...Comes Around",
+      "annee": 2007,
+      "start_ts": 1791131873,
+      "end_ts": 1791132180
+    },
+    {
+      "titre": "Bladi - Inédit",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/40/SKYC.1142345018920153340.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-04",
+      "heure": 16,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791131644,
+      "end_ts": 1791131876
+    },
+    {
+      "titre": "Ain't Nobody",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/23/SKYC.7240172633321776223.5.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-04",
+      "heure": 16,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791131426,
+      "end_ts": 1791131642
+    },
+    {
+      "titre": "Une princesse est morte",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.8657588325532730725.2.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-04",
+      "heure": 16,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791131256,
+      "end_ts": 1791131425
+    },
+    {
+      "titre": "Stressed out",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.4906262284466820810.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-04",
+      "heure": 16,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791130948,
+      "end_ts": 1791131258
+    },
     {
       "titre": "La Nocturne",
       "artistes": "Tiakola",
@@ -943,84 +1025,6 @@
       "annee": 2022,
       "start_ts": 1791115943,
       "end_ts": 1791116099
-    },
-    {
-      "titre": "Beggin - Inédit",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/72/SKYC.2533272277843784372.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-04",
-      "heure": 12,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791115737,
-      "end_ts": 1791115946
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791117565~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=ecb2e237f814cae41cd4db5186d3bf138b1ffa1fd05d97771e6fefd5c2c3e8bc",
-      "date": "2026-10-04",
-      "heure": 12,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791115578,
-      "end_ts": 1791115735
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1791095488~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=a233fe6272a55f565d939a0d3835721701a20c673867838e2e402853438363f8",
-      "date": "2026-10-04",
-      "heure": 6,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1791094350,
-      "end_ts": 1791094516
-    },
-    {
-      "titre": "UBER",
-      "artistes": "Moji x Sboy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/78b98745418aa0a06d74b47782613679/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3?hdnea=exp=1791095489~acl=/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3*~data=user_id=0,application_id=42~hmac=95fb33d28761e0f99b0ffffcac9da321360bada19c7de6c554311549eecd072c",
-      "date": "2026-10-04",
-      "heure": 6,
-      "album": "UBER",
-      "annee": 2022,
-      "start_ts": 1791094195,
-      "end_ts": 1791094351
-    },
-    {
-      "titre": "En feu",
-      "artistes": "Heaven is Shining",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/11d57b83c89121552a06feb3980ac9be/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/37/SKYC.3734006469683381937.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/e/0/f9e5692a924ff1a890caa87d957be324.mp3?hdnea=exp=1791095490~acl=/api/1/1/f/9/e/0/f9e5692a924ff1a890caa87d957be324.mp3*~data=user_id=0,application_id=42~hmac=e77a690fcecd88db7e1dff5d2fff8cbb52d6bbae87c9335c5fdfc9322c23d1b0",
-      "date": "2026-10-04",
-      "heure": 6,
-      "album": "Fragile",
-      "annee": 2022,
-      "start_ts": 1791093990,
-      "end_ts": 1791094189
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791095491~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=af802c423852944dc98bae869174afbb5ecccbfb406b20eb8bc6d1d2136c9e52",
-      "date": "2026-10-04",
-      "heure": 6,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791093836,
-      "end_ts": 1791093993
     }
   ]
 }
