@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-06T08:57:08.099889",
-  "genere_ts": 1791277028,
+  "genere_le": "2026-10-06T15:34:55.211237",
+  "genere_ts": 1791300895,
   "volume": {
-    "nb_diffusions": 244,
-    "nb_artistes": 78,
-    "nb_titres": 81,
+    "nb_diffusions": 250,
+    "nb_artistes": 79,
+    "nb_titres": 82,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-06",
-    "heures_antenne": 11.84,
-    "duree_moy_s": 174.6
+    "heures_antenne": 12.12,
+    "duree_moy_s": 174.5
   },
   "top_artistes": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 13,
+      "nb_diffusions": 14,
       "titres_differents": 1,
-      "minutes_antenne": 34.0
+      "minutes_antenne": 36.6
     },
     {
       "artistes": "Tame Impala",
@@ -43,9 +43,9 @@
     },
     {
       "artistes": "BIGBANG",
-      "nb_diffusions": 8,
+      "nb_diffusions": 9,
       "titres_differents": 1,
-      "minutes_antenne": 29.1
+      "minutes_antenne": 32.7
     },
     {
       "artistes": "KAROL G",
@@ -66,16 +66,22 @@
       "minutes_antenne": 24.3
     },
     {
+      "artistes": "Bad Bunny",
+      "nb_diffusions": 8,
+      "titres_differents": 1,
+      "minutes_antenne": 24.3
+    },
+    {
       "artistes": "Gambi",
       "nb_diffusions": 11,
       "titres_differents": 2,
       "minutes_antenne": 23.4
     },
     {
-      "artistes": "Bad Bunny",
-      "nb_diffusions": 7,
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 8,
       "titres_differents": 1,
-      "minutes_antenne": 21.3
+      "minutes_antenne": 19.5
     },
     {
       "artistes": "Ariana Grande",
@@ -90,10 +96,10 @@
       "minutes_antenne": 18.9
     },
     {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 7,
+      "artistes": "Niska",
+      "nb_diffusions": 6,
       "titres_differents": 1,
-      "minutes_antenne": 17.0
+      "minutes_antenne": 16.7
     },
     {
       "artistes": "Timal",
@@ -112,12 +118,6 @@
       "nb_diffusions": 4,
       "titres_differents": 4,
       "minutes_antenne": 14.3
-    },
-    {
-      "artistes": "Niska",
-      "nb_diffusions": 5,
-      "titres_differents": 1,
-      "minutes_antenne": 13.9
     },
     {
       "artistes": "Bouss",
@@ -142,14 +142,20 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_diffusions": 13,
-      "minutes_antenne": 34.0
+      "nb_diffusions": 14,
+      "minutes_antenne": 36.6
     },
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_diffusions": 12,
       "minutes_antenne": 33.2
+    },
+    {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_diffusions": 9,
+      "minutes_antenne": 32.7
     },
     {
       "artistes": "PLK",
@@ -170,28 +176,22 @@
       "minutes_antenne": 22.7
     },
     {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
+      "artistes": "Bad Bunny",
+      "titre": "NUEVAYoL",
       "nb_diffusions": 8,
-      "minutes_antenne": 29.1
+      "minutes_antenne": 24.3
+    },
+    {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_diffusions": 8,
+      "minutes_antenne": 19.5
     },
     {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_diffusions": 8,
       "minutes_antenne": 24.8
-    },
-    {
-      "artistes": "Bad Bunny",
-      "titre": "NUEVAYoL",
-      "nb_diffusions": 7,
-      "minutes_antenne": 21.3
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
-      "nb_diffusions": 7,
-      "minutes_antenne": 17.0
     },
     {
       "artistes": "Gambi",
@@ -218,6 +218,12 @@
       "minutes_antenne": 19.2
     },
     {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_diffusions": 6,
+      "minutes_antenne": 16.7
+    },
+    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_diffusions": 6,
@@ -240,12 +246,6 @@
       "titre": "Je pense à toi",
       "nb_diffusions": 5,
       "minutes_antenne": 14.2
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_diffusions": 5,
-      "minutes_antenne": 13.9
     },
     {
       "artistes": "Bouss",
@@ -305,7 +305,7 @@
     },
     {
       "heure": 15,
-      "nb_diffusions": 6
+      "nb_diffusions": 12
     },
     {
       "heure": 16,
@@ -383,8 +383,8 @@
     },
     {
       "date": "2026-10-06",
-      "nb_diffusions": 12,
-      "titres_differents": 11
+      "nb_diffusions": 18,
+      "titres_differents": 15
     }
   ],
   "semaine": [
@@ -398,7 +398,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 99
+      "nb_diffusions": 105
     },
     {
       "jour": "Mercredi",
@@ -443,22 +443,28 @@
       "minutes": 38.0
     },
     {
+      "artistes": "Leto",
+      "nb_jours": 6,
+      "nb_diffusions": 14,
+      "minutes": 36.6
+    },
+    {
       "artistes": "Vacra",
       "nb_jours": 6,
       "nb_diffusions": 12,
       "minutes": 33.2
     },
     {
+      "artistes": "Bad Bunny",
+      "nb_jours": 6,
+      "nb_diffusions": 8,
+      "minutes": 24.3
+    },
+    {
       "artistes": "Ariana Grande",
       "nb_jours": 6,
       "nb_diffusions": 6,
       "minutes": 19.2
-    },
-    {
-      "artistes": "Leto",
-      "nb_jours": 5,
-      "nb_diffusions": 13,
-      "minutes": 34.0
     },
     {
       "artistes": "Gambi",
@@ -469,14 +475,14 @@
     {
       "artistes": "BIGBANG",
       "nb_jours": 5,
-      "nb_diffusions": 8,
-      "minutes": 29.1
+      "nb_diffusions": 9,
+      "minutes": 32.7
     },
     {
-      "artistes": "Bad Bunny",
-      "nb_jours": 5,
-      "nb_diffusions": 7,
-      "minutes": 21.3
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_jours": 4,
+      "nb_diffusions": 8,
+      "minutes": 19.5
     },
     {
       "artistes": "Slimane",
@@ -491,28 +497,22 @@
       "minutes": 26.0
     },
     {
+      "artistes": "Niska",
+      "nb_jours": 4,
+      "nb_diffusions": 6,
+      "minutes": 16.7
+    },
+    {
       "artistes": "Djaksparo",
       "nb_jours": 4,
       "nb_diffusions": 5,
       "minutes": 10.0
     },
     {
-      "artistes": "Niska",
-      "nb_jours": 4,
-      "nb_diffusions": 5,
-      "minutes": 13.9
-    },
-    {
       "artistes": "The Weeknd",
       "nb_jours": 4,
       "nb_diffusions": 4,
       "minutes": 14.3
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_jours": 3,
-      "nb_diffusions": 7,
-      "minutes": 17.0
     },
     {
       "artistes": "Timal",
@@ -553,6 +553,12 @@
       "nb_diffusions": 15
     },
     {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_jours": 6,
+      "nb_diffusions": 14
+    },
+    {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_jours": 6,
@@ -565,16 +571,16 @@
       "nb_diffusions": 9
     },
     {
+      "artistes": "Bad Bunny",
+      "titre": "NUEVAYoL",
+      "nb_jours": 6,
+      "nb_diffusions": 8
+    },
+    {
       "artistes": "Ariana Grande",
       "titre": "hate that i made you love me (ari lyric draft from bed)",
       "nb_jours": 6,
       "nb_diffusions": 6
-    },
-    {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_jours": 5,
-      "nb_diffusions": 13
     },
     {
       "artistes": "Tiakola",
@@ -586,17 +592,11 @@
       "artistes": "BIGBANG",
       "titre": "LOSER",
       "nb_jours": 5,
-      "nb_diffusions": 8
+      "nb_diffusions": 9
     },
     {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
-      "nb_jours": 5,
-      "nb_diffusions": 7
-    },
-    {
-      "artistes": "Bad Bunny",
-      "titre": "NUEVAYoL",
       "nb_jours": 5,
       "nb_diffusions": 7
     },
@@ -613,6 +613,12 @@
       "nb_diffusions": 8
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_jours": 4,
+      "nb_diffusions": 8
+    },
+    {
       "artistes": "KAROL G",
       "titre": "BbY WOW",
       "nb_jours": 4,
@@ -622,7 +628,7 @@
       "artistes": "Niska",
       "titre": "Allo Doudou",
       "nb_jours": 4,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     },
     {
       "artistes": "Djaksparo",
@@ -633,12 +639,6 @@
     {
       "artistes": "Timal",
       "titre": "Sicario",
-      "nb_jours": 3,
-      "nb_diffusions": 7
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
       "nb_jours": 3,
       "nb_diffusions": 7
     },
@@ -713,15 +713,15 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 145
+      "nb_diffusions": 147
     },
     {
       "annee": 2025,
-      "nb_diffusions": 35
+      "nb_diffusions": 36
     },
     {
       "annee": 2024,
-      "nb_diffusions": 15
+      "nb_diffusions": 16
     },
     {
       "annee": 2023,
@@ -745,7 +745,7 @@
     },
     {
       "annee": 2018,
-      "nb_diffusions": 2
+      "nb_diffusions": 3
     },
     {
       "annee": 2017,
@@ -753,7 +753,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 10
+      "nb_diffusions": 11
     },
     {
       "annee": 2015,
@@ -791,11 +791,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 123
+      "nb": 125
     },
     {
       "type_contenu": "Explicit",
-      "nb": 119
+      "nb": 123
     }
   ],
   "albums": [
@@ -807,7 +807,7 @@
     {
       "album": "Pineapple",
       "artistes": "Leto",
-      "nb_diffusions": 13
+      "nb_diffusions": 14
     },
     {
       "album": "Fille à Papa",
@@ -825,6 +825,11 @@
       "nb_diffusions": 9
     },
     {
+      "album": "MADE",
+      "artistes": "BIGBANG",
+      "nb_diffusions": 9
+    },
+    {
       "album": "Grand Garçon",
       "artistes": "PLK",
       "nb_diffusions": 9
@@ -835,8 +840,13 @@
       "nb_diffusions": 9
     },
     {
-      "album": "MADE",
-      "artistes": "BIGBANG",
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 8
+    },
+    {
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "artistes": "Bad Bunny",
       "nb_diffusions": 8
     },
     {
@@ -855,16 +865,6 @@
       "nb_diffusions": 7
     },
     {
-      "album": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 7
-    },
-    {
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "artistes": "Bad Bunny",
-      "nb_diffusions": 7
-    },
-    {
       "album": "hate that i made you love me",
       "artistes": "Ariana Grande",
       "nb_diffusions": 6
@@ -872,6 +872,11 @@
     {
       "album": "WpointM",
       "artistes": "Tiakola",
+      "nb_diffusions": 6
+    },
+    {
+      "album": "Allo Doudou",
+      "artistes": "Niska",
       "nb_diffusions": 6
     },
     {
@@ -890,30 +895,103 @@
       "nb_diffusions": 5
     },
     {
-      "album": "Allo Doudou",
-      "artistes": "Niska",
-      "nb_diffusions": 5
-    },
-    {
       "album": "Et si j'échoue ??",
       "artistes": "Bouss",
       "nb_diffusions": 4
     }
   ],
   "dernier_morceau": {
-    "titre": "Mélo Décalé",
-    "artistes": "Tiakola",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1791277922~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=4416e7a69b08ecde6a9e863c62f274fb305280433988e07213dc4fc7cdeed870",
+    "titre": "La petasse",
+    "artistes": "DJ Jordan MasterBoy",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1791301788~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=cc25db3ecf5a30f05003a73c22b4a65bff65958c9956657f3cc167d05de2a35b",
     "date": "2026-10-06",
-    "heure": 8,
-    "album": "Mélo Décalé",
-    "annee": 2026,
-    "start_ts": 1791276907,
-    "end_ts": 1791277058
+    "heure": 15,
+    "album": "La petasse",
+    "annee": 2024,
+    "start_ts": 1791300880,
+    "end_ts": 1791301026
   },
   "derniers_morceaux": [
+    {
+      "titre": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1791301788~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=cc25db3ecf5a30f05003a73c22b4a65bff65958c9956657f3cc167d05de2a35b",
+      "date": "2026-10-06",
+      "heure": 15,
+      "album": "La petasse",
+      "annee": 2024,
+      "start_ts": 1791300880,
+      "end_ts": 1791301026
+    },
+    {
+      "titre": "Pas comme eux",
+      "artistes": "Moha La Squale",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/98d318a81ef76139f0e00729b59c517a/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.3405962387638021408.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/a/0/f6a75e5c31842b2daf441042fdb57ff2.mp3?hdnea=exp=1791301790~acl=/api/1/1/f/6/a/0/f6a75e5c31842b2daf441042fdb57ff2.mp3*~data=user_id=0,application_id=42~hmac=0879fe5da3c4115d9df563ee7747dc247fe4b4908d55ac313a807f869bcf3409",
+      "date": "2026-10-06",
+      "heure": 15,
+      "album": "Pas comme eux",
+      "annee": 2018,
+      "start_ts": 1791300739,
+      "end_ts": 1791300885
+    },
+    {
+      "titre": "NUEVAYoL",
+      "artistes": "Bad Bunny",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1791301791~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=782289069ca4f773844ee6d89b78d546e3d8fe540fbac44e048ddb7554b8957e",
+      "date": "2026-10-06",
+      "heure": 15,
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "annee": 2025,
+      "start_ts": 1791300550,
+      "end_ts": 1791300732
+    },
+    {
+      "titre": "Allo Doudou",
+      "artistes": "Niska",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791301792~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=319bccd5035e1899ee0ecfea105f870ab941d66ce822aa471cb97c35a98726fa",
+      "date": "2026-10-06",
+      "heure": 15,
+      "album": "Allo Doudou",
+      "annee": 2026,
+      "start_ts": 1791300389,
+      "end_ts": 1791300556
+    },
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.115.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791301793~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=bb7889d1e0036101815b4add9b0439e54b6edea2c69f439722998484590f7f83",
+      "date": "2026-10-06",
+      "heure": 15,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1791300176,
+      "end_ts": 1791300394
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791301793~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=72b33f30fbb048a4d75f8efdc9a1d8ca7a1a5a242f66b3c4a126e6a6f893a7c4",
+      "date": "2026-10-06",
+      "heure": 15,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1791300017,
+      "end_ts": 1791300175
+    },
     {
       "titre": "Mélo Décalé",
       "artistes": "Tiakola",
@@ -965,84 +1043,6 @@
       "annee": 2024,
       "start_ts": 1791276170,
       "end_ts": 1791276362
-    },
-    {
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "artistes": "Ariana Grande",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1791277925~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=96738f8788dd013c0207d0aa1fadbb88ca28efd9aa4c234f68977b735d091cda",
-      "date": "2026-10-06",
-      "heure": 8,
-      "album": "hate that i made you love me",
-      "annee": 2026,
-      "start_ts": 1791275977,
-      "end_ts": 1791276169
-    },
-    {
-      "titre": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791277926~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=e8a2b6be478c8cc78205e1937a67db8cc5e31c66e0f52bd0d93e022883958fb2",
-      "date": "2026-10-06",
-      "heure": 8,
-      "album": "Sexy Nana",
-      "annee": 2026,
-      "start_ts": 1791275823,
-      "end_ts": 1791275975
-    },
-    {
-      "titre": "Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",
-      "artistes": "TRIANGLE DES BERMUDES",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6bc17bedbade7c46e480434bc4345ced/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.7075776364981256857.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3?hdnea=exp=1791253669~acl=/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3*~data=user_id=0,application_id=42~hmac=89d48324a55a8901c259ebbb409e63c7365723a5187fed7f5594069edbb87bfc",
-      "date": "2026-10-06",
-      "heure": 2,
-      "album": "404",
-      "annee": 2026,
-      "start_ts": 1791252630,
-      "end_ts": 1791252821
-    },
-    {
-      "titre": "Dancing In The Flames (Acapella)",
-      "artistes": "The Weeknd",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6854a01c51b451bb836cf62afd75c0f2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.3643349027087007051.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/3/0/623030aed85a7057abeeb9123c780d1b.mp3?hdnea=exp=1791253670~acl=/api/1/1/6/2/3/0/623030aed85a7057abeeb9123c780d1b.mp3*~data=user_id=0,application_id=42~hmac=322aa52c7da0599b4e5c1880750e1e82e197631ba6cf95ab4d9e1288a5d4bdc9",
-      "date": "2026-10-06",
-      "heure": 2,
-      "album": "Dancing In The Flames",
-      "annee": 2024,
-      "start_ts": 1791252430,
-      "end_ts": 1791252625
-    },
-    {
-      "titre": "LOSER",
-      "artistes": "BIGBANG",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.115.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791253671~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=c158387c42ee01409fcbd0665088e16a197c0f66228770b27ab1790d3d643bf2",
-      "date": "2026-10-06",
-      "heure": 2,
-      "album": "MADE",
-      "annee": 2016,
-      "start_ts": 1791252212,
-      "end_ts": 1791252430
-    },
-    {
-      "titre": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791253671~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=cd767d304dbb8bc8dcbaa24d69f2ba7437e20d238cf135863d5eeea0a6c7be79",
-      "date": "2026-10-06",
-      "heure": 2,
-      "album": "Sexy Nana",
-      "annee": 2026,
-      "start_ts": 1791252060,
-      "end_ts": 1791252212
     }
   ]
 }
