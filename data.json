@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-06T15:34:55.211237",
-  "genere_ts": 1791300895,
+  "genere_le": "2026-10-06T20:31:19.630842",
+  "genere_ts": 1791318679,
   "volume": {
-    "nb_diffusions": 250,
-    "nb_artistes": 79,
-    "nb_titres": 82,
+    "nb_diffusions": 255,
+    "nb_artistes": 80,
+    "nb_titres": 83,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-06",
-    "heures_antenne": 12.12,
-    "duree_moy_s": 174.5
+    "heures_antenne": 12.33,
+    "duree_moy_s": 174.0
   },
   "top_artistes": [
     {
@@ -78,6 +78,12 @@
       "minutes_antenne": 23.4
     },
     {
+      "artistes": "Niska",
+      "nb_diffusions": 8,
+      "titres_differents": 1,
+      "minutes_antenne": 22.3
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 8,
       "titres_differents": 1,
@@ -94,12 +100,6 @@
       "nb_diffusions": 6,
       "titres_differents": 2,
       "minutes_antenne": 18.9
-    },
-    {
-      "artistes": "Niska",
-      "nb_diffusions": 6,
-      "titres_differents": 1,
-      "minutes_antenne": 16.7
     },
     {
       "artistes": "Timal",
@@ -188,6 +188,12 @@
       "minutes_antenne": 19.5
     },
     {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_diffusions": 8,
+      "minutes_antenne": 22.3
+    },
+    {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_diffusions": 8,
@@ -216,12 +222,6 @@
       "titre": "hate that i made you love me (ari lyric draft from bed)",
       "nb_diffusions": 6,
       "minutes_antenne": 19.2
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_diffusions": 6,
-      "minutes_antenne": 16.7
     },
     {
       "artistes": "Tiakola",
@@ -313,19 +313,19 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 16
+      "nb_diffusions": 19
     },
     {
       "heure": 18,
-      "nb_diffusions": 11
+      "nb_diffusions": 12
     },
     {
       "heure": 19,
-      "nb_diffusions": 10
+      "nb_diffusions": 11
     },
     {
       "heure": 20,
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "heure": 21,
@@ -383,8 +383,8 @@
     },
     {
       "date": "2026-10-06",
-      "nb_diffusions": 18,
-      "titres_differents": 15
+      "nb_diffusions": 24,
+      "titres_differents": 18
     }
   ],
   "semaine": [
@@ -398,7 +398,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 105
+      "nb_diffusions": 111
     },
     {
       "jour": "Mercredi",
@@ -485,6 +485,12 @@
       "minutes": 19.5
     },
     {
+      "artistes": "Niska",
+      "nb_jours": 4,
+      "nb_diffusions": 8,
+      "minutes": 22.3
+    },
+    {
       "artistes": "Slimane",
       "nb_jours": 4,
       "nb_diffusions": 8,
@@ -495,12 +501,6 @@
       "nb_jours": 4,
       "nb_diffusions": 7,
       "minutes": 26.0
-    },
-    {
-      "artistes": "Niska",
-      "nb_jours": 4,
-      "nb_diffusions": 6,
-      "minutes": 16.7
     },
     {
       "artistes": "Djaksparo",
@@ -613,6 +613,12 @@
       "nb_diffusions": 8
     },
     {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_jours": 4,
+      "nb_diffusions": 8
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
       "nb_jours": 4,
@@ -623,12 +629,6 @@
       "titre": "BbY WOW",
       "nb_jours": 4,
       "nb_diffusions": 7
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_jours": 4,
-      "nb_diffusions": 6
     },
     {
       "artistes": "Djaksparo",
@@ -713,7 +713,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 147
+      "nb_diffusions": 151
     },
     {
       "annee": 2025,
@@ -725,7 +725,7 @@
     },
     {
       "annee": 2023,
-      "nb_diffusions": 2
+      "nb_diffusions": 3
     },
     {
       "annee": 2022,
@@ -791,11 +791,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 125
+      "nb": 128
     },
     {
       "type_contenu": "Explicit",
-      "nb": 123
+      "nb": 125
     }
   ],
   "albums": [
@@ -855,6 +855,11 @@
       "nb_diffusions": 8
     },
     {
+      "album": "Allo Doudou",
+      "artistes": "Niska",
+      "nb_diffusions": 8
+    },
+    {
       "album": "RENÉ CAOVILLA",
       "artistes": "Gambi",
       "nb_diffusions": 7
@@ -875,11 +880,6 @@
       "nb_diffusions": 6
     },
     {
-      "album": "Allo Doudou",
-      "artistes": "Niska",
-      "nb_diffusions": 6
-    },
-    {
       "album": "VIVE LA MONNAIE",
       "artistes": "GIMS",
       "nb_diffusions": 5
@@ -895,25 +895,103 @@
       "nb_diffusions": 5
     },
     {
-      "album": "Et si j'échoue ??",
-      "artistes": "Bouss",
+      "album": "PILE (remix)",
+      "artistes": "FC433ARMY",
       "nb_diffusions": 4
     }
   ],
   "dernier_morceau": {
-    "titre": "La petasse",
-    "artistes": "DJ Jordan MasterBoy",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1791301788~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=cc25db3ecf5a30f05003a73c22b4a65bff65958c9956657f3cc167d05de2a35b",
+    "titre": "Fille à Papa",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+    "preview_mp3": null,
     "date": "2026-10-06",
-    "heure": 15,
-    "album": "La petasse",
-    "annee": 2024,
-    "start_ts": 1791300880,
-    "end_ts": 1791301026
+    "heure": 20,
+    "album": null,
+    "annee": null,
+    "start_ts": 1791317887,
+    "end_ts": 1791318008
   },
   "derniers_morceaux": [
+    {
+      "titre": "Fille à Papa",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-06",
+      "heure": 20,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791317887,
+      "end_ts": 1791318008
+    },
+    {
+      "titre": "PILE (remix)",
+      "artistes": "FC433ARMY",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9e2b49abb149bc0ffaed71e810117b97/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3?hdnea=exp=1791319575~acl=/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3*~data=user_id=0,application_id=42~hmac=0a9c43c72eaa57c95613123fd2778cb6c0b2cc61c0f34bdbbe5760dd809c82b7",
+      "date": "2026-10-06",
+      "heure": 19,
+      "album": "PILE (remix)",
+      "annee": 2026,
+      "start_ts": 1791315030,
+      "end_ts": 1791315177
+    },
+    {
+      "titre": "Allo Doudou",
+      "artistes": "Niska",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791319576~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=72041eedbf990b96d112b723adfdbf17acdedefb6b9be8de7a462e89cefa5762",
+      "date": "2026-10-06",
+      "heure": 18,
+      "album": "Allo Doudou",
+      "annee": 2026,
+      "start_ts": 1791313042,
+      "end_ts": 1791313209
+    },
+    {
+      "titre": "Allo Doudou",
+      "artistes": "Niska",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791319577~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=63ff2064182910aaefcb6418fe17292b8fd6d1d6f8bac6c181327e91bbb0fbbc",
+      "date": "2026-10-06",
+      "heure": 17,
+      "album": "Allo Doudou",
+      "annee": 2026,
+      "start_ts": 1791308852,
+      "end_ts": 1791309019
+    },
+    {
+      "titre": "un été avec toi (feat. Métronhomme)",
+      "artistes": "Natita Cruz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d8fe5cb2ce9e1d08e6170eb689608879/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/a/0/13aafb084ad64a3d92a112e2d1f362fd.mp3?hdnea=exp=1791319578~acl=/api/1/1/1/3/a/0/13aafb084ad64a3d92a112e2d1f362fd.mp3*~data=user_id=0,application_id=42~hmac=53c7d5416dfe3f8093044c01261298c5d3123a2d5846f55ae899aaa7778b0fc3",
+      "date": "2026-10-06",
+      "heure": 17,
+      "album": "un été avec toi (feat. Métronhomme)",
+      "annee": 2023,
+      "start_ts": 1791308733,
+      "end_ts": 1791308854
+    },
+    {
+      "titre": "PILE (remix)",
+      "artistes": "FC433ARMY",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9e2b49abb149bc0ffaed71e810117b97/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3?hdnea=exp=1791319575~acl=/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3*~data=user_id=0,application_id=42~hmac=0a9c43c72eaa57c95613123fd2778cb6c0b2cc61c0f34bdbbe5760dd809c82b7",
+      "date": "2026-10-06",
+      "heure": 17,
+      "album": "PILE (remix)",
+      "annee": 2026,
+      "start_ts": 1791308593,
+      "end_ts": 1791308740
+    },
     {
       "titre": "La petasse",
       "artistes": "DJ Jordan MasterBoy",
@@ -965,84 +1043,6 @@
       "annee": 2026,
       "start_ts": 1791300389,
       "end_ts": 1791300556
-    },
-    {
-      "titre": "LOSER",
-      "artistes": "BIGBANG",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.115.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791301793~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=bb7889d1e0036101815b4add9b0439e54b6edea2c69f439722998484590f7f83",
-      "date": "2026-10-06",
-      "heure": 15,
-      "album": "MADE",
-      "annee": 2016,
-      "start_ts": 1791300176,
-      "end_ts": 1791300394
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791301793~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=72b33f30fbb048a4d75f8efdc9a1d8ca7a1a5a242f66b3c4a126e6a6f893a7c4",
-      "date": "2026-10-06",
-      "heure": 15,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791300017,
-      "end_ts": 1791300175
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1791277922~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=4416e7a69b08ecde6a9e863c62f274fb305280433988e07213dc4fc7cdeed870",
-      "date": "2026-10-06",
-      "heure": 8,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1791276907,
-      "end_ts": 1791277058
-    },
-    {
-      "titre": "Été avec toi",
-      "artistes": "Adèle Castillon",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1791277923~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=710d3c1c99b33741204e3d2c054128dfade1498b9e2f8bdc3f7615985628c274",
-      "date": "2026-10-06",
-      "heure": 8,
-      "album": "Été avec toi",
-      "annee": 2026,
-      "start_ts": 1791276904,
-      "end_ts": 1791277088
-    },
-    {
-      "titre": "Olivia Valere",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-06",
-      "heure": 8,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791276640,
-      "end_ts": 1791276791
-    },
-    {
-      "titre": "Maudit",
-      "artistes": "Werenoi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/36d98d27fa666bcd9b4fbef1ba2045f3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8677815263279914250.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/7/0/8f720badbea9cdb0f776b1a99babb695.mp3?hdnea=exp=1791277924~acl=/api/1/1/8/f/7/0/8f720badbea9cdb0f776b1a99babb695.mp3*~data=user_id=0,application_id=42~hmac=52ba64119a4b2947f9cbc764a198a9112ac50a21747f0ae09893b9411529e371",
-      "date": "2026-10-06",
-      "heure": 8,
-      "album": "Maudit",
-      "annee": 2024,
-      "start_ts": 1791276170,
-      "end_ts": 1791276362
     }
   ]
 }
