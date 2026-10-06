@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-05T22:07:07.342856",
-  "genere_ts": 1791238027,
+  "genere_le": "2026-10-06T02:12:54.536500",
+  "genere_ts": 1791252774,
   "volume": {
-    "nb_diffusions": 234,
+    "nb_diffusions": 239,
     "nb_artistes": 77,
-    "nb_titres": 79,
+    "nb_titres": 80,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-05",
-    "heures_antenne": 11.34,
-    "duree_moy_s": 174.4
+    "derniere_date": "2026-10-06",
+    "heures_antenne": 11.6,
+    "duree_moy_s": 174.7
   },
   "top_artistes": [
     {
@@ -16,6 +16,12 @@
       "nb_diffusions": 14,
       "titres_differents": 2,
       "minutes_antenne": 41.8
+    },
+    {
+      "artistes": "Aya Nakamura",
+      "nb_diffusions": 14,
+      "titres_differents": 1,
+      "minutes_antenne": 35.5
     },
     {
       "artistes": "Leto",
@@ -36,22 +42,16 @@
       "minutes_antenne": 33.2
     },
     {
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 13,
+      "artistes": "BIGBANG",
+      "nb_diffusions": 8,
       "titres_differents": 1,
-      "minutes_antenne": 32.9
+      "minutes_antenne": 29.1
     },
     {
       "artistes": "KAROL G",
       "nb_diffusions": 7,
       "titres_differents": 1,
       "minutes_antenne": 26.0
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_diffusions": 7,
-      "titres_differents": 1,
-      "minutes_antenne": 25.4
     },
     {
       "artistes": "Slimane",
@@ -108,22 +108,22 @@
       "minutes_antenne": 16.0
     },
     {
+      "artistes": "The Weeknd",
+      "nb_diffusions": 4,
+      "titres_differents": 4,
+      "minutes_antenne": 14.3
+    },
+    {
+      "artistes": "Niska",
+      "nb_diffusions": 5,
+      "titres_differents": 1,
+      "minutes_antenne": 13.9
+    },
+    {
       "artistes": "Bouss",
       "nb_diffusions": 4,
       "titres_differents": 1,
       "minutes_antenne": 11.2
-    },
-    {
-      "artistes": "Niska",
-      "nb_diffusions": 4,
-      "titres_differents": 1,
-      "minutes_antenne": 11.1
-    },
-    {
-      "artistes": "The Weeknd",
-      "nb_diffusions": 3,
-      "titres_differents": 3,
-      "minutes_antenne": 11.1
     },
     {
       "artistes": "Josas",
@@ -136,8 +136,8 @@
     {
       "artistes": "Aya Nakamura",
       "titre": "Sexy Nana",
-      "nb_diffusions": 13,
-      "minutes_antenne": 32.9
+      "nb_diffusions": 14,
+      "minutes_antenne": 35.5
     },
     {
       "artistes": "Leto",
@@ -164,6 +164,12 @@
       "minutes_antenne": 30.1
     },
     {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_diffusions": 8,
+      "minutes_antenne": 29.1
+    },
+    {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_diffusions": 8,
@@ -174,12 +180,6 @@
       "titre": "Mélo Décalé",
       "nb_diffusions": 8,
       "minutes_antenne": 20.2
-    },
-    {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
-      "nb_diffusions": 7,
-      "minutes_antenne": 25.4
     },
     {
       "artistes": "Bad Bunny",
@@ -242,16 +242,16 @@
       "minutes_antenne": 14.2
     },
     {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_diffusions": 5,
+      "minutes_antenne": 13.9
+    },
+    {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
       "nb_diffusions": 4,
       "minutes_antenne": 11.2
-    },
-    {
-      "artistes": "Gambi",
-      "titre": "COACHELLA",
-      "nb_diffusions": 4,
-      "minutes_antenne": 8.1
     }
   ],
   "heures": [
@@ -261,11 +261,11 @@
     },
     {
       "heure": 1,
-      "nb_diffusions": 36
+      "nb_diffusions": 38
     },
     {
       "heure": 2,
-      "nb_diffusions": 20
+      "nb_diffusions": 24
     },
     {
       "heure": 3,
@@ -380,6 +380,11 @@
       "date": "2026-10-05",
       "nb_diffusions": 24,
       "titres_differents": 14
+    },
+    {
+      "date": "2026-10-06",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -393,7 +398,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 87
+      "nb_diffusions": 93
     },
     {
       "jour": "Mercredi",
@@ -432,16 +437,16 @@
       "minutes": 24.3
     },
     {
+      "artistes": "Aya Nakamura",
+      "nb_jours": 6,
+      "nb_diffusions": 14,
+      "minutes": 35.5
+    },
+    {
       "artistes": "Vacra",
       "nb_jours": 6,
       "nb_diffusions": 12,
       "minutes": 33.2
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "nb_jours": 5,
-      "nb_diffusions": 13,
-      "minutes": 32.9
     },
     {
       "artistes": "Leto",
@@ -454,6 +459,12 @@
       "nb_jours": 5,
       "nb_diffusions": 11,
       "minutes": 23.4
+    },
+    {
+      "artistes": "BIGBANG",
+      "nb_jours": 5,
+      "nb_diffusions": 8,
+      "minutes": 29.1
     },
     {
       "artistes": "Bad Bunny",
@@ -474,12 +485,6 @@
       "minutes": 24.8
     },
     {
-      "artistes": "BIGBANG",
-      "nb_jours": 4,
-      "nb_diffusions": 7,
-      "minutes": 25.4
-    },
-    {
       "artistes": "KAROL G",
       "nb_jours": 4,
       "nb_diffusions": 7,
@@ -490,6 +495,18 @@
       "nb_jours": 4,
       "nb_diffusions": 5,
       "minutes": 10.0
+    },
+    {
+      "artistes": "Niska",
+      "nb_jours": 4,
+      "nb_diffusions": 5,
+      "minutes": 13.9
+    },
+    {
+      "artistes": "The Weeknd",
+      "nb_jours": 4,
+      "nb_diffusions": 4,
+      "minutes": 14.3
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -520,18 +537,6 @@
       "nb_jours": 3,
       "nb_diffusions": 4,
       "minutes": 10.8
-    },
-    {
-      "artistes": "Niska",
-      "nb_jours": 3,
-      "nb_diffusions": 4,
-      "minutes": 11.1
-    },
-    {
-      "artistes": "The Weeknd",
-      "nb_jours": 3,
-      "nb_diffusions": 3,
-      "minutes": 11.1
     }
   ],
   "titres_recurrents": [
@@ -540,6 +545,12 @@
       "titre": "Pocahontas",
       "nb_jours": 7,
       "nb_diffusions": 9
+    },
+    {
+      "artistes": "Aya Nakamura",
+      "titre": "Sexy Nana",
+      "nb_jours": 6,
+      "nb_diffusions": 14
     },
     {
       "artistes": "Vacra",
@@ -560,10 +571,10 @@
       "nb_diffusions": 13
     },
     {
-      "artistes": "Aya Nakamura",
-      "titre": "Sexy Nana",
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
       "nb_jours": 5,
-      "nb_diffusions": 13
+      "nb_diffusions": 8
     },
     {
       "artistes": "Gambi",
@@ -608,10 +619,10 @@
       "nb_diffusions": 7
     },
     {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
       "nb_jours": 4,
-      "nb_diffusions": 7
+      "nb_diffusions": 5
     },
     {
       "artistes": "Djaksparo",
@@ -638,12 +649,6 @@
       "nb_diffusions": 5
     },
     {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_jours": 3,
-      "nb_diffusions": 4
-    },
-    {
       "artistes": "Josas",
       "titre": "Deliciosa",
       "nb_jours": 3,
@@ -659,8 +664,8 @@
   "diversifies": [
     {
       "artistes": "The Weeknd",
-      "nb_titres_differents": 3,
-      "nb_diffusions": 3
+      "nb_titres_differents": 4,
+      "nb_diffusions": 4
     },
     {
       "artistes": "Tiakola",
@@ -708,7 +713,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 138
+      "nb_diffusions": 141
     },
     {
       "annee": 2025,
@@ -716,7 +721,7 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 13
+      "nb_diffusions": 14
     },
     {
       "annee": 2023,
@@ -748,7 +753,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 9
+      "nb_diffusions": 10
     },
     {
       "annee": 2015,
@@ -786,18 +791,18 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 116
+      "nb": 120
     },
     {
       "type_contenu": "Explicit",
-      "nb": 116
+      "nb": 117
     }
   ],
   "albums": [
     {
       "album": "Sexy Nana",
       "artistes": "Aya Nakamura",
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "album": "Pineapple",
@@ -830,6 +835,11 @@
       "nb_diffusions": 8
     },
     {
+      "album": "MADE",
+      "artistes": "BIGBANG",
+      "nb_diffusions": 8
+    },
+    {
       "album": "Chroniques d’un cupidon",
       "artistes": "Slimane",
       "nb_diffusions": 8
@@ -842,11 +852,6 @@
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
-      "nb_diffusions": 7
-    },
-    {
-      "album": "MADE",
-      "artistes": "BIGBANG",
       "nb_diffusions": 7
     },
     {
@@ -885,30 +890,108 @@
       "nb_diffusions": 5
     },
     {
-      "album": "Et si j'échoue ??",
-      "artistes": "Bouss",
-      "nb_diffusions": 4
+      "album": "Allo Doudou",
+      "artistes": "Niska",
+      "nb_diffusions": 5
     },
     {
-      "album": "Deliciosa",
-      "artistes": "Josas",
+      "album": "Et si j'échoue ??",
+      "artistes": "Bouss",
       "nb_diffusions": 4
     }
   ],
   "dernier_morceau": {
-    "titre": "Sexy Nana",
-    "artistes": "Aya Nakamura",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791238922~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=ab9930acdf80f0cf6754d2cb56971a0d0c9ee68979c5b8cdd62bc9a3b7f522ac",
-    "date": "2026-10-05",
-    "heure": 22,
-    "album": "Sexy Nana",
+    "titre": "Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",
+    "artistes": "TRIANGLE DES BERMUDES",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6bc17bedbade7c46e480434bc4345ced/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.7075776364981256857.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3?hdnea=exp=1791253669~acl=/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3*~data=user_id=0,application_id=42~hmac=89d48324a55a8901c259ebbb409e63c7365723a5187fed7f5594069edbb87bfc",
+    "date": "2026-10-06",
+    "heure": 2,
+    "album": "404",
     "annee": 2026,
-    "start_ts": 1791237868,
-    "end_ts": 1791238020
+    "start_ts": 1791252630,
+    "end_ts": 1791252821
   },
   "derniers_morceaux": [
+    {
+      "titre": "Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",
+      "artistes": "TRIANGLE DES BERMUDES",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6bc17bedbade7c46e480434bc4345ced/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.7075776364981256857.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3?hdnea=exp=1791253669~acl=/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3*~data=user_id=0,application_id=42~hmac=89d48324a55a8901c259ebbb409e63c7365723a5187fed7f5594069edbb87bfc",
+      "date": "2026-10-06",
+      "heure": 2,
+      "album": "404",
+      "annee": 2026,
+      "start_ts": 1791252630,
+      "end_ts": 1791252821
+    },
+    {
+      "titre": "Dancing In The Flames (Acapella)",
+      "artistes": "The Weeknd",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6854a01c51b451bb836cf62afd75c0f2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.3643349027087007051.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/3/0/623030aed85a7057abeeb9123c780d1b.mp3?hdnea=exp=1791253670~acl=/api/1/1/6/2/3/0/623030aed85a7057abeeb9123c780d1b.mp3*~data=user_id=0,application_id=42~hmac=322aa52c7da0599b4e5c1880750e1e82e197631ba6cf95ab4d9e1288a5d4bdc9",
+      "date": "2026-10-06",
+      "heure": 2,
+      "album": "Dancing In The Flames",
+      "annee": 2024,
+      "start_ts": 1791252430,
+      "end_ts": 1791252625
+    },
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.115.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791253671~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=c158387c42ee01409fcbd0665088e16a197c0f66228770b27ab1790d3d643bf2",
+      "date": "2026-10-06",
+      "heure": 2,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1791252212,
+      "end_ts": 1791252430
+    },
+    {
+      "titre": "Sexy Nana",
+      "artistes": "Aya Nakamura",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791253671~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=cd767d304dbb8bc8dcbaa24d69f2ba7437e20d238cf135863d5eeea0a6c7be79",
+      "date": "2026-10-06",
+      "heure": 2,
+      "album": "Sexy Nana",
+      "annee": 2026,
+      "start_ts": 1791252060,
+      "end_ts": 1791252212
+    },
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-06",
+      "heure": 1,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791251792,
+      "end_ts": 1791252026
+    },
+    {
+      "titre": "Allo Doudou",
+      "artistes": "Niska",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791253673~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=d5e703aaefa227cf6a78f18be3c67f373a0ea9f644225dfefca5de0197835483",
+      "date": "2026-10-06",
+      "heure": 1,
+      "album": "Allo Doudou",
+      "annee": 2026,
+      "start_ts": 1791251625,
+      "end_ts": 1791251792
+    },
     {
       "titre": "Sexy Nana",
       "artistes": "Aya Nakamura",
@@ -960,84 +1043,6 @@
       "annee": 2026,
       "start_ts": 1791232831,
       "end_ts": 1791232988
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "La Chine",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/725b9b2449c9fb54eb7e3ada0d8b6435/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/9/0/309a760faeff886120fb27b44ded3d38.mp3?hdnea=exp=1791238925~acl=/api/1/1/3/0/9/0/309a760faeff886120fb27b44ded3d38.mp3*~data=user_id=0,application_id=42~hmac=f1d23fd220e6f1165b6cb101e5cc0c847b941343c0286a701c42ad58287f9e02",
-      "date": "2026-10-05",
-      "heure": 20,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1791230641,
-      "end_ts": 1791230822
-    },
-    {
-      "titre": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791238922~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=ab9930acdf80f0cf6754d2cb56971a0d0c9ee68979c5b8cdd62bc9a3b7f522ac",
-      "date": "2026-10-05",
-      "heure": 19,
-      "album": "Sexy Nana",
-      "annee": 2026,
-      "start_ts": 1791228774,
-      "end_ts": 1791228926
-    },
-    {
-      "titre": "RENÉ CAOVILLA",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1791215054~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=f5f0e8e74ae23c6d280b291813e970f266f643a203ecd957ae15d2013fe953b6",
-      "date": "2026-10-05",
-      "heure": 15,
-      "album": "RENÉ CAOVILLA",
-      "annee": 2026,
-      "start_ts": 1791214104,
-      "end_ts": 1791214235
-    },
-    {
-      "titre": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.2090592626626782774.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1791215055~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=3ac2bfbad31c0d0979cd36b5d203810dc8bb6804e0cb892cfd32d48d7d0df721",
-      "date": "2026-10-05",
-      "heure": 15,
-      "album": "Dracula (with JENNIE)",
-      "annee": 2026,
-      "start_ts": 1791213905,
-      "end_ts": 1791214106
-    },
-    {
-      "titre": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791215056~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=02eed24d0c1f2e8407406e5e7dec7767618b1dea6fff8111849779c57677ed62",
-      "date": "2026-10-05",
-      "heure": 15,
-      "album": "Sexy Nana",
-      "annee": 2026,
-      "start_ts": 1791213754,
-      "end_ts": 1791213906
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1791215057~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=668302522f5bfce1c42e03ab06ff658416ddbb845d70f235bcca5a60bb919aa5",
-      "date": "2026-10-05",
-      "heure": 15,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1791213188,
-      "end_ts": 1791213354
     }
   ]
 }
