@@ -1,10 +1,10 @@
 ﻿artistes,nb_diffusions,titres_differents,minutes_antenne
 Tiakola,15,2,44.3
-Aya Nakamura,15,1,38.0
+Aya Nakamura,16,1,40.5
 Leto,14,1,36.6
+BIGBANG,10,1,36.3
 Tame Impala,10,2,33.5
 Vacra,12,1,33.2
-BIGBANG,9,1,32.7
 KAROL G,7,1,26.0
 Slimane,8,1,24.8
 PLK,9,1,24.3
@@ -17,10 +17,10 @@ GIMS,6,2,18.9
 Timal,7,1,16.5
 Guy2bezbar,6,2,16.0
 The Weeknd,4,4,14.3
+Djaksparo,6,1,12.0
 Bouss,4,1,11.2
 Josas,4,1,10.8
 Yuston XIII,3,1,10.3
-Djaksparo,5,1,10.0
 FC433ARMY,4,1,9.8
 Teddy Swims,3,1,9.7
 TRIANGLE DES BERMUDES,3,1,9.6
@@ -29,6 +29,7 @@ Beyoncé,2,2,7.0
 Adèle Castillon,2,1,6.1
 Jok'air,2,1,6.0
 La Chine,2,1,6.0
+Mauvais djo,3,1,5.6
 Cinco,2,1,5.2
 Moji x Sboy,2,1,5.2
 Doc Gynéco,1,1,5.1
@@ -41,7 +42,6 @@ Arcade Player,1,1,3.9
 I Can't Breathe,1,1,3.9
 Calvin Harris,1,1,3.8
 Ed Marquis,1,1,3.8
-Mauvais djo,2,1,3.7
 Rihanna,1,1,3.7
 USHER,1,1,3.7
 Will Smith,1,1,3.7
@@ -56,11 +56,13 @@ Lokash,1,1,3.4
 Heaven is Shining,1,1,3.3
 SARA’H,1,1,3.3
 KIDZ BOP Kids,1,1,3.2
+Sara Watkins,1,1,3.2
 Seventh,1,1,3.2
 Werenoi,1,1,3.2
 Stromae,1,1,3.1
 Bamby,1,1,3.0
 Joost,1,1,3.0
+Landy,1,1,3.0
 MK,1,1,3.0
 Silentó,1,1,3.0
 Steve Lacy,1,1,2.9
