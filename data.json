@@ -1,27 +1,27 @@
 {
-  "genere_le": "2026-10-06T02:12:54.536500",
-  "genere_ts": 1791252774,
+  "genere_le": "2026-10-06T08:57:08.099889",
+  "genere_ts": 1791277028,
   "volume": {
-    "nb_diffusions": 239,
-    "nb_artistes": 77,
-    "nb_titres": 80,
+    "nb_diffusions": 244,
+    "nb_artistes": 78,
+    "nb_titres": 81,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-06",
-    "heures_antenne": 11.6,
-    "duree_moy_s": 174.7
+    "heures_antenne": 11.84,
+    "duree_moy_s": 174.6
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 14,
+      "nb_diffusions": 15,
       "titres_differents": 2,
-      "minutes_antenne": 41.8
+      "minutes_antenne": 44.3
     },
     {
       "artistes": "Aya Nakamura",
-      "nb_diffusions": 14,
+      "nb_diffusions": 15,
       "titres_differents": 1,
-      "minutes_antenne": 35.5
+      "minutes_antenne": 38.0
     },
     {
       "artistes": "Leto",
@@ -78,6 +78,12 @@
       "minutes_antenne": 21.3
     },
     {
+      "artistes": "Ariana Grande",
+      "nb_diffusions": 6,
+      "titres_differents": 1,
+      "minutes_antenne": 19.2
+    },
+    {
       "artistes": "GIMS",
       "nb_diffusions": 6,
       "titres_differents": 2,
@@ -99,12 +105,6 @@
       "artistes": "Guy2bezbar",
       "nb_diffusions": 6,
       "titres_differents": 2,
-      "minutes_antenne": 16.0
-    },
-    {
-      "artistes": "Ariana Grande",
-      "nb_diffusions": 5,
-      "titres_differents": 1,
       "minutes_antenne": 16.0
     },
     {
@@ -136,8 +136,8 @@
     {
       "artistes": "Aya Nakamura",
       "titre": "Sexy Nana",
-      "nb_diffusions": 14,
-      "minutes_antenne": 35.5
+      "nb_diffusions": 15,
+      "minutes_antenne": 38.0
     },
     {
       "artistes": "Leto",
@@ -164,6 +164,12 @@
       "minutes_antenne": 30.1
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 9,
+      "minutes_antenne": 22.7
+    },
+    {
       "artistes": "BIGBANG",
       "titre": "LOSER",
       "nb_diffusions": 8,
@@ -174,12 +180,6 @@
       "titre": "Maladie",
       "nb_diffusions": 8,
       "minutes_antenne": 24.8
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_diffusions": 8,
-      "minutes_antenne": 20.2
     },
     {
       "artistes": "Bad Bunny",
@@ -212,16 +212,16 @@
       "minutes_antenne": 16.5
     },
     {
+      "artistes": "Ariana Grande",
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "nb_diffusions": 6,
+      "minutes_antenne": 19.2
+    },
+    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_diffusions": 6,
       "minutes_antenne": 21.6
-    },
-    {
-      "artistes": "Ariana Grande",
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "nb_diffusions": 5,
-      "minutes_antenne": 16.0
     },
     {
       "artistes": "Djaksparo",
@@ -289,7 +289,7 @@
     },
     {
       "heure": 8,
-      "nb_diffusions": 6
+      "nb_diffusions": 12
     },
     {
       "heure": 12,
@@ -383,8 +383,8 @@
     },
     {
       "date": "2026-10-06",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 11
     }
   ],
   "semaine": [
@@ -398,7 +398,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 93
+      "nb_diffusions": 99
     },
     {
       "jour": "Mercredi",
@@ -420,9 +420,9 @@
   "recurrents": [
     {
       "artistes": "Tiakola",
-      "nb_jours": 7,
-      "nb_diffusions": 14,
-      "minutes": 41.8
+      "nb_jours": 8,
+      "nb_diffusions": 15,
+      "minutes": 44.3
     },
     {
       "artistes": "Tame Impala",
@@ -439,14 +439,20 @@
     {
       "artistes": "Aya Nakamura",
       "nb_jours": 6,
-      "nb_diffusions": 14,
-      "minutes": 35.5
+      "nb_diffusions": 15,
+      "minutes": 38.0
     },
     {
       "artistes": "Vacra",
       "nb_jours": 6,
       "nb_diffusions": 12,
       "minutes": 33.2
+    },
+    {
+      "artistes": "Ariana Grande",
+      "nb_jours": 6,
+      "nb_diffusions": 6,
+      "minutes": 19.2
     },
     {
       "artistes": "Leto",
@@ -471,12 +477,6 @@
       "nb_jours": 5,
       "nb_diffusions": 7,
       "minutes": 21.3
-    },
-    {
-      "artistes": "Ariana Grande",
-      "nb_jours": 5,
-      "nb_diffusions": 5,
-      "minutes": 16.0
     },
     {
       "artistes": "Slimane",
@@ -550,7 +550,7 @@
       "artistes": "Aya Nakamura",
       "titre": "Sexy Nana",
       "nb_jours": 6,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "artistes": "Vacra",
@@ -565,10 +565,22 @@
       "nb_diffusions": 9
     },
     {
+      "artistes": "Ariana Grande",
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "nb_jours": 6,
+      "nb_diffusions": 6
+    },
+    {
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_jours": 5,
       "nb_diffusions": 13
+    },
+    {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_jours": 5,
+      "nb_diffusions": 9
     },
     {
       "artistes": "BIGBANG",
@@ -593,18 +605,6 @@
       "titre": "La Nocturne",
       "nb_jours": 5,
       "nb_diffusions": 6
-    },
-    {
-      "artistes": "Ariana Grande",
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "nb_jours": 5,
-      "nb_diffusions": 5
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_jours": 4,
-      "nb_diffusions": 8
     },
     {
       "artistes": "Slimane",
@@ -670,7 +670,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "artistes": "Gambi",
@@ -713,7 +713,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 141
+      "nb_diffusions": 145
     },
     {
       "annee": 2025,
@@ -721,7 +721,7 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "annee": 2023,
@@ -791,18 +791,18 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 120
+      "nb": 123
     },
     {
       "type_contenu": "Explicit",
-      "nb": 117
+      "nb": 119
     }
   ],
   "albums": [
     {
       "album": "Sexy Nana",
       "artistes": "Aya Nakamura",
-      "nb_diffusions": 15
+      "nb_diffusions": 16
     },
     {
       "album": "Pineapple",
@@ -820,6 +820,11 @@
       "nb_diffusions": 9
     },
     {
+      "album": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "nb_diffusions": 9
+    },
+    {
       "album": "Grand Garçon",
       "artistes": "PLK",
       "nb_diffusions": 9
@@ -828,11 +833,6 @@
       "album": "Dracula (with JENNIE)",
       "artistes": "Tame Impala",
       "nb_diffusions": 9
-    },
-    {
-      "album": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "nb_diffusions": 8
     },
     {
       "album": "MADE",
@@ -865,14 +865,14 @@
       "nb_diffusions": 7
     },
     {
-      "album": "WpointM",
-      "artistes": "Tiakola",
+      "album": "hate that i made you love me",
+      "artistes": "Ariana Grande",
       "nb_diffusions": 6
     },
     {
-      "album": "hate that i made you love me",
-      "artistes": "Ariana Grande",
-      "nb_diffusions": 5
+      "album": "WpointM",
+      "artistes": "Tiakola",
+      "nb_diffusions": 6
     },
     {
       "album": "VIVE LA MONNAIE",
@@ -901,19 +901,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",
-    "artistes": "TRIANGLE DES BERMUDES",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6bc17bedbade7c46e480434bc4345ced/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.7075776364981256857.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3?hdnea=exp=1791253669~acl=/api/1/1/f/9/8/0/f981544b55a1e3d1e38edada38f8517c.mp3*~data=user_id=0,application_id=42~hmac=89d48324a55a8901c259ebbb409e63c7365723a5187fed7f5594069edbb87bfc",
+    "titre": "Mélo Décalé",
+    "artistes": "Tiakola",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1791277922~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=4416e7a69b08ecde6a9e863c62f274fb305280433988e07213dc4fc7cdeed870",
     "date": "2026-10-06",
-    "heure": 2,
-    "album": "404",
+    "heure": 8,
+    "album": "Mélo Décalé",
     "annee": 2026,
-    "start_ts": 1791252630,
-    "end_ts": 1791252821
+    "start_ts": 1791276907,
+    "end_ts": 1791277058
   },
   "derniers_morceaux": [
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1791277922~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=4416e7a69b08ecde6a9e863c62f274fb305280433988e07213dc4fc7cdeed870",
+      "date": "2026-10-06",
+      "heure": 8,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1791276907,
+      "end_ts": 1791277058
+    },
+    {
+      "titre": "Été avec toi",
+      "artistes": "Adèle Castillon",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1791277923~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=710d3c1c99b33741204e3d2c054128dfade1498b9e2f8bdc3f7615985628c274",
+      "date": "2026-10-06",
+      "heure": 8,
+      "album": "Été avec toi",
+      "annee": 2026,
+      "start_ts": 1791276904,
+      "end_ts": 1791277088
+    },
+    {
+      "titre": "Olivia Valere",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-06",
+      "heure": 8,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791276640,
+      "end_ts": 1791276791
+    },
+    {
+      "titre": "Maudit",
+      "artistes": "Werenoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/36d98d27fa666bcd9b4fbef1ba2045f3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8677815263279914250.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/7/0/8f720badbea9cdb0f776b1a99babb695.mp3?hdnea=exp=1791277924~acl=/api/1/1/8/f/7/0/8f720badbea9cdb0f776b1a99babb695.mp3*~data=user_id=0,application_id=42~hmac=52ba64119a4b2947f9cbc764a198a9112ac50a21747f0ae09893b9411529e371",
+      "date": "2026-10-06",
+      "heure": 8,
+      "album": "Maudit",
+      "annee": 2024,
+      "start_ts": 1791276170,
+      "end_ts": 1791276362
+    },
+    {
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "artistes": "Ariana Grande",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1791277925~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=96738f8788dd013c0207d0aa1fadbb88ca28efd9aa4c234f68977b735d091cda",
+      "date": "2026-10-06",
+      "heure": 8,
+      "album": "hate that i made you love me",
+      "annee": 2026,
+      "start_ts": 1791275977,
+      "end_ts": 1791276169
+    },
+    {
+      "titre": "Sexy Nana",
+      "artistes": "Aya Nakamura",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791277926~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=e8a2b6be478c8cc78205e1937a67db8cc5e31c66e0f52bd0d93e022883958fb2",
+      "date": "2026-10-06",
+      "heure": 8,
+      "album": "Sexy Nana",
+      "annee": 2026,
+      "start_ts": 1791275823,
+      "end_ts": 1791275975
+    },
     {
       "titre": "Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",
       "artistes": "TRIANGLE DES BERMUDES",
@@ -965,84 +1043,6 @@
       "annee": 2026,
       "start_ts": 1791252060,
       "end_ts": 1791252212
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-06",
-      "heure": 1,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791251792,
-      "end_ts": 1791252026
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791253673~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=d5e703aaefa227cf6a78f18be3c67f373a0ea9f644225dfefca5de0197835483",
-      "date": "2026-10-06",
-      "heure": 1,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1791251625,
-      "end_ts": 1791251792
-    },
-    {
-      "titre": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791238922~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=ab9930acdf80f0cf6754d2cb56971a0d0c9ee68979c5b8cdd62bc9a3b7f522ac",
-      "date": "2026-10-05",
-      "heure": 22,
-      "album": "Sexy Nana",
-      "annee": 2026,
-      "start_ts": 1791237868,
-      "end_ts": 1791238020
-    },
-    {
-      "titre": "Fille à papa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c5c6af9c43c1f35ca26f3f7bdba2fcba/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/0/0/de0899a8d231d57772e77399bda65e9e.mp3?hdnea=exp=1791238923~acl=/api/1/1/d/e/0/0/de0899a8d231d57772e77399bda65e9e.mp3*~data=user_id=0,application_id=42~hmac=4b1f5ec1d3d0d637ded4a0340d70dcde9938555e58b5728ac35a9e2b782075eb",
-      "date": "2026-10-05",
-      "heure": 21,
-      "album": "Les jolies filles aiment Jok'air",
-      "annee": 2025,
-      "start_ts": 1791236884,
-      "end_ts": 1791237065
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791238924~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=5c53098b31067ca515ae0af014b25eca353e2f2e2fb605117363c9080709c8e2",
-      "date": "2026-10-05",
-      "heure": 21,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791234453,
-      "end_ts": 1791234610
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791238924~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=5c53098b31067ca515ae0af014b25eca353e2f2e2fb605117363c9080709c8e2",
-      "date": "2026-10-05",
-      "heure": 20,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791232831,
-      "end_ts": 1791232988
     }
   ]
 }
