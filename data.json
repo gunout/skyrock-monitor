@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-06T23:59:30.035938",
-  "genere_ts": 1791331170,
+  "genere_le": "2026-10-07T04:18:38.748889",
+  "genere_ts": 1791346718,
   "volume": {
-    "nb_diffusions": 261,
+    "nb_diffusions": 264,
     "nb_artistes": 82,
-    "nb_titres": 85,
+    "nb_titres": 86,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-06",
-    "heures_antenne": 12.6,
-    "duree_moy_s": 173.8
+    "derniere_date": "2026-10-07",
+    "heures_antenne": 12.76,
+    "duree_moy_s": 174.0
   },
   "top_artistes": [
     {
@@ -19,9 +19,9 @@
     },
     {
       "artistes": "Aya Nakamura",
-      "nb_diffusions": 16,
+      "nb_diffusions": 17,
       "titres_differents": 1,
-      "minutes_antenne": 40.5
+      "minutes_antenne": 43.0
     },
     {
       "artistes": "Leto",
@@ -48,16 +48,16 @@
       "minutes_antenne": 33.2
     },
     {
+      "artistes": "Slimane",
+      "nb_diffusions": 9,
+      "titres_differents": 1,
+      "minutes_antenne": 27.9
+    },
+    {
       "artistes": "KAROL G",
       "nb_diffusions": 7,
       "titres_differents": 1,
       "minutes_antenne": 26.0
-    },
-    {
-      "artistes": "Slimane",
-      "nb_diffusions": 8,
-      "titres_differents": 1,
-      "minutes_antenne": 24.8
     },
     {
       "artistes": "PLK",
@@ -102,6 +102,12 @@
       "minutes_antenne": 18.9
     },
     {
+      "artistes": "The Weeknd",
+      "nb_diffusions": 5,
+      "titres_differents": 5,
+      "minutes_antenne": 18.6
+    },
+    {
       "artistes": "Timal",
       "nb_diffusions": 7,
       "titres_differents": 1,
@@ -112,12 +118,6 @@
       "nb_diffusions": 6,
       "titres_differents": 2,
       "minutes_antenne": 16.0
-    },
-    {
-      "artistes": "The Weeknd",
-      "nb_diffusions": 4,
-      "titres_differents": 4,
-      "minutes_antenne": 14.3
     },
     {
       "artistes": "Djaksparo",
@@ -136,8 +136,8 @@
     {
       "artistes": "Aya Nakamura",
       "titre": "Sexy Nana",
-      "nb_diffusions": 16,
-      "minutes_antenne": 40.5
+      "nb_diffusions": 17,
+      "minutes_antenne": 43.0
     },
     {
       "artistes": "Leto",
@@ -162,6 +162,12 @@
       "titre": "Pocahontas",
       "nb_diffusions": 9,
       "minutes_antenne": 24.3
+    },
+    {
+      "artistes": "Slimane",
+      "titre": "Maladie",
+      "nb_diffusions": 9,
+      "minutes_antenne": 27.9
     },
     {
       "artistes": "Tame Impala",
@@ -192,12 +198,6 @@
       "titre": "Allo Doudou",
       "nb_diffusions": 8,
       "minutes_antenne": 22.3
-    },
-    {
-      "artistes": "Slimane",
-      "titre": "Maladie",
-      "nb_diffusions": 8,
-      "minutes_antenne": 24.8
     },
     {
       "artistes": "Gambi",
@@ -269,11 +269,11 @@
     },
     {
       "heure": 3,
-      "nb_diffusions": 19
+      "nb_diffusions": 22
     },
     {
       "heure": 4,
-      "nb_diffusions": 6
+      "nb_diffusions": 9
     },
     {
       "heure": 5,
@@ -385,6 +385,11 @@
       "date": "2026-10-06",
       "nb_diffusions": 30,
       "titres_differents": 22
+    },
+    {
+      "date": "2026-10-07",
+      "nb_diffusions": 6,
+      "titres_differents": 5
     }
   ],
   "semaine": [
@@ -402,7 +407,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 30
+      "nb_diffusions": 36
     },
     {
       "jour": "Jeudi",
@@ -425,6 +430,12 @@
       "minutes": 44.3
     },
     {
+      "artistes": "Aya Nakamura",
+      "nb_jours": 7,
+      "nb_diffusions": 17,
+      "minutes": 43.0
+    },
+    {
       "artistes": "Tame Impala",
       "nb_jours": 7,
       "nb_diffusions": 10,
@@ -435,12 +446,6 @@
       "nb_jours": 7,
       "nb_diffusions": 9,
       "minutes": 24.3
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "nb_jours": 6,
-      "nb_diffusions": 16,
-      "minutes": 40.5
     },
     {
       "artistes": "Leto",
@@ -479,10 +484,22 @@
       "minutes": 36.3
     },
     {
+      "artistes": "Slimane",
+      "nb_jours": 5,
+      "nb_diffusions": 9,
+      "minutes": 27.9
+    },
+    {
       "artistes": "Djaksparo",
       "nb_jours": 5,
       "nb_diffusions": 6,
       "minutes": 12.0
+    },
+    {
+      "artistes": "The Weeknd",
+      "nb_jours": 5,
+      "nb_diffusions": 5,
+      "minutes": 18.6
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -497,22 +514,10 @@
       "minutes": 22.3
     },
     {
-      "artistes": "Slimane",
-      "nb_jours": 4,
-      "nb_diffusions": 8,
-      "minutes": 24.8
-    },
-    {
       "artistes": "KAROL G",
       "nb_jours": 4,
       "nb_diffusions": 7,
       "minutes": 26.0
-    },
-    {
-      "artistes": "The Weeknd",
-      "nb_jours": 4,
-      "nb_diffusions": 4,
-      "minutes": 14.3
     },
     {
       "artistes": "Timal",
@@ -541,16 +546,16 @@
   ],
   "titres_recurrents": [
     {
+      "artistes": "Aya Nakamura",
+      "titre": "Sexy Nana",
+      "nb_jours": 7,
+      "nb_diffusions": 17
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_jours": 7,
       "nb_diffusions": 9
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "titre": "Sexy Nana",
-      "nb_jours": 6,
-      "nb_diffusions": 16
     },
     {
       "artistes": "Leto",
@@ -595,6 +600,12 @@
       "nb_diffusions": 9
     },
     {
+      "artistes": "Slimane",
+      "titre": "Maladie",
+      "nb_jours": 5,
+      "nb_diffusions": 9
+    },
+    {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
       "nb_jours": 5,
@@ -611,12 +622,6 @@
       "titre": "Pangor (Swalalala)",
       "nb_jours": 5,
       "nb_diffusions": 6
-    },
-    {
-      "artistes": "Slimane",
-      "titre": "Maladie",
-      "nb_jours": 4,
-      "nb_diffusions": 8
     },
     {
       "artistes": "Niska",
@@ -664,8 +669,8 @@
   "diversifies": [
     {
       "artistes": "The Weeknd",
-      "nb_titres_differents": 4,
-      "nb_diffusions": 4
+      "nb_titres_differents": 5,
+      "nb_diffusions": 5
     },
     {
       "artistes": "Tiakola",
@@ -713,7 +718,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 154
+      "nb_diffusions": 155
     },
     {
       "annee": 2025,
@@ -729,7 +734,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 17
+      "nb_diffusions": 18
     },
     {
       "annee": 2021,
@@ -753,7 +758,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 13
+      "nb_diffusions": 14
     },
     {
       "annee": 2015,
@@ -791,7 +796,7 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 133
+      "nb": 136
     },
     {
       "type_contenu": "Explicit",
@@ -802,7 +807,7 @@
     {
       "album": "Sexy Nana",
       "artistes": "Aya Nakamura",
-      "nb_diffusions": 17
+      "nb_diffusions": 18
     },
     {
       "album": "Pineapple",
@@ -840,6 +845,11 @@
       "nb_diffusions": 9
     },
     {
+      "album": "Chroniques d’un cupidon",
+      "artistes": "Slimane",
+      "nb_diffusions": 9
+    },
+    {
       "album": "La petasse",
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 8
@@ -847,11 +857,6 @@
     {
       "album": "DeBÍ TiRAR MáS FOToS",
       "artistes": "Bad Bunny",
-      "nb_diffusions": 8
-    },
-    {
-      "album": "Chroniques d’un cupidon",
-      "artistes": "Slimane",
       "nb_diffusions": 8
     },
     {
@@ -901,19 +906,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Bad Boy",
-    "artistes": "Landy",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/55c5ef3fee5474f74b740480debf348d/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.1293917729508834715.8.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/3/0/523dd1c127a401657ae5fc5730486d3f.mp3?hdnea=exp=1791332063~acl=/api/1/1/5/2/3/0/523dd1c127a401657ae5fc5730486d3f.mp3*~data=user_id=0,application_id=42~hmac=6ada7fdf24a79dcf4735c8b9f1d4f8b8a0537fee088ebf9c54fe357ebf4d9463",
-    "date": "2026-10-06",
-    "heure": 23,
-    "album": "Bad Boy",
-    "annee": 2019,
-    "start_ts": 1791331028,
-    "end_ts": 1791331209
+    "titre": "Rockabye",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/27/SKYC.8277433708403328727.12.0.jpg",
+    "preview_mp3": null,
+    "date": "2026-10-07",
+    "heure": 4,
+    "album": null,
+    "annee": null,
+    "start_ts": 1791346500,
+    "end_ts": 1791346690
   },
   "derniers_morceaux": [
+    {
+      "titre": "Rockabye",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/27/SKYC.8277433708403328727.12.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-07",
+      "heure": 4,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791346500,
+      "end_ts": 1791346690
+    },
+    {
+      "titre": "Sexy Nana",
+      "artistes": "Aya Nakamura",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791347614~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=177bcf3892dd43cc892e62af7a579e3f7159534618c93f4b0e4ee03285506e5a",
+      "date": "2026-10-07",
+      "heure": 4,
+      "album": "Sexy Nana",
+      "annee": 2026,
+      "start_ts": 1791346061,
+      "end_ts": 1791346212
+    },
+    {
+      "titre": "Rockabye",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://skyrock.fm/resources/webradios/default_pochette_600.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-07",
+      "heure": 4,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791345664,
+      "end_ts": 1791345854
+    },
+    {
+      "titre": "Maladie",
+      "artistes": "Slimane",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1791347615~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=404b32f7460329428990215d281f8c2e426b4493835a482169667f03fa3fdfa2",
+      "date": "2026-10-07",
+      "heure": 3,
+      "album": "Chroniques d’un cupidon",
+      "annee": 2022,
+      "start_ts": 1791345388,
+      "end_ts": 1791345574
+    },
+    {
+      "titre": "Olivia Valere",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-07",
+      "heure": 3,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791344968,
+      "end_ts": 1791345149
+    },
+    {
+      "titre": "Die For You",
+      "artistes": "The Weeknd",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/71/SKYC.9078182696270432171.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/1/0/a21b95575bfee1b46a48db77b7d9e752.mp3?hdnea=exp=1791347617~acl=/api/1/1/a/2/1/0/a21b95575bfee1b46a48db77b7d9e752.mp3*~data=user_id=0,application_id=42~hmac=4476d1bf7d6ee95e6b5238a769152f7945691e93fc7ebeb614efcf5d042ec20b",
+      "date": "2026-10-07",
+      "heure": 3,
+      "album": "Starboy",
+      "annee": 2016,
+      "start_ts": 1791344589,
+      "end_ts": 1791344842
+    },
     {
       "titre": "Bad Boy",
       "artistes": "Landy",
@@ -965,84 +1048,6 @@
       "annee": 2026,
       "start_ts": 1791330569,
       "end_ts": 1791330681
-    },
-    {
-      "titre": "One Last Time",
-      "artistes": "Sara Watkins",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2afc6e369de2580608717c2f1f81b0ca/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.3539893322655841810.22.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/5/0/935516ec29caf91f3ddb7be888a73534.mp3?hdnea=exp=1791332067~acl=/api/1/1/9/3/5/0/935516ec29caf91f3ddb7be888a73534.mp3*~data=user_id=0,application_id=42~hmac=fcf8fba66410ab0ffc3289d3544be49382d19c2fe1b7172a33dc305a87a5e80f",
-      "date": "2026-10-06",
-      "heure": 23,
-      "album": "Young in All the Wrong Ways",
-      "annee": 2016,
-      "start_ts": 1791330377,
-      "end_ts": 1791330570
-    },
-    {
-      "titre": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791332068~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=8ef6238fa8e7e47812a3f0c2ec4ded44e15d2712912120c46be6d01ed68f2881",
-      "date": "2026-10-06",
-      "heure": 23,
-      "album": "Sexy Nana",
-      "annee": 2026,
-      "start_ts": 1791330226,
-      "end_ts": 1791330378
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-06",
-      "heure": 20,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791317887,
-      "end_ts": 1791318008
-    },
-    {
-      "titre": "PILE (remix)",
-      "artistes": "FC433ARMY",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9e2b49abb149bc0ffaed71e810117b97/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3?hdnea=exp=1791319575~acl=/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3*~data=user_id=0,application_id=42~hmac=0a9c43c72eaa57c95613123fd2778cb6c0b2cc61c0f34bdbbe5760dd809c82b7",
-      "date": "2026-10-06",
-      "heure": 19,
-      "album": "PILE (remix)",
-      "annee": 2026,
-      "start_ts": 1791315030,
-      "end_ts": 1791315177
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791319576~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=72041eedbf990b96d112b723adfdbf17acdedefb6b9be8de7a462e89cefa5762",
-      "date": "2026-10-06",
-      "heure": 18,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1791313042,
-      "end_ts": 1791313209
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791319577~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=63ff2064182910aaefcb6418fe17292b8fd6d1d6f8bac6c181327e91bbb0fbbc",
-      "date": "2026-10-06",
-      "heure": 17,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1791308852,
-      "end_ts": 1791309019
     }
   ]
 }
