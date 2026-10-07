@@ -1,27 +1,27 @@
 {
-  "genere_le": "2026-10-07T04:18:38.748889",
-  "genere_ts": 1791346718,
+  "genere_le": "2026-10-07T11:07:31.185138",
+  "genere_ts": 1791371251,
   "volume": {
-    "nb_diffusions": 264,
+    "nb_diffusions": 269,
     "nb_artistes": 82,
     "nb_titres": 86,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-07",
-    "heures_antenne": 12.76,
+    "heures_antenne": 13.0,
     "duree_moy_s": 174.0
   },
   "top_artistes": [
+    {
+      "artistes": "Aya Nakamura",
+      "nb_diffusions": 18,
+      "titres_differents": 1,
+      "minutes_antenne": 45.6
+    },
     {
       "artistes": "Tiakola",
       "nb_diffusions": 15,
       "titres_differents": 2,
       "minutes_antenne": 44.3
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 17,
-      "titres_differents": 1,
-      "minutes_antenne": 43.0
     },
     {
       "artistes": "Leto",
@@ -120,24 +120,24 @@
       "minutes_antenne": 16.0
     },
     {
-      "artistes": "Djaksparo",
-      "nb_diffusions": 6,
-      "titres_differents": 1,
-      "minutes_antenne": 12.0
-    },
-    {
-      "artistes": "Bouss",
+      "artistes": "Yuston XIII",
       "nb_diffusions": 4,
       "titres_differents": 1,
-      "minutes_antenne": 11.2
+      "minutes_antenne": 13.7
+    },
+    {
+      "artistes": "Josas",
+      "nb_diffusions": 5,
+      "titres_differents": 1,
+      "minutes_antenne": 13.5
     }
   ],
   "top_titres": [
     {
       "artistes": "Aya Nakamura",
       "titre": "Sexy Nana",
-      "nb_diffusions": 17,
-      "minutes_antenne": 43.0
+      "nb_diffusions": 18,
+      "minutes_antenne": 45.6
     },
     {
       "artistes": "Leto",
@@ -236,6 +236,12 @@
       "minutes_antenne": 21.6
     },
     {
+      "artistes": "FC433ARMY",
+      "titre": "PILE (remix)",
+      "nb_diffusions": 5,
+      "minutes_antenne": 12.3
+    },
+    {
       "artistes": "GIMS",
       "titre": "VIVE LA MONNAIE",
       "nb_diffusions": 5,
@@ -246,12 +252,6 @@
       "titre": "Je pense à toi",
       "nb_diffusions": 5,
       "minutes_antenne": 14.2
-    },
-    {
-      "artistes": "Bouss",
-      "titre": "Cote à la hausse",
-      "nb_diffusions": 4,
-      "minutes_antenne": 11.2
     }
   ],
   "heures": [
@@ -290,6 +290,14 @@
     {
       "heure": 8,
       "nb_diffusions": 12
+    },
+    {
+      "heure": 10,
+      "nb_diffusions": 3
+    },
+    {
+      "heure": 11,
+      "nb_diffusions": 3
     },
     {
       "heure": 12,
@@ -388,8 +396,8 @@
     },
     {
       "date": "2026-10-07",
-      "nb_diffusions": 6,
-      "titres_differents": 5
+      "nb_diffusions": 12,
+      "titres_differents": 10
     }
   ],
   "semaine": [
@@ -407,7 +415,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 36
+      "nb_diffusions": 42
     },
     {
       "jour": "Jeudi",
@@ -432,8 +440,8 @@
     {
       "artistes": "Aya Nakamura",
       "nb_jours": 7,
-      "nb_diffusions": 17,
-      "minutes": 43.0
+      "nb_diffusions": 18,
+      "minutes": 45.6
     },
     {
       "artistes": "Tame Impala",
@@ -520,6 +528,12 @@
       "minutes": 26.0
     },
     {
+      "artistes": "Josas",
+      "nb_jours": 4,
+      "nb_diffusions": 5,
+      "minutes": 13.5
+    },
+    {
       "artistes": "Timal",
       "nb_jours": 3,
       "nb_diffusions": 7,
@@ -532,16 +546,10 @@
       "minutes": 16.0
     },
     {
-      "artistes": "Bouss",
+      "artistes": "FC433ARMY",
       "nb_jours": 3,
-      "nb_diffusions": 4,
-      "minutes": 11.2
-    },
-    {
-      "artistes": "Josas",
-      "nb_jours": 3,
-      "nb_diffusions": 4,
-      "minutes": 10.8
+      "nb_diffusions": 5,
+      "minutes": 12.3
     }
   ],
   "titres_recurrents": [
@@ -549,7 +557,7 @@
       "artistes": "Aya Nakamura",
       "titre": "Sexy Nana",
       "nb_jours": 7,
-      "nb_diffusions": 17
+      "nb_diffusions": 18
     },
     {
       "artistes": "PLK",
@@ -642,6 +650,12 @@
       "nb_diffusions": 7
     },
     {
+      "artistes": "Josas",
+      "titre": "Deliciosa",
+      "nb_jours": 4,
+      "nb_diffusions": 5
+    },
+    {
       "artistes": "Timal",
       "titre": "Sicario",
       "nb_jours": 3,
@@ -654,16 +668,10 @@
       "nb_diffusions": 5
     },
     {
-      "artistes": "Josas",
-      "titre": "Deliciosa",
+      "artistes": "FC433ARMY",
+      "titre": "PILE (remix)",
       "nb_jours": 3,
-      "nb_diffusions": 4
-    },
-    {
-      "artistes": "Bouss",
-      "titre": "Cote à la hausse",
-      "nb_jours": 3,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     }
   ],
   "diversifies": [
@@ -718,7 +726,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 155
+      "nb_diffusions": 160
     },
     {
       "annee": 2025,
@@ -796,7 +804,7 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 136
+      "nb": 141
     },
     {
       "type_contenu": "Explicit",
@@ -807,7 +815,7 @@
     {
       "album": "Sexy Nana",
       "artistes": "Aya Nakamura",
-      "nb_diffusions": 18
+      "nb_diffusions": 19
     },
     {
       "album": "Pineapple",
@@ -895,30 +903,108 @@
       "nb_diffusions": 5
     },
     {
-      "album": "Jeunesse Dorée",
-      "artistes": "Guy2bezbar",
+      "album": "PILE (remix)",
+      "artistes": "FC433ARMY",
       "nb_diffusions": 5
     },
     {
-      "album": "PILE (remix)",
-      "artistes": "FC433ARMY",
-      "nb_diffusions": 4
+      "album": "Jeunesse Dorée",
+      "artistes": "Guy2bezbar",
+      "nb_diffusions": 5
     }
   ],
   "dernier_morceau": {
-    "titre": "Rockabye",
+    "titre": "Fade up",
     "artistes": null,
     "cover_deezer": null,
-    "cover_uri": "https://media.skyrock.fm/covers/27/SKYC.8277433708403328727.12.0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/91/SKYC.5844435268288586791.6.0.jpg",
     "preview_mp3": null,
     "date": "2026-10-07",
-    "heure": 4,
+    "heure": 11,
     "album": null,
     "annee": null,
-    "start_ts": 1791346500,
-    "end_ts": 1791346690
+    "start_ts": 1791371218,
+    "end_ts": 1791371423
   },
   "derniers_morceaux": [
+    {
+      "titre": "Fade up",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/91/SKYC.5844435268288586791.6.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-07",
+      "heure": 11,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791371218,
+      "end_ts": 1791371423
+    },
+    {
+      "titre": "Deliciosa",
+      "artistes": "Josas",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b691f3bd93fd9eabaf85eeb6ac014197/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.1272903837126516885.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3?hdnea=exp=1791372145~acl=/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3*~data=user_id=0,application_id=42~hmac=0b064f18b2236c0850299f24ea7c0f510559179bf2ea8b2a4e46fc109dd507dd",
+      "date": "2026-10-07",
+      "heure": 11,
+      "album": "Deliciosa",
+      "annee": 2026,
+      "start_ts": 1791371058,
+      "end_ts": 1791371220
+    },
+    {
+      "titre": "Sexy Nana",
+      "artistes": "Aya Nakamura",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a6ed1a26cf2147839492f5d40dfa3baa/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3?hdnea=exp=1791372146~acl=/api/1/1/4/1/9/0/41922dfdb288d0270e69dee6b133fd00.mp3*~data=user_id=0,application_id=42~hmac=7343ca1f54a262f8c8d8ffa572560fee828012055fa3db54d4abd467a4a3e6e0",
+      "date": "2026-10-07",
+      "heure": 11,
+      "album": "Sexy Nana",
+      "annee": 2026,
+      "start_ts": 1791370906,
+      "end_ts": 1791371058
+    },
+    {
+      "titre": "Été avec toi",
+      "artistes": "Adèle Castillon",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1791372147~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=f629eb16628bd1be1e29950d0cd3653282322137848a94768c3c034c88f5e64d",
+      "date": "2026-10-07",
+      "heure": 10,
+      "album": "Été avec toi",
+      "annee": 2026,
+      "start_ts": 1791370665,
+      "end_ts": 1791370849
+    },
+    {
+      "titre": "PILE (remix)",
+      "artistes": "FC433ARMY",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9e2b49abb149bc0ffaed71e810117b97/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3?hdnea=exp=1791372148~acl=/api/1/1/2/0/e/0/20ecb5d457fd0f9acaf907a7d3220dec.mp3*~data=user_id=0,application_id=42~hmac=018f0c5616f21d29f13f6009f35c051efebd444d30f73a2dc19e5e2cf658735e",
+      "date": "2026-10-07",
+      "heure": 10,
+      "album": "PILE (remix)",
+      "annee": 2026,
+      "start_ts": 1791370514,
+      "end_ts": 1791370661
+    },
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1791372149~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=e837eb2cdf78b59cfa5d420190f923f07fa88b36f0130ef84d790f57dda02326",
+      "date": "2026-10-07",
+      "heure": 10,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1791369967,
+      "end_ts": 1791370172
+    },
     {
       "titre": "Rockabye",
       "artistes": null,
@@ -970,84 +1056,6 @@
       "annee": 2022,
       "start_ts": 1791345388,
       "end_ts": 1791345574
-    },
-    {
-      "titre": "Olivia Valere",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-07",
-      "heure": 3,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791344968,
-      "end_ts": 1791345149
-    },
-    {
-      "titre": "Die For You",
-      "artistes": "The Weeknd",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/134778e4c4f19ea71c82408300925a9a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/71/SKYC.9078182696270432171.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/1/0/a21b95575bfee1b46a48db77b7d9e752.mp3?hdnea=exp=1791347617~acl=/api/1/1/a/2/1/0/a21b95575bfee1b46a48db77b7d9e752.mp3*~data=user_id=0,application_id=42~hmac=4476d1bf7d6ee95e6b5238a769152f7945691e93fc7ebeb614efcf5d042ec20b",
-      "date": "2026-10-07",
-      "heure": 3,
-      "album": "Starboy",
-      "annee": 2016,
-      "start_ts": 1791344589,
-      "end_ts": 1791344842
-    },
-    {
-      "titre": "Bad Boy",
-      "artistes": "Landy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/55c5ef3fee5474f74b740480debf348d/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.1293917729508834715.8.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/2/3/0/523dd1c127a401657ae5fc5730486d3f.mp3?hdnea=exp=1791332063~acl=/api/1/1/5/2/3/0/523dd1c127a401657ae5fc5730486d3f.mp3*~data=user_id=0,application_id=42~hmac=6ada7fdf24a79dcf4735c8b9f1d4f8b8a0537fee088ebf9c54fe357ebf4d9463",
-      "date": "2026-10-06",
-      "heure": 23,
-      "album": "Bad Boy",
-      "annee": 2019,
-      "start_ts": 1791331028,
-      "end_ts": 1791331209
-    },
-    {
-      "titre": "Pangor (Swalalala)",
-      "artistes": "Djaksparo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1791332064~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=4e7e3d4448af8b5e3b2719bf6113f61aecd20509f2f64cced2dc0a287cb1cd1c",
-      "date": "2026-10-06",
-      "heure": 23,
-      "album": "Pangor (Swalalala)",
-      "annee": 2026,
-      "start_ts": 1791330908,
-      "end_ts": 1791331027
-    },
-    {
-      "titre": "LOSER",
-      "artistes": "BIGBANG",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.115.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791332065~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=0d20a25986c1761d90ac407764e979b8d1a70b3dab3896a2d04588d61eaaed52",
-      "date": "2026-10-06",
-      "heure": 23,
-      "album": "MADE",
-      "annee": 2016,
-      "start_ts": 1791330690,
-      "end_ts": 1791330908
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1791332066~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=dee9ed52fdfa0b87c822367bc753ede7ddbe709ca328867bbe995f4bc197108a",
-      "date": "2026-10-06",
-      "heure": 23,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1791330569,
-      "end_ts": 1791330681
     }
   ]
 }
