@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-08T08:21:31.459296",
-  "genere_ts": 1791447691,
+  "genere_le": "2026-10-08T15:42:58.506008",
+  "genere_ts": 1791474178,
   "volume": {
-    "nb_diffusions": 291,
-    "nb_artistes": 84,
-    "nb_titres": 89,
+    "nb_diffusions": 297,
+    "nb_artistes": 85,
+    "nb_titres": 90,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-08",
-    "heures_antenne": 14.04,
-    "duree_moy_s": 173.7
+    "heures_antenne": 14.34,
+    "duree_moy_s": 173.8
   },
   "top_artistes": [
     {
@@ -37,15 +37,15 @@
     },
     {
       "artistes": "BIGBANG",
-      "nb_diffusions": 10,
+      "nb_diffusions": 11,
       "titres_differents": 1,
-      "minutes_antenne": 36.3
+      "minutes_antenne": 40.0
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 12,
+      "nb_diffusions": 13,
       "titres_differents": 1,
-      "minutes_antenne": 33.2
+      "minutes_antenne": 36.0
     },
     {
       "artistes": "Slimane",
@@ -79,9 +79,9 @@
     },
     {
       "artistes": "Gambi",
-      "nb_diffusions": 11,
+      "nb_diffusions": 12,
       "titres_differents": 2,
-      "minutes_antenne": 23.4
+      "minutes_antenne": 25.5
     },
     {
       "artistes": "GIMS",
@@ -114,6 +114,12 @@
       "minutes_antenne": 18.6
     },
     {
+      "artistes": "Josas",
+      "nb_diffusions": 6,
+      "titres_differents": 1,
+      "minutes_antenne": 16.2
+    },
+    {
       "artistes": "Guy2bezbar",
       "nb_diffusions": 6,
       "titres_differents": 2,
@@ -124,12 +130,6 @@
       "nb_diffusions": 4,
       "titres_differents": 1,
       "minutes_antenne": 13.7
-    },
-    {
-      "artistes": "Josas",
-      "nb_diffusions": 5,
-      "titres_differents": 1,
-      "minutes_antenne": 13.5
     }
   ],
   "top_titres": [
@@ -148,8 +148,14 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 12,
-      "minutes_antenne": 33.2
+      "nb_diffusions": 13,
+      "minutes_antenne": 36.0
+    },
+    {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_diffusions": 11,
+      "minutes_antenne": 40.0
     },
     {
       "artistes": "PLK",
@@ -162,12 +168,6 @@
       "titre": "Dracula (with JENNIE)",
       "nb_diffusions": 11,
       "minutes_antenne": 36.9
-    },
-    {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
-      "nb_diffusions": 10,
-      "minutes_antenne": 36.3
     },
     {
       "artistes": "Bad Bunny",
@@ -200,6 +200,12 @@
       "minutes_antenne": 19.5
     },
     {
+      "artistes": "Gambi",
+      "titre": "RENÉ CAOVILLA",
+      "nb_diffusions": 8,
+      "minutes_antenne": 17.5
+    },
+    {
       "artistes": "KAROL G",
       "titre": "BbY WOW",
       "nb_diffusions": 8,
@@ -210,12 +216,6 @@
       "titre": "Sicario",
       "nb_diffusions": 8,
       "minutes_antenne": 18.9
-    },
-    {
-      "artistes": "Gambi",
-      "titre": "RENÉ CAOVILLA",
-      "nb_diffusions": 7,
-      "minutes_antenne": 15.3
     },
     {
       "artistes": "Ariana Grande",
@@ -236,6 +236,12 @@
       "minutes_antenne": 18.0
     },
     {
+      "artistes": "Josas",
+      "titre": "Deliciosa",
+      "nb_diffusions": 6,
+      "minutes_antenne": 16.2
+    },
+    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_diffusions": 6,
@@ -246,12 +252,6 @@
       "titre": "PILE (remix)",
       "nb_diffusions": 5,
       "minutes_antenne": 12.3
-    },
-    {
-      "artistes": "Guy2bezbar",
-      "titre": "Je pense à toi",
-      "nb_diffusions": 5,
-      "minutes_antenne": 14.2
     }
   ],
   "heures": [
@@ -313,7 +313,7 @@
     },
     {
       "heure": 15,
-      "nb_diffusions": 12
+      "nb_diffusions": 18
     },
     {
       "heure": 16,
@@ -401,8 +401,8 @@
     },
     {
       "date": "2026-10-08",
-      "nb_diffusions": 12,
-      "titres_differents": 11
+      "nb_diffusions": 18,
+      "titres_differents": 17
     }
   ],
   "semaine": [
@@ -424,7 +424,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 42
+      "nb_diffusions": 48
     },
     {
       "jour": "Vendredi",
@@ -474,27 +474,27 @@
     },
     {
       "artistes": "Vacra",
+      "nb_jours": 7,
+      "nb_diffusions": 13,
+      "minutes": 36.0
+    },
+    {
+      "artistes": "Gambi",
       "nb_jours": 6,
       "nb_diffusions": 12,
-      "minutes": 33.2
+      "minutes": 25.5
+    },
+    {
+      "artistes": "BIGBANG",
+      "nb_jours": 6,
+      "nb_diffusions": 11,
+      "minutes": 40.0
     },
     {
       "artistes": "Ariana Grande",
       "nb_jours": 6,
       "nb_diffusions": 6,
       "minutes": 19.2
-    },
-    {
-      "artistes": "Gambi",
-      "nb_jours": 5,
-      "nb_diffusions": 11,
-      "minutes": 23.4
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_jours": 5,
-      "nb_diffusions": 10,
-      "minutes": 36.3
     },
     {
       "artistes": "Niska",
@@ -521,6 +521,12 @@
       "minutes": 12.0
     },
     {
+      "artistes": "Josas",
+      "nb_jours": 5,
+      "nb_diffusions": 6,
+      "minutes": 16.2
+    },
+    {
       "artistes": "The Weeknd",
       "nb_jours": 5,
       "nb_diffusions": 5,
@@ -537,12 +543,6 @@
       "nb_jours": 4,
       "nb_diffusions": 8,
       "minutes": 18.9
-    },
-    {
-      "artistes": "Josas",
-      "nb_jours": 4,
-      "nb_diffusions": 5,
-      "minutes": 13.5
     },
     {
       "artistes": "TRIANGLE DES BERMUDES",
@@ -591,8 +591,20 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
+      "nb_jours": 7,
+      "nb_diffusions": 13
+    },
+    {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
       "nb_jours": 6,
-      "nb_diffusions": 12
+      "nb_diffusions": 11
+    },
+    {
+      "artistes": "Gambi",
+      "titre": "RENÉ CAOVILLA",
+      "nb_jours": 6,
+      "nb_diffusions": 8
     },
     {
       "artistes": "Ariana Grande",
@@ -613,12 +625,6 @@
       "nb_diffusions": 10
     },
     {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
-      "nb_jours": 5,
-      "nb_diffusions": 10
-    },
-    {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 5,
@@ -631,14 +637,14 @@
       "nb_diffusions": 8
     },
     {
-      "artistes": "Gambi",
-      "titre": "RENÉ CAOVILLA",
-      "nb_jours": 5,
-      "nb_diffusions": 7
-    },
-    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
+      "nb_jours": 5,
+      "nb_diffusions": 6
+    },
+    {
+      "artistes": "Josas",
+      "titre": "Deliciosa",
       "nb_jours": 5,
       "nb_diffusions": 6
     },
@@ -659,12 +665,6 @@
       "titre": "La petasse",
       "nb_jours": 4,
       "nb_diffusions": 8
-    },
-    {
-      "artistes": "Josas",
-      "titre": "Deliciosa",
-      "nb_jours": 4,
-      "nb_diffusions": 5
     },
     {
       "artistes": "TRIANGLE DES BERMUDES",
@@ -691,14 +691,14 @@
       "nb_diffusions": 15
     },
     {
-      "artistes": "Tame Impala",
+      "artistes": "Gambi",
       "nb_titres_differents": 2,
       "nb_diffusions": 12
     },
     {
-      "artistes": "Gambi",
+      "artistes": "Tame Impala",
       "nb_titres_differents": 2,
-      "nb_diffusions": 11
+      "nb_diffusions": 12
     },
     {
       "artistes": "GIMS",
@@ -736,7 +736,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 173
+      "nb_diffusions": 176
     },
     {
       "annee": 2025,
@@ -752,7 +752,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 22
+      "nb_diffusions": 23
     },
     {
       "annee": 2021,
@@ -764,7 +764,7 @@
     },
     {
       "annee": 2019,
-      "nb_diffusions": 2
+      "nb_diffusions": 3
     },
     {
       "annee": 2018,
@@ -776,7 +776,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "annee": 2015,
@@ -814,11 +814,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 150
+      "nb": 152
     },
     {
       "type_contenu": "Explicit",
-      "nb": 139
+      "nb": 143
     }
   ],
   "albums": [
@@ -835,7 +835,12 @@
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 12
+      "nb_diffusions": 13
+    },
+    {
+      "album": "MADE",
+      "artistes": "BIGBANG",
+      "nb_diffusions": 11
     },
     {
       "album": "Grand Garçon",
@@ -850,11 +855,6 @@
     {
       "album": "Sicario",
       "artistes": "Timal",
-      "nb_diffusions": 10
-    },
-    {
-      "album": "MADE",
-      "artistes": "BIGBANG",
       "nb_diffusions": 10
     },
     {
@@ -878,6 +878,11 @@
       "nb_diffusions": 9
     },
     {
+      "album": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "nb_diffusions": 8
+    },
+    {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
       "nb_diffusions": 8
@@ -886,11 +891,6 @@
       "album": "La petasse",
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 8
-    },
-    {
-      "album": "RENÉ CAOVILLA",
-      "artistes": "Gambi",
-      "nb_diffusions": 7
     },
     {
       "album": "hate that i made you love me",
@@ -913,30 +913,108 @@
       "nb_diffusions": 6
     },
     {
-      "album": "PILE (remix)",
-      "artistes": "FC433ARMY",
-      "nb_diffusions": 5
+      "album": "Deliciosa",
+      "artistes": "Josas",
+      "nb_diffusions": 6
     },
     {
-      "album": "Jeunesse Dorée",
-      "artistes": "Guy2bezbar",
+      "album": "PILE (remix)",
+      "artistes": "FC433ARMY",
       "nb_diffusions": 5
     }
   ],
   "dernier_morceau": {
-    "titre": "Allo Doudou",
-    "artistes": "Niska",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791448585~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=4a7a893043c18840054f5146c88b50210f3415cdbfd379ae05739c663242c765",
+    "titre": "LOSER",
+    "artistes": "BIGBANG",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.127.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791475072~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=23afea733881f2001ce3bf56237eefe887960dcf394f6f30d1bd2160e3d1ad70",
     "date": "2026-10-08",
-    "heure": 8,
-    "album": "Allo Doudou",
-    "annee": 2026,
-    "start_ts": 1791447229,
-    "end_ts": 1791447396
+    "heure": 15,
+    "album": "MADE",
+    "annee": 2016,
+    "start_ts": 1791474099,
+    "end_ts": 1791474317
   },
   "derniers_morceaux": [
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.127.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1791475072~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=23afea733881f2001ce3bf56237eefe887960dcf394f6f30d1bd2160e3d1ad70",
+      "date": "2026-10-08",
+      "heure": 15,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1791474099,
+      "end_ts": 1791474317
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1791475073~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=5508cc3db6f18617644cd87a3ffb44ac99249c6f2929edd85f18c9e53ffe1268",
+      "date": "2026-10-08",
+      "heure": 15,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1791473950,
+      "end_ts": 1791474100
+    },
+    {
+      "titre": "Say So",
+      "artistes": "Doja Cat",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1e0d4359a328f8b0ea3563e8623a09aa/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/23/SKYC.3347050484912907523.42.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/a/0/6da69886017c24595749d63483910d85.mp3?hdnea=exp=1791475074~acl=/api/1/1/6/d/a/0/6da69886017c24595749d63483910d85.mp3*~data=user_id=0,application_id=42~hmac=d9bfd35821ba475ea2e82e547b2e22494215d223ddcde2cf6e38a1b583896a19",
+      "date": "2026-10-08",
+      "heure": 15,
+      "album": "Hot Pink",
+      "annee": 2019,
+      "start_ts": 1791473738,
+      "end_ts": 1791473971
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1791475075~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=72ac4393141cbb10ef2328c4c46efbfa49fcbb67aa7706a5d9a909204cc169d6",
+      "date": "2026-10-08",
+      "heure": 15,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1791473578,
+      "end_ts": 1791473744
+    },
+    {
+      "titre": "Deliciosa",
+      "artistes": "Josas",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b691f3bd93fd9eabaf85eeb6ac014197/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.1272903837126516885.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3?hdnea=exp=1791475076~acl=/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3*~data=user_id=0,application_id=42~hmac=a3d0b74703db72898081054da796c3e2296243479860018f770416a07ff0ba8d",
+      "date": "2026-10-08",
+      "heure": 15,
+      "album": "Deliciosa",
+      "annee": 2026,
+      "start_ts": 1791473418,
+      "end_ts": 1791473580
+    },
+    {
+      "titre": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1791475077~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=6b053cfe5f647c6ccbc6501e3cefd5813f7169d34730ea10fb5d6721dcfc7803",
+      "date": "2026-10-08",
+      "heure": 15,
+      "album": "RENÉ CAOVILLA",
+      "annee": 2026,
+      "start_ts": 1791473285,
+      "end_ts": 1791473416
+    },
     {
       "titre": "Allo Doudou",
       "artistes": "Niska",
@@ -988,84 +1066,6 @@
       "annee": 2022,
       "start_ts": 1791446657,
       "end_ts": 1791446811
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1791448589~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=fb1a8f1fe74c6dbf1b5862bb94c65381cc92aa007b454f18fc0f687e3ea33455",
-      "date": "2026-10-08",
-      "heure": 8,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1791446495,
-      "end_ts": 1791446657
-    },
-    {
-      "titre": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.2090592626626782774.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1791448589~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=c3d8bf101e0dd0bc899c5c0948e99546f13db16a3ed80d9e5873a83e6c640c82",
-      "date": "2026-10-08",
-      "heure": 7,
-      "album": "Dracula (with JENNIE)",
-      "annee": 2026,
-      "start_ts": 1791446249,
-      "end_ts": 1791446450
-    },
-    {
-      "titre": "NUEVAYoL",
-      "artistes": "Bad Bunny",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1791425617~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=4eef26dd5eb3d0f27384966878131929c8f10b4d1948a882c239ca8b23b82c28",
-      "date": "2026-10-08",
-      "heure": 1,
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "annee": 2025,
-      "start_ts": 1791424340,
-      "end_ts": 1791424522
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791425618~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=fffb2ddb97c4cafac7bec400afebfbe0e100fc6f682778609d6fce306b919bde",
-      "date": "2026-10-08",
-      "heure": 1,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1791424171,
-      "end_ts": 1791424338
-    },
-    {
-      "titre": "fukumean",
-      "artistes": "Gunna",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/35446b14e181f0a3fe415c06fec08d0b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/91/SKYC.583344743332994491.10.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/a/6/0/ba606a6a6c575c8e38e4124548727674.mp3?hdnea=exp=1791425620~acl=/api/1/1/b/a/6/0/ba606a6a6c575c8e38e4124548727674.mp3*~data=user_id=0,application_id=42~hmac=784e8655e988e751ff39e5f760184514edcc43066248be10a4ea294a177bc79c",
-      "date": "2026-10-08",
-      "heure": 1,
-      "album": "a Gift & a Curse",
-      "annee": 2023,
-      "start_ts": 1791424048,
-      "end_ts": 1791424170
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791425621~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=436963e61892d484dd636a9ed2e40b142d8a5f52ee85216a6399c6114f4dd43c",
-      "date": "2026-10-08",
-      "heure": 1,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791423892,
-      "end_ts": 1791424049
     }
   ]
 }
