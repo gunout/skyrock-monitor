@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-10T02:15:21.063741",
-  "genere_ts": 1791598521,
+  "genere_le": "2026-10-10T08:30:04.126174",
+  "genere_ts": 1791621004,
   "volume": {
-    "nb_diffusions": 333,
-    "nb_artistes": 94,
-    "nb_titres": 100,
+    "nb_diffusions": 339,
+    "nb_artistes": 96,
+    "nb_titres": 102,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-10",
-    "heures_antenne": 16.12,
-    "duree_moy_s": 174.3
+    "heures_antenne": 16.38,
+    "duree_moy_s": 174.0
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 18,
+      "nb_diffusions": 19,
       "titres_differents": 2,
-      "minutes_antenne": 53.0
+      "minutes_antenne": 55.5
     },
     {
       "artistes": "Aya Nakamura",
@@ -120,16 +120,16 @@
       "minutes_antenne": 18.6
     },
     {
+      "artistes": "disiz",
+      "nb_diffusions": 6,
+      "titres_differents": 1,
+      "minutes_antenne": 17.4
+    },
+    {
       "artistes": "Josas",
       "nb_diffusions": 6,
       "titres_differents": 1,
       "minutes_antenne": 16.2
-    },
-    {
-      "artistes": "Guy2bezbar",
-      "nb_diffusions": 6,
-      "titres_differents": 2,
-      "minutes_antenne": 16.0
     }
   ],
   "top_titres": [
@@ -164,6 +164,12 @@
       "minutes_antenne": 40.2
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 12,
+      "minutes_antenne": 30.3
+    },
+    {
       "artistes": "BIGBANG",
       "titre": "LOSER",
       "nb_diffusions": 11,
@@ -186,12 +192,6 @@
       "titre": "Maladie",
       "nb_diffusions": 11,
       "minutes_antenne": 34.1
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_diffusions": 11,
-      "minutes_antenne": 27.8
     },
     {
       "artistes": "Gambi",
@@ -289,7 +289,7 @@
     },
     {
       "heure": 8,
-      "nb_diffusions": 17
+      "nb_diffusions": 23
     },
     {
       "heure": 10,
@@ -411,8 +411,8 @@
     },
     {
       "date": "2026-10-10",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 11
     }
   ],
   "semaine": [
@@ -442,15 +442,15 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 42
+      "nb_diffusions": 48
     }
   ],
   "recurrents": [
     {
       "artistes": "Tiakola",
-      "nb_jours": 10,
-      "nb_diffusions": 18,
-      "minutes": 53.0
+      "nb_jours": 11,
+      "nb_diffusions": 19,
+      "minutes": 55.5
     },
     {
       "artistes": "Tame Impala",
@@ -561,10 +561,10 @@
       "minutes": 20.5
     },
     {
-      "artistes": "Bouss",
+      "artistes": "disiz",
       "nb_jours": 4,
-      "nb_diffusions": 5,
-      "minutes": 14.0
+      "nb_diffusions": 6,
+      "minutes": 17.4
     }
   ],
   "titres_recurrents": [
@@ -607,8 +607,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_jours": 7,
-      "nb_diffusions": 11
+      "nb_jours": 8,
+      "nb_diffusions": 12
     },
     {
       "artistes": "Gambi",
@@ -677,16 +677,16 @@
       "nb_diffusions": 8
     },
     {
-      "artistes": "Yuston XIII",
-      "titre": "Histoire sans fin",
+      "artistes": "disiz",
+      "titre": "melodrama",
       "nb_jours": 4,
       "nb_diffusions": 6
     },
     {
-      "artistes": "Bouss",
-      "titre": "Cote à la hausse",
+      "artistes": "Yuston XIII",
+      "titre": "Histoire sans fin",
       "nb_jours": 4,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     }
   ],
   "diversifies": [
@@ -698,7 +698,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 18
+      "nb_diffusions": 19
     },
     {
       "artistes": "Gambi",
@@ -751,11 +751,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 198
+      "nb_diffusions": 201
     },
     {
       "annee": 2025,
-      "nb_diffusions": 43
+      "nb_diffusions": 45
     },
     {
       "annee": 2024,
@@ -771,7 +771,7 @@
     },
     {
       "annee": 2021,
-      "nb_diffusions": 3
+      "nb_diffusions": 4
     },
     {
       "annee": 2020,
@@ -833,11 +833,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 168
+      "nb": 172
     },
     {
       "type_contenu": "Explicit",
-      "nb": 163
+      "nb": 165
     }
   ],
   "albums": [
@@ -857,6 +857,11 @@
       "nb_diffusions": 16
     },
     {
+      "album": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "nb_diffusions": 12
+    },
+    {
       "album": "Grand Garçon",
       "artistes": "PLK",
       "nb_diffusions": 12
@@ -869,11 +874,6 @@
     {
       "album": "Sicario",
       "artistes": "Timal",
-      "nb_diffusions": 11
-    },
-    {
-      "album": "Mélo Décalé",
-      "artistes": "Tiakola",
       "nb_diffusions": 11
     },
     {
@@ -917,6 +917,11 @@
       "nb_diffusions": 7
     },
     {
+      "album": "melodrama",
+      "artistes": "disiz",
+      "nb_diffusions": 6
+    },
+    {
       "album": "hate that i made you love me",
       "artistes": "Ariana Grande",
       "nb_diffusions": 6
@@ -935,27 +940,100 @@
       "album": "Les Enfants du Chaos",
       "artistes": "Yuston XIII",
       "nb_diffusions": 6
-    },
-    {
-      "album": "Deliciosa",
-      "artistes": "Josas",
-      "nb_diffusions": 6
     }
   ],
   "dernier_morceau": {
-    "titre": "Dracula (with JENNIE)",
-    "artistes": "Tame Impala",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.2090592626626782774.5.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1791599415~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=cc68bf73ea9dc6bb33b576c185732a15e16c2a4f4829d9a0144013fa29a2c487",
+    "titre": "méli-mélo",
+    "artistes": "kulturr",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0362bb54f4ec8484bd0cd7e0b23430e3/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.3701107130896006141.75.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3?hdnea=exp=1791621897~acl=/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3*~data=user_id=0,application_id=42~hmac=c5aaed1df0bf2489b849937970e918c14ba40888243ffcd10f781ede1b51ddc7",
     "date": "2026-10-10",
-    "heure": 2,
-    "album": "Dracula (with JENNIE)",
-    "annee": 2026,
-    "start_ts": 1791598495,
-    "end_ts": 1791598696
+    "heure": 8,
+    "album": "HOPE. : Imani",
+    "annee": 2025,
+    "start_ts": 1791620987,
+    "end_ts": 1791621136
   },
   "derniers_morceaux": [
+    {
+      "titre": "méli-mélo",
+      "artistes": "kulturr",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0362bb54f4ec8484bd0cd7e0b23430e3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.3701107130896006141.75.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3?hdnea=exp=1791621897~acl=/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3*~data=user_id=0,application_id=42~hmac=c5aaed1df0bf2489b849937970e918c14ba40888243ffcd10f781ede1b51ddc7",
+      "date": "2026-10-10",
+      "heure": 8,
+      "album": "HOPE. : Imani",
+      "annee": 2025,
+      "start_ts": 1791620987,
+      "end_ts": 1791621136
+    },
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1791621898~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=98b2f49c344e206bc74b7f5b463b9a6ce02aef4b35c2559c0005b3bc3497358d",
+      "date": "2026-10-10",
+      "heure": 8,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1791620822,
+      "end_ts": 1791620974
+    },
+    {
+      "titre": "Vérité",
+      "artistes": "Ninho",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/eb4290d46e35397743bb64d5a5efcfbd/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/72/SKYC.2175222460784896372.4.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/8/0/5f8102886e34b3f1ccc6febe905c745b.mp3?hdnea=exp=1791621899~acl=/api/1/1/5/f/8/0/5f8102886e34b3f1ccc6febe905c745b.mp3*~data=user_id=0,application_id=42~hmac=09c306e0fdff1b472bac009e743a1fafcbe8e20d6803999699c88e0613ba6983",
+      "date": "2026-10-10",
+      "heure": 8,
+      "album": "Jefe",
+      "annee": 2021,
+      "start_ts": 1791620628,
+      "end_ts": 1791620823
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1791621900~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=66fc62979a40d22c3c7134cb528985232595e379be5b60422d423e0f27187323",
+      "date": "2026-10-10",
+      "heure": 8,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1791620475,
+      "end_ts": 1791620626
+    },
+    {
+      "titre": "Wagyu",
+      "artistes": "Mauvais djo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1791621901~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=25627bd89aa3738501627ba088afadb398256a406e7f7f161867b7c4e38a27d1",
+      "date": "2026-10-10",
+      "heure": 8,
+      "album": "Wagyu",
+      "annee": 2026,
+      "start_ts": 1791619885,
+      "end_ts": 1791619997
+    },
+    {
+      "titre": "melodrama",
+      "artistes": "disiz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1791621902~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=958a42970567695311d393bcfaf945a0b8c2f6084b5c5a0dc9e4eedd0f9bf34b",
+      "date": "2026-10-10",
+      "heure": 8,
+      "album": "melodrama",
+      "annee": 2025,
+      "start_ts": 1791619705,
+      "end_ts": 1791619879
+    },
     {
       "titre": "Dracula (with JENNIE)",
       "artistes": "Tame Impala",
@@ -1007,84 +1085,6 @@
       "annee": 2026,
       "start_ts": 1791597885,
       "end_ts": 1791598108
-    },
-    {
-      "titre": "Pilé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-10",
-      "heure": 2,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791597736,
-      "end_ts": 1791597883
-    },
-    {
-      "titre": "Los Angeles",
-      "artistes": "blink-182",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/8f1c44b603be709369ddf012764afe7f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.6534647319523246096.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/e/0/aeea5d23d243987b808bd634cedbe977.mp3?hdnea=exp=1791599419~acl=/api/1/1/a/e/e/0/aeea5d23d243987b808bd634cedbe977.mp3*~data=user_id=0,application_id=42~hmac=f4c53456b4a7527172a03a288fa1469c3f8914e274a75be7e73c841968edc8d3",
-      "date": "2026-10-10",
-      "heure": 1,
-      "album": "California",
-      "annee": 2016,
-      "start_ts": 1791597548,
-      "end_ts": 1791597729
-    },
-    {
-      "titre": "RENÉ CAOVILLA",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-09",
-      "heure": 21,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791582359,
-      "end_ts": 1791582540
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1791587998~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=4b11d618e6d1eb7a5e6d11f685bb8b85c598a702aa93654cdd209d25a2188ccd",
-      "date": "2026-10-09",
-      "heure": 20,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1791578568,
-      "end_ts": 1791578712
-    },
-    {
-      "titre": "DANCE FOR ME x LA PÉTASSE",
-      "artistes": "Manzala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cf67bbeb542373520dab73ed158e227d/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/9/0/e7976f95cec67e62d419709bb16c6a2c.mp3?hdnea=exp=1791587999~acl=/api/1/1/e/7/9/0/e7976f95cec67e62d419709bb16c6a2c.mp3*~data=user_id=0,application_id=42~hmac=1ff8ec3bd1d1f5ae67e2ab3380c438d4b27c51a0e57793f771a8c04df8c1a27f",
-      "date": "2026-10-09",
-      "heure": 20,
-      "album": "DANCE FOR ME x LA PÉTASSE",
-      "annee": 2026,
-      "start_ts": 1791576235,
-      "end_ts": 1791576416
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791588000~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=92b08164479bbfc847ec1e25a73fdeab28e5971aaa3006cd2abf5f78ea822791",
-      "date": "2026-10-09",
-      "heure": 19,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791574224,
-      "end_ts": 1791574381
     }
   ]
 }
