@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-10T18:48:28.495068",
-  "genere_ts": 1791658108,
+  "genere_le": "2026-10-10T22:00:34.197538",
+  "genere_ts": 1791669634,
   "volume": {
-    "nb_diffusions": 349,
+    "nb_diffusions": 352,
     "nb_artistes": 99,
     "nb_titres": 105,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-10",
-    "heures_antenne": 16.89,
-    "duree_moy_s": 174.2
+    "heures_antenne": 17.02,
+    "duree_moy_s": 174.1
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 19,
+      "nb_diffusions": 20,
       "titres_differents": 2,
-      "minutes_antenne": 55.5
+      "minutes_antenne": 58.0
     },
     {
       "artistes": "Aya Nakamura",
@@ -114,6 +114,12 @@
       "minutes_antenne": 19.2
     },
     {
+      "artistes": "Josas",
+      "nb_diffusions": 7,
+      "titres_differents": 1,
+      "minutes_antenne": 18.9
+    },
+    {
       "artistes": "The Weeknd",
       "nb_diffusions": 5,
       "titres_differents": 5,
@@ -124,12 +130,6 @@
       "nb_diffusions": 6,
       "titres_differents": 1,
       "minutes_antenne": 17.4
-    },
-    {
-      "artistes": "Josas",
-      "nb_diffusions": 6,
-      "titres_differents": 1,
-      "minutes_antenne": 16.2
     }
   ],
   "top_titres": [
@@ -152,6 +152,12 @@
       "minutes_antenne": 47.0
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 13,
+      "minutes_antenne": 32.8
+    },
+    {
       "artistes": "Niska",
       "titre": "Allo Doudou",
       "nb_diffusions": 12,
@@ -168,12 +174,6 @@
       "titre": "Dracula (with JENNIE)",
       "nb_diffusions": 12,
       "minutes_antenne": 40.2
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_diffusions": 12,
-      "minutes_antenne": 30.3
     },
     {
       "artistes": "BIGBANG",
@@ -218,6 +218,12 @@
       "minutes_antenne": 19.5
     },
     {
+      "artistes": "Josas",
+      "titre": "Deliciosa",
+      "nb_diffusions": 7,
+      "minutes_antenne": 18.9
+    },
+    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_diffusions": 7,
@@ -240,12 +246,6 @@
       "titre": "VIVE LA MONNAIE",
       "nb_diffusions": 6,
       "minutes_antenne": 18.0
-    },
-    {
-      "artistes": "Josas",
-      "titre": "Deliciosa",
-      "nb_diffusions": 6,
-      "minutes_antenne": 16.2
     },
     {
       "artistes": "Yuston XIII",
@@ -329,11 +329,11 @@
     },
     {
       "heure": 19,
-      "nb_diffusions": 14
+      "nb_diffusions": 19
     },
     {
       "heure": 20,
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "heure": 21,
@@ -411,8 +411,8 @@
     },
     {
       "date": "2026-10-10",
-      "nb_diffusions": 24,
-      "titres_differents": 20
+      "nb_diffusions": 30,
+      "titres_differents": 24
     }
   ],
   "semaine": [
@@ -442,15 +442,15 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 60
+      "nb_diffusions": 66
     }
   ],
   "recurrents": [
     {
       "artistes": "Tiakola",
       "nb_jours": 11,
-      "nb_diffusions": 19,
-      "minutes": 55.5
+      "nb_diffusions": 20,
+      "minutes": 58.0
     },
     {
       "artistes": "Leto",
@@ -519,6 +519,12 @@
       "minutes": 34.1
     },
     {
+      "artistes": "Josas",
+      "nb_jours": 6,
+      "nb_diffusions": 7,
+      "minutes": 18.9
+    },
+    {
       "artistes": "Ariana Grande",
       "nb_jours": 6,
       "nb_diffusions": 6,
@@ -535,12 +541,6 @@
       "nb_jours": 5,
       "nb_diffusions": 6,
       "minutes": 12.0
-    },
-    {
-      "artistes": "Josas",
-      "nb_jours": 5,
-      "nb_diffusions": 6,
-      "minutes": 16.2
     },
     {
       "artistes": "The Weeknd",
@@ -608,7 +608,7 @@
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 8,
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "artistes": "Niska",
@@ -647,6 +647,12 @@
       "nb_diffusions": 7
     },
     {
+      "artistes": "Josas",
+      "titre": "Deliciosa",
+      "nb_jours": 6,
+      "nb_diffusions": 7
+    },
+    {
       "artistes": "Ariana Grande",
       "titre": "hate that i made you love me (ari lyric draft from bed)",
       "nb_jours": 6,
@@ -657,12 +663,6 @@
       "titre": "Sicario",
       "nb_jours": 5,
       "nb_diffusions": 9
-    },
-    {
-      "artistes": "Josas",
-      "titre": "Deliciosa",
-      "nb_jours": 5,
-      "nb_diffusions": 6
     },
     {
       "artistes": "Djaksparo",
@@ -698,7 +698,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 19
+      "nb_diffusions": 20
     },
     {
       "artistes": "Gambi",
@@ -751,7 +751,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 206
+      "nb_diffusions": 208
     },
     {
       "annee": 2025,
@@ -767,7 +767,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 25
+      "nb_diffusions": 26
     },
     {
       "annee": 2021,
@@ -833,11 +833,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 178
+      "nb": 180
     },
     {
       "type_contenu": "Explicit",
-      "nb": 169
+      "nb": 170
     }
   ],
   "albums": [
@@ -859,7 +859,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "album": "Grand Garçon",
@@ -917,6 +917,11 @@
       "nb_diffusions": 7
     },
     {
+      "album": "Deliciosa",
+      "artistes": "Josas",
+      "nb_diffusions": 7
+    },
+    {
       "album": "melodrama",
       "artistes": "disiz",
       "nb_diffusions": 6
@@ -935,27 +940,100 @@
       "album": "Pangor (Swalalala)",
       "artistes": "Djaksparo",
       "nb_diffusions": 6
-    },
-    {
-      "album": "Les Enfants du Chaos",
-      "artistes": "Yuston XIII",
-      "nb_diffusions": 6
     }
   ],
   "dernier_morceau": {
-    "titre": "Été avec toi",
-    "artistes": "Adèle Castillon",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1791659002~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=5f52783d548301a2e8faba185d6c06668ee89bca94935b255e3e81ec5a16926a",
+    "titre": "Olivia Valere",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
+    "preview_mp3": null,
     "date": "2026-10-10",
-    "heure": 18,
-    "album": "Été avec toi",
-    "annee": 2026,
-    "start_ts": 1791657698,
-    "end_ts": 1791657882
+    "heure": 20,
+    "album": null,
+    "annee": null,
+    "start_ts": 1791665264,
+    "end_ts": 1791665445
   },
   "derniers_morceaux": [
+    {
+      "titre": "Olivia Valere",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.1097271872914507257.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-10",
+      "heure": 20,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791665264,
+      "end_ts": 1791665445
+    },
+    {
+      "titre": "UBER",
+      "artistes": "Moji x Sboy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/78b98745418aa0a06d74b47782613679/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3?hdnea=exp=1791670529~acl=/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3*~data=user_id=0,application_id=42~hmac=cbdb9bbd03e9fa99fba1c00451aaaac4010ce2e8de29179f0223b16ab028774e",
+      "date": "2026-10-10",
+      "heure": 19,
+      "album": "UBER",
+      "annee": 2022,
+      "start_ts": 1791662182,
+      "end_ts": 1791662338
+    },
+    {
+      "titre": "Deliciosa",
+      "artistes": "Josas",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b691f3bd93fd9eabaf85eeb6ac014197/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.1272903837126516885.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3?hdnea=exp=1791670530~acl=/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3*~data=user_id=0,application_id=42~hmac=351f988ebfaed6c2ad4c2527b136c2c86ba23b87ccc004cfcedb591fb38147df",
+      "date": "2026-10-10",
+      "heure": 19,
+      "album": "Deliciosa",
+      "annee": 2026,
+      "start_ts": 1791662017,
+      "end_ts": 1791662179
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1791670531~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=bdab9ef14839d3c3f9c510738bd01b315f1bbb96f2f4c4d43e5a8cde2093c684",
+      "date": "2026-10-10",
+      "heure": 19,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1791661862,
+      "end_ts": 1791662013
+    },
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-10",
+      "heure": 19,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791661674,
+      "end_ts": 1791661855
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-10",
+      "heure": 19,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791661429,
+      "end_ts": 1791661576
+    },
     {
       "titre": "Été avec toi",
       "artistes": "Adèle Castillon",
@@ -1007,84 +1085,6 @@
       "annee": 2026,
       "start_ts": 1791657170,
       "end_ts": 1791657337
-    },
-    {
-      "titre": "Taste",
-      "artistes": "Bikini Bandits",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4d5158d4afabdfd5d425674df1ffa443/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/75/SKYC.8747180650150389975.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/2/0/20295bfde3b5611f5f39b7a873f8c400.mp3?hdnea=exp=1791659006~acl=/api/1/1/2/0/2/0/20295bfde3b5611f5f39b7a873f8c400.mp3*~data=user_id=0,application_id=42~hmac=dae3015bcf1d8c85f60aed90f54e34f3ecbf4732839f648ad2cc1ec3a30f7055",
-      "date": "2026-10-10",
-      "heure": 18,
-      "album": "Taste",
-      "annee": 2026,
-      "start_ts": 1791657020,
-      "end_ts": 1791657172
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1791659007~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=ab2a5b18752f8b065d9635bf1c4729c571650c06b434c3905d2e34080b09538c",
-      "date": "2026-10-10",
-      "heure": 18,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1791656832,
-      "end_ts": 1791656998
-    },
-    {
-      "titre": "The Real Slim Shady (Medieval Version)",
-      "artistes": "Bardcore",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/526567794c2d613e24655d98f6f0ba68/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.2068428030132266045.16.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/2/0/2c2ad28f17a62550dc84d901068e3208.mp3?hdnea=exp=1791643849~acl=/api/1/1/2/c/2/0/2c2ad28f17a62550dc84d901068e3208.mp3*~data=user_id=0,application_id=42~hmac=696fe063a0978c837c96b73e6280f9a12815fc75de33f0cb0d201bb64c07771b",
-      "date": "2026-10-10",
-      "heure": 14,
-      "album": "The Real Slim Shady (Medieval Version)",
-      "annee": 2023,
-      "start_ts": 1791642897,
-      "end_ts": 1791643177
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791643850~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=5810517381e457c07d5c97483e1d61ac81c593e58d83e2459a4359772b5eb1b0",
-      "date": "2026-10-10",
-      "heure": 14,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791642740,
-      "end_ts": 1791642897
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-10",
-      "heure": 14,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791642487,
-      "end_ts": 1791642721
-    },
-    {
-      "titre": "Pilé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-10",
-      "heure": 14,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791642336,
-      "end_ts": 1791642483
     }
   ]
 }
