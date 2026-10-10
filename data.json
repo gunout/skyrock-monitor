@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-10T08:30:04.126174",
-  "genere_ts": 1791621004,
+  "genere_le": "2026-10-10T14:35:55.552949",
+  "genere_ts": 1791642955,
   "volume": {
-    "nb_diffusions": 339,
-    "nb_artistes": 96,
-    "nb_titres": 102,
+    "nb_diffusions": 343,
+    "nb_artistes": 98,
+    "nb_titres": 104,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-10",
-    "heures_antenne": 16.38,
-    "duree_moy_s": 174.0
+    "heures_antenne": 16.6,
+    "duree_moy_s": 174.3
   },
   "top_artistes": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 18,
+      "nb_diffusions": 19,
       "titres_differents": 1,
-      "minutes_antenne": 47.1
+      "minutes_antenne": 49.7
     },
     {
       "artistes": "Vacra",
@@ -142,8 +142,8 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_diffusions": 18,
-      "minutes_antenne": 47.1
+      "nb_diffusions": 19,
+      "minutes_antenne": 49.7
     },
     {
       "artistes": "Vacra",
@@ -309,7 +309,7 @@
     },
     {
       "heure": 14,
-      "nb_diffusions": 12
+      "nb_diffusions": 18
     },
     {
       "heure": 15,
@@ -411,8 +411,8 @@
     },
     {
       "date": "2026-10-10",
-      "nb_diffusions": 12,
-      "titres_differents": 11
+      "nb_diffusions": 18,
+      "titres_differents": 15
     }
   ],
   "semaine": [
@@ -442,7 +442,7 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 48
+      "nb_diffusions": 54
     }
   ],
   "recurrents": [
@@ -453,16 +453,16 @@
       "minutes": 55.5
     },
     {
+      "artistes": "Leto",
+      "nb_jours": 10,
+      "nb_diffusions": 19,
+      "minutes": 49.7
+    },
+    {
       "artistes": "Tame Impala",
       "nb_jours": 10,
       "nb_diffusions": 13,
       "minutes": 43.5
-    },
-    {
-      "artistes": "Leto",
-      "nb_jours": 9,
-      "nb_diffusions": 18,
-      "minutes": 47.1
     },
     {
       "artistes": "PLK",
@@ -571,8 +571,8 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_jours": 9,
-      "nb_diffusions": 18
+      "nb_jours": 10,
+      "nb_diffusions": 19
     },
     {
       "artistes": "Tame Impala",
@@ -751,19 +751,19 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 201
+      "nb_diffusions": 202
     },
     {
       "annee": 2025,
-      "nb_diffusions": 45
+      "nb_diffusions": 46
     },
     {
       "annee": 2024,
-      "nb_diffusions": 19
+      "nb_diffusions": 20
     },
     {
       "annee": 2023,
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "annee": 2022,
@@ -833,11 +833,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 172
+      "nb": 175
     },
     {
       "type_contenu": "Explicit",
-      "nb": 165
+      "nb": 166
     }
   ],
   "albums": [
@@ -849,7 +849,7 @@
     {
       "album": "Pineapple",
       "artistes": "Leto",
-      "nb_diffusions": 18
+      "nb_diffusions": 19
     },
     {
       "album": "Fille à Papa",
@@ -943,19 +943,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "méli-mélo",
-    "artistes": "kulturr",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0362bb54f4ec8484bd0cd7e0b23430e3/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.3701107130896006141.75.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3?hdnea=exp=1791621897~acl=/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3*~data=user_id=0,application_id=42~hmac=c5aaed1df0bf2489b849937970e918c14ba40888243ffcd10f781ede1b51ddc7",
+    "titre": "The Real Slim Shady (Medieval Version)",
+    "artistes": "Bardcore",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/526567794c2d613e24655d98f6f0ba68/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.2068428030132266045.16.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/2/0/2c2ad28f17a62550dc84d901068e3208.mp3?hdnea=exp=1791643849~acl=/api/1/1/2/c/2/0/2c2ad28f17a62550dc84d901068e3208.mp3*~data=user_id=0,application_id=42~hmac=696fe063a0978c837c96b73e6280f9a12815fc75de33f0cb0d201bb64c07771b",
     "date": "2026-10-10",
-    "heure": 8,
-    "album": "HOPE. : Imani",
-    "annee": 2025,
-    "start_ts": 1791620987,
-    "end_ts": 1791621136
+    "heure": 14,
+    "album": "The Real Slim Shady (Medieval Version)",
+    "annee": 2023,
+    "start_ts": 1791642897,
+    "end_ts": 1791643177
   },
   "derniers_morceaux": [
+    {
+      "titre": "The Real Slim Shady (Medieval Version)",
+      "artistes": "Bardcore",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/526567794c2d613e24655d98f6f0ba68/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.2068428030132266045.16.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/2/0/2c2ad28f17a62550dc84d901068e3208.mp3?hdnea=exp=1791643849~acl=/api/1/1/2/c/2/0/2c2ad28f17a62550dc84d901068e3208.mp3*~data=user_id=0,application_id=42~hmac=696fe063a0978c837c96b73e6280f9a12815fc75de33f0cb0d201bb64c07771b",
+      "date": "2026-10-10",
+      "heure": 14,
+      "album": "The Real Slim Shady (Medieval Version)",
+      "annee": 2023,
+      "start_ts": 1791642897,
+      "end_ts": 1791643177
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791643850~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=5810517381e457c07d5c97483e1d61ac81c593e58d83e2459a4359772b5eb1b0",
+      "date": "2026-10-10",
+      "heure": 14,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1791642740,
+      "end_ts": 1791642897
+    },
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-10",
+      "heure": 14,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791642487,
+      "end_ts": 1791642721
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-10",
+      "heure": 14,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791642336,
+      "end_ts": 1791642483
+    },
+    {
+      "titre": "Loser",
+      "artistes": "Apache 207",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.139.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1791643852~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=670200e1efdec8f3d4e6f62f9019d6c12f51d8c07d0c1b90aff294f51c0a9025",
+      "date": "2026-10-10",
+      "heure": 14,
+      "album": "Loser",
+      "annee": 2024,
+      "start_ts": 1791642119,
+      "end_ts": 1791642337
+    },
+    {
+      "titre": "méli-mélo",
+      "artistes": "kulturr",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0362bb54f4ec8484bd0cd7e0b23430e3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.3701107130896006141.75.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3?hdnea=exp=1791643854~acl=/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3*~data=user_id=0,application_id=42~hmac=368069b6e9ca9206bc68750dc000d9a990f869e1719dc907de84115cb80a4040",
+      "date": "2026-10-10",
+      "heure": 14,
+      "album": "HOPE. : Imani",
+      "annee": 2025,
+      "start_ts": 1791641581,
+      "end_ts": 1791641730
+    },
     {
       "titre": "méli-mélo",
       "artistes": "kulturr",
@@ -1007,84 +1085,6 @@
       "annee": 2026,
       "start_ts": 1791620475,
       "end_ts": 1791620626
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1791621901~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=25627bd89aa3738501627ba088afadb398256a406e7f7f161867b7c4e38a27d1",
-      "date": "2026-10-10",
-      "heure": 8,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1791619885,
-      "end_ts": 1791619997
-    },
-    {
-      "titre": "melodrama",
-      "artistes": "disiz",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1791621902~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=958a42970567695311d393bcfaf945a0b8c2f6084b5c5a0dc9e4eedd0f9bf34b",
-      "date": "2026-10-10",
-      "heure": 8,
-      "album": "melodrama",
-      "annee": 2025,
-      "start_ts": 1791619705,
-      "end_ts": 1791619879
-    },
-    {
-      "titre": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.2090592626626782774.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1791599415~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=cc68bf73ea9dc6bb33b576c185732a15e16c2a4f4829d9a0144013fa29a2c487",
-      "date": "2026-10-10",
-      "heure": 2,
-      "album": "Dracula (with JENNIE)",
-      "annee": 2026,
-      "start_ts": 1791598495,
-      "end_ts": 1791598696
-    },
-    {
-      "titre": "méli-mélo",
-      "artistes": "kulturr",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0362bb54f4ec8484bd0cd7e0b23430e3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.3701107130896006141.75.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3?hdnea=exp=1791599416~acl=/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3*~data=user_id=0,application_id=42~hmac=f22de2281ad4ef3c7002c61a8547f2e0b2f83ce2873f163a4499d10e06f89280",
-      "date": "2026-10-10",
-      "heure": 2,
-      "album": "HOPE. : Imani",
-      "annee": 2025,
-      "start_ts": 1791598346,
-      "end_ts": 1791598495
-    },
-    {
-      "titre": "HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) (REMIX)",
-      "artistes": "Travis Scott",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d1ed81aebe34697130d8caf2459e0d72/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.472543849875507810.24.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/3/4/0/334d95a4cd6742156e09e0b72b724d2b.mp3?hdnea=exp=1791599417~acl=/api/1/1/3/3/4/0/334d95a4cd6742156e09e0b72b724d2b.mp3*~data=user_id=0,application_id=42~hmac=6e515f1d142943988370ecfd701b8540ae8ac5c38ef3f5bf7da85000b84421b3",
-      "date": "2026-10-10",
-      "heure": 2,
-      "album": "JACKBOYS",
-      "annee": 2019,
-      "start_ts": 1791598109,
-      "end_ts": 1791598347
-    },
-    {
-      "titre": "BbY WOW",
-      "artistes": "KAROL G",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1791599418~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=3db2b8f395c2463ee3c0b0f63051fae6a25e80266ba42f3774fec40482542fd8",
-      "date": "2026-10-10",
-      "heure": 2,
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "annee": 2026,
-      "start_ts": 1791597885,
-      "end_ts": 1791598108
     }
   ]
 }
