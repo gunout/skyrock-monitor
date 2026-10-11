@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-11T13:10:59.137976",
-  "genere_ts": 1791724259,
+  "genere_le": "2026-10-11T18:02:37.572987",
+  "genere_ts": 1791741757,
   "volume": {
-    "nb_diffusions": 362,
-    "nb_artistes": 101,
-    "nb_titres": 106,
+    "nb_diffusions": 365,
+    "nb_artistes": 103,
+    "nb_titres": 108,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-11",
-    "heures_antenne": 17.47,
-    "duree_moy_s": 173.8
+    "heures_antenne": 17.69,
+    "duree_moy_s": 174.4
   },
   "top_artistes": [
     {
@@ -321,7 +321,7 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 32
+      "nb_diffusions": 38
     },
     {
       "heure": 18,
@@ -416,14 +416,14 @@
     },
     {
       "date": "2026-10-11",
-      "nb_diffusions": 12,
-      "titres_differents": 11
+      "nb_diffusions": 18,
+      "titres_differents": 17
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 48
+      "nb_diffusions": 54
     },
     {
       "jour": "Lundi",
@@ -812,11 +812,11 @@
     },
     {
       "annee": 2010,
-      "nb_diffusions": 2
+      "nb_diffusions": 3
     },
     {
       "annee": 2009,
-      "nb_diffusions": 2
+      "nb_diffusions": 3
     },
     {
       "annee": 2008,
@@ -824,7 +824,7 @@
     },
     {
       "annee": 2007,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "annee": 2003,
@@ -838,7 +838,7 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 186
+      "nb": 189
     },
     {
       "type_contenu": "Explicit",
@@ -948,19 +948,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "L’enfer",
-    "artistes": "Stromae",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/07d285aac432f1d6452da1a7694f6bf3/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/91/SKYC.5019256606897616491.6.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/a/0/8bab976a5bfdd06583a4aa5d5758b7c9.mp3?hdnea=exp=1791700869~acl=/api/1/1/8/b/a/0/8bab976a5bfdd06583a4aa5d5758b7c9.mp3*~data=user_id=0,application_id=42~hmac=47bc797cf04d4dada1d89a8c01ec4d7f9a9f4ab71a620f4267b991e7d698c3d6",
+    "titre": "Cinderella",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.5536442831145754751.3.0.jpg",
+    "preview_mp3": null,
     "date": "2026-10-11",
-    "heure": 6,
-    "album": "Multitude",
-    "annee": 2022,
-    "start_ts": 1791699872,
-    "end_ts": 1791700056
+    "heure": 17,
+    "album": null,
+    "annee": null,
+    "start_ts": 1791741581,
+    "end_ts": 1791741890
   },
   "derniers_morceaux": [
+    {
+      "titre": "Cinderella",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.5536442831145754751.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-11",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791741581,
+      "end_ts": 1791741890
+    },
+    {
+      "titre": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "artistes": "USHER",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b5df072f3a995bb40c2f78f6c3e0fac7/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/92/SKYC.1314478543936738092.10.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/5/0/ef5244c55e3724be0babb70ec8a202c7.mp3?hdnea=exp=1791742653~acl=/api/1/1/e/f/5/0/ef5244c55e3724be0babb70ec8a202c7.mp3*~data=user_id=0,application_id=42~hmac=c15a217f3f605cf734690a00bda79f3a04f6b8e23bee0a67c95e29802d3230fa",
+      "date": "2026-10-11",
+      "heure": 17,
+      "album": "Versus",
+      "annee": 2010,
+      "start_ts": 1791741319,
+      "end_ts": 1791741536
+    },
+    {
+      "titre": "This Is Skyrock - Inédit",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.1359630520146085396.2.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-11",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791741071,
+      "end_ts": 1791741323
+    },
+    {
+      "titre": "Smile",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/32/SKYC.4341132300364407532.5.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-11",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791740946,
+      "end_ts": 1791741067
+    },
+    {
+      "titre": "Ca fait mal (feat. Soprano & Sefyu) (Remix Album Version)",
+      "artistes": "La Fouine",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0d14d0ab4d0c45032a98f19acbd5c822/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/38/SKYC.1412436650596971138.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/5/0/c557ac2ddb9d13d81aa4ac82984a1c6c.mp3?hdnea=exp=1791742655~acl=/api/1/1/c/5/5/0/c557ac2ddb9d13d81aa4ac82984a1c6c.mp3*~data=user_id=0,application_id=42~hmac=6428feeb52636ba52c810fe6ecf57017c22cb1b10759fcba45dcbc65763ae685",
+      "date": "2026-10-11",
+      "heure": 17,
+      "album": "Mes Repères",
+      "annee": 2009,
+      "start_ts": 1791740427,
+      "end_ts": 1791740695
+    },
+    {
+      "titre": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) (2007 Remaster)",
+      "artistes": "The Notorious B.I.G.",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/040e3ac9807dc840e8139a29e1ba6c7d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5644879687082526941.13.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/1/a/0/11a7e56b63b6f25780bceebd8892758d.mp3?hdnea=exp=1791742656~acl=/api/1/1/1/1/a/0/11a7e56b63b6f25780bceebd8892758d.mp3*~data=user_id=0,application_id=42~hmac=0aa7f082e805eecd44a88cce5f2b77af04f49574cf22ffe68f634d4165909655",
+      "date": "2026-10-11",
+      "heure": 17,
+      "album": "Greatest Hits",
+      "annee": 2007,
+      "start_ts": 1791740151,
+      "end_ts": 1791740433
+    },
     {
       "titre": "L’enfer",
       "artistes": "Stromae",
@@ -1012,84 +1090,6 @@
       "annee": 2026,
       "start_ts": 1791699283,
       "end_ts": 1791699437
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1791700874~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=c2de3537f4bc40f29b8bc555f46412885aea92be5000c9b73e4d4475904afb28",
-      "date": "2026-10-11",
-      "heure": 6,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1791699139,
-      "end_ts": 1791699283
-    },
-    {
-      "titre": "COLLABO",
-      "artistes": "Jeeno",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1420e88dfbb7e34b69a6f68ca68842c4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.7961221967961599149.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/c/0/9bc3efe3d379edd31f7fb6d809b3dc63.mp3?hdnea=exp=1791700875~acl=/api/1/1/9/b/c/0/9bc3efe3d379edd31f7fb6d809b3dc63.mp3*~data=user_id=0,application_id=42~hmac=241fef32e41b4bc0f8c014573c851bb6e395f5a0587b9b10f7798a3f6d287271",
-      "date": "2026-10-11",
-      "heure": 6,
-      "album": "COLLABO",
-      "annee": 2025,
-      "start_ts": 1791698961,
-      "end_ts": 1791699129
-    },
-    {
-      "titre": "Baraque au Bled",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/13/SKYC.252558941252410713.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-11",
-      "heure": 0,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791679078,
-      "end_ts": 1791679265
-    },
-    {
-      "titre": "UBER",
-      "artistes": "Moji x Sboy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/78b98745418aa0a06d74b47782613679/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3?hdnea=exp=1791680245~acl=/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3*~data=user_id=0,application_id=42~hmac=ca5ae232f1d92807a51c5729d508e03e9ad979f191322d6e72b0ab5fe577b50a",
-      "date": "2026-10-11",
-      "heure": 0,
-      "album": "UBER",
-      "annee": 2022,
-      "start_ts": 1791678920,
-      "end_ts": 1791679076
-    },
-    {
-      "titre": "Baraque au Bled",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/13/SKYC.252558941252410713.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-11",
-      "heure": 0,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791678734,
-      "end_ts": 1791678921
-    },
-    {
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "artistes": "Lil Gianni",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1791680246~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=36570c44ad0ea90e77b4b3f1e625443e5463a6fae932aa93d8d1f90232e0fb8d",
-      "date": "2026-10-11",
-      "heure": 0,
-      "album": "SAMPLEMAKER",
-      "annee": 2022,
-      "start_ts": 1791678584,
-      "end_ts": 1791678734
     }
   ]
 }
