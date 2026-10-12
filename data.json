@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-12T06:33:05.172137",
-  "genere_ts": 1791786785,
+  "genere_le": "2026-10-12T15:58:26.829195",
+  "genere_ts": 1791820706,
   "volume": {
-    "nb_diffusions": 381,
-    "nb_artistes": 107,
-    "nb_titres": 112,
+    "nb_diffusions": 387,
+    "nb_artistes": 108,
+    "nb_titres": 113,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-12",
-    "heures_antenne": 18.51,
+    "heures_antenne": 18.8,
     "duree_moy_s": 174.9
   },
   "top_artistes": [
@@ -55,21 +55,21 @@
     },
     {
       "artistes": "PLK",
+      "nb_diffusions": 14,
+      "titres_differents": 1,
+      "minutes_antenne": 37.8
+    },
+    {
+      "artistes": "Niska",
       "nb_diffusions": 13,
       "titres_differents": 1,
-      "minutes_antenne": 35.1
+      "minutes_antenne": 36.2
     },
     {
       "artistes": "Slimane",
       "nb_diffusions": 11,
       "titres_differents": 1,
       "minutes_antenne": 34.1
-    },
-    {
-      "artistes": "Niska",
-      "nb_diffusions": 12,
-      "titres_differents": 1,
-      "minutes_antenne": 33.4
     },
     {
       "artistes": "Bad Bunny",
@@ -79,9 +79,9 @@
     },
     {
       "artistes": "Gambi",
-      "nb_diffusions": 13,
+      "nb_diffusions": 14,
       "titres_differents": 2,
-      "minutes_antenne": 27.7
+      "minutes_antenne": 29.7
     },
     {
       "artistes": "GIMS",
@@ -108,6 +108,12 @@
       "minutes_antenne": 20.5
     },
     {
+      "artistes": "disiz",
+      "nb_diffusions": 7,
+      "titres_differents": 1,
+      "minutes_antenne": 20.3
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 8,
       "titres_differents": 1,
@@ -124,12 +130,6 @@
       "nb_diffusions": 5,
       "titres_differents": 5,
       "minutes_antenne": 18.6
-    },
-    {
-      "artistes": "disiz",
-      "nb_diffusions": 6,
-      "titres_differents": 1,
-      "minutes_antenne": 17.4
     }
   ],
   "top_titres": [
@@ -152,28 +152,28 @@
       "minutes_antenne": 49.8
     },
     {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_diffusions": 14,
+      "minutes_antenne": 37.8
+    },
+    {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_diffusions": 14,
       "minutes_antenne": 35.3
     },
     {
-      "artistes": "PLK",
-      "titre": "Pocahontas",
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
       "nb_diffusions": 13,
-      "minutes_antenne": 35.1
+      "minutes_antenne": 36.2
     },
     {
       "artistes": "Tame Impala",
       "titre": "Dracula (with JENNIE)",
       "nb_diffusions": 13,
       "minutes_antenne": 43.5
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_diffusions": 12,
-      "minutes_antenne": 33.4
     },
     {
       "artistes": "BIGBANG",
@@ -242,16 +242,16 @@
       "minutes_antenne": 18.9
     },
     {
+      "artistes": "disiz",
+      "titre": "melodrama",
+      "nb_diffusions": 7,
+      "minutes_antenne": 20.3
+    },
+    {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
       "nb_diffusions": 6,
       "minutes_antenne": 16.8
-    },
-    {
-      "artistes": "Djaksparo",
-      "titre": "Pangor (Swalalala)",
-      "nb_diffusions": 6,
-      "minutes_antenne": 12.0
     }
   ],
   "heures": [
@@ -313,7 +313,7 @@
     },
     {
       "heure": 15,
-      "nb_diffusions": 18
+      "nb_diffusions": 24
     },
     {
       "heure": 16,
@@ -421,8 +421,8 @@
     },
     {
       "date": "2026-10-12",
-      "nb_diffusions": 12,
-      "titres_differents": 12
+      "nb_diffusions": 18,
+      "titres_differents": 18
     }
   ],
   "semaine": [
@@ -432,7 +432,7 @@
     },
     {
       "jour": "Lundi",
-      "nb_diffusions": 42
+      "nb_diffusions": 48
     },
     {
       "jour": "Mardi",
@@ -469,6 +469,12 @@
       "minutes": 52.4
     },
     {
+      "artistes": "PLK",
+      "nb_jours": 11,
+      "nb_diffusions": 14,
+      "minutes": 37.8
+    },
+    {
       "artistes": "Tame Impala",
       "nb_jours": 11,
       "nb_diffusions": 14,
@@ -479,12 +485,6 @@
       "nb_jours": 10,
       "nb_diffusions": 18,
       "minutes": 49.8
-    },
-    {
-      "artistes": "PLK",
-      "nb_jours": 10,
-      "nb_diffusions": 13,
-      "minutes": 35.1
     },
     {
       "artistes": "KAROL G",
@@ -506,15 +506,15 @@
     },
     {
       "artistes": "Gambi",
-      "nb_jours": 7,
-      "nb_diffusions": 13,
-      "minutes": 27.7
+      "nb_jours": 8,
+      "nb_diffusions": 14,
+      "minutes": 29.7
     },
     {
       "artistes": "Niska",
-      "nb_jours": 7,
-      "nb_diffusions": 12,
-      "minutes": 33.4
+      "nb_jours": 8,
+      "nb_diffusions": 13,
+      "minutes": 36.2
     },
     {
       "artistes": "Ariana Grande",
@@ -547,6 +547,12 @@
       "minutes": 18.9
     },
     {
+      "artistes": "disiz",
+      "nb_jours": 5,
+      "nb_diffusions": 7,
+      "minutes": 20.3
+    },
+    {
       "artistes": "Bouss",
       "nb_jours": 5,
       "nb_diffusions": 6,
@@ -569,12 +575,6 @@
       "nb_jours": 5,
       "nb_diffusions": 5,
       "minutes": 18.6
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_jours": 4,
-      "nb_diffusions": 8,
-      "minutes": 19.5
     }
   ],
   "titres_recurrents": [
@@ -585,6 +585,12 @@
       "nb_diffusions": 20
     },
     {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_jours": 11,
+      "nb_diffusions": 14
+    },
+    {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_jours": 10,
@@ -593,12 +599,6 @@
     {
       "artistes": "Tame Impala",
       "titre": "Dracula (with JENNIE)",
-      "nb_jours": 10,
-      "nb_diffusions": 13
-    },
-    {
-      "artistes": "PLK",
-      "titre": "Pocahontas",
       "nb_jours": 10,
       "nb_diffusions": 13
     },
@@ -621,16 +621,16 @@
       "nb_diffusions": 20
     },
     {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_jours": 8,
+      "nb_diffusions": 13
+    },
+    {
       "artistes": "KAROL G",
       "titre": "BbY WOW",
       "nb_jours": 8,
       "nb_diffusions": 11
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_jours": 7,
-      "nb_diffusions": 12
     },
     {
       "artistes": "Gambi",
@@ -675,6 +675,12 @@
       "nb_diffusions": 7
     },
     {
+      "artistes": "disiz",
+      "titre": "melodrama",
+      "nb_jours": 5,
+      "nb_diffusions": 7
+    },
+    {
       "artistes": "Djaksparo",
       "titre": "Pangor (Swalalala)",
       "nb_jours": 5,
@@ -691,12 +697,6 @@
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_jours": 5,
       "nb_diffusions": 5
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
-      "nb_jours": 4,
-      "nb_diffusions": 8
     }
   ],
   "diversifies": [
@@ -716,14 +716,14 @@
       "nb_diffusions": 22
     },
     {
-      "artistes": "Tame Impala",
+      "artistes": "Gambi",
       "nb_titres_differents": 2,
       "nb_diffusions": 14
     },
     {
-      "artistes": "Gambi",
+      "artistes": "Tame Impala",
       "nb_titres_differents": 2,
-      "nb_diffusions": 13
+      "nb_diffusions": 14
     },
     {
       "artistes": "GIMS",
@@ -761,19 +761,19 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 223
+      "nb_diffusions": 225
     },
     {
       "annee": 2025,
-      "nb_diffusions": 49
+      "nb_diffusions": 51
     },
     {
       "annee": 2024,
-      "nb_diffusions": 22
+      "nb_diffusions": 23
     },
     {
       "annee": 2023,
-      "nb_diffusions": 8
+      "nb_diffusions": 9
     },
     {
       "annee": 2022,
@@ -843,11 +843,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 198
+      "nb": 201
     },
     {
       "type_contenu": "Explicit",
-      "nb": 181
+      "nb": 184
     }
   ],
   "albums": [
@@ -874,7 +874,7 @@
     {
       "album": "Grand Garçon",
       "artistes": "PLK",
-      "nb_diffusions": 13
+      "nb_diffusions": 14
     },
     {
       "album": "Dracula (with JENNIE)",
@@ -882,13 +882,13 @@
       "nb_diffusions": 13
     },
     {
-      "album": "Sicario",
-      "artistes": "Timal",
-      "nb_diffusions": 12
-    },
-    {
       "album": "Allo Doudou",
       "artistes": "Niska",
+      "nb_diffusions": 13
+    },
+    {
+      "album": "Sicario",
+      "artistes": "Timal",
       "nb_diffusions": 12
     },
     {
@@ -927,6 +927,11 @@
       "nb_diffusions": 8
     },
     {
+      "album": "melodrama",
+      "artistes": "disiz",
+      "nb_diffusions": 7
+    },
+    {
       "album": "hate that i made you love me",
       "artistes": "Ariana Grande",
       "nb_diffusions": 7
@@ -942,30 +947,103 @@
       "nb_diffusions": 7
     },
     {
-      "album": "melodrama",
-      "artistes": "disiz",
-      "nb_diffusions": 6
-    },
-    {
       "album": "Pangor (Swalalala)",
       "artistes": "Djaksparo",
       "nb_diffusions": 6
     }
   ],
   "dernier_morceau": {
-    "titre": "Houdini",
-    "artistes": "Dua Lipa",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/12c05200e9097af48e0ad4fc259cee25/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4603440738104203446.154.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/7/0/367e45ecbf07a341e248b400f51fc544.mp3?hdnea=exp=1791787678~acl=/api/1/1/3/6/7/0/367e45ecbf07a341e248b400f51fc544.mp3*~data=user_id=0,application_id=42~hmac=ac9ce236299c622b2b8aaf26fb9d5abbcbe045dbcbe80f1aff4dcf254da67bd9",
+    "titre": "Drunk in Love (Gouyad Remix) (feat. Jojo Rels)",
+    "artistes": "DJ TECHNIQUE",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/908cc0ebd2a91aabab0ec7562c578ff3/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/95/SKYC.8421104465939455295.6.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/2/0/2829307fdaba93f137ea2f71bbf72431.mp3?hdnea=exp=1791821600~acl=/api/1/1/2/8/2/0/2829307fdaba93f137ea2f71bbf72431.mp3*~data=user_id=0,application_id=42~hmac=286dbff25483856f5fd157012cd00740043e2588e365576a586710f08c98f98e",
     "date": "2026-10-12",
-    "heure": 6,
-    "album": "Houdini",
+    "heure": 15,
+    "album": "Drunk in Love (Gouyad Remix) (feat. Jojo Rels)",
     "annee": 2023,
-    "start_ts": 1791786169,
-    "end_ts": 1791786351
+    "start_ts": 1791820615,
+    "end_ts": 1791820835
   },
   "derniers_morceaux": [
+    {
+      "titre": "Drunk in Love (Gouyad Remix) (feat. Jojo Rels)",
+      "artistes": "DJ TECHNIQUE",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/908cc0ebd2a91aabab0ec7562c578ff3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/95/SKYC.8421104465939455295.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/2/0/2829307fdaba93f137ea2f71bbf72431.mp3?hdnea=exp=1791821600~acl=/api/1/1/2/8/2/0/2829307fdaba93f137ea2f71bbf72431.mp3*~data=user_id=0,application_id=42~hmac=286dbff25483856f5fd157012cd00740043e2588e365576a586710f08c98f98e",
+      "date": "2026-10-12",
+      "heure": 15,
+      "album": "Drunk in Love (Gouyad Remix) (feat. Jojo Rels)",
+      "annee": 2023,
+      "start_ts": 1791820615,
+      "end_ts": 1791820835
+    },
+    {
+      "titre": "Pocahontas",
+      "artistes": "PLK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1791821601~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=313b1150e0bdfd4f9d78e7a6071f52b35fb72db093ae0007861518ebed8b46aa",
+      "date": "2026-10-12",
+      "heure": 15,
+      "album": "Grand Garçon",
+      "annee": 2026,
+      "start_ts": 1791820450,
+      "end_ts": 1791820612
+    },
+    {
+      "titre": "COACHELLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1791821602~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=db1a1ffd801236be5c1f47ed8b3280208845e8b2294679b1adc02cdca6efe091",
+      "date": "2026-10-12",
+      "heure": 15,
+      "album": "COACHELLA",
+      "annee": 2025,
+      "start_ts": 1791820327,
+      "end_ts": 1791820448
+    },
+    {
+      "titre": "melodrama",
+      "artistes": "disiz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1791821603~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=39e9b2430093dd42718417b4a45560b1d10cf607578d0b726290f1bde3e8b64c",
+      "date": "2026-10-12",
+      "heure": 15,
+      "album": "melodrama",
+      "annee": 2025,
+      "start_ts": 1791819851,
+      "end_ts": 1791820025
+    },
+    {
+      "titre": "Loser",
+      "artistes": "Apache 207",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.151.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1791821604~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=6eca4e26b4185df6b6aabaeca1b3c5ebe8dcaa0a68ec8154722f6d60b2cae4d5",
+      "date": "2026-10-12",
+      "heure": 15,
+      "album": "Loser",
+      "annee": 2024,
+      "start_ts": 1791819638,
+      "end_ts": 1791819856
+    },
+    {
+      "titre": "Allo Doudou",
+      "artistes": "Niska",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791821605~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=b7e073fbd7e014949169cce6cbc8d2c5d0a2b5003925e46341d4b4a5181ad4b6",
+      "date": "2026-10-12",
+      "heure": 15,
+      "album": "Allo Doudou",
+      "annee": 2026,
+      "start_ts": 1791819477,
+      "end_ts": 1791819644
+    },
     {
       "titre": "Houdini",
       "artistes": "Dua Lipa",
@@ -1017,84 +1095,6 @@
       "annee": 2026,
       "start_ts": 1791784247,
       "end_ts": 1791784398
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-12",
-      "heure": 5,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791783720,
-      "end_ts": 1791783868
-    },
-    {
-      "titre": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b868399da682f34dcd7d98af1c0de80b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.2090592626626782774.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3?hdnea=exp=1791787683~acl=/api/1/1/6/2/5/0/6254df268039f4200674df6d63701e33.mp3*~data=user_id=0,application_id=42~hmac=340fe6b72e29cbd72b69d74fa4d1e39bbca438fb4d247cd6188f128468adf2d1",
-      "date": "2026-10-12",
-      "heure": 5,
-      "album": "Dracula (with JENNIE)",
-      "annee": 2026,
-      "start_ts": 1791782488,
-      "end_ts": 1791782689
-    },
-    {
-      "titre": "Trop beau (Version acoustique)",
-      "artistes": "Emma Peters",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/907fd9eac567baeeb77acac429f21eb7/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.1851074005573891858.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/c/0/4fc132f698ead0ffc674e696aa025fc9.mp3?hdnea=exp=1791766745~acl=/api/1/1/4/f/c/0/4fc132f698ead0ffc674e696aa025fc9.mp3*~data=user_id=0,application_id=42~hmac=f7df5fd607016e106f80ec6a675a304d2896d372b266bc753392af4dac1b0d67",
-      "date": "2026-10-12",
-      "heure": 0,
-      "album": "Emma Peters (Remixed)",
-      "annee": 2020,
-      "start_ts": 1791765812,
-      "end_ts": 1791766047
-    },
-    {
-      "titre": "Cote à la hausse",
-      "artistes": "Bouss",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1791766746~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=3fec20398427ba0691d116399a4a01c761612a2e46a6efaa02cd68031cd5580f",
-      "date": "2026-10-12",
-      "heure": 0,
-      "album": "Et si j'échoue ??",
-      "annee": 2025,
-      "start_ts": 1791765644,
-      "end_ts": 1791765812
-    },
-    {
-      "titre": "méli-mélo",
-      "artistes": "kulturr",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0362bb54f4ec8484bd0cd7e0b23430e3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.3701107130896006141.79.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3?hdnea=exp=1791766747~acl=/api/1/1/d/7/9/0/d79d42825db0159554bfa0a74dc20f7c.mp3*~data=user_id=0,application_id=42~hmac=0de579b20bffdf97bf6fdf04ac0f5ce9bd85ffd6d807464a250a712b51340dde",
-      "date": "2026-10-12",
-      "heure": 0,
-      "album": "HOPE. : Imani",
-      "annee": 2025,
-      "start_ts": 1791765495,
-      "end_ts": 1791765644
-    },
-    {
-      "titre": "hate that i made you love me (ari lyric draft from bed)",
-      "artistes": "Ariana Grande",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1791766748~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=c8e2ad4ad19ae9f4d430e0e1ba63d4ef5d342de85722ad927100987ce1a10db7",
-      "date": "2026-10-12",
-      "heure": 0,
-      "album": "hate that i made you love me",
-      "annee": 2026,
-      "start_ts": 1791765307,
-      "end_ts": 1791765499
     }
   ]
 }
