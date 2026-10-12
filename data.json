@@ -1,27 +1,33 @@
 {
-  "genere_le": "2026-10-12T15:58:26.829195",
-  "genere_ts": 1791820706,
+  "genere_le": "2026-10-12T22:42:34.573949",
+  "genere_ts": 1791844954,
   "volume": {
-    "nb_diffusions": 387,
-    "nb_artistes": 108,
-    "nb_titres": 113,
+    "nb_diffusions": 392,
+    "nb_artistes": 109,
+    "nb_titres": 114,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-12",
-    "heures_antenne": 18.8,
-    "duree_moy_s": 174.9
+    "heures_antenne": 19.08,
+    "duree_moy_s": 175.2
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 22,
+      "nb_diffusions": 23,
       "titres_differents": 2,
-      "minutes_antenne": 64.1
+      "minutes_antenne": 66.6
     },
     {
       "artistes": "Leto",
       "nb_diffusions": 20,
       "titres_differents": 1,
       "minutes_antenne": 52.4
+    },
+    {
+      "artistes": "KAROL G",
+      "nb_diffusions": 14,
+      "titres_differents": 3,
+      "minutes_antenne": 50.8
     },
     {
       "artistes": "Aya Nakamura",
@@ -34,12 +40,6 @@
       "nb_diffusions": 18,
       "titres_differents": 1,
       "minutes_antenne": 49.8
-    },
-    {
-      "artistes": "KAROL G",
-      "nb_diffusions": 13,
-      "titres_differents": 3,
-      "minutes_antenne": 47.0
     },
     {
       "artistes": "Tame Impala",
@@ -152,16 +152,16 @@
       "minutes_antenne": 49.8
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 15,
+      "minutes_antenne": 37.8
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_diffusions": 14,
       "minutes_antenne": 37.8
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_diffusions": 14,
-      "minutes_antenne": 35.3
     },
     {
       "artistes": "Niska",
@@ -176,6 +176,12 @@
       "minutes_antenne": 43.5
     },
     {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
+      "nb_diffusions": 12,
+      "minutes_antenne": 44.6
+    },
+    {
       "artistes": "BIGBANG",
       "titre": "LOSER",
       "nb_diffusions": 11,
@@ -186,12 +192,6 @@
       "titre": "NUEVAYoL",
       "nb_diffusions": 11,
       "minutes_antenne": 33.4
-    },
-    {
-      "artistes": "KAROL G",
-      "titre": "BbY WOW",
-      "nb_diffusions": 11,
-      "minutes_antenne": 40.9
     },
     {
       "artistes": "Slimane",
@@ -341,7 +341,7 @@
     },
     {
       "heure": 22,
-      "nb_diffusions": 23
+      "nb_diffusions": 29
     },
     {
       "heure": 23,
@@ -421,8 +421,8 @@
     },
     {
       "date": "2026-10-12",
-      "nb_diffusions": 18,
-      "titres_differents": 18
+      "nb_diffusions": 24,
+      "titres_differents": 22
     }
   ],
   "semaine": [
@@ -432,7 +432,7 @@
     },
     {
       "jour": "Lundi",
-      "nb_diffusions": 48
+      "nb_diffusions": 54
     },
     {
       "jour": "Mardi",
@@ -459,8 +459,8 @@
     {
       "artistes": "Tiakola",
       "nb_jours": 13,
-      "nb_diffusions": 22,
-      "minutes": 64.1
+      "nb_diffusions": 23,
+      "minutes": 66.6
     },
     {
       "artistes": "Leto",
@@ -489,8 +489,8 @@
     {
       "artistes": "KAROL G",
       "nb_jours": 9,
-      "nb_diffusions": 13,
-      "minutes": 47.0
+      "nb_diffusions": 14,
+      "minutes": 50.8
     },
     {
       "artistes": "Bad Bunny",
@@ -565,16 +565,16 @@
       "minutes": 12.0
     },
     {
+      "artistes": "Adèle Castillon",
+      "nb_jours": 5,
+      "nb_diffusions": 5,
+      "minutes": 15.3
+    },
+    {
       "artistes": "Lil Gianni",
       "nb_jours": 5,
       "nb_diffusions": 5,
       "minutes": 12.5
-    },
-    {
-      "artistes": "The Weeknd",
-      "nb_jours": 5,
-      "nb_diffusions": 5,
-      "minutes": 18.6
     }
   ],
   "titres_recurrents": [
@@ -606,7 +606,7 @@
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 9,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "artistes": "Bad Bunny",
@@ -630,7 +630,7 @@
       "artistes": "KAROL G",
       "titre": "BbY WOW",
       "nb_jours": 8,
-      "nb_diffusions": 11
+      "nb_diffusions": 12
     },
     {
       "artistes": "Gambi",
@@ -708,12 +708,12 @@
     {
       "artistes": "KAROL G",
       "nb_titres_differents": 3,
-      "nb_diffusions": 13
+      "nb_diffusions": 14
     },
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 22
+      "nb_diffusions": 23
     },
     {
       "artistes": "Gambi",
@@ -761,7 +761,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 225
+      "nb_diffusions": 229
     },
     {
       "annee": 2025,
@@ -838,16 +838,20 @@
     {
       "annee": 2002,
       "nb_diffusions": 1
+    },
+    {
+      "annee": 1995,
+      "nb_diffusions": 1
     }
   ],
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 201
+      "nb": 205
     },
     {
       "type_contenu": "Explicit",
-      "nb": 184
+      "nb": 185
     }
   ],
   "albums": [
@@ -869,7 +873,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "album": "Grand Garçon",
@@ -894,7 +898,7 @@
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
-      "nb_diffusions": 11
+      "nb_diffusions": 12
     },
     {
       "album": "MADE",
@@ -953,19 +957,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Drunk in Love (Gouyad Remix) (feat. Jojo Rels)",
-    "artistes": "DJ TECHNIQUE",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/908cc0ebd2a91aabab0ec7562c578ff3/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/95/SKYC.8421104465939455295.6.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/2/0/2829307fdaba93f137ea2f71bbf72431.mp3?hdnea=exp=1791821600~acl=/api/1/1/2/8/2/0/2829307fdaba93f137ea2f71bbf72431.mp3*~data=user_id=0,application_id=42~hmac=286dbff25483856f5fd157012cd00740043e2588e365576a586710f08c98f98e",
+    "titre": "BIR HAKEIM",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+    "preview_mp3": null,
     "date": "2026-10-12",
-    "heure": 15,
-    "album": "Drunk in Love (Gouyad Remix) (feat. Jojo Rels)",
-    "annee": 2023,
-    "start_ts": 1791820615,
-    "end_ts": 1791820835
+    "heure": 22,
+    "album": null,
+    "annee": null,
+    "start_ts": 1791844799,
+    "end_ts": 1791845033
   },
   "derniers_morceaux": [
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-12",
+      "heure": 22,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791844799,
+      "end_ts": 1791845033
+    },
+    {
+      "titre": "Été avec toi",
+      "artistes": "Adèle Castillon",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1791845849~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=e770cca50bfec3e5a887e5ad9dfa6d495bc9591803d6497c770fc37cda3798e0",
+      "date": "2026-10-12",
+      "heure": 22,
+      "album": "Été avec toi",
+      "annee": 2026,
+      "start_ts": 1791844606,
+      "end_ts": 1791844790
+    },
+    {
+      "titre": "Mr. Know It All (House)",
+      "artistes": "Seventh",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b69a269b95828d47a16626eb05f45878/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1100245519751421784.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/1/0/e8144862add37ba0015a60e480eaab42.mp3?hdnea=exp=1791845850~acl=/api/1/1/e/8/1/0/e8144862add37ba0015a60e480eaab42.mp3*~data=user_id=0,application_id=42~hmac=ebdd2b8a27f0daf83a04fedfec82bc5710de9c7e35f451539cbfc68251081c6b",
+      "date": "2026-10-12",
+      "heure": 22,
+      "album": "Mr. Know It All (House)",
+      "annee": 2026,
+      "start_ts": 1791844411,
+      "end_ts": 1791844605
+    },
+    {
+      "titre": "BbY WOW",
+      "artistes": "KAROL G",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1791845851~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=0a03a03b60999d62943924d2d19511d2fd827a33edf512353179a2cc5df647c5",
+      "date": "2026-10-12",
+      "heure": 22,
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "annee": 2026,
+      "start_ts": 1791844028,
+      "end_ts": 1791844251
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1791845852~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=fd6119890460fbbeaac6d8ff33857d8d7e743190e819a2aff65e527dc06123d0",
+      "date": "2026-10-12",
+      "heure": 22,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1791843861,
+      "end_ts": 1791844012
+    },
+    {
+      "titre": "Gangsta's Paradise",
+      "artistes": "Coolio",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a123b2c32996a8c8664a82cb4219ce0c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.9065409504709348255.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f19df3b484b0ab61f5e2de5820ceac2.mp3?hdnea=exp=1791845853~acl=/api/1/1/3/f/1/0/3f19df3b484b0ab61f5e2de5820ceac2.mp3*~data=user_id=0,application_id=42~hmac=b3889db190f4af8163c4527c7710177b0eadcc3f265ab935b227d96d7a92d526",
+      "date": "2026-10-12",
+      "heure": 22,
+      "album": "Gangsta's Paradise",
+      "annee": 1995,
+      "start_ts": 1791843624,
+      "end_ts": 1791843864
+    },
     {
       "titre": "Drunk in Love (Gouyad Remix) (feat. Jojo Rels)",
       "artistes": "DJ TECHNIQUE",
@@ -1017,84 +1099,6 @@
       "annee": 2025,
       "start_ts": 1791819851,
       "end_ts": 1791820025
-    },
-    {
-      "titre": "Loser",
-      "artistes": "Apache 207",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.151.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1791821604~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=6eca4e26b4185df6b6aabaeca1b3c5ebe8dcaa0a68ec8154722f6d60b2cae4d5",
-      "date": "2026-10-12",
-      "heure": 15,
-      "album": "Loser",
-      "annee": 2024,
-      "start_ts": 1791819638,
-      "end_ts": 1791819856
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791821605~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=b7e073fbd7e014949169cce6cbc8d2c5d0a2b5003925e46341d4b4a5181ad4b6",
-      "date": "2026-10-12",
-      "heure": 15,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1791819477,
-      "end_ts": 1791819644
-    },
-    {
-      "titre": "Houdini",
-      "artistes": "Dua Lipa",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/12c05200e9097af48e0ad4fc259cee25/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4603440738104203446.154.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/6/7/0/367e45ecbf07a341e248b400f51fc544.mp3?hdnea=exp=1791787678~acl=/api/1/1/3/6/7/0/367e45ecbf07a341e248b400f51fc544.mp3*~data=user_id=0,application_id=42~hmac=ac9ce236299c622b2b8aaf26fb9d5abbcbe045dbcbe80f1aff4dcf254da67bd9",
-      "date": "2026-10-12",
-      "heure": 6,
-      "album": "Houdini",
-      "annee": 2023,
-      "start_ts": 1791786169,
-      "end_ts": 1791786351
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1791787679~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=3072ebfbd60cfcf4ae848cb68d9ab7e67e0ff6dda2ca8775c8986ecdff0c795a",
-      "date": "2026-10-12",
-      "heure": 6,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1791785662,
-      "end_ts": 1791785813
-    },
-    {
-      "titre": "PILE (AFRO HOUSE EDIT)",
-      "artistes": "DJ Den's",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2b854c3c85a6867c92884d5956f6e107/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/5/0/0d579267311cc3fce37769ed729c86ef.mp3?hdnea=exp=1791787680~acl=/api/1/1/0/d/5/0/0d579267311cc3fce37769ed729c86ef.mp3*~data=user_id=0,application_id=42~hmac=9c3f5d0cf478c5aa2f31d9f853a93c3afeebc789afcf7c7b7644941ec8d3f9cf",
-      "date": "2026-10-12",
-      "heure": 6,
-      "album": "PILE (AFRO HOUSE EDIT)",
-      "annee": 2026,
-      "start_ts": 1791784801,
-      "end_ts": 1791784982
-    },
-    {
-      "titre": "BBY WOW (En Vivo)",
-      "artistes": "Valentina Márquez",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b5f88c16afe034c1248de21529f7a398/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/3/0/8f340869bacc3e4a38650a75f3e324a6.mp3?hdnea=exp=1791787681~acl=/api/1/1/8/f/3/0/8f340869bacc3e4a38650a75f3e324a6.mp3*~data=user_id=0,application_id=42~hmac=93103e59d013825e6fbbe287070aeb192686d97a1d9bfb4f351c60a8bcb1a59e",
-      "date": "2026-10-12",
-      "heure": 5,
-      "album": "BBY WOW (En Vivo)",
-      "annee": 2026,
-      "start_ts": 1791784247,
-      "end_ts": 1791784398
     }
   ]
 }
