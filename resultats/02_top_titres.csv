@@ -1,20 +1,20 @@
 ﻿artistes,titre,nb_diffusions,minutes_antenne
 Leto,Pineapple,21,55.0
 Aya Nakamura,Sexy Nana,20,50.6
-Vacra,Fille à Papa,18,49.8
+Vacra,Fille à Papa,19,52.6
 Tiakola,Mélo Décalé,15,37.8
 PLK,Pocahontas,14,37.8
 Tame Impala,Dracula (with JENNIE),13,43.5
 Niska,Allo Doudou,13,36.2
+Timal,Sicario,13,30.9
 KAROL G,BbY WOW,12,44.6
 BIGBANG,LOSER,12,43.6
 Bad Bunny,NUEVAYoL,12,36.4
-Timal,Sicario,12,28.5
 Slimane,Maladie,11,34.1
 Gambi,RENÉ CAOVILLA,11,24.1
+Tiakola,La Nocturne,9,32.4
 GIMS,VIVE LA MONNAIE,9,27.1
 DJ Jordan MasterBoy,La petasse,9,21.9
-Tiakola,La Nocturne,8,28.8
 Josas,Deliciosa,8,21.6
 Ariana Grande,hate that i made you love me (ari lyric draft from bed),7,22.4
 disiz,melodrama,7,20.3
@@ -33,11 +33,12 @@ TRIANGLE DES BERMUDES,"Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",4,1
 Moji x Sboy,UBER,4,10.4
 Rusky,SEXY NANA (Radio Edit),4,10.1
 Teddy Swims,Mr. Know It All,3,9.7
+Seventh,Mr. Know It All (House),3,9.7
 Moha La Squale,Pas comme eux,3,7.3
 Jok'air,Nouméa,2,7.5
 USHER,DJ Got Us Fallin' In Love (feat. Pitbull),2,7.3
-Seventh,Mr. Know It All (House),2,6.5
 SARA’H,Reine,2,6.5
+Christophe Maé,On s'attache,2,6.3
 Stromae,L’enfer,2,6.1
 MK,Sexy Nana,2,6.0
 La Chine,Sicario,2,6.0
@@ -93,7 +94,6 @@ Werenoi,Maudit,1,3.2
 The Weeknd,Blinding Lights,1,3.2
 Sara Watkins,One Last Time,1,3.2
 KIDZ BOP Kids,hate that i made you love me,1,3.2
-Christophe Maé,On s'attache,1,3.2
 Maes,Blanche,1,3.1
 KAROL G,Si Antes Te Hubiera Conocido,1,3.1
 blink-182,Los Angeles,1,3.0
@@ -111,6 +111,7 @@ Steve Lacy,Amber,1,2.9
 L2B,Tout Pour L'équipe,1,2.9
 L2B,CYBERTESLA,1,2.9
 Jeeno,COLLABO,1,2.8
+Cheu-B,Catalina (Speed up),1,2.8
 Trinidad Cardona,Dinero,1,2.6
 TK,Coachella,1,2.6
 ROSALÍA,DESPECHÁ,1,2.6
