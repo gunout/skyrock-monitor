@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-14T10:23:11.830056",
-  "genere_ts": 1791973391,
+  "genere_le": "2026-10-14T15:14:34.745293",
+  "genere_ts": 1791990874,
   "volume": {
-    "nb_diffusions": 428,
+    "nb_diffusions": 432,
     "nb_artistes": 117,
     "nb_titres": 125,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-14",
-    "heures_antenne": 20.77,
-    "duree_moy_s": 174.7
+    "heures_antenne": 20.97,
+    "duree_moy_s": 174.8
   },
   "top_artistes": [
     {
@@ -19,9 +19,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 21,
+      "nb_diffusions": 22,
       "titres_differents": 1,
-      "minutes_antenne": 55.0
+      "minutes_antenne": 57.6
     },
     {
       "artistes": "Vacra",
@@ -54,6 +54,12 @@
       "minutes_antenne": 43.6
     },
     {
+      "artistes": "Niska",
+      "nb_diffusions": 14,
+      "titres_differents": 1,
+      "minutes_antenne": 39.0
+    },
+    {
       "artistes": "PLK",
       "nb_diffusions": 14,
       "titres_differents": 1,
@@ -64,12 +70,6 @@
       "nb_diffusions": 12,
       "titres_differents": 1,
       "minutes_antenne": 36.4
-    },
-    {
-      "artistes": "Niska",
-      "nb_diffusions": 13,
-      "titres_differents": 1,
-      "minutes_antenne": 36.2
     },
     {
       "artistes": "Gambi",
@@ -85,9 +85,9 @@
     },
     {
       "artistes": "GIMS",
-      "nb_diffusions": 10,
+      "nb_diffusions": 11,
       "titres_differents": 2,
-      "minutes_antenne": 31.0
+      "minutes_antenne": 34.0
     },
     {
       "artistes": "Timal",
@@ -136,8 +136,8 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_diffusions": 21,
-      "minutes_antenne": 55.0
+      "nb_diffusions": 22,
+      "minutes_antenne": 57.6
     },
     {
       "artistes": "Aya Nakamura",
@@ -158,16 +158,16 @@
       "minutes_antenne": 37.8
     },
     {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_diffusions": 14,
+      "minutes_antenne": 39.0
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_diffusions": 14,
       "minutes_antenne": 37.8
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_diffusions": 13,
-      "minutes_antenne": 36.2
     },
     {
       "artistes": "Tame Impala",
@@ -212,16 +212,16 @@
       "minutes_antenne": 34.1
     },
     {
+      "artistes": "GIMS",
+      "titre": "VIVE LA MONNAIE",
+      "nb_diffusions": 10,
+      "minutes_antenne": 30.0
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
       "nb_diffusions": 9,
       "minutes_antenne": 21.9
-    },
-    {
-      "artistes": "GIMS",
-      "titre": "VIVE LA MONNAIE",
-      "nb_diffusions": 9,
-      "minutes_antenne": 27.1
     },
     {
       "artistes": "Tiakola",
@@ -313,11 +313,11 @@
     },
     {
       "heure": 14,
-      "nb_diffusions": 18
+      "nb_diffusions": 19
     },
     {
       "heure": 15,
-      "nb_diffusions": 24
+      "nb_diffusions": 29
     },
     {
       "heure": 16,
@@ -435,8 +435,8 @@
     },
     {
       "date": "2026-10-14",
-      "nb_diffusions": 18,
-      "titres_differents": 16
+      "nb_diffusions": 24,
+      "titres_differents": 20
     }
   ],
   "semaine": [
@@ -454,7 +454,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 72
+      "nb_diffusions": 78
     },
     {
       "jour": "Jeudi",
@@ -478,9 +478,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_jours": 12,
-      "nb_diffusions": 21,
-      "minutes": 55.0
+      "nb_jours": 13,
+      "nb_diffusions": 22,
+      "minutes": 57.6
     },
     {
       "artistes": "Vacra",
@@ -519,16 +519,16 @@
       "minutes": 50.8
     },
     {
+      "artistes": "Niska",
+      "nb_jours": 9,
+      "nb_diffusions": 14,
+      "minutes": 39.0
+    },
+    {
       "artistes": "Aya Nakamura",
       "nb_jours": 8,
       "nb_diffusions": 20,
       "minutes": 50.6
-    },
-    {
-      "artistes": "Niska",
-      "nb_jours": 8,
-      "nb_diffusions": 13,
-      "minutes": 36.2
     },
     {
       "artistes": "Timal",
@@ -555,16 +555,16 @@
       "minutes": 22.4
     },
     {
+      "artistes": "GIMS",
+      "nb_jours": 6,
+      "nb_diffusions": 11,
+      "minutes": 34.0
+    },
+    {
       "artistes": "Slimane",
       "nb_jours": 6,
       "nb_diffusions": 11,
       "minutes": 34.1
-    },
-    {
-      "artistes": "GIMS",
-      "nb_jours": 6,
-      "nb_diffusions": 10,
-      "minutes": 31.0
     },
     {
       "artistes": "Bouss",
@@ -595,8 +595,8 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_jours": 12,
-      "nb_diffusions": 21
+      "nb_jours": 13,
+      "nb_diffusions": 22
     },
     {
       "artistes": "Vacra",
@@ -629,6 +629,12 @@
       "nb_diffusions": 15
     },
     {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_jours": 9,
+      "nb_diffusions": 14
+    },
+    {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
       "nb_jours": 9,
@@ -643,12 +649,6 @@
     {
       "artistes": "Timal",
       "titre": "Sicario",
-      "nb_jours": 8,
-      "nb_diffusions": 13
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
       "nb_jours": 8,
       "nb_diffusions": 13
     },
@@ -692,7 +692,7 @@
       "artistes": "GIMS",
       "titre": "VIVE LA MONNAIE",
       "nb_jours": 6,
-      "nb_diffusions": 9
+      "nb_diffusions": 10
     },
     {
       "artistes": "Djaksparo",
@@ -742,7 +742,7 @@
     {
       "artistes": "GIMS",
       "nb_titres_differents": 2,
-      "nb_diffusions": 10
+      "nb_diffusions": 11
     },
     {
       "artistes": "Guy2bezbar",
@@ -785,7 +785,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 251
+      "nb_diffusions": 254
     },
     {
       "annee": 2025,
@@ -809,7 +809,7 @@
     },
     {
       "annee": 2020,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     },
     {
       "annee": 2019,
@@ -875,22 +875,22 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 223
+      "nb": 225
     },
     {
       "type_contenu": "Explicit",
-      "nb": 203
+      "nb": 205
     }
   ],
   "albums": [
     {
-      "album": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 22
-    },
-    {
       "album": "Pineapple",
       "artistes": "Leto",
+      "nb_diffusions": 23
+    },
+    {
+      "album": "Sexy Nana",
+      "artistes": "Aya Nakamura",
       "nb_diffusions": 22
     },
     {
@@ -914,13 +914,13 @@
       "nb_diffusions": 14
     },
     {
-      "album": "Dracula (with JENNIE)",
-      "artistes": "Tame Impala",
-      "nb_diffusions": 13
-    },
-    {
       "album": "Allo Doudou",
       "artistes": "Niska",
+      "nb_diffusions": 14
+    },
+    {
+      "album": "Dracula (with JENNIE)",
+      "artistes": "Tame Impala",
       "nb_diffusions": 13
     },
     {
@@ -949,13 +949,13 @@
       "nb_diffusions": 11
     },
     {
-      "album": "WpointM",
-      "artistes": "Tiakola",
-      "nb_diffusions": 9
-    },
-    {
       "album": "VIVE LA MONNAIE",
       "artistes": "GIMS",
+      "nb_diffusions": 10
+    },
+    {
+      "album": "WpointM",
+      "artistes": "Tiakola",
       "nb_diffusions": 9
     },
     {
@@ -985,19 +985,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "La Nocturne",
-    "artistes": "Tiakola",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1791974285~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=b96167e2c9868adfdc7779b1b0a50f0770d5d88799f1bb5fbd880735e6ae796a",
+    "titre": "VIVE LA MONNAIE",
+    "artistes": "GIMS",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1791991768~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=04325aff7a3a6da09c4f96f206fb2743cce0eb9cbf87d561378ecb02b5954627",
     "date": "2026-10-14",
-    "heure": 10,
-    "album": "WpointM",
+    "heure": 15,
+    "album": "VIVE LA MONNAIE",
     "annee": 2026,
-    "start_ts": 1791972862,
-    "end_ts": 1791973078
+    "start_ts": 1791990839,
+    "end_ts": 1791991017
   },
   "derniers_morceaux": [
+    {
+      "titre": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1791991768~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=04325aff7a3a6da09c4f96f206fb2743cce0eb9cbf87d561378ecb02b5954627",
+      "date": "2026-10-14",
+      "heure": 15,
+      "album": "VIVE LA MONNAIE",
+      "annee": 2026,
+      "start_ts": 1791990839,
+      "end_ts": 1791991017
+    },
+    {
+      "titre": "Baraque au Bled",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/13/SKYC.252558941252410713.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-14",
+      "heure": 15,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791990655,
+      "end_ts": 1791990841
+    },
+    {
+      "titre": "Allo Doudou",
+      "artistes": "Niska",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1791991770~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=a8b1a0af1c1ef9e5bf62b419fe0f40139dffc6df1c4ce5602c705af077c4aeec",
+      "date": "2026-10-14",
+      "heure": 15,
+      "album": "Allo Doudou",
+      "annee": 2026,
+      "start_ts": 1791990496,
+      "end_ts": 1791990663
+    },
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-14",
+      "heure": 15,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791990292,
+      "end_ts": 1791990526
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791991772~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=e023da92f62aa42d839e819703e1b69bafa810083c37492ddbee10a1273bb912",
+      "date": "2026-10-14",
+      "heure": 15,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1791990137,
+      "end_ts": 1791990294
+    },
+    {
+      "titre": "Don't Stop The Music",
+      "artistes": "Ed Marquis",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4297ed52ea737de820428ac7954b3220/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.223357932381638285.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/4/0/8a4a5bf5f9f65d39c13d423a2bcf7541.mp3?hdnea=exp=1791991773~acl=/api/1/1/8/a/4/0/8a4a5bf5f9f65d39c13d423a2bcf7541.mp3*~data=user_id=0,application_id=42~hmac=a2ea72bb205a45adebc7a7f6cf2592520a0bf41dfe3da513178b4c9207921196",
+      "date": "2026-10-14",
+      "heure": 14,
+      "album": "Don't Stop The Music",
+      "annee": 2020,
+      "start_ts": 1791989858,
+      "end_ts": 1791990086
+    },
     {
       "titre": "La Nocturne",
       "artistes": "Tiakola",
@@ -1049,84 +1127,6 @@
       "annee": 2026,
       "start_ts": 1791972336,
       "end_ts": 1791972502
-    },
-    {
-      "titre": "Mr. Know It All (House)",
-      "artistes": "Seventh",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b69a269b95828d47a16626eb05f45878/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1100245519751421784.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/1/0/e8144862add37ba0015a60e480eaab42.mp3?hdnea=exp=1791974289~acl=/api/1/1/e/8/1/0/e8144862add37ba0015a60e480eaab42.mp3*~data=user_id=0,application_id=42~hmac=c930b131c0e7a41068e9bf52acf4731855a6c0d89309c7089e8719afb7f6dcf1",
-      "date": "2026-10-14",
-      "heure": 10,
-      "album": "Mr. Know It All (House)",
-      "annee": 2026,
-      "start_ts": 1791972144,
-      "end_ts": 1791972338
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1791974290~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=a5ad7c93bd0c6f476fc18a262e0091b0cbb3781b973aa815d46f9f56afda9a74",
-      "date": "2026-10-14",
-      "heure": 9,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1791971998,
-      "end_ts": 1791972142
-    },
-    {
-      "titre": "She Doesn't Mind",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4090751617577463520.6.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-14",
-      "heure": 5,
-      "album": null,
-      "annee": null,
-      "start_ts": 1791955345,
-      "end_ts": 1791955568
-    },
-    {
-      "titre": "RENÉ CAOVILLA",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1791956459~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=7201b1e5469a9014de066b49a70d1820f12f04d9237d72d9aa099d7745ff2ff2",
-      "date": "2026-10-14",
-      "heure": 5,
-      "album": "RENÉ CAOVILLA",
-      "annee": 2026,
-      "start_ts": 1791954868,
-      "end_ts": 1791955006
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1791956460~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=63b3ddd862201dc8c5f8b33d1b73e0286ea827974f8bbd984194fa884ae78fa4",
-      "date": "2026-10-14",
-      "heure": 4,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1791953879,
-      "end_ts": 1791954023
-    },
-    {
-      "titre": "Levitating (Ao Vivo)",
-      "artistes": "Grupo Versão!",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/30246883c51f6ffdd2601f76620410e8/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/73/SKYC.6200912336306550573.10.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/1/0/3b12d89abd29ed48d4216701fb452a36.mp3?hdnea=exp=1791956461~acl=/api/1/1/3/b/1/0/3b12d89abd29ed48d4216701fb452a36.mp3*~data=user_id=0,application_id=42~hmac=6c43dd5951e546fed60bb1d3a0e8e62137e8d219a730a0d884bd29c48deebc2c",
-      "date": "2026-10-14",
-      "heure": 4,
-      "album": "Levitating (Ao Vivo)",
-      "annee": 2024,
-      "start_ts": 1791953505,
-      "end_ts": 1791953705
     }
   ]
 }
