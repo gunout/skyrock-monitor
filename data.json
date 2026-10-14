@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-14T15:14:34.745293",
-  "genere_ts": 1791990874,
+  "genere_le": "2026-10-14T19:23:11.758193",
+  "genere_ts": 1792005791,
   "volume": {
-    "nb_diffusions": 432,
+    "nb_diffusions": 435,
     "nb_artistes": 117,
     "nb_titres": 125,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-14",
-    "heures_antenne": 20.97,
-    "duree_moy_s": 174.8
+    "heures_antenne": 21.1,
+    "duree_moy_s": 174.6
   },
   "top_artistes": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 19,
+      "nb_diffusions": 20,
       "titres_differents": 1,
-      "minutes_antenne": 52.6
+      "minutes_antenne": 55.3
     },
     {
       "artistes": "KAROL G",
@@ -54,16 +54,16 @@
       "minutes_antenne": 43.6
     },
     {
+      "artistes": "PLK",
+      "nb_diffusions": 15,
+      "titres_differents": 1,
+      "minutes_antenne": 40.5
+    },
+    {
       "artistes": "Niska",
       "nb_diffusions": 14,
       "titres_differents": 1,
       "minutes_antenne": 39.0
-    },
-    {
-      "artistes": "PLK",
-      "nb_diffusions": 14,
-      "titres_differents": 1,
-      "minutes_antenne": 37.8
     },
     {
       "artistes": "Bad Bunny",
@@ -148,8 +148,14 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 19,
-      "minutes_antenne": 52.6
+      "nb_diffusions": 20,
+      "minutes_antenne": 55.3
+    },
+    {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_diffusions": 15,
+      "minutes_antenne": 40.5
     },
     {
       "artistes": "Tiakola",
@@ -162,12 +168,6 @@
       "titre": "Allo Doudou",
       "nb_diffusions": 14,
       "minutes_antenne": 39.0
-    },
-    {
-      "artistes": "PLK",
-      "titre": "Pocahontas",
-      "nb_diffusions": 14,
-      "minutes_antenne": 37.8
     },
     {
       "artistes": "Tame Impala",
@@ -325,11 +325,11 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 44
+      "nb_diffusions": 48
     },
     {
       "heure": 18,
-      "nb_diffusions": 25
+      "nb_diffusions": 27
     },
     {
       "heure": 19,
@@ -435,8 +435,8 @@
     },
     {
       "date": "2026-10-14",
-      "nb_diffusions": 24,
-      "titres_differents": 20
+      "nb_diffusions": 30,
+      "titres_differents": 24
     }
   ],
   "semaine": [
@@ -454,7 +454,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 78
+      "nb_diffusions": 84
     },
     {
       "jour": "Jeudi",
@@ -483,16 +483,16 @@
       "minutes": 57.6
     },
     {
-      "artistes": "Vacra",
-      "nb_jours": 11,
-      "nb_diffusions": 19,
-      "minutes": 52.6
+      "artistes": "PLK",
+      "nb_jours": 12,
+      "nb_diffusions": 15,
+      "minutes": 40.5
     },
     {
-      "artistes": "PLK",
+      "artistes": "Vacra",
       "nb_jours": 11,
-      "nb_diffusions": 14,
-      "minutes": 37.8
+      "nb_diffusions": 20,
+      "minutes": 55.3
     },
     {
       "artistes": "Tame Impala",
@@ -599,16 +599,16 @@
       "nb_diffusions": 22
     },
     {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_jours": 12,
+      "nb_diffusions": 15
+    },
+    {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_jours": 11,
-      "nb_diffusions": 19
-    },
-    {
-      "artistes": "PLK",
-      "titre": "Pocahontas",
-      "nb_jours": 11,
-      "nb_diffusions": 14
+      "nb_diffusions": 20
     },
     {
       "artistes": "Tame Impala",
@@ -785,7 +785,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 254
+      "nb_diffusions": 257
     },
     {
       "annee": 2025,
@@ -879,7 +879,7 @@
     },
     {
       "type_contenu": "Explicit",
-      "nb": 205
+      "nb": 208
     }
   ],
   "albums": [
@@ -896,7 +896,7 @@
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 19
+      "nb_diffusions": 20
     },
     {
       "album": "Sicario",
@@ -911,7 +911,7 @@
     {
       "album": "Grand Garçon",
       "artistes": "PLK",
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "album": "Allo Doudou",
@@ -985,19 +985,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "VIVE LA MONNAIE",
-    "artistes": "GIMS",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1791991768~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=04325aff7a3a6da09c4f96f206fb2743cce0eb9cbf87d561378ecb02b5954627",
+    "titre": "Fille à Papa",
+    "artistes": "Vacra",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792006686~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=2a0ae92ad46ad4d61642c693c7988d1ad872f561982010bad8a05bb495c9ca65",
     "date": "2026-10-14",
-    "heure": 15,
-    "album": "VIVE LA MONNAIE",
+    "heure": 18,
+    "album": "Fille à Papa",
     "annee": 2026,
-    "start_ts": 1791990839,
-    "end_ts": 1791991017
+    "start_ts": 1792004360,
+    "end_ts": 1792004526
   },
   "derniers_morceaux": [
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792006686~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=2a0ae92ad46ad4d61642c693c7988d1ad872f561982010bad8a05bb495c9ca65",
+      "date": "2026-10-14",
+      "heure": 18,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1792004360,
+      "end_ts": 1792004526
+    },
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-14",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792001938,
+      "end_ts": 1792002119
+    },
+    {
+      "titre": "Belvedere",
+      "artistes": "Bello&Dallas",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c9ee3f22f0b2d8eedaf73188f176fa79/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.2521995968359080751.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/d/0/e6d7d35c2b5a003742d7885dcc946e55.mp3?hdnea=exp=1792006688~acl=/api/1/1/e/6/d/0/e6d7d35c2b5a003742d7885dcc946e55.mp3*~data=user_id=0,application_id=42~hmac=7154380d07945fdc2de9eaa01619bcbd7d177908f3a1e63b390ab3a23f589e5e",
+      "date": "2026-10-14",
+      "heure": 17,
+      "album": "Belvedere",
+      "annee": 2026,
+      "start_ts": 1792000383,
+      "end_ts": 1792000504
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-14",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792000022,
+      "end_ts": 1792000169
+    },
+    {
+      "titre": "La Nocturne",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-14",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1791999904,
+      "end_ts": 1792000025
+    },
+    {
+      "titre": "Pocahontas",
+      "artistes": "PLK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1792006690~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=b772bf03d510b6f8835b62db97a411abe6533729cc92abcd354bd2989950bbc5",
+      "date": "2026-10-14",
+      "heure": 17,
+      "album": "Grand Garçon",
+      "annee": 2026,
+      "start_ts": 1791999753,
+      "end_ts": 1791999915
+    },
     {
       "titre": "VIVE LA MONNAIE",
       "artistes": "GIMS",
@@ -1049,84 +1127,6 @@
       "annee": null,
       "start_ts": 1791990292,
       "end_ts": 1791990526
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1791991772~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=e023da92f62aa42d839e819703e1b69bafa810083c37492ddbee10a1273bb912",
-      "date": "2026-10-14",
-      "heure": 15,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1791990137,
-      "end_ts": 1791990294
-    },
-    {
-      "titre": "Don't Stop The Music",
-      "artistes": "Ed Marquis",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4297ed52ea737de820428ac7954b3220/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.223357932381638285.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/4/0/8a4a5bf5f9f65d39c13d423a2bcf7541.mp3?hdnea=exp=1791991773~acl=/api/1/1/8/a/4/0/8a4a5bf5f9f65d39c13d423a2bcf7541.mp3*~data=user_id=0,application_id=42~hmac=a2ea72bb205a45adebc7a7f6cf2592520a0bf41dfe3da513178b4c9207921196",
-      "date": "2026-10-14",
-      "heure": 14,
-      "album": "Don't Stop The Music",
-      "annee": 2020,
-      "start_ts": 1791989858,
-      "end_ts": 1791990086
-    },
-    {
-      "titre": "La Nocturne",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1791974285~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=b96167e2c9868adfdc7779b1b0a50f0770d5d88799f1bb5fbd880735e6ae796a",
-      "date": "2026-10-14",
-      "heure": 10,
-      "album": "WpointM",
-      "annee": 2026,
-      "start_ts": 1791972862,
-      "end_ts": 1791973078
-    },
-    {
-      "titre": "Catalina (Speed up)",
-      "artistes": "Cheu-B",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab406becec0863e24491ed4123be3fb0/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/90/SKYC.1594905867676280390.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/2/2/0/a22b627a10b7cf5142448443d1b8f721.mp3?hdnea=exp=1791974286~acl=/api/1/1/a/2/2/0/a22b627a10b7cf5142448443d1b8f721.mp3*~data=user_id=0,application_id=42~hmac=c4e827258dc4656be5e5f9066daa16c1995063593b39452f11b8a2b963cfe860",
-      "date": "2026-10-14",
-      "heure": 10,
-      "album": "Catalina",
-      "annee": 2025,
-      "start_ts": 1791972691,
-      "end_ts": 1791972858
-    },
-    {
-      "titre": "On s'attache",
-      "artistes": "Christophe Maé",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/72fb8d93863f9e6bef6e26d2a23698eb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1791974287~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=38673c3b2d043a6cedd06a4447bc01ab65d884607e33652d6a24e599fab94108",
-      "date": "2026-10-14",
-      "heure": 10,
-      "album": "On S'Attache (single acoustique single audio)",
-      "annee": 2007,
-      "start_ts": 1791972503,
-      "end_ts": 1791972693
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1791974288~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=4e92e300670bb3a72668aff7dc89c00898604146cee58d80aba00e88b7586d50",
-      "date": "2026-10-14",
-      "heure": 10,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1791972336,
-      "end_ts": 1791972502
     }
   ]
 }
