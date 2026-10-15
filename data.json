@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-15T14:26:34.217828",
-  "genere_ts": 1792074394,
+  "genere_le": "2026-10-15T18:26:18.702706",
+  "genere_ts": 1792088778,
   "volume": {
-    "nb_diffusions": 461,
-    "nb_artistes": 121,
-    "nb_titres": 130,
+    "nb_diffusions": 465,
+    "nb_artistes": 122,
+    "nb_titres": 131,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-15",
-    "heures_antenne": 22.37,
-    "duree_moy_s": 174.7
+    "heures_antenne": 22.55,
+    "duree_moy_s": 174.5
   },
   "top_artistes": [
     {
@@ -96,6 +96,12 @@
       "minutes_antenne": 30.9
     },
     {
+      "artistes": "Bouss",
+      "nb_diffusions": 9,
+      "titres_differents": 1,
+      "minutes_antenne": 25.2
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 10,
       "titres_differents": 1,
@@ -106,12 +112,6 @@
       "nb_diffusions": 8,
       "titres_differents": 1,
       "minutes_antenne": 23.2
-    },
-    {
-      "artistes": "Bouss",
-      "nb_diffusions": 8,
-      "titres_differents": 1,
-      "minutes_antenne": 22.4
     },
     {
       "artistes": "Ariana Grande",
@@ -232,8 +232,14 @@
     {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
+      "nb_diffusions": 9,
+      "minutes_antenne": 25.2
+    },
+    {
+      "artistes": "Djaksparo",
+      "titre": "Pangor (Swalalala)",
       "nb_diffusions": 8,
-      "minutes_antenne": 22.4
+      "minutes_antenne": 16.0
     },
     {
       "artistes": "Josas",
@@ -246,12 +252,6 @@
       "titre": "Wagyu",
       "nb_diffusions": 8,
       "minutes_antenne": 14.9
-    },
-    {
-      "artistes": "disiz",
-      "titre": "melodrama",
-      "nb_diffusions": 8,
-      "minutes_antenne": 23.2
     }
   ],
   "heures": [
@@ -325,11 +325,11 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 48
+      "nb_diffusions": 53
     },
     {
       "heure": 18,
-      "nb_diffusions": 27
+      "nb_diffusions": 28
     },
     {
       "heure": 19,
@@ -440,8 +440,8 @@
     },
     {
       "date": "2026-10-15",
-      "nb_diffusions": 24,
-      "titres_differents": 22
+      "nb_diffusions": 30,
+      "titres_differents": 28
     }
   ],
   "semaine": [
@@ -463,7 +463,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 78
+      "nb_diffusions": 84
     },
     {
       "jour": "Vendredi",
@@ -542,6 +542,12 @@
       "minutes": 30.9
     },
     {
+      "artistes": "Bouss",
+      "nb_jours": 8,
+      "nb_diffusions": 9,
+      "minutes": 25.2
+    },
+    {
       "artistes": "BIGBANG",
       "nb_jours": 7,
       "nb_diffusions": 12,
@@ -560,10 +566,10 @@
       "minutes": 37.2
     },
     {
-      "artistes": "Bouss",
+      "artistes": "Djaksparo",
       "nb_jours": 7,
       "nb_diffusions": 8,
-      "minutes": 22.4
+      "minutes": 16.0
     },
     {
       "artistes": "Josas",
@@ -588,12 +594,6 @@
       "nb_jours": 6,
       "nb_diffusions": 8,
       "minutes": 14.9
-    },
-    {
-      "artistes": "disiz",
-      "nb_jours": 6,
-      "nb_diffusions": 8,
-      "minutes": 23.2
     }
   ],
   "titres_recurrents": [
@@ -670,6 +670,12 @@
       "nb_diffusions": 13
     },
     {
+      "artistes": "Bouss",
+      "titre": "Cote à la hausse",
+      "nb_jours": 8,
+      "nb_diffusions": 9
+    },
+    {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_jours": 7,
@@ -694,8 +700,8 @@
       "nb_diffusions": 8
     },
     {
-      "artistes": "Bouss",
-      "titre": "Cote à la hausse",
+      "artistes": "Djaksparo",
+      "titre": "Pangor (Swalalala)",
       "nb_jours": 7,
       "nb_diffusions": 8
     },
@@ -710,12 +716,6 @@
       "titre": "La petasse",
       "nb_jours": 6,
       "nb_diffusions": 10
-    },
-    {
-      "artistes": "disiz",
-      "titre": "melodrama",
-      "nb_jours": 6,
-      "nb_diffusions": 8
     }
   ],
   "diversifies": [
@@ -795,11 +795,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 269
+      "nb_diffusions": 270
     },
     {
       "annee": 2025,
-      "nb_diffusions": 60
+      "nb_diffusions": 62
     },
     {
       "annee": 2024,
@@ -807,7 +807,7 @@
     },
     {
       "annee": 2023,
-      "nb_diffusions": 9
+      "nb_diffusions": 10
     },
     {
       "annee": 2022,
@@ -885,11 +885,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 237
+      "nb": 238
     },
     {
       "type_contenu": "Explicit",
-      "nb": 222
+      "nb": 225
     }
   ],
   "albums": [
@@ -974,6 +974,11 @@
       "nb_diffusions": 10
     },
     {
+      "album": "Et si j'échoue ??",
+      "artistes": "Bouss",
+      "nb_diffusions": 9
+    },
+    {
       "album": "melodrama",
       "artistes": "disiz",
       "nb_diffusions": 8
@@ -984,30 +989,103 @@
       "nb_diffusions": 8
     },
     {
-      "album": "Et si j'échoue ??",
-      "artistes": "Bouss",
-      "nb_diffusions": 8
-    },
-    {
-      "album": "Deliciosa",
-      "artistes": "Josas",
+      "album": "Pangor (Swalalala)",
+      "artistes": "Djaksparo",
       "nb_diffusions": 8
     }
   ],
   "dernier_morceau": {
-    "titre": "Maladie",
-    "artistes": "Slimane",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1792075287~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=095d2cd4a90aeef1371f14e9fc797ff4a425d38586fffc0b4d0a1f9dddf181b6",
+    "titre": "BELVÉDÈRE",
+    "artistes": "Wassim",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/79e0043ed8c189d68744fcd1bbdd2626/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.2521995968359080751.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/8/0/b688b6dc5fb04e976317ea6f5c5d1541.mp3?hdnea=exp=1792089673~acl=/api/1/1/b/6/8/0/b688b6dc5fb04e976317ea6f5c5d1541.mp3*~data=user_id=0,application_id=42~hmac=5287a07b9c74350c7ee4ac609f7835d08cd9c06d06d00014f83a3d62d79c120b",
     "date": "2026-10-15",
-    "heure": 14,
-    "album": "Chroniques d’un cupidon",
-    "annee": 2022,
-    "start_ts": 1792074209,
-    "end_ts": 1792074395
+    "heure": 18,
+    "album": "BELVÉDÈRE",
+    "annee": 2025,
+    "start_ts": 1792088353,
+    "end_ts": 1792088504
   },
   "derniers_morceaux": [
+    {
+      "titre": "BELVÉDÈRE",
+      "artistes": "Wassim",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/79e0043ed8c189d68744fcd1bbdd2626/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.2521995968359080751.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/6/8/0/b688b6dc5fb04e976317ea6f5c5d1541.mp3?hdnea=exp=1792089673~acl=/api/1/1/b/6/8/0/b688b6dc5fb04e976317ea6f5c5d1541.mp3*~data=user_id=0,application_id=42~hmac=5287a07b9c74350c7ee4ac609f7835d08cd9c06d06d00014f83a3d62d79c120b",
+      "date": "2026-10-15",
+      "heure": 18,
+      "album": "BELVÉDÈRE",
+      "annee": 2025,
+      "start_ts": 1792088353,
+      "end_ts": 1792088504
+    },
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": "Djaksparo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1792089674~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=3b5330bb5463c5d29b8fa527a1f009dd3f8a3c480443e01697fd52abb8a416f8",
+      "date": "2026-10-15",
+      "heure": 17,
+      "album": "Pangor (Swalalala)",
+      "annee": 2026,
+      "start_ts": 1792086770,
+      "end_ts": 1792086891
+    },
+    {
+      "titre": "cuenta",
+      "artistes": "paopao",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/334fb32347650bc281e40cf5278f5cea/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3?hdnea=exp=1792089675~acl=/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3*~data=user_id=0,application_id=42~hmac=e223c0c8734ee103aa31fda7789a3db47f69e38f75b215165601a17af87da91e",
+      "date": "2026-10-15",
+      "heure": 17,
+      "album": "diamante$ + espina$",
+      "annee": 2023,
+      "start_ts": 1792086330,
+      "end_ts": 1792086510
+    },
+    {
+      "titre": "Grand bain (c'est elle)",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/75/SKYC.2714611829950079075.6.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-15",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792086130,
+      "end_ts": 1792086328
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-15",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792085983,
+      "end_ts": 1792086130
+    },
+    {
+      "titre": "Cote à la hausse",
+      "artistes": "Bouss",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1792089677~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=a3989b392f2d4a2835f5239b6f9b35e5f48a75d4535887cde9ad4fff9c2fcabe",
+      "date": "2026-10-15",
+      "heure": 17,
+      "album": "Et si j'échoue ??",
+      "annee": 2025,
+      "start_ts": 1792085829,
+      "end_ts": 1792085997
+    },
     {
       "titre": "Maladie",
       "artistes": "Slimane",
@@ -1059,84 +1137,6 @@
       "annee": null,
       "start_ts": 1792073290,
       "end_ts": 1792073476
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1792075291~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=f9b369a88fd724be799494b6608ecc24ae3f24f72e3b4f98dd6ab5b3a208f60b",
-      "date": "2026-10-15",
-      "heure": 14,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1792073139,
-      "end_ts": 1792073285
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1792075292~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=057b1ca768a359af712e487dbbc154866d2494326b7c62d3c3b1055b509dfa69",
-      "date": "2026-10-15",
-      "heure": 14,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1792072974,
-      "end_ts": 1792073136
-    },
-    {
-      "titre": "Maman ne le sait pas (feat. Niska)",
-      "artistes": "Ninho",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ac0ec199892ba83b2f8969a592530a79/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/01/SKYC.3736519684965448101.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/9/7/0/4974ac7c7fbe2de554a82c0b27709286.mp3?hdnea=exp=1792058555~acl=/api/1/1/4/9/7/0/4974ac7c7fbe2de554a82c0b27709286.mp3*~data=user_id=0,application_id=42~hmac=58cd56d81c4aaaa49c41c7db08117fd8292ee80cc91778608845c48e346f2864",
-      "date": "2026-10-15",
-      "heure": 9,
-      "album": "Destin",
-      "annee": 2019,
-      "start_ts": 1792057346,
-      "end_ts": 1792057544
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-15",
-      "heure": 9,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792057115,
-      "end_ts": 1792057349
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792058557~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=62637aa60cf2885432da7b30d04dcc8ac7e8ded235fbe78e3e984c9603b37056",
-      "date": "2026-10-15",
-      "heure": 9,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1792056947,
-      "end_ts": 1792057113
-    },
-    {
-      "titre": "On s'attache",
-      "artistes": "Christophe Maé",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1792058558~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=8ff340d05cf91ed773c4085b2b7af51be9c6daa335fc4ebb0f5817255b635715",
-      "date": "2026-10-15",
-      "heure": 9,
-      "album": "Mon paradis",
-      "annee": 2007,
-      "start_ts": 1792056755,
-      "end_ts": 1792056945
     }
   ]
 }
