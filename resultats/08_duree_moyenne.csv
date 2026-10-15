@@ -1,11 +1,11 @@
 ﻿artistes,titre,nb_diffusions,duree_moy_s,duree_min_s,duree_max_s
 Ed Marquis,Don't Stop The Music,2,228.0,228,228
-Jok'air,Nouméa,2,224.0,224,224
+Jok'air,Nouméa,3,224.0,224,224
 KAROL G,BbY WOW,13,223.0,223,223
 USHER,DJ Got Us Fallin' In Love (feat. Pitbull),3,219.0,217,220
 Apache 207,Loser,4,218.0,218,218
 BIGBANG,LOSER,12,218.0,218,218
-Tiakola,La Nocturne,10,216.0,216,216
+Tiakola,La Nocturne,11,216.0,216,216
 Yuston XIII,Histoire sans fin,6,205.0,205,205
 Tame Impala,Dracula (with JENNIE),13,201.0,201,201
 SARA’H,Reine,2,195.0,195,195
@@ -14,7 +14,7 @@ Teddy Swims,Mr. Know It All,3,194.0,194,194
 Ariana Grande,hate that i made you love me (ari lyric draft from bed),7,192.0,192,192
 TRIANGLE DES BERMUDES,"Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",4,191.0,191,191
 Christophe Maé,On s'attache,3,190.0,190,190
-Slimane,Maladie,12,186.0,186,186
+Slimane,Maladie,13,186.0,186,186
 Adèle Castillon,Été avec toi,6,184.0,184,184
 Stromae,L’enfer,2,184.0,184,184
 Bad Bunny,NUEVAYoL,14,182.0,181,183
@@ -32,7 +32,7 @@ Josas,Deliciosa,8,162.0,162,162
 PLK,Pocahontas,16,162.0,162,162
 Leto,Pineapple,24,157.0,157,158
 Cinco,UBER,2,156.0,156,156
-Moji x Sboy,UBER,4,156.0,156,156
+Moji x Sboy,UBER,5,156.0,156,156
 Rusky,SEXY NANA (Radio Edit),4,152.0,152,152
 Aya Nakamura,Sexy Nana,20,151.9,151,152
 Tiakola,Mélo Décalé,16,151.4,151,153
@@ -50,4 +50,4 @@ Gambi,RENÉ CAOVILLA,12,131.6,131,138
 Bello&Dallas,Belvedere,3,121.0,121,121
 Gambi,COACHELLA,5,121.0,121,121
 Djaksparo,Pangor (Swalalala),8,120.0,119,121
-Mauvais djo,Wagyu,8,112.0,112,112
+Mauvais djo,Wagyu,9,112.0,112,112
