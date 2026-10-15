@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-14T22:23:49.565606",
-  "genere_ts": 1792016629,
+  "genere_le": "2026-10-15T00:37:24.405223",
+  "genere_ts": 1792024644,
   "volume": {
-    "nb_diffusions": 440,
-    "nb_artistes": 119,
-    "nb_titres": 127,
+    "nb_diffusions": 446,
+    "nb_artistes": 120,
+    "nb_titres": 128,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-14",
-    "heures_antenne": 21.34,
-    "duree_moy_s": 174.6
+    "derniere_date": "2026-10-15",
+    "heures_antenne": 21.64,
+    "duree_moy_s": 174.7
   },
   "top_artistes": [
     {
@@ -18,16 +18,16 @@
       "minutes_antenne": 70.2
     },
     {
+      "artistes": "Vacra",
+      "nb_diffusions": 21,
+      "titres_differents": 1,
+      "minutes_antenne": 58.1
+    },
+    {
       "artistes": "Leto",
       "nb_diffusions": 22,
       "titres_differents": 1,
       "minutes_antenne": 57.6
-    },
-    {
-      "artistes": "Vacra",
-      "nb_diffusions": 20,
-      "titres_differents": 1,
-      "minutes_antenne": 55.3
     },
     {
       "artistes": "KAROL G",
@@ -72,6 +72,12 @@
       "minutes_antenne": 39.0
     },
     {
+      "artistes": "GIMS",
+      "nb_diffusions": 12,
+      "titres_differents": 2,
+      "minutes_antenne": 36.9
+    },
+    {
       "artistes": "Gambi",
       "nb_diffusions": 16,
       "titres_differents": 2,
@@ -82,12 +88,6 @@
       "nb_diffusions": 11,
       "titres_differents": 1,
       "minutes_antenne": 34.1
-    },
-    {
-      "artistes": "GIMS",
-      "nb_diffusions": 11,
-      "titres_differents": 2,
-      "minutes_antenne": 34.0
     },
     {
       "artistes": "Timal",
@@ -140,16 +140,16 @@
       "minutes_antenne": 57.6
     },
     {
+      "artistes": "Vacra",
+      "titre": "Fille à Papa",
+      "nb_diffusions": 21,
+      "minutes_antenne": 58.1
+    },
+    {
       "artistes": "Aya Nakamura",
       "titre": "Sexy Nana",
       "nb_diffusions": 20,
       "minutes_antenne": 50.6
-    },
-    {
-      "artistes": "Vacra",
-      "titre": "Fille à Papa",
-      "nb_diffusions": 20,
-      "minutes_antenne": 55.3
     },
     {
       "artistes": "PLK",
@@ -200,6 +200,12 @@
       "minutes_antenne": 44.6
     },
     {
+      "artistes": "GIMS",
+      "titre": "VIVE LA MONNAIE",
+      "nb_diffusions": 11,
+      "minutes_antenne": 33.0
+    },
+    {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
       "nb_diffusions": 11,
@@ -210,12 +216,6 @@
       "titre": "Maladie",
       "nb_diffusions": 11,
       "minutes_antenne": 34.1
-    },
-    {
-      "artistes": "GIMS",
-      "titre": "VIVE LA MONNAIE",
-      "nb_diffusions": 10,
-      "minutes_antenne": 30.0
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -257,7 +257,7 @@
   "heures": [
     {
       "heure": 0,
-      "nb_diffusions": 42
+      "nb_diffusions": 48
     },
     {
       "heure": 1,
@@ -437,6 +437,11 @@
       "date": "2026-10-14",
       "nb_diffusions": 36,
       "titres_differents": 28
+    },
+    {
+      "date": "2026-10-15",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -458,7 +463,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 54
+      "nb_diffusions": 60
     },
     {
       "jour": "Vendredi",
@@ -483,16 +488,16 @@
       "minutes": 57.6
     },
     {
+      "artistes": "Vacra",
+      "nb_jours": 12,
+      "nb_diffusions": 21,
+      "minutes": 58.1
+    },
+    {
       "artistes": "PLK",
       "nb_jours": 12,
       "nb_diffusions": 15,
       "minutes": 40.5
-    },
-    {
-      "artistes": "Vacra",
-      "nb_jours": 11,
-      "nb_diffusions": 20,
-      "minutes": 55.3
     },
     {
       "artistes": "Tame Impala",
@@ -543,6 +548,12 @@
       "minutes": 43.6
     },
     {
+      "artistes": "GIMS",
+      "nb_jours": 7,
+      "nb_diffusions": 12,
+      "minutes": 36.9
+    },
+    {
       "artistes": "Bouss",
       "nb_jours": 7,
       "nb_diffusions": 8,
@@ -559,12 +570,6 @@
       "nb_jours": 7,
       "nb_diffusions": 7,
       "minutes": 22.4
-    },
-    {
-      "artistes": "GIMS",
-      "nb_jours": 6,
-      "nb_diffusions": 11,
-      "minutes": 34.0
     },
     {
       "artistes": "Slimane",
@@ -585,10 +590,10 @@
       "minutes": 17.5
     },
     {
-      "artistes": "The Weeknd",
+      "artistes": "Adèle Castillon",
       "nb_jours": 6,
       "nb_diffusions": 6,
-      "minutes": 22.3
+      "minutes": 18.4
     }
   ],
   "titres_recurrents": [
@@ -599,16 +604,16 @@
       "nb_diffusions": 22
     },
     {
+      "artistes": "Vacra",
+      "titre": "Fille à Papa",
+      "nb_jours": 12,
+      "nb_diffusions": 21
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_jours": 12,
       "nb_diffusions": 15
-    },
-    {
-      "artistes": "Vacra",
-      "titre": "Fille à Papa",
-      "nb_jours": 11,
-      "nb_diffusions": 20
     },
     {
       "artistes": "Bad Bunny",
@@ -671,6 +676,12 @@
       "nb_diffusions": 12
     },
     {
+      "artistes": "GIMS",
+      "titre": "VIVE LA MONNAIE",
+      "nb_jours": 7,
+      "nb_diffusions": 11
+    },
+    {
       "artistes": "Josas",
       "titre": "Deliciosa",
       "nb_jours": 7,
@@ -693,12 +704,6 @@
       "titre": "Maladie",
       "nb_jours": 6,
       "nb_diffusions": 11
-    },
-    {
-      "artistes": "GIMS",
-      "titre": "VIVE LA MONNAIE",
-      "nb_jours": 6,
-      "nb_diffusions": 10
     },
     {
       "artistes": "Lil Gianni",
@@ -742,7 +747,7 @@
     {
       "artistes": "GIMS",
       "nb_titres_differents": 2,
-      "nb_diffusions": 11
+      "nb_diffusions": 12
     },
     {
       "artistes": "Guy2bezbar",
@@ -785,7 +790,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 257
+      "nb_diffusions": 262
     },
     {
       "annee": 2025,
@@ -845,7 +850,7 @@
     },
     {
       "annee": 2009,
-      "nb_diffusions": 3
+      "nb_diffusions": 4
     },
     {
       "annee": 2008,
@@ -875,11 +880,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 226
+      "nb": 230
     },
     {
       "type_contenu": "Explicit",
-      "nb": 212
+      "nb": 214
     }
   ],
   "albums": [
@@ -896,7 +901,7 @@
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 20
+      "nb_diffusions": 21
     },
     {
       "album": "Sicario",
@@ -939,6 +944,11 @@
       "nb_diffusions": 12
     },
     {
+      "album": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "nb_diffusions": 11
+    },
+    {
       "album": "RENÉ CAOVILLA",
       "artistes": "Gambi",
       "nb_diffusions": 11
@@ -947,11 +957,6 @@
       "album": "Chroniques d’un cupidon",
       "artistes": "Slimane",
       "nb_diffusions": 11
-    },
-    {
-      "album": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "nb_diffusions": 10
     },
     {
       "album": "WpointM",
@@ -985,19 +990,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Cote à la hausse",
-    "artistes": "Bouss",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1792017524~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=6684731e8f975aa2e19434247a7662bd0d8c94bf84355f3a73c0b42e4230392f",
-    "date": "2026-10-14",
-    "heure": 22,
-    "album": "Et si j'échoue ??",
-    "annee": 2025,
-    "start_ts": 1792016552,
-    "end_ts": 1792016720
+    "titre": "Été avec toi",
+    "artistes": "Adèle Castillon",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1792025536~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=09616f1e6b73dd057de414978d8565350884163329d9c8c5c43cf263a84a24b5",
+    "date": "2026-10-15",
+    "heure": 0,
+    "album": "Été avec toi",
+    "annee": 2026,
+    "start_ts": 1792024543,
+    "end_ts": 1792024727
   },
   "derniers_morceaux": [
+    {
+      "titre": "Été avec toi",
+      "artistes": "Adèle Castillon",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1792025536~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=09616f1e6b73dd057de414978d8565350884163329d9c8c5c43cf263a84a24b5",
+      "date": "2026-10-15",
+      "heure": 0,
+      "album": "Été avec toi",
+      "annee": 2026,
+      "start_ts": 1792024543,
+      "end_ts": 1792024727
+    },
+    {
+      "titre": "Mr. Know It All (House)",
+      "artistes": "Seventh",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b69a269b95828d47a16626eb05f45878/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1100245519751421784.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/1/0/e8144862add37ba0015a60e480eaab42.mp3?hdnea=exp=1792025537~acl=/api/1/1/e/8/1/0/e8144862add37ba0015a60e480eaab42.mp3*~data=user_id=0,application_id=42~hmac=647c0d360a29ac5fde02e859eae00d6df7bf870dea63480e248b7c0d0c264b39",
+      "date": "2026-10-15",
+      "heure": 0,
+      "album": "Mr. Know It All (House)",
+      "annee": 2026,
+      "start_ts": 1792024351,
+      "end_ts": 1792024545
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792025538~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=06f0438fedc58b3608a5e504579fb7aa73606920bfb7ff07b81f83094dd6e63b",
+      "date": "2026-10-15",
+      "heure": 0,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1792024186,
+      "end_ts": 1792024352
+    },
+    {
+      "titre": "Cuenta (feat. Meryl & Shay)",
+      "artistes": "Ronisia",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1792025539~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=45fb974daa6ee865acba31e74614a0bb49942aebfa0da81225bff39831ef96c3",
+      "date": "2026-10-15",
+      "heure": 0,
+      "album": "Cuenta (feat. Meryl & Shay)",
+      "annee": 2026,
+      "start_ts": 1792024005,
+      "end_ts": 1792024185
+    },
+    {
+      "titre": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1792025540~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=d0ee8e25b1233b47cfa43a407e097cf40bf33e11e3810e11441174bdbeb68567",
+      "date": "2026-10-15",
+      "heure": 0,
+      "album": "VIVE LA MONNAIE",
+      "annee": 2026,
+      "start_ts": 1792023792,
+      "end_ts": 1792023970
+    },
+    {
+      "titre": "Single Ladies (Put a Ring on It)",
+      "artistes": "Audiogroove",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4eb11426f9491490e4c8874fecd76611/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/35/SKYC.1723708895521243135.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/1/0/48121b2ccd7935e7372075ad9dc9cce9.mp3?hdnea=exp=1792025542~acl=/api/1/1/4/8/1/0/48121b2ccd7935e7372075ad9dc9cce9.mp3*~data=user_id=0,application_id=42~hmac=5e135123d7e65a8cb29dd1bc38f54aa970683b63af25ae385755cdc5e506db02",
+      "date": "2026-10-15",
+      "heure": 0,
+      "album": "100% Smash Hits 2009",
+      "annee": 2009,
+      "start_ts": 1792023603,
+      "end_ts": 1792023792
+    },
     {
       "titre": "Cote à la hausse",
       "artistes": "Bouss",
@@ -1049,84 +1132,6 @@
       "annee": 2024,
       "start_ts": 1792016024,
       "end_ts": 1792016191
-    },
-    {
-      "titre": "NUEVAYoL",
-      "artistes": "Bad Bunny",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1792017527~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=0c5856d62c648f2fd0dc46d7801fc44034803bcac5e80b7b9b80f3ed6a19ab2c",
-      "date": "2026-10-14",
-      "heure": 22,
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "annee": 2025,
-      "start_ts": 1792015809,
-      "end_ts": 1792015991
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-14",
-      "heure": 21,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792014613,
-      "end_ts": 1792014794
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792006686~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=2a0ae92ad46ad4d61642c693c7988d1ad872f561982010bad8a05bb495c9ca65",
-      "date": "2026-10-14",
-      "heure": 18,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1792004360,
-      "end_ts": 1792004526
-    },
-    {
-      "titre": "Pangor (Swalalala)",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-14",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792001938,
-      "end_ts": 1792002119
-    },
-    {
-      "titre": "Belvedere",
-      "artistes": "Bello&Dallas",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c9ee3f22f0b2d8eedaf73188f176fa79/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.2521995968359080751.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/d/0/e6d7d35c2b5a003742d7885dcc946e55.mp3?hdnea=exp=1792006688~acl=/api/1/1/e/6/d/0/e6d7d35c2b5a003742d7885dcc946e55.mp3*~data=user_id=0,application_id=42~hmac=7154380d07945fdc2de9eaa01619bcbd7d177908f3a1e63b390ab3a23f589e5e",
-      "date": "2026-10-14",
-      "heure": 17,
-      "album": "Belvedere",
-      "annee": 2026,
-      "start_ts": 1792000383,
-      "end_ts": 1792000504
-    },
-    {
-      "titre": "Pilé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-14",
-      "heure": 17,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792000022,
-      "end_ts": 1792000169
     }
   ]
 }
