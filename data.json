@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-16T15:29:44.297913",
-  "genere_ts": 1792164584,
+  "genere_le": "2026-10-16T18:54:43.406030",
+  "genere_ts": 1792176883,
   "volume": {
-    "nb_diffusions": 497,
-    "nb_artistes": 124,
-    "nb_titres": 132,
+    "nb_diffusions": 502,
+    "nb_artistes": 125,
+    "nb_titres": 133,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-16",
-    "heures_antenne": 24.17,
+    "heures_antenne": 24.42,
     "duree_moy_s": 175.1
   },
   "top_artistes": [
@@ -24,16 +24,16 @@
       "minutes_antenne": 65.4
     },
     {
+      "artistes": "KAROL G",
+      "nb_diffusions": 17,
+      "titres_differents": 3,
+      "minutes_antenne": 61.9
+    },
+    {
       "artistes": "Vacra",
       "nb_diffusions": 22,
       "titres_differents": 1,
       "minutes_antenne": 60.9
-    },
-    {
-      "artistes": "KAROL G",
-      "nb_diffusions": 16,
-      "titres_differents": 3,
-      "minutes_antenne": 58.2
     },
     {
       "artistes": "Aya Nakamura",
@@ -164,16 +164,16 @@
       "minutes_antenne": 43.2
     },
     {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
+      "nb_diffusions": 15,
+      "minutes_antenne": 55.8
+    },
+    {
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
       "nb_diffusions": 14,
       "minutes_antenne": 42.5
-    },
-    {
-      "artistes": "KAROL G",
-      "titre": "BbY WOW",
-      "nb_diffusions": 14,
-      "minutes_antenne": 52.0
     },
     {
       "artistes": "Niska",
@@ -325,11 +325,11 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 53
+      "nb_diffusions": 58
     },
     {
       "heure": 18,
-      "nb_diffusions": 29
+      "nb_diffusions": 30
     },
     {
       "heure": 19,
@@ -445,8 +445,8 @@
     },
     {
       "date": "2026-10-16",
-      "nb_diffusions": 24,
-      "titres_differents": 21
+      "nb_diffusions": 30,
+      "titres_differents": 26
     }
   ],
   "semaine": [
@@ -472,7 +472,7 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 78
+      "nb_diffusions": 84
     },
     {
       "jour": "Samedi",
@@ -525,8 +525,8 @@
     {
       "artistes": "KAROL G",
       "nb_jours": 11,
-      "nb_diffusions": 16,
-      "minutes": 58.2
+      "nb_diffusions": 17,
+      "minutes": 61.9
     },
     {
       "artistes": "Niska",
@@ -583,6 +583,12 @@
       "minutes": 21.6
     },
     {
+      "artistes": "Lil Gianni",
+      "nb_jours": 7,
+      "nb_diffusions": 8,
+      "minutes": 20.0
+    },
+    {
       "artistes": "Adèle Castillon",
       "nb_jours": 7,
       "nb_diffusions": 7,
@@ -593,12 +599,6 @@
       "nb_jours": 7,
       "nb_diffusions": 7,
       "minutes": 22.4
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_jours": 6,
-      "nb_diffusions": 10,
-      "minutes": 24.3
     }
   ],
   "titres_recurrents": [
@@ -642,7 +642,7 @@
       "artistes": "KAROL G",
       "titre": "BbY WOW",
       "nb_jours": 10,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "artistes": "Tiakola",
@@ -699,6 +699,12 @@
       "nb_diffusions": 12
     },
     {
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "nb_jours": 7,
+      "nb_diffusions": 8
+    },
+    {
       "artistes": "Josas",
       "titre": "Deliciosa",
       "nb_jours": 7,
@@ -715,12 +721,6 @@
       "titre": "hate that i made you love me (ari lyric draft from bed)",
       "nb_jours": 7,
       "nb_diffusions": 7
-    },
-    {
-      "artistes": "Adèle Castillon",
-      "titre": "Été avec toi",
-      "nb_jours": 7,
-      "nb_diffusions": 7
     }
   ],
   "diversifies": [
@@ -732,7 +732,7 @@
     {
       "artistes": "KAROL G",
       "nb_titres_differents": 3,
-      "nb_diffusions": 16
+      "nb_diffusions": 17
     },
     {
       "artistes": "Tiakola",
@@ -800,11 +800,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 291
+      "nb_diffusions": 292
     },
     {
       "annee": 2025,
-      "nb_diffusions": 64
+      "nb_diffusions": 65
     },
     {
       "annee": 2024,
@@ -812,11 +812,11 @@
     },
     {
       "annee": 2023,
-      "nb_diffusions": 10
+      "nb_diffusions": 11
     },
     {
       "annee": 2022,
-      "nb_diffusions": 36
+      "nb_diffusions": 37
     },
     {
       "annee": 2021,
@@ -880,7 +880,7 @@
     },
     {
       "annee": 1999,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "annee": 1995,
@@ -890,11 +890,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 258
+      "nb": 260
     },
     {
       "type_contenu": "Explicit",
-      "nb": 237
+      "nb": 240
     }
   ],
   "albums": [
@@ -931,7 +931,7 @@
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "album": "Dracula (with JENNIE)",
@@ -1000,19 +1000,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "La Nocturne",
-    "artistes": "Tiakola",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1792165478~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=e3d87daac4d2adb13388b72c6cea4c06d41dbfcb417e460c5374b296204c020c",
+    "titre": "Pangor (Swalalala)",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+    "preview_mp3": null,
     "date": "2026-10-16",
-    "heure": 15,
-    "album": "WpointM",
-    "annee": 2026,
-    "start_ts": 1792164566,
-    "end_ts": 1792164782
+    "heure": 18,
+    "album": null,
+    "annee": null,
+    "start_ts": 1792174703,
+    "end_ts": 1792174854
   },
   "derniers_morceaux": [
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-16",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792174703,
+      "end_ts": 1792174854
+    },
+    {
+      "titre": "Degun",
+      "artistes": "Massilia Sound System",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6e22871d769e15df376896de4c7df07f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3?hdnea=exp=1792177778~acl=/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3*~data=user_id=0,application_id=42~hmac=d1848751ec2cac2eda87354decd6fd988a75a9f56c68a09d938c72c2c779b7ec",
+      "date": "2026-10-16",
+      "heure": 17,
+      "album": "Marseille London Experience",
+      "annee": 1999,
+      "start_ts": 1792173211,
+      "end_ts": 1792173362
+    },
+    {
+      "titre": "Nostalgique",
+      "artistes": "Jul",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/904e841342fafe840d43299909264397/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/26/SKYC.4932618283569467726.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/2/0/a62ce7a44b1bf9f55e9a279eccb48ca6.mp3?hdnea=exp=1792177779~acl=/api/1/1/a/6/2/0/a62ce7a44b1bf9f55e9a279eccb48ca6.mp3*~data=user_id=0,application_id=42~hmac=9607b3aaae67f171e2daba20dcb0d09d301f5c2ad66df512fef1c36fb16f1ed8",
+      "date": "2026-10-16",
+      "heure": 17,
+      "album": "Nostalgique",
+      "annee": 2025,
+      "start_ts": 1792172742,
+      "end_ts": 1792172944
+    },
+    {
+      "titre": "cuenta",
+      "artistes": "paopao",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/334fb32347650bc281e40cf5278f5cea/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3?hdnea=exp=1792177780~acl=/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3*~data=user_id=0,application_id=42~hmac=a5faa2fa950b7c07b99bc105e1869a064640b95dab9699462c97e70620b646d9",
+      "date": "2026-10-16",
+      "heure": 17,
+      "album": "diamante$ + espina$",
+      "annee": 2023,
+      "start_ts": 1792172565,
+      "end_ts": 1792172745
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1792177781~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=0c8142d80a704dbae788dca866e291ca04b78eef92576e866773bb1e0b93ee10",
+      "date": "2026-10-16",
+      "heure": 17,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1792172414,
+      "end_ts": 1792172564
+    },
+    {
+      "titre": "BbY WOW",
+      "artistes": "KAROL G",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1792177782~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=9e909fcb418f8b5e27099cd34f5d593afa63323623304df1a881d074614dadd0",
+      "date": "2026-10-16",
+      "heure": 17,
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "annee": 2026,
+      "start_ts": 1792172195,
+      "end_ts": 1792172418
+    },
     {
       "titre": "La Nocturne",
       "artistes": "Tiakola",
@@ -1064,84 +1142,6 @@
       "annee": 2018,
       "start_ts": 1792163441,
       "end_ts": 1792163727
-    },
-    {
-      "titre": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792165482~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=094dc09682239a648cc17a0bd5d456253708f92bb89c47513f1d273110c47983",
-      "date": "2026-10-16",
-      "heure": 15,
-      "album": "SEXY NANA (Radio Edit)",
-      "annee": 2026,
-      "start_ts": 1792163287,
-      "end_ts": 1792163439
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-16",
-      "heure": 15,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792163082,
-      "end_ts": 1792163316
-    },
-    {
-      "titre": "BRACELET",
-      "artistes": "ASHE 22",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e5b5dd3f343248bc46244b754ec59f4c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.5787994376877845642.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3?hdnea=exp=1792151447~acl=/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3*~data=user_id=0,application_id=42~hmac=d01ce4e3effb3a4e7bf7ee635b22747a8d9d3540827707d13e3912360aeb92f3",
-      "date": "2026-10-16",
-      "heure": 11,
-      "album": "MOVIE TAPE",
-      "annee": 2024,
-      "start_ts": 1792150487,
-      "end_ts": 1792150654
-    },
-    {
-      "titre": "BbY WOW",
-      "artistes": "KAROL G",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1792151448~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=451107310d092010f782537c7c97b742190f5987988c10feff1aacdee8ab2a1b",
-      "date": "2026-10-16",
-      "heure": 11,
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "annee": 2026,
-      "start_ts": 1792150265,
-      "end_ts": 1792150488
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1792151449~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=6f955501746f02f489ed98e1b5ab2a569f9c2a57a2e08b980d3528f9c6724a5c",
-      "date": "2026-10-16",
-      "heure": 11,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1792150113,
-      "end_ts": 1792150264
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792151451~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=f4f228da91f6719fdb7df1fd272996a014849f87ad4cf458265c239e1eeff153",
-      "date": "2026-10-16",
-      "heure": 11,
-      "album": "Nouméa",
-      "annee": 2026,
-      "start_ts": 1792149892,
-      "end_ts": 1792150116
     }
   ]
 }

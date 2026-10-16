@@ -1,8 +1,8 @@
 ﻿artistes,nb_diffusions,titres_differents,minutes_antenne
 Tiakola,29,2,86.1
 Leto,25,1,65.4
+KAROL G,17,3,61.9
 Vacra,22,1,60.9
-KAROL G,16,3,58.2
 Aya Nakamura,20,1,50.6
 Tame Impala,15,2,50.3
 BIGBANG,12,1,43.6
@@ -23,8 +23,8 @@ Josas,8,1,21.6
 Adèle Castillon,7,1,21.5
 Yuston XIII,6,1,20.5
 Rusky,8,1,20.3
+Lil Gianni,8,1,20.0
 Apache 207,5,1,18.2
-Lil Gianni,7,1,17.5
 Mauvais djo,9,1,16.8
 Seventh,5,1,16.2
 Djaksparo,8,1,16.0
@@ -48,11 +48,13 @@ Bello&Dallas,3,1,6.0
 La Chine,2,1,6.0
 MK,2,1,6.0
 Ronisia,2,1,6.0
+paopao,2,1,6.0
 ASHE 22,2,1,5.6
 Cinco,2,1,5.2
 ROSALÍA,2,1,5.1
 Doc Gynéco,1,1,5.1
 Justin Timberlake,1,1,5.1
+Massilia Sound System,2,1,5.0
 Wassim,2,1,5.0
 abel31,2,1,5.0
 MD DJ,1,1,4.8
@@ -85,6 +87,7 @@ Fame on Fire,1,1,3.5
 Milky,1,1,3.5
 fwd/slash,1,1,3.5
 millkzy,1,1,3.5
+Jul,1,1,3.4
 Lokash,1,1,3.4
 Grupo Versão!,1,1,3.3
 Heaven is Shining,1,1,3.3
@@ -103,7 +106,6 @@ Manzala,1,1,3.0
 Silentó,1,1,3.0
 Yovo,1,1,3.0
 blink-182,1,1,3.0
-paopao,1,1,3.0
 Steve Lacy,1,1,2.9
 Cheu-B,1,1,2.8
 Jeeno,1,1,2.8
@@ -112,7 +114,6 @@ TK,1,1,2.6
 Trinidad Cardona,1,1,2.6
 Bikini Bandits,1,1,2.5
 Guille Toledano,1,1,2.5
-Massilia Sound System,1,1,2.5
 Paul Edwards,1,1,2.5
 "TK, Gims",1,1,2.5
 Valentina Márquez,1,1,2.5
