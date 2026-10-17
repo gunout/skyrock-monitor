@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-17T21:02:49.995345",
-  "genere_ts": 1792270969,
+  "genere_le": "2026-10-17T22:59:39.237266",
+  "genere_ts": 1792277979,
   "volume": {
-    "nb_diffusions": 543,
-    "nb_artistes": 131,
-    "nb_titres": 140,
+    "nb_diffusions": 548,
+    "nb_artistes": 133,
+    "nb_titres": 142,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-17",
-    "heures_antenne": 26.38,
-    "duree_moy_s": 174.9
+    "heures_antenne": 26.64,
+    "duree_moy_s": 175.0
   },
   "top_artistes": [
     {
@@ -103,9 +103,15 @@
     },
     {
       "artistes": "Jok'air",
-      "nb_diffusions": 8,
+      "nb_diffusions": 9,
       "titres_differents": 2,
-      "minutes_antenne": 27.7
+      "minutes_antenne": 31.4
+    },
+    {
+      "artistes": "Yuston XIII",
+      "nb_diffusions": 8,
+      "titres_differents": 1,
+      "minutes_antenne": 27.3
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -124,12 +130,6 @@
       "nb_diffusions": 10,
       "titres_differents": 1,
       "minutes_antenne": 25.3
-    },
-    {
-      "artistes": "Yuston XIII",
-      "nb_diffusions": 7,
-      "titres_differents": 1,
-      "minutes_antenne": 23.9
     }
   ],
   "top_titres": [
@@ -345,7 +345,7 @@
     },
     {
       "heure": 22,
-      "nb_diffusions": 34
+      "nb_diffusions": 40
     },
     {
       "heure": 23,
@@ -450,8 +450,8 @@
     },
     {
       "date": "2026-10-17",
-      "nb_diffusions": 42,
-      "titres_differents": 31
+      "nb_diffusions": 48,
+      "titres_differents": 34
     }
   ],
   "semaine": [
@@ -481,7 +481,7 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 108
+      "nb_diffusions": 114
     }
   ],
   "recurrents": [
@@ -762,7 +762,7 @@
     {
       "artistes": "Jok'air",
       "nb_titres_differents": 2,
-      "nb_diffusions": 8
+      "nb_diffusions": 9
     },
     {
       "artistes": "Guy2bezbar",
@@ -810,7 +810,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 310
+      "nb_diffusions": 313
     },
     {
       "annee": 2025,
@@ -838,7 +838,7 @@
     },
     {
       "annee": 2019,
-      "nb_diffusions": 8
+      "nb_diffusions": 10
     },
     {
       "annee": 2018,
@@ -900,11 +900,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 279
+      "nb": 282
     },
     {
       "type_contenu": "Explicit",
-      "nb": 262
+      "nb": 264
     }
   ],
   "albums": [
@@ -1010,19 +1010,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Pangor (Swalalala)",
-    "artistes": null,
-    "cover_deezer": null,
-    "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-    "preview_mp3": null,
+    "titre": "Khapta",
+    "artistes": "Heuss L'enfoiré",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d9e47971109dd5f578a004e7d7d5a9d4/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.4064485210999453429.6.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/7/0/4f7710d65b9dd28da9c61d5952f9c460.mp3?hdnea=exp=1792278873~acl=/api/1/1/4/f/7/0/4f7710d65b9dd28da9c61d5952f9c460.mp3*~data=user_id=0,application_id=42~hmac=414667ce1bec7fd35d59e88f500dbddd97c4c85b539102ae088744792bc09c55",
     "date": "2026-10-17",
-    "heure": 20,
-    "album": null,
-    "annee": null,
-    "start_ts": 1792269956,
-    "end_ts": 1792270108
+    "heure": 22,
+    "album": "En esprit",
+    "annee": 2019,
+    "start_ts": 1792277944,
+    "end_ts": 1792278099
   },
   "derniers_morceaux": [
+    {
+      "titre": "Khapta",
+      "artistes": "Heuss L'enfoiré",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d9e47971109dd5f578a004e7d7d5a9d4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.4064485210999453429.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/7/0/4f7710d65b9dd28da9c61d5952f9c460.mp3?hdnea=exp=1792278873~acl=/api/1/1/4/f/7/0/4f7710d65b9dd28da9c61d5952f9c460.mp3*~data=user_id=0,application_id=42~hmac=414667ce1bec7fd35d59e88f500dbddd97c4c85b539102ae088744792bc09c55",
+      "date": "2026-10-17",
+      "heure": 22,
+      "album": "En esprit",
+      "annee": 2019,
+      "start_ts": 1792277944,
+      "end_ts": 1792278099
+    },
+    {
+      "titre": "Coachella",
+      "artistes": "TK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2ef6582bc94da775e6161bffd453f642/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/f/0/20f57670cde4235a9db614840c5edb4b.mp3?hdnea=exp=1792278874~acl=/api/1/1/2/0/f/0/20f57670cde4235a9db614840c5edb4b.mp3*~data=user_id=0,application_id=42~hmac=632ba873a73b0d7852bdbe54b879685a316cd5ce484c8692bf3a2351e50716c7",
+      "date": "2026-10-17",
+      "heure": 22,
+      "album": "Coachella",
+      "annee": 2026,
+      "start_ts": 1792277789,
+      "end_ts": 1792277943
+    },
+    {
+      "titre": "Nouméa",
+      "artistes": "Jok'air",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792278875~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=b9b393b00158929bbe802e65c0db193592f7b4c48e4b391c908e0967a7cfe7b1",
+      "date": "2026-10-17",
+      "heure": 22,
+      "album": "Nouméa",
+      "annee": 2026,
+      "start_ts": 1792277567,
+      "end_ts": 1792277791
+    },
+    {
+      "titre": "Please Me",
+      "artistes": "Cardi B",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/06c24af0b3cc699a329eada8a42aa76f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6379488039677449341.26.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/8/0/f281adc5f3cc93dfb534f9ff6814dd37.mp3?hdnea=exp=1792278876~acl=/api/1/1/f/2/8/0/f281adc5f3cc93dfb534f9ff6814dd37.mp3*~data=user_id=0,application_id=42~hmac=dfb6e45a0a47e38ab433f0d8ce1ed96063817ddb868861642b6dfeb95cd0caa0",
+      "date": "2026-10-17",
+      "heure": 22,
+      "album": "Please Me",
+      "annee": 2019,
+      "start_ts": 1792277203,
+      "end_ts": 1792277399
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-17",
+      "heure": 22,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792277055,
+      "end_ts": 1792277202
+    },
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1792278877~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=d5ce9e3b166e188a74462068166e2effd044795110f6ea11e0a59c21a6677db6",
+      "date": "2026-10-17",
+      "heure": 22,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1792276758,
+      "end_ts": 1792276963
+    },
     {
       "titre": "Pangor (Swalalala)",
       "artistes": null,
@@ -1074,84 +1152,6 @@
       "annee": 2022,
       "start_ts": 1792266700,
       "end_ts": 1792266886
-    },
-    {
-      "titre": "coachella",
-      "artistes": "abel31",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f51834876d278d9b6674a05d4b672650/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/b/0/bcbd49e1ea49309c9e33db197f403459.mp3?hdnea=exp=1792271867~acl=/api/1/1/b/c/b/0/bcbd49e1ea49309c9e33db197f403459.mp3*~data=user_id=0,application_id=42~hmac=40e63dcc5b37c8a0155d4e43963460290eb6dd1a0b91b865c3089be8f8fe0739",
-      "date": "2026-10-17",
-      "heure": 19,
-      "album": "-6",
-      "annee": 2025,
-      "start_ts": 1792266544,
-      "end_ts": 1792266695
-    },
-    {
-      "titre": "cuenta",
-      "artistes": "paopao",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/334fb32347650bc281e40cf5278f5cea/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3?hdnea=exp=1792271868~acl=/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3*~data=user_id=0,application_id=42~hmac=99eae18fe346d357832975df9317fde06c8da9f17bba035db3c9ab7b5c8f6587",
-      "date": "2026-10-17",
-      "heure": 19,
-      "album": "diamante$ + espina$",
-      "annee": 2023,
-      "start_ts": 1792266153,
-      "end_ts": 1792266333
-    },
-    {
-      "titre": "Degun",
-      "artistes": "Massilia Sound System",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6e22871d769e15df376896de4c7df07f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3?hdnea=exp=1792263964~acl=/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3*~data=user_id=0,application_id=42~hmac=e2a3acb8a352d174eda652e5ac1c1cc67b6fe4aabda43b60c9c7d94e1222f820",
-      "date": "2026-10-17",
-      "heure": 18,
-      "album": "Marseille London Experience",
-      "annee": 1999,
-      "start_ts": 1792263041,
-      "end_ts": 1792263192
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-17",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792262595,
-      "end_ts": 1792262757
-    },
-    {
-      "titre": "BRACELET",
-      "artistes": "ASHE 22",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e5b5dd3f343248bc46244b754ec59f4c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.5787994376877845642.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3?hdnea=exp=1792263966~acl=/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3*~data=user_id=0,application_id=42~hmac=764dfbd4921349eeed2e2c952fe7239aa410d067f724bfa4655d23ede633cce9",
-      "date": "2026-10-17",
-      "heure": 18,
-      "album": "MOVIE TAPE",
-      "annee": 2024,
-      "start_ts": 1792262426,
-      "end_ts": 1792262593
-    },
-    {
-      "titre": "NUEVAYoL",
-      "artistes": "Bad Bunny",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1792263967~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=1455986c99a9724b882f155b59941a6b95f02af67729199825ad9c1319995d83",
-      "date": "2026-10-17",
-      "heure": 18,
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "annee": 2025,
-      "start_ts": 1792262242,
-      "end_ts": 1792262424
     }
   ]
 }
