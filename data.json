@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-17T06:14:53.591105",
-  "genere_ts": 1792217693,
+  "genere_le": "2026-10-17T10:43:58.414156",
+  "genere_ts": 1792233838,
   "volume": {
-    "nb_diffusions": 518,
+    "nb_diffusions": 522,
     "nb_artistes": 128,
     "nb_titres": 136,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-17",
-    "heures_antenne": 25.17,
+    "heures_antenne": 25.37,
     "duree_moy_s": 174.9
   },
   "top_artistes": [
@@ -102,6 +102,12 @@
       "minutes_antenne": 30.8
     },
     {
+      "artistes": "Rusky",
+      "nb_diffusions": 10,
+      "titres_differents": 1,
+      "minutes_antenne": 25.3
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 10,
       "titres_differents": 1,
@@ -114,22 +120,16 @@
       "minutes_antenne": 24.0
     },
     {
+      "artistes": "Yuston XIII",
+      "nb_diffusions": 7,
+      "titres_differents": 1,
+      "minutes_antenne": 23.9
+    },
+    {
       "artistes": "disiz",
       "nb_diffusions": 8,
       "titres_differents": 1,
       "minutes_antenne": 23.2
-    },
-    {
-      "artistes": "Rusky",
-      "nb_diffusions": 9,
-      "titres_differents": 1,
-      "minutes_antenne": 22.8
-    },
-    {
-      "artistes": "Ariana Grande",
-      "nb_diffusions": 7,
-      "titres_differents": 1,
-      "minutes_antenne": 22.4
     }
   ],
   "top_titres": [
@@ -244,8 +244,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 9,
-      "minutes_antenne": 22.8
+      "nb_diffusions": 10,
+      "minutes_antenne": 25.3
     },
     {
       "artistes": "Djaksparo",
@@ -297,7 +297,7 @@
     },
     {
       "heure": 10,
-      "nb_diffusions": 14
+      "nb_diffusions": 20
     },
     {
       "heure": 11,
@@ -450,8 +450,8 @@
     },
     {
       "date": "2026-10-17",
-      "nb_diffusions": 12,
-      "titres_differents": 11
+      "nb_diffusions": 18,
+      "titres_differents": 15
     }
   ],
   "semaine": [
@@ -481,7 +481,7 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 78
+      "nb_diffusions": 84
     }
   ],
   "recurrents": [
@@ -805,7 +805,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 301
+      "nb_diffusions": 303
     },
     {
       "annee": 2025,
@@ -817,7 +817,7 @@
     },
     {
       "annee": 2023,
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "annee": 2022,
@@ -873,7 +873,7 @@
     },
     {
       "annee": 2007,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     },
     {
       "annee": 2003,
@@ -895,11 +895,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 266
+      "nb": 269
     },
     {
       "type_contenu": "Explicit",
-      "nb": 250
+      "nb": 251
     }
   ],
   "albums": [
@@ -989,14 +989,14 @@
       "nb_diffusions": 10
     },
     {
-      "album": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
+      "album": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
       "nb_diffusions": 10
     },
     {
-      "album": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "nb_diffusions": 9
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 10
     },
     {
       "album": "melodrama",
@@ -1005,19 +1005,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Maladie",
-    "artistes": "Slimane",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1792218587~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=a061d12748c536958393fe8340760ea318f33a4fd9b31fefcb18fa2b7c90a9f6",
+    "titre": "On s'attache",
+    "artistes": "Christophe Maé",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1792234732~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=2254b66662e7a8555f831b291fb75925cf9ee4b4f9c98a530fe1a30de4e21282",
     "date": "2026-10-17",
-    "heure": 6,
-    "album": "Chroniques d’un cupidon",
-    "annee": 2022,
-    "start_ts": 1792217168,
-    "end_ts": 1792217354
+    "heure": 10,
+    "album": "Mon paradis",
+    "annee": 2007,
+    "start_ts": 1792233722,
+    "end_ts": 1792233912
   },
   "derniers_morceaux": [
+    {
+      "titre": "On s'attache",
+      "artistes": "Christophe Maé",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1792234732~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=2254b66662e7a8555f831b291fb75925cf9ee4b4f9c98a530fe1a30de4e21282",
+      "date": "2026-10-17",
+      "heure": 10,
+      "album": "Mon paradis",
+      "annee": 2007,
+      "start_ts": 1792233722,
+      "end_ts": 1792233912
+    },
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792234733~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=ac24adc7998d34ab3f48a9d1aa05af556702e0d88449998700b7758fdcf64b6b",
+      "date": "2026-10-17",
+      "heure": 10,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1792233571,
+      "end_ts": 1792233723
+    },
+    {
+      "titre": "cuenta",
+      "artistes": "paopao",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/334fb32347650bc281e40cf5278f5cea/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3?hdnea=exp=1792234734~acl=/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3*~data=user_id=0,application_id=42~hmac=6e7351ac052323185b017db8dd15bce51fb579b7e4c84870a650626c5a4420b4",
+      "date": "2026-10-17",
+      "heure": 10,
+      "album": "diamante$ + espina$",
+      "annee": 2023,
+      "start_ts": 1792233383,
+      "end_ts": 1792233563
+    },
+    {
+      "titre": "Congratulations",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/88/SKYC.2894449765383235188.22.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-17",
+      "heure": 10,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792233164,
+      "end_ts": 1792233375
+    },
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1792234736~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=7886c59eae061eeca882d1c06e0aa242f49bc26e15a2f50302abdd1a7170b8cf",
+      "date": "2026-10-17",
+      "heure": 10,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1792232963,
+      "end_ts": 1792233168
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-17",
+      "heure": 10,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792232799,
+      "end_ts": 1792232946
+    },
     {
       "titre": "Maladie",
       "artistes": "Slimane",
@@ -1069,84 +1147,6 @@
       "annee": 2025,
       "start_ts": 1792216174,
       "end_ts": 1792216325
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1792218591~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=e9ea7d7d3bdef996479a4eb9f0aa3c89ed7645fc11acc91c2c5382318d5be07c",
-      "date": "2026-10-17",
-      "heure": 5,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1792215795,
-      "end_ts": 1792215946
-    },
-    {
-      "titre": "7 Rings",
-      "artistes": "ItsAMoney",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c560a195836246b46fbabb54e667cf2c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/99/SKYC.8135834715264230699.18.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/a/a/0/caaafc1ab01f2dc65a60039a1100d191.mp3?hdnea=exp=1792218592~acl=/api/1/1/c/a/a/0/caaafc1ab01f2dc65a60039a1100d191.mp3*~data=user_id=0,application_id=42~hmac=4db7302c054425634403e38253fb5ec4d35782eaa3a345638465499ea1ed12d9",
-      "date": "2026-10-17",
-      "heure": 5,
-      "album": "Violin Covers, Pt. 4: Cloudy",
-      "annee": 2019,
-      "start_ts": 1792215625,
-      "end_ts": 1792215794
-    },
-    {
-      "titre": "Star Walkin' (From \"League of Legends)",
-      "artistes": "Skar",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/83ca7070662fb0d1be4c82c9e97508e2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.2678055196505242685.10.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/6/6/0/06613423dc136a7a442681be9a822643.mp3?hdnea=exp=1792202522~acl=/api/1/1/0/6/6/0/06613423dc136a7a442681be9a822643.mp3*~data=user_id=0,application_id=42~hmac=5970afe6ec876b43eed4fc01b42ea77777fc0d06535c7f02b04007562b1cbd65",
-      "date": "2026-10-17",
-      "heure": 1,
-      "album": "Star Walkin' (From \"League of Legends)",
-      "annee": 2023,
-      "start_ts": 1792201599,
-      "end_ts": 1792201799
-    },
-    {
-      "titre": "Pilé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-17",
-      "heure": 1,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792201450,
-      "end_ts": 1792201597
-    },
-    {
-      "titre": "Pa Pa Paw",
-      "artistes": "Damso",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9f12fddbff6ab3e03a16ffed6a204b38/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/54/SKYC.4702702940294310554.43.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/5/0/6158bb32849a9aced228843a577040d4.mp3?hdnea=exp=1792202523~acl=/api/1/1/6/1/5/0/6158bb32849a9aced228843a577040d4.mp3*~data=user_id=0,application_id=42~hmac=d6951a010a0828429c24c2c23fc9a004c320e12e3456fcf16b045401e4b543b3",
-      "date": "2026-10-17",
-      "heure": 1,
-      "album": "BĒYĀH",
-      "annee": 2025,
-      "start_ts": 1792201118,
-      "end_ts": 1792201328
-    },
-    {
-      "titre": "Cote à la hausse",
-      "artistes": "Bouss",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1792202524~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=b7cf25db1043fd6200c0bfff6b7b4db123efbb2a9256b0ce89621133cbc188a6",
-      "date": "2026-10-17",
-      "heure": 1,
-      "album": "Et si j'échoue ??",
-      "annee": 2025,
-      "start_ts": 1792200951,
-      "end_ts": 1792201119
     }
   ]
 }
