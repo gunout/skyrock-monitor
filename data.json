@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-18T16:37:51.035632",
-  "genere_ts": 1792341471,
+  "genere_le": "2026-10-18T18:52:51.370167",
+  "genere_ts": 1792349571,
   "volume": {
-    "nb_diffusions": 571,
-    "nb_artistes": 138,
-    "nb_titres": 147,
+    "nb_diffusions": 574,
+    "nb_artistes": 139,
+    "nb_titres": 148,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-18",
-    "heures_antenne": 27.74,
-    "duree_moy_s": 174.9
+    "heures_antenne": 27.92,
+    "duree_moy_s": 175.1
   },
   "top_artistes": [
     {
@@ -126,10 +126,10 @@
       "minutes_antenne": 26.1
     },
     {
-      "artistes": "Rusky",
-      "nb_diffusions": 10,
+      "artistes": "Ariana Grande",
+      "nb_diffusions": 8,
       "titres_differents": 1,
-      "minutes_antenne": 25.3
+      "minutes_antenne": 25.6
     }
   ],
   "top_titres": [
@@ -329,7 +329,7 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 37
+      "nb_diffusions": 43
     },
     {
       "heure": 19,
@@ -455,14 +455,14 @@
     },
     {
       "date": "2026-10-18",
-      "nb_diffusions": 30,
-      "titres_differents": 26
+      "nb_diffusions": 36,
+      "titres_differents": 32
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 90
+      "nb_diffusions": 96
     },
     {
       "jour": "Lundi",
@@ -593,6 +593,12 @@
       "minutes": 22.5
     },
     {
+      "artistes": "Ariana Grande",
+      "nb_jours": 8,
+      "nb_diffusions": 8,
+      "minutes": 25.6
+    },
+    {
       "artistes": "BIGBANG",
       "nb_jours": 7,
       "nb_diffusions": 12,
@@ -603,12 +609,6 @@
       "nb_jours": 7,
       "nb_diffusions": 10,
       "minutes": 35.2
-    },
-    {
-      "artistes": "disiz",
-      "nb_jours": 7,
-      "nb_diffusions": 9,
-      "minutes": 26.1
     }
   ],
   "titres_recurrents": [
@@ -721,16 +721,16 @@
       "nb_diffusions": 9
     },
     {
+      "artistes": "Ariana Grande",
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "nb_jours": 8,
+      "nb_diffusions": 8
+    },
+    {
       "artistes": "BIGBANG",
       "titre": "LOSER",
       "nb_jours": 7,
       "nb_diffusions": 12
-    },
-    {
-      "artistes": "disiz",
-      "titre": "melodrama",
-      "nb_jours": 7,
-      "nb_diffusions": 9
     }
   ],
   "diversifies": [
@@ -815,7 +815,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 327
+      "nb_diffusions": 329
     },
     {
       "annee": 2025,
@@ -823,7 +823,7 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 36
+      "nb_diffusions": 37
     },
     {
       "annee": 2023,
@@ -905,11 +905,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 289
+      "nb": 291
     },
     {
       "type_contenu": "Explicit",
-      "nb": 280
+      "nb": 281
     }
   ],
   "albums": [
@@ -1015,19 +1015,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Un ange dans le ciel",
-    "artistes": "CJajlk Music",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b510b4f48f9d15a74e5e31969da83a9b/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/24/SKYC.8663407701008970724.6.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/9/0/e594360eb2d10aaaff1413f859b9faa6.mp3?hdnea=exp=1792342364~acl=/api/1/1/e/5/9/0/e594360eb2d10aaaff1413f859b9faa6.mp3*~data=user_id=0,application_id=42~hmac=bbe62cc2e622cc65079592962693df6823b787f934cb90a1d0ac7de990e52932",
+    "titre": "Cinderella",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.5536442831145754751.3.0.jpg",
+    "preview_mp3": null,
     "date": "2026-10-18",
-    "heure": 16,
-    "album": "Un ange dans le ciel",
-    "annee": 2026,
-    "start_ts": 1792341254,
-    "end_ts": 1792341483
+    "heure": 18,
+    "album": null,
+    "annee": null,
+    "start_ts": 1792349489,
+    "end_ts": 1792349798
   },
   "derniers_morceaux": [
+    {
+      "titre": "Cinderella",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.5536442831145754751.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-18",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792349489,
+      "end_ts": 1792349798
+    },
+    {
+      "titre": "Loser",
+      "artistes": "Apache 207",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.183.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1792350465~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=aa1373060cbb4e285c4f63830873613ff0804dcd50a56866fe58cb71e264bcc8",
+      "date": "2026-10-18",
+      "heure": 18,
+      "album": "Loser",
+      "annee": 2024,
+      "start_ts": 1792349271,
+      "end_ts": 1792349489
+    },
+    {
+      "titre": "Mr. Know It All",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1100245519751421784.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-18",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792349116,
+      "end_ts": 1792349267
+    },
+    {
+      "titre": "Janice STFU",
+      "artistes": "Drake",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cccf5e9af10b6aae96f5cdd5a27c2aff/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/86/SKYC.4845959897004649486.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/2/0/7324c7d1edf2e198c43ec4f5c80670fc.mp3?hdnea=exp=1792350467~acl=/api/1/1/7/3/2/0/7324c7d1edf2e198c43ec4f5c80670fc.mp3*~data=user_id=0,application_id=42~hmac=ba4394df5780fd140a69830afd9f88e7122358f80172cfb42d52ef8766fd9ec2",
+      "date": "2026-10-18",
+      "heure": 18,
+      "album": "ICEMAN",
+      "annee": 2026,
+      "start_ts": 1792348764,
+      "end_ts": 1792348999
+    },
+    {
+      "titre": "hate that i made you love me (ari lyric draft from bed)",
+      "artistes": "Ariana Grande",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04d5a2211034c44a6cb34b47c7711202/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.3650362480261029231.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3?hdnea=exp=1792350468~acl=/api/1/1/b/c/2/0/bc2ef7f638b273a1976490cabe23d6e9.mp3*~data=user_id=0,application_id=42~hmac=8582ab57a5a720ab532ba15035743cdc477b66f22bb1c8ce4147783df4ed2fc6",
+      "date": "2026-10-18",
+      "heure": 18,
+      "album": "hate that i made you love me",
+      "annee": 2026,
+      "start_ts": 1792348571,
+      "end_ts": 1792348763
+    },
+    {
+      "titre": "Solar Eclipse",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.3101723110525592670.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-18",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792348372,
+      "end_ts": 1792348581
+    },
     {
       "titre": "Un ange dans le ciel",
       "artistes": "CJajlk Music",
@@ -1079,84 +1157,6 @@
       "annee": 2014,
       "start_ts": 1792340549,
       "end_ts": 1792340785
-    },
-    {
-      "titre": "What's The Difference",
-      "artistes": "Dr. Dre",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0d9a24d054cbc5ab11843beed9f1422b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/82/SKYC.8788031733224376282.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/1/0/bd150be90115cadfdaf00db712ac9dad.mp3?hdnea=exp=1792342368~acl=/api/1/1/b/d/1/0/bd150be90115cadfdaf00db712ac9dad.mp3*~data=user_id=0,application_id=42~hmac=59e17904d823c5634fdc241fe38162101d89222b83174fbee49d0a1ca7d50b42",
-      "date": "2026-10-18",
-      "heure": 16,
-      "album": "2001",
-      "annee": 2008,
-      "start_ts": 1792340004,
-      "end_ts": 1792340246
-    },
-    {
-      "titre": "Boxe avec les Mots",
-      "artistes": "K.ommando Toxik",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e79d517a585b74df2a229f197f134025/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/61/SKYC.4148657044298547161.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/7/0/937807a827262e1e61d5b8dcfcac6e82.mp3?hdnea=exp=1792342369~acl=/api/1/1/9/3/7/0/937807a827262e1e61d5b8dcfcac6e82.mp3*~data=user_id=0,application_id=42~hmac=4d1f9df383608d4ec33e7e66c4a9b214f6badc244160a158ffb95d1364f4a06e",
-      "date": "2026-10-18",
-      "heure": 16,
-      "album": "Cocktail Explosif Avant l'Album",
-      "annee": 2008,
-      "start_ts": 1792339751,
-      "end_ts": 1792340006
-    },
-    {
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "artistes": "Lil Gianni",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1792330814~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=7ba762be9261e3ee6ce585b86b98eb02fa1a2b071c6e265718733dfdc4a63c0a",
-      "date": "2026-10-18",
-      "heure": 13,
-      "album": "SAMPLEMAKER",
-      "annee": 2022,
-      "start_ts": 1792329778,
-      "end_ts": 1792329928
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1792330815~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=ebfb03e8e5d1728209864dbda6237370df5f1cb3149fa2c90f38e45a1cc678aa",
-      "date": "2026-10-18",
-      "heure": 13,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1792329618,
-      "end_ts": 1792329780
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1792330816~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=511855d0a3221f16aae4293eac0c91db1b3ca840dc5bf43b580ad80eef7390c8",
-      "date": "2026-10-18",
-      "heure": 13,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1792329465,
-      "end_ts": 1792329616
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1792330817~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=f4753f1d0521ddce48798c2a2fc02aa0a95a72bb18225989315b6c9e2522924a",
-      "date": "2026-10-18",
-      "heure": 13,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1792329184,
-      "end_ts": 1792329296
     }
   ]
 }
