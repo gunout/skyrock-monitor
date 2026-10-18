@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-18T13:25:20.854740",
-  "genere_ts": 1792329920,
+  "genere_le": "2026-10-18T16:37:51.035632",
+  "genere_ts": 1792341471,
   "volume": {
-    "nb_diffusions": 567,
-    "nb_artistes": 134,
-    "nb_titres": 143,
+    "nb_diffusions": 571,
+    "nb_artistes": 138,
+    "nb_titres": 147,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-18",
-    "heures_antenne": 27.48,
-    "duree_moy_s": 174.4
+    "heures_antenne": 27.74,
+    "duree_moy_s": 174.9
   },
   "top_artistes": [
     {
@@ -321,7 +321,7 @@
     },
     {
       "heure": 16,
-      "nb_diffusions": 18
+      "nb_diffusions": 24
     },
     {
       "heure": 17,
@@ -455,14 +455,14 @@
     },
     {
       "date": "2026-10-18",
-      "nb_diffusions": 24,
-      "titres_differents": 20
+      "nb_diffusions": 30,
+      "titres_differents": 26
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 84
+      "nb_diffusions": 90
     },
     {
       "jour": "Lundi",
@@ -815,7 +815,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 326
+      "nb_diffusions": 327
     },
     {
       "annee": 2025,
@@ -863,7 +863,7 @@
     },
     {
       "annee": 2014,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "annee": 2012,
@@ -879,7 +879,7 @@
     },
     {
       "annee": 2008,
-      "nb_diffusions": 1
+      "nb_diffusions": 3
     },
     {
       "annee": 2007,
@@ -905,11 +905,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 288
+      "nb": 289
     },
     {
       "type_contenu": "Explicit",
-      "nb": 277
+      "nb": 280
     }
   ],
   "albums": [
@@ -1015,19 +1015,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-    "artistes": "Lil Gianni",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1792330814~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=7ba762be9261e3ee6ce585b86b98eb02fa1a2b071c6e265718733dfdc4a63c0a",
+    "titre": "Un ange dans le ciel",
+    "artistes": "CJajlk Music",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b510b4f48f9d15a74e5e31969da83a9b/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/24/SKYC.8663407701008970724.6.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/9/0/e594360eb2d10aaaff1413f859b9faa6.mp3?hdnea=exp=1792342364~acl=/api/1/1/e/5/9/0/e594360eb2d10aaaff1413f859b9faa6.mp3*~data=user_id=0,application_id=42~hmac=bbe62cc2e622cc65079592962693df6823b787f934cb90a1d0ac7de990e52932",
     "date": "2026-10-18",
-    "heure": 13,
-    "album": "SAMPLEMAKER",
-    "annee": 2022,
-    "start_ts": 1792329778,
-    "end_ts": 1792329928
+    "heure": 16,
+    "album": "Un ange dans le ciel",
+    "annee": 2026,
+    "start_ts": 1792341254,
+    "end_ts": 1792341483
   },
   "derniers_morceaux": [
+    {
+      "titre": "Un ange dans le ciel",
+      "artistes": "CJajlk Music",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b510b4f48f9d15a74e5e31969da83a9b/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/24/SKYC.8663407701008970724.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/9/0/e594360eb2d10aaaff1413f859b9faa6.mp3?hdnea=exp=1792342364~acl=/api/1/1/e/5/9/0/e594360eb2d10aaaff1413f859b9faa6.mp3*~data=user_id=0,application_id=42~hmac=bbe62cc2e622cc65079592962693df6823b787f934cb90a1d0ac7de990e52932",
+      "date": "2026-10-18",
+      "heure": 16,
+      "album": "Un ange dans le ciel",
+      "annee": 2026,
+      "start_ts": 1792341254,
+      "end_ts": 1792341483
+    },
+    {
+      "titre": "I'm Real",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.4491757400720648158.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-18",
+      "heure": 16,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792341007,
+      "end_ts": 1792341257
+    },
+    {
+      "titre": "Affirmative Action",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/27/SKYC.2701032192833436327.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-18",
+      "heure": 16,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792340787,
+      "end_ts": 1792341012
+    },
+    {
+      "titre": "Gangsta Lovin'",
+      "artistes": "Countdown Mix-Masters",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/930e70d3a241bc2e1d636933475557d2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.4883966162368002998.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/e/0/39ee32e81589a7aa0a26491f0a96b0d6.mp3?hdnea=exp=1792342366~acl=/api/1/1/3/9/e/0/39ee32e81589a7aa0a26491f0a96b0d6.mp3*~data=user_id=0,application_id=42~hmac=c51f36a390615b143cf6202be20454f55aed2dee8762ffcc4ccacdfd3576928f",
+      "date": "2026-10-18",
+      "heure": 16,
+      "album": "Hip Hop History Vol.14 - 2000s",
+      "annee": 2014,
+      "start_ts": 1792340549,
+      "end_ts": 1792340785
+    },
+    {
+      "titre": "What's The Difference",
+      "artistes": "Dr. Dre",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0d9a24d054cbc5ab11843beed9f1422b/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/82/SKYC.8788031733224376282.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/d/1/0/bd150be90115cadfdaf00db712ac9dad.mp3?hdnea=exp=1792342368~acl=/api/1/1/b/d/1/0/bd150be90115cadfdaf00db712ac9dad.mp3*~data=user_id=0,application_id=42~hmac=59e17904d823c5634fdc241fe38162101d89222b83174fbee49d0a1ca7d50b42",
+      "date": "2026-10-18",
+      "heure": 16,
+      "album": "2001",
+      "annee": 2008,
+      "start_ts": 1792340004,
+      "end_ts": 1792340246
+    },
+    {
+      "titre": "Boxe avec les Mots",
+      "artistes": "K.ommando Toxik",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e79d517a585b74df2a229f197f134025/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/61/SKYC.4148657044298547161.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/3/7/0/937807a827262e1e61d5b8dcfcac6e82.mp3?hdnea=exp=1792342369~acl=/api/1/1/9/3/7/0/937807a827262e1e61d5b8dcfcac6e82.mp3*~data=user_id=0,application_id=42~hmac=4d1f9df383608d4ec33e7e66c4a9b214f6badc244160a158ffb95d1364f4a06e",
+      "date": "2026-10-18",
+      "heure": 16,
+      "album": "Cocktail Explosif Avant l'Album",
+      "annee": 2008,
+      "start_ts": 1792339751,
+      "end_ts": 1792340006
+    },
     {
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "artistes": "Lil Gianni",
@@ -1079,84 +1157,6 @@
       "annee": 2026,
       "start_ts": 1792329184,
       "end_ts": 1792329296
-    },
-    {
-      "titre": "La La La",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.2850996758071946317.22.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-18",
-      "heure": 13,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792328971,
-      "end_ts": 1792329187
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1792330819~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=cc2a4fa1991c8a8f4375a83f6110bc2557a6be039129cf3275daff59a336c3f7",
-      "date": "2026-10-18",
-      "heure": 13,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1792328802,
-      "end_ts": 1792328969
-    },
-    {
-      "titre": "Pilé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-18",
-      "heure": 9,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792315713,
-      "end_ts": 1792315860
-    },
-    {
-      "titre": "The Real Slim Shady (Medieval Version)",
-      "artistes": "Bardcore",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/526567794c2d613e24655d98f6f0ba68/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.2068428030132266045.16.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/c/2/0/2c2ad28f17a62550dc84d901068e3208.mp3?hdnea=exp=1792316630~acl=/api/1/1/2/c/2/0/2c2ad28f17a62550dc84d901068e3208.mp3*~data=user_id=0,application_id=42~hmac=41f2935d8b05aa38c7d8e1f111e2f351df17aa69ccd24261bd86652cab32a1e4",
-      "date": "2026-10-18",
-      "heure": 9,
-      "album": "The Real Slim Shady (Medieval Version)",
-      "annee": 2023,
-      "start_ts": 1792315440,
-      "end_ts": 1792315720
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1792316631~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=26f8aaa68b51c8fb78eedbbae1ec20841040d0e7f4af6e7971f24e15f2791a90",
-      "date": "2026-10-18",
-      "heure": 9,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1792315299,
-      "end_ts": 1792315443
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1792316632~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=be506853e677eff8c3bb93a058d4e160a7ed327535a4f74ec80a100700ead44f",
-      "date": "2026-10-18",
-      "heure": 9,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1792315187,
-      "end_ts": 1792315299
     }
   ]
 }
