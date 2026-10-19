@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-19T10:59:54.447789",
-  "genere_ts": 1792407594,
+  "genere_le": "2026-10-19T17:20:27.889067",
+  "genere_ts": 1792430427,
   "volume": {
-    "nb_diffusions": 598,
+    "nb_diffusions": 603,
     "nb_artistes": 143,
     "nb_titres": 152,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-19",
-    "heures_antenne": 29.14,
+    "heures_antenne": 29.37,
     "duree_moy_s": 175.4
   },
   "top_artistes": [
@@ -114,6 +114,12 @@
       "minutes_antenne": 33.6
     },
     {
+      "artistes": "Rusky",
+      "nb_diffusions": 11,
+      "titres_differents": 1,
+      "minutes_antenne": 27.9
+    },
+    {
       "artistes": "Lil Gianni",
       "nb_diffusions": 11,
       "titres_differents": 1,
@@ -124,12 +130,6 @@
       "nb_diffusions": 8,
       "titres_differents": 1,
       "minutes_antenne": 27.3
-    },
-    {
-      "artistes": "disiz",
-      "nb_diffusions": 9,
-      "titres_differents": 1,
-      "minutes_antenne": 26.1
     }
   ],
   "top_titres": [
@@ -218,6 +218,12 @@
       "minutes_antenne": 34.1
     },
     {
+      "artistes": "Mauvais djo",
+      "titre": "Wagyu",
+      "nb_diffusions": 13,
+      "minutes_antenne": 24.3
+    },
+    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_diffusions": 13,
@@ -236,12 +242,6 @@
       "minutes_antenne": 33.6
     },
     {
-      "artistes": "Mauvais djo",
-      "titre": "Wagyu",
-      "nb_diffusions": 12,
-      "minutes_antenne": 22.4
-    },
-    {
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_diffusions": 11,
@@ -250,8 +250,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 10,
-      "minutes_antenne": 25.3
+      "nb_diffusions": 11,
+      "minutes_antenne": 27.9
     }
   ],
   "heures": [
@@ -325,7 +325,7 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 58
+      "nb_diffusions": 64
     },
     {
       "heure": 18,
@@ -460,8 +460,8 @@
     },
     {
       "date": "2026-10-19",
-      "nb_diffusions": 18,
-      "titres_differents": 16
+      "nb_diffusions": 24,
+      "titres_differents": 22
     }
   ],
   "semaine": [
@@ -471,7 +471,7 @@
     },
     {
       "jour": "Lundi",
-      "nb_diffusions": 72
+      "nb_diffusions": 78
     },
     {
       "jour": "Mardi",
@@ -580,6 +580,12 @@
       "minutes": 34.1
     },
     {
+      "artistes": "Mauvais djo",
+      "nb_jours": 9,
+      "nb_diffusions": 13,
+      "minutes": 24.3
+    },
+    {
       "artistes": "Lil Gianni",
       "nb_jours": 9,
       "nb_diffusions": 11,
@@ -596,12 +602,6 @@
       "nb_jours": 8,
       "nb_diffusions": 12,
       "minutes": 42.6
-    },
-    {
-      "artistes": "Mauvais djo",
-      "nb_jours": 8,
-      "nb_diffusions": 12,
-      "minutes": 22.4
     },
     {
       "artistes": "Djaksparo",
@@ -708,6 +708,12 @@
       "nb_diffusions": 14
     },
     {
+      "artistes": "Mauvais djo",
+      "titre": "Wagyu",
+      "nb_jours": 9,
+      "nb_diffusions": 13
+    },
+    {
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_jours": 9,
@@ -718,12 +724,6 @@
       "titre": "Sexy Nana",
       "nb_jours": 8,
       "nb_diffusions": 20
-    },
-    {
-      "artistes": "Mauvais djo",
-      "titre": "Wagyu",
-      "nb_jours": 8,
-      "nb_diffusions": 12
     },
     {
       "artistes": "Djaksparo",
@@ -825,7 +825,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 340
+      "nb_diffusions": 343
     },
     {
       "annee": 2025,
@@ -833,11 +833,11 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 39
+      "nb_diffusions": 40
     },
     {
       "annee": 2023,
-      "nb_diffusions": 16
+      "nb_diffusions": 17
     },
     {
       "annee": 2022,
@@ -919,11 +919,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 301
+      "nb": 305
     },
     {
       "type_contenu": "Explicit",
-      "nb": 295
+      "nb": 296
     }
   ],
   "albums": [
@@ -1005,7 +1005,7 @@
     {
       "album": "Wagyu",
       "artistes": "Mauvais djo",
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "album": "MADE",
@@ -1018,30 +1018,108 @@
       "nb_diffusions": 12
     },
     {
-      "album": "SAMPLEMAKER",
-      "artistes": "Lil Gianni",
+      "album": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
       "nb_diffusions": 11
     },
     {
-      "album": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "nb_diffusions": 10
+      "album": "SAMPLEMAKER",
+      "artistes": "Lil Gianni",
+      "nb_diffusions": 11
     }
   ],
   "dernier_morceau": {
-    "titre": "On s'attache",
-    "artistes": "Christophe Maé",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1792408487~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=3faf055fbfc3df42d3c33ac14cad71eecc5182b13a26cf944a04dae2a0b18313",
+    "titre": "Loser",
+    "artistes": "Apache 207",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.183.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1792431321~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=f53c631b3cb0befceacd636cacfd6ce3ecc60f49d3cd7803929a11c7af90a5d5",
     "date": "2026-10-19",
-    "heure": 10,
-    "album": "Mon paradis",
-    "annee": 2007,
-    "start_ts": 1792407466,
-    "end_ts": 1792407656
+    "heure": 17,
+    "album": "Loser",
+    "annee": 2024,
+    "start_ts": 1792430239,
+    "end_ts": 1792430457
   },
   "derniers_morceaux": [
+    {
+      "titre": "Loser",
+      "artistes": "Apache 207",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.183.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1792431321~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=f53c631b3cb0befceacd636cacfd6ce3ecc60f49d3cd7803929a11c7af90a5d5",
+      "date": "2026-10-19",
+      "heure": 17,
+      "album": "Loser",
+      "annee": 2024,
+      "start_ts": 1792430239,
+      "end_ts": 1792430457
+    },
+    {
+      "titre": "Wagyu",
+      "artistes": "Mauvais djo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1792431322~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=e033ee43d8d04b4be7c5228594d862c14858ba6e4f0ab61db6073bfd487ad728",
+      "date": "2026-10-19",
+      "heure": 17,
+      "album": "Wagyu",
+      "annee": 2026,
+      "start_ts": 1792429975,
+      "end_ts": 1792430087
+    },
+    {
+      "titre": "cuenta",
+      "artistes": "paopao",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/334fb32347650bc281e40cf5278f5cea/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3?hdnea=exp=1792431323~acl=/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3*~data=user_id=0,application_id=42~hmac=0d7cd6e61b3e6e57b16905587eccaaf65182f19793abc2169f4602f7c62fc6d0",
+      "date": "2026-10-19",
+      "heure": 17,
+      "album": "diamante$ + espina$",
+      "annee": 2023,
+      "start_ts": 1792429797,
+      "end_ts": 1792429977
+    },
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792431324~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=0d14ef2e39d5bc215b93da0da5dcc954acd8e51c05476658c26e00877dbadc6c",
+      "date": "2026-10-19",
+      "heure": 17,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1792429643,
+      "end_ts": 1792429795
+    },
+    {
+      "titre": "Mr. Know It All (House)",
+      "artistes": "Seventh",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b69a269b95828d47a16626eb05f45878/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1100245519751421784.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/1/0/e8144862add37ba0015a60e480eaab42.mp3?hdnea=exp=1792431325~acl=/api/1/1/e/8/1/0/e8144862add37ba0015a60e480eaab42.mp3*~data=user_id=0,application_id=42~hmac=df341a48cc19d66ee37c6ef61707343742e84d9611a4468951c960e34ff49361",
+      "date": "2026-10-19",
+      "heure": 17,
+      "album": "Mr. Know It All (House)",
+      "annee": 2026,
+      "start_ts": 1792429453,
+      "end_ts": 1792429647
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-19",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792429305,
+      "end_ts": 1792429452
+    },
     {
       "titre": "On s'attache",
       "artistes": "Christophe Maé",
@@ -1093,84 +1171,6 @@
       "annee": 2025,
       "start_ts": 1792406723,
       "end_ts": 1792406893
-    },
-    {
-      "titre": "Like Him",
-      "artistes": "David Shannon",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f267af3edb8b083e311b6cfd81a4314/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/00/SKYC.5402441829420946800.227.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/3/0/d53f3903b068ab65244945735ad5d868.mp3?hdnea=exp=1792408491~acl=/api/1/1/d/5/3/0/d53f3903b068ab65244945735ad5d868.mp3*~data=user_id=0,application_id=42~hmac=2f70a2833cbc4a69e4a494f72c8c6946680f6457dbf235d1eec40887122039b2",
-      "date": "2026-10-19",
-      "heure": 10,
-      "album": "Like Him",
-      "annee": 2025,
-      "start_ts": 1792406444,
-      "end_ts": 1792406718
-    },
-    {
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "artistes": "Lil Gianni",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1792408493~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=a477e57434b4b18928ef4effe29ecff70bc26ce3ee88a37a7f1ae01fecadb170",
-      "date": "2026-10-19",
-      "heure": 10,
-      "album": "SAMPLEMAKER",
-      "annee": 2022,
-      "start_ts": 1792406295,
-      "end_ts": 1792406445
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1792388456~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=c3c97992778d59fa7f5329caa041a6d4d0453464fbc96eac7a5b77ff755f3fed",
-      "date": "2026-10-19",
-      "heure": 5,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1792387263,
-      "end_ts": 1792387425
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792388457~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=b009f87399bbc0f77a4b6c29fe0dd55358998009f1bdb448a4f2258c600bbdb3",
-      "date": "2026-10-19",
-      "heure": 5,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1792386769,
-      "end_ts": 1792386935
-    },
-    {
-      "titre": "Lonely",
-      "artistes": "Akon",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/edcd5cfc4d0f6da3e7389e3507780348/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.2283362582156872457.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/b/0/b9b7e1f45ba755096ffab230d1a84ddc.mp3?hdnea=exp=1792388458~acl=/api/1/1/b/9/b/0/b9b7e1f45ba755096ffab230d1a84ddc.mp3*~data=user_id=0,application_id=42~hmac=7c45a28fce5dc505f7a3a900b83164b8666c0f380a1593c6ab9b8153c1b66f95",
-      "date": "2026-10-19",
-      "heure": 4,
-      "album": "Trouble",
-      "annee": 2006,
-      "start_ts": 1792385485,
-      "end_ts": 1792385718
-    },
-    {
-      "titre": "Maladie",
-      "artistes": "Mufasa",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/38b10511d9ed6f40c034892fb5ab9ba0/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/e/0/5bedf387e9a6d4b459f5e45448696e5a.mp3?hdnea=exp=1792388459~acl=/api/1/1/5/b/e/0/5bedf387e9a6d4b459f5e45448696e5a.mp3*~data=user_id=0,application_id=42~hmac=e1ee146228f6dbf0d495bb1db42c7d8bd797a2b899cc1f13ff885cb01a62faf8",
-      "date": "2026-10-19",
-      "heure": 4,
-      "album": "Maladie",
-      "annee": 2026,
-      "start_ts": 1792384907,
-      "end_ts": 1792385084
     }
   ]
 }
