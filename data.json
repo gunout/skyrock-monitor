@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-20T10:00:04.994373",
-  "genere_ts": 1792490404,
+  "genere_le": "2026-10-20T14:41:59.009712",
+  "genere_ts": 1792507319,
   "volume": {
-    "nb_diffusions": 624,
-    "nb_artistes": 149,
-    "nb_titres": 155,
+    "nb_diffusions": 629,
+    "nb_artistes": 150,
+    "nb_titres": 156,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-20",
-    "heures_antenne": 30.33,
+    "heures_antenne": 30.57,
     "duree_moy_s": 175.0
   },
   "top_artistes": [
@@ -25,9 +25,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 25,
+      "nb_diffusions": 26,
       "titres_differents": 1,
-      "minutes_antenne": 69.2
+      "minutes_antenne": 71.9
     },
     {
       "artistes": "Leto",
@@ -84,16 +84,16 @@
       "minutes_antenne": 47.3
     },
     {
+      "artistes": "BIGBANG",
+      "nb_diffusions": 13,
+      "titres_differents": 1,
+      "minutes_antenne": 47.2
+    },
+    {
       "artistes": "Gambi",
       "nb_diffusions": 22,
       "titres_differents": 2,
       "minutes_antenne": 47.1
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_diffusions": 12,
-      "titres_differents": 1,
-      "minutes_antenne": 43.6
     },
     {
       "artistes": "Jok'air",
@@ -103,15 +103,21 @@
     },
     {
       "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 16,
+      "nb_diffusions": 17,
       "titres_differents": 1,
-      "minutes_antenne": 38.9
+      "minutes_antenne": 41.4
     },
     {
       "artistes": "Bouss",
       "nb_diffusions": 12,
       "titres_differents": 1,
       "minutes_antenne": 33.6
+    },
+    {
+      "artistes": "Lil Gianni",
+      "nb_diffusions": 12,
+      "titres_differents": 1,
+      "minutes_antenne": 30.0
     },
     {
       "artistes": "Apache 207",
@@ -124,12 +130,6 @@
       "nb_diffusions": 10,
       "titres_differents": 1,
       "minutes_antenne": 29.0
-    },
-    {
-      "artistes": "Rusky",
-      "nb_diffusions": 11,
-      "titres_differents": 1,
-      "minutes_antenne": 27.9
     }
   ],
   "top_titres": [
@@ -142,8 +142,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 25,
-      "minutes_antenne": 69.2
+      "nb_diffusions": 26,
+      "minutes_antenne": 71.9
     },
     {
       "artistes": "Aya Nakamura",
@@ -182,6 +182,12 @@
       "minutes_antenne": 66.9
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_diffusions": 17,
+      "minutes_antenne": 41.4
+    },
+    {
       "artistes": "Niska",
       "titre": "Allo Doudou",
       "nb_diffusions": 17,
@@ -198,12 +204,6 @@
       "titre": "NUEVAYoL",
       "nb_diffusions": 16,
       "minutes_antenne": 48.5
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
-      "nb_diffusions": 16,
-      "minutes_antenne": 38.9
     },
     {
       "artistes": "GIMS",
@@ -224,16 +224,16 @@
       "minutes_antenne": 26.1
     },
     {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_diffusions": 13,
+      "minutes_antenne": 47.2
+    },
+    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_diffusions": 13,
       "minutes_antenne": 46.8
-    },
-    {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
-      "nb_diffusions": 12,
-      "minutes_antenne": 43.6
     },
     {
       "artistes": "Bouss",
@@ -244,8 +244,8 @@
     {
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_diffusions": 11,
-      "minutes_antenne": 27.5
+      "nb_diffusions": 12,
+      "minutes_antenne": 30.0
     },
     {
       "artistes": "Rusky",
@@ -313,7 +313,7 @@
     },
     {
       "heure": 14,
-      "nb_diffusions": 25
+      "nb_diffusions": 31
     },
     {
       "heure": 15,
@@ -465,8 +465,8 @@
     },
     {
       "date": "2026-10-20",
-      "nb_diffusions": 18,
-      "titres_differents": 18
+      "nb_diffusions": 24,
+      "titres_differents": 23
     }
   ],
   "semaine": [
@@ -480,7 +480,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 159
+      "nb_diffusions": 165
     },
     {
       "jour": "Mercredi",
@@ -513,16 +513,16 @@
       "minutes": 68.0
     },
     {
+      "artistes": "Vacra",
+      "nb_jours": 16,
+      "nb_diffusions": 26,
+      "minutes": 71.9
+    },
+    {
       "artistes": "PLK",
       "nb_jours": 16,
       "nb_diffusions": 19,
       "minutes": 51.3
-    },
-    {
-      "artistes": "Vacra",
-      "nb_jours": 15,
-      "nb_diffusions": 25,
-      "minutes": 69.2
     },
     {
       "artistes": "Gambi",
@@ -567,16 +567,16 @@
       "minutes": 47.3
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_jours": 10,
+      "nb_diffusions": 17,
+      "minutes": 41.4
+    },
+    {
       "artistes": "GIMS",
       "nb_jours": 10,
       "nb_diffusions": 17,
       "minutes": 51.8
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_jours": 10,
-      "nb_diffusions": 16,
-      "minutes": 38.9
     },
     {
       "artistes": "Mauvais djo",
@@ -592,15 +592,21 @@
     },
     {
       "artistes": "Lil Gianni",
-      "nb_jours": 9,
-      "nb_diffusions": 11,
-      "minutes": 27.5
+      "nb_jours": 10,
+      "nb_diffusions": 12,
+      "minutes": 30.0
     },
     {
       "artistes": "Aya Nakamura",
       "nb_jours": 8,
       "nb_diffusions": 20,
       "minutes": 50.6
+    },
+    {
+      "artistes": "BIGBANG",
+      "nb_jours": 8,
+      "nb_diffusions": 13,
+      "minutes": 47.2
     },
     {
       "artistes": "Jok'air",
@@ -613,15 +619,15 @@
       "nb_jours": 8,
       "nb_diffusions": 10,
       "minutes": 29.0
-    },
-    {
-      "artistes": "Djaksparo",
-      "nb_jours": 8,
-      "nb_diffusions": 9,
-      "minutes": 18.0
     }
   ],
   "titres_recurrents": [
+    {
+      "artistes": "Vacra",
+      "titre": "Fille à Papa",
+      "nb_jours": 16,
+      "nb_diffusions": 26
+    },
     {
       "artistes": "Leto",
       "titre": "Pineapple",
@@ -633,12 +639,6 @@
       "titre": "Pocahontas",
       "nb_jours": 16,
       "nb_diffusions": 19
-    },
-    {
-      "artistes": "Vacra",
-      "titre": "Fille à Papa",
-      "nb_jours": 15,
-      "nb_diffusions": 25
     },
     {
       "artistes": "Tiakola",
@@ -695,14 +695,14 @@
       "nb_diffusions": 13
     },
     {
-      "artistes": "GIMS",
-      "titre": "VIVE LA MONNAIE",
-      "nb_jours": 10,
-      "nb_diffusions": 16
-    },
-    {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
+      "nb_jours": 10,
+      "nb_diffusions": 17
+    },
+    {
+      "artistes": "GIMS",
+      "titre": "VIVE LA MONNAIE",
       "nb_jours": 10,
       "nb_diffusions": 16
     },
@@ -713,16 +713,16 @@
       "nb_diffusions": 14
     },
     {
-      "artistes": "Bouss",
-      "titre": "Cote à la hausse",
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_jours": 10,
       "nb_diffusions": 12
     },
     {
-      "artistes": "Lil Gianni",
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_jours": 9,
-      "nb_diffusions": 11
+      "artistes": "Bouss",
+      "titre": "Cote à la hausse",
+      "nb_jours": 10,
+      "nb_diffusions": 12
     },
     {
       "artistes": "Aya Nakamura",
@@ -731,16 +731,16 @@
       "nb_diffusions": 20
     },
     {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_jours": 8,
+      "nb_diffusions": 13
+    },
+    {
       "artistes": "disiz",
       "titre": "melodrama",
       "nb_jours": 8,
       "nb_diffusions": 10
-    },
-    {
-      "artistes": "Djaksparo",
-      "titre": "Pangor (Swalalala)",
-      "nb_jours": 8,
-      "nb_diffusions": 9
     }
   ],
   "diversifies": [
@@ -830,7 +830,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 353
+      "nb_diffusions": 355
     },
     {
       "annee": 2025,
@@ -838,7 +838,7 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 43
+      "nb_diffusions": 44
     },
     {
       "annee": 2023,
@@ -846,7 +846,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 48
+      "nb_diffusions": 49
     },
     {
       "annee": 2021,
@@ -870,7 +870,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 18
+      "nb_diffusions": 19
     },
     {
       "annee": 2015,
@@ -924,11 +924,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 314
+      "nb": 316
     },
     {
       "type_contenu": "Explicit",
-      "nb": 308
+      "nb": 311
     }
   ],
   "albums": [
@@ -940,7 +940,7 @@
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 25
+      "nb_diffusions": 26
     },
     {
       "album": "Sicario",
@@ -978,6 +978,11 @@
       "nb_diffusions": 17
     },
     {
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 17
+    },
+    {
       "album": "Dracula (with JENNIE)",
       "artistes": "Tame Impala",
       "nb_diffusions": 17
@@ -990,11 +995,6 @@
     {
       "album": "VIVE LA MONNAIE",
       "artistes": "GIMS",
-      "nb_diffusions": 16
-    },
-    {
-      "album": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 16
     },
     {
@@ -1015,6 +1015,11 @@
     {
       "album": "MADE",
       "artistes": "BIGBANG",
+      "nb_diffusions": 13
+    },
+    {
+      "album": "SAMPLEMAKER",
+      "artistes": "Lil Gianni",
       "nb_diffusions": 12
     },
     {
@@ -1026,27 +1031,100 @@
       "album": "SEXY NANA (Radio Edit)",
       "artistes": "Rusky",
       "nb_diffusions": 11
-    },
-    {
-      "album": "SAMPLEMAKER",
-      "artistes": "Lil Gianni",
-      "nb_diffusions": 11
     }
   ],
   "dernier_morceau": {
-    "titre": "Loser",
-    "artistes": "Apache 207",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.187.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1792491299~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=1cb48db124d2069f85355fc1f1ef8b62219edfa07f3efbf2ae6f29a052996991",
+    "titre": "La petasse",
+    "artistes": "DJ Jordan MasterBoy",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1792508211~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=31bf0e621f988418b374e519119319fe7480abca81b92bd1b93a8c13a3a8656c",
     "date": "2026-10-20",
-    "heure": 9,
-    "album": "Loser",
+    "heure": 14,
+    "album": "La petasse",
     "annee": 2024,
-    "start_ts": 1792490229,
-    "end_ts": 1792490447
+    "start_ts": 1792507204,
+    "end_ts": 1792507350
   },
   "derniers_morceaux": [
+    {
+      "titre": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1792508211~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=31bf0e621f988418b374e519119319fe7480abca81b92bd1b93a8c13a3a8656c",
+      "date": "2026-10-20",
+      "heure": 14,
+      "album": "La petasse",
+      "annee": 2024,
+      "start_ts": 1792507204,
+      "end_ts": 1792507350
+    },
+    {
+      "titre": "Right now - Inédit",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/72/SKYC.602239585577909072.7.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-20",
+      "heure": 14,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792506965,
+      "end_ts": 1792507204
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1792508213~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=23631de2e4c6ae91193eceb828d6dd1f583985aa7abbcf1f6083bf3581feb418",
+      "date": "2026-10-20",
+      "heure": 14,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1792506818,
+      "end_ts": 1792506968
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1792508214~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=c932eedf707f9dc7b99ad9cf5714d4e6e2bd8bd45a38f527ad3ae0cff3d85950",
+      "date": "2026-10-20",
+      "heure": 14,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1792506641,
+      "end_ts": 1792506818
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792508215~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=b97efa079ea873342bca80ba893d2420a864a82a97e0153ed2e2ee8c0ef6a1a9",
+      "date": "2026-10-20",
+      "heure": 14,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1792506475,
+      "end_ts": 1792506641
+    },
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.187.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1792508216~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=90da37366a04410874d0d9036df5864a229867d93dabe3f5ad57fc6088d16497",
+      "date": "2026-10-20",
+      "heure": 14,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1792506261,
+      "end_ts": 1792506479
+    },
     {
       "titre": "Loser",
       "artistes": "Apache 207",
@@ -1098,84 +1176,6 @@
       "annee": null,
       "start_ts": 1792489347,
       "end_ts": 1792489555
-    },
-    {
-      "titre": "cuenta",
-      "artistes": "paopao",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/334fb32347650bc281e40cf5278f5cea/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3?hdnea=exp=1792491302~acl=/api/1/1/c/9/3/0/c938f59797adbb6e22071169fe799f5f.mp3*~data=user_id=0,application_id=42~hmac=91d95fca2f369c3e2c5e704ab94f9fad516342054d7fa245c3c0070b3076ef85",
-      "date": "2026-10-20",
-      "heure": 9,
-      "album": "diamante$ + espina$",
-      "annee": 2023,
-      "start_ts": 1792489167,
-      "end_ts": 1792489347
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1792491303~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=743b32acbc86e32f6b45f569e60ebadfc801442fa403bd02d9a086174357a26a",
-      "date": "2026-10-20",
-      "heure": 9,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1792489011,
-      "end_ts": 1792489157
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1792474014~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=06bfb60e5bb07f66709b59dd4abe3a92ef5f516809615991c9617e24eacddff7",
-      "date": "2026-10-20",
-      "heure": 4,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1792472289,
-      "end_ts": 1792472401
-    },
-    {
-      "titre": "RENÉ CAOVILLA",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1792474015~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=c1f9483edb205ed772282b4a5af1a8901bd5ced424ea24c24773878edc781ef7",
-      "date": "2026-10-20",
-      "heure": 4,
-      "album": "RENÉ CAOVILLA",
-      "annee": 2026,
-      "start_ts": 1792471901,
-      "end_ts": 1792472032
-    },
-    {
-      "titre": "La Pétasse",
-      "artistes": "Anne-Charlotte Laugier",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7500dbebdf72f27a8872a13e33436092/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/9/0/4f9503cfb591b7c8b0d03eb8f146754c.mp3?hdnea=exp=1792474016~acl=/api/1/1/4/f/9/0/4f9503cfb591b7c8b0d03eb8f146754c.mp3*~data=user_id=0,application_id=42~hmac=2f7d6f1fdb3fbba047f992d9e0eb8c38b3efb3266529f57a7ef73ff53dd3ae40",
-      "date": "2026-10-20",
-      "heure": 4,
-      "album": "La Pétasse",
-      "annee": 2021,
-      "start_ts": 1792471394,
-      "end_ts": 1792471549
-    },
-    {
-      "titre": "La Nocturne",
-      "artistes": "RIOPY",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/00e42c7151b948470201567499c2235d/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/c/0/decf5dd00d7e07ac81d84e909a919fbe.mp3?hdnea=exp=1792474017~acl=/api/1/1/d/e/c/0/decf5dd00d7e07ac81d84e909a919fbe.mp3*~data=user_id=0,application_id=42~hmac=c665c4b8e08e6d0b6b6ad05108cdd7795d02640daf053677f26783627d69f011",
-      "date": "2026-10-20",
-      "heure": 4,
-      "album": "Thrive",
-      "annee": 2023,
-      "start_ts": 1792470543,
-      "end_ts": 1792470724
     }
   ]
 }
