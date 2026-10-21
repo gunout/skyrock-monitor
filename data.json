@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-21T14:37:28.028244",
-  "genere_ts": 1792593448,
+  "genere_le": "2026-10-21T18:52:44.628423",
+  "genere_ts": 1792608764,
   "volume": {
-    "nb_diffusions": 659,
+    "nb_diffusions": 663,
     "nb_artistes": 152,
-    "nb_titres": 160,
+    "nb_titres": 161,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-21",
-    "heures_antenne": 32.03,
-    "duree_moy_s": 175.0
+    "heures_antenne": 32.18,
+    "duree_moy_s": 174.7
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 34,
+      "nb_diffusions": 35,
       "titres_differents": 2,
-      "minutes_antenne": 99.8
+      "minutes_antenne": 102.3
     },
     {
       "artistes": "KAROL G",
@@ -60,16 +60,22 @@
       "minutes_antenne": 54.0
     },
     {
+      "artistes": "Aya Nakamura",
+      "nb_diffusions": 21,
+      "titres_differents": 2,
+      "minutes_antenne": 53.0
+    },
+    {
       "artistes": "Timal",
       "nb_diffusions": 22,
       "titres_differents": 1,
       "minutes_antenne": 52.5
     },
     {
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 20,
-      "titres_differents": 1,
-      "minutes_antenne": 50.6
+      "artistes": "Gambi",
+      "nb_diffusions": 23,
+      "titres_differents": 2,
+      "minutes_antenne": 49.2
     },
     {
       "artistes": "Bad Bunny",
@@ -88,12 +94,6 @@
       "nb_diffusions": 13,
       "titres_differents": 1,
       "minutes_antenne": 47.2
-    },
-    {
-      "artistes": "Gambi",
-      "nb_diffusions": 22,
-      "titres_differents": 2,
-      "minutes_antenne": 47.1
     },
     {
       "artistes": "Jok'air",
@@ -146,16 +146,16 @@
       "minutes_antenne": 68.0
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 22,
+      "minutes_antenne": 55.5
+    },
+    {
       "artistes": "Timal",
       "titre": "Sicario",
       "nb_diffusions": 22,
       "minutes_antenne": 52.5
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_diffusions": 21,
-      "minutes_antenne": 53.0
     },
     {
       "artistes": "Aya Nakamura",
@@ -325,11 +325,11 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 70
+      "nb_diffusions": 75
     },
     {
       "heure": 18,
-      "nb_diffusions": 48
+      "nb_diffusions": 49
     },
     {
       "heure": 19,
@@ -470,8 +470,8 @@
     },
     {
       "date": "2026-10-21",
-      "nb_diffusions": 22,
-      "titres_differents": 19
+      "nb_diffusions": 28,
+      "titres_differents": 23
     }
   ],
   "semaine": [
@@ -489,7 +489,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 112
+      "nb_diffusions": 118
     },
     {
       "jour": "Jeudi",
@@ -508,8 +508,8 @@
     {
       "artistes": "Tiakola",
       "nb_jours": 20,
-      "nb_diffusions": 34,
-      "minutes": 99.8
+      "nb_diffusions": 35,
+      "minutes": 102.3
     },
     {
       "artistes": "Vacra",
@@ -531,9 +531,9 @@
     },
     {
       "artistes": "Gambi",
-      "nb_jours": 15,
-      "nb_diffusions": 22,
-      "minutes": 47.1
+      "nb_jours": 16,
+      "nb_diffusions": 23,
+      "minutes": 49.2
     },
     {
       "artistes": "KAROL G",
@@ -602,16 +602,16 @@
       "minutes": 33.6
     },
     {
+      "artistes": "Aya Nakamura",
+      "nb_jours": 9,
+      "nb_diffusions": 21,
+      "minutes": 53.0
+    },
+    {
       "artistes": "Jok'air",
       "nb_jours": 9,
       "nb_diffusions": 13,
       "minutes": 46.4
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "nb_jours": 8,
-      "nb_diffusions": 20,
-      "minutes": 50.6
     },
     {
       "artistes": "BIGBANG",
@@ -649,7 +649,7 @@
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 15,
-      "nb_diffusions": 21
+      "nb_diffusions": 22
     },
     {
       "artistes": "KAROL G",
@@ -762,17 +762,22 @@
     {
       "artistes": "Jul",
       "nb_titres_differents": 3,
-      "nb_diffusions": 3
+      "nb_diffusions": 4
     },
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 34
+      "nb_diffusions": 35
     },
     {
       "artistes": "Gambi",
       "nb_titres_differents": 2,
-      "nb_diffusions": 22
+      "nb_diffusions": 23
+    },
+    {
+      "artistes": "Aya Nakamura",
+      "nb_titres_differents": 2,
+      "nb_diffusions": 21
     },
     {
       "artistes": "GIMS",
@@ -840,11 +845,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 373
+      "nb_diffusions": 374
     },
     {
       "annee": 2025,
-      "nb_diffusions": 85
+      "nb_diffusions": 88
     },
     {
       "annee": 2024,
@@ -934,11 +939,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 330
+      "nb": 331
     },
     {
       "type_contenu": "Explicit",
-      "nb": 327
+      "nb": 330
     }
   ],
   "albums": [
@@ -965,7 +970,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 21
+      "nb_diffusions": 22
     },
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -1044,19 +1049,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Whistle",
-    "artistes": "Points of Conception",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/3ce2407b74afefea382538911e5b7354/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.5587218943388979251.10.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/0/0/f50fc7fcb4657d084ea67f3e830cddcb.mp3?hdnea=exp=1792594342~acl=/api/1/1/f/5/0/0/f50fc7fcb4657d084ea67f3e830cddcb.mp3*~data=user_id=0,application_id=42~hmac=c00a4f5a4b93ae2a2f65ac42ffdeb1a8b7811668dbb6a17bb57e90ed924ea941",
+    "titre": "Gros dégun",
+    "artistes": "Jul",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49d05f5a994627cf608b8626ce08ef2f/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/7/0/8f782abcbc67ff7087a652845ede44a3.mp3?hdnea=exp=1792609658~acl=/api/1/1/8/f/7/0/8f782abcbc67ff7087a652845ede44a3.mp3*~data=user_id=0,application_id=42~hmac=f14ad1084fec0a7a74a4244b9a2e2d83b03869ceac3d3ac2f9f837b7673f6d93",
     "date": "2026-10-21",
-    "heure": 14,
-    "album": "Whistle",
+    "heure": 18,
+    "album": "Album gratuit, vol. 8",
     "annee": 2025,
-    "start_ts": 1792593413,
-    "end_ts": 1792593634
+    "start_ts": 1792606821,
+    "end_ts": 1792606942
   },
   "derniers_morceaux": [
+    {
+      "titre": "Gros dégun",
+      "artistes": "Jul",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49d05f5a994627cf608b8626ce08ef2f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/7/0/8f782abcbc67ff7087a652845ede44a3.mp3?hdnea=exp=1792609658~acl=/api/1/1/8/f/7/0/8f782abcbc67ff7087a652845ede44a3.mp3*~data=user_id=0,application_id=42~hmac=f14ad1084fec0a7a74a4244b9a2e2d83b03869ceac3d3ac2f9f837b7673f6d93",
+      "date": "2026-10-21",
+      "heure": 18,
+      "album": "Album gratuit, vol. 8",
+      "annee": 2025,
+      "start_ts": 1792606821,
+      "end_ts": 1792606942
+    },
+    {
+      "titre": "COACHELLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1792609659~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=a73cbe4cf51becd4ff408ca277f92c059623bd41b057042b5b5d557acc73ce11",
+      "date": "2026-10-21",
+      "heure": 17,
+      "album": "COACHELLA",
+      "annee": 2025,
+      "start_ts": 1792605341,
+      "end_ts": 1792605462
+    },
+    {
+      "titre": "Nouméa",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-21",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792605044,
+      "end_ts": 1792605195
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1792609661~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=116e20c442cf08393473f1b64d4faee04ce88f9643adddab7c38e76b70e3cc76",
+      "date": "2026-10-21",
+      "heure": 17,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1792604893,
+      "end_ts": 1792605044
+    },
+    {
+      "titre": "No Stress",
+      "artistes": "Aya Nakamura",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5cb81e22714a46a4eba8d04c88d9e3cb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/19/SKYC.4112280526000696619.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/4/0/a747f3949f076e0d688f4f06efdaa03c.mp3?hdnea=exp=1792609662~acl=/api/1/1/a/7/4/0/a747f3949f076e0d688f4f06efdaa03c.mp3*~data=user_id=0,application_id=42~hmac=e16e16832134361efffd2c3396196929d2f0166768a12e9330adbec3b3818b3a",
+      "date": "2026-10-21",
+      "heure": 17,
+      "album": "Destinée",
+      "annee": 2025,
+      "start_ts": 1792604749,
+      "end_ts": 1792604891
+    },
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-21",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792604516,
+      "end_ts": 1792604750
+    },
     {
       "titre": "Whistle",
       "artistes": "Points of Conception",
@@ -1108,84 +1191,6 @@
       "annee": 2026,
       "start_ts": 1792592873,
       "end_ts": 1792593051
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1792594345~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=589110e80c9bdc036b179073f19507df918bff0ee26bda1de7bd81df900ce41f",
-      "date": "2026-10-21",
-      "heure": 14,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1792592718,
-      "end_ts": 1792592880
-    },
-    {
-      "titre": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792594346~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=beacb6a7985c153be2f404adc150e69eced9b91dd1a60bd5a404c04190fea13c",
-      "date": "2026-10-21",
-      "heure": 14,
-      "album": "SEXY NANA (Radio Edit)",
-      "annee": 2026,
-      "start_ts": 1792592572,
-      "end_ts": 1792592724
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792576242~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=da38bbb7107b1a794b5c5b39f7418b1c6d78025b53701aae6785bb8598413177",
-      "date": "2026-10-21",
-      "heure": 9,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1792575259,
-      "end_ts": 1792575425
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792576243~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=003b78d6cba16bd8dfa670d3c359e978318e2107b4ba25867997088da3dfb7bc",
-      "date": "2026-10-21",
-      "heure": 9,
-      "album": "Nouméa",
-      "annee": 2026,
-      "start_ts": 1792575032,
-      "end_ts": 1792575256
-    },
-    {
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "artistes": "Lil Gianni",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1792576245~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=b3bda3241eb4164c6d0dc5ec2d42469d6abb2d333d9f40c2beb33904ccdf1b84",
-      "date": "2026-10-21",
-      "heure": 9,
-      "album": "SAMPLEMAKER",
-      "annee": 2022,
-      "start_ts": 1792574859,
-      "end_ts": 1792575009
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-21",
-      "heure": 9,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792574696,
-      "end_ts": 1792574858
     }
   ]
 }
