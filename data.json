@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-21T22:00:41.969297",
-  "genere_ts": 1792620041,
+  "genere_le": "2026-10-22T00:27:56.994128",
+  "genere_ts": 1792628876,
   "volume": {
-    "nb_diffusions": 666,
+    "nb_diffusions": 670,
     "nb_artistes": 152,
     "nb_titres": 161,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-21",
-    "heures_antenne": 32.31,
+    "derniere_date": "2026-10-22",
+    "heures_antenne": 32.52,
     "duree_moy_s": 174.7
   },
   "top_artistes": [
@@ -72,6 +72,12 @@
       "minutes_antenne": 52.5
     },
     {
+      "artistes": "BIGBANG",
+      "nb_diffusions": 14,
+      "titres_differents": 1,
+      "minutes_antenne": 50.9
+    },
+    {
       "artistes": "Gambi",
       "nb_diffusions": 23,
       "titres_differents": 2,
@@ -88,12 +94,6 @@
       "nb_diffusions": 17,
       "titres_differents": 1,
       "minutes_antenne": 47.3
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_diffusions": 13,
-      "titres_differents": 1,
-      "minutes_antenne": 47.2
     },
     {
       "artistes": "Jok'air",
@@ -121,15 +121,15 @@
     },
     {
       "artistes": "Rusky",
-      "nb_diffusions": 12,
+      "nb_diffusions": 13,
       "titres_differents": 1,
-      "minutes_antenne": 30.4
+      "minutes_antenne": 32.9
     },
     {
-      "artistes": "Apache 207",
-      "nb_diffusions": 8,
+      "artistes": "Yuston XIII",
+      "nb_diffusions": 9,
       "titres_differents": 1,
-      "minutes_antenne": 29.1
+      "minutes_antenne": 30.8
     }
   ],
   "top_titres": [
@@ -218,6 +218,12 @@
       "minutes_antenne": 35.0
     },
     {
+      "artistes": "BIGBANG",
+      "titre": "LOSER",
+      "nb_diffusions": 14,
+      "minutes_antenne": 50.9
+    },
+    {
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_diffusions": 14,
@@ -230,10 +236,10 @@
       "minutes_antenne": 26.1
     },
     {
-      "artistes": "BIGBANG",
-      "titre": "LOSER",
+      "artistes": "Rusky",
+      "titre": "SEXY NANA (Radio Edit)",
       "nb_diffusions": 13,
-      "minutes_antenne": 47.2
+      "minutes_antenne": 32.9
     },
     {
       "artistes": "Tiakola",
@@ -246,18 +252,12 @@
       "titre": "Cote à la hausse",
       "nb_diffusions": 12,
       "minutes_antenne": 33.6
-    },
-    {
-      "artistes": "Rusky",
-      "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 12,
-      "minutes_antenne": 30.4
     }
   ],
   "heures": [
     {
       "heure": 0,
-      "nb_diffusions": 70
+      "nb_diffusions": 76
     },
     {
       "heure": 1,
@@ -472,6 +472,11 @@
       "date": "2026-10-21",
       "nb_diffusions": 32,
       "titres_differents": 27
+    },
+    {
+      "date": "2026-10-22",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -493,7 +498,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 94
+      "nb_diffusions": 100
     },
     {
       "jour": "Vendredi",
@@ -608,22 +613,22 @@
       "minutes": 53.0
     },
     {
+      "artistes": "BIGBANG",
+      "nb_jours": 9,
+      "nb_diffusions": 14,
+      "minutes": 50.9
+    },
+    {
       "artistes": "Jok'air",
       "nb_jours": 9,
       "nb_diffusions": 13,
       "minutes": 46.4
     },
     {
-      "artistes": "BIGBANG",
-      "nb_jours": 8,
-      "nb_diffusions": 13,
-      "minutes": 47.2
-    },
-    {
       "artistes": "Rusky",
-      "nb_jours": 8,
-      "nb_diffusions": 12,
-      "minutes": 30.4
+      "nb_jours": 9,
+      "nb_diffusions": 13,
+      "minutes": 32.9
     }
   ],
   "titres_recurrents": [
@@ -730,22 +735,22 @@
       "nb_diffusions": 12
     },
     {
-      "artistes": "Aya Nakamura",
-      "titre": "Sexy Nana",
-      "nb_jours": 8,
-      "nb_diffusions": 20
-    },
-    {
       "artistes": "BIGBANG",
       "titre": "LOSER",
-      "nb_jours": 8,
-      "nb_diffusions": 13
+      "nb_jours": 9,
+      "nb_diffusions": 14
     },
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
+      "nb_jours": 9,
+      "nb_diffusions": 13
+    },
+    {
+      "artistes": "Aya Nakamura",
+      "titre": "Sexy Nana",
       "nb_jours": 8,
-      "nb_diffusions": 12
+      "nb_diffusions": 20
     }
   ],
   "diversifies": [
@@ -802,7 +807,7 @@
     {
       "artistes": "L2B",
       "nb_titres_differents": 2,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     },
     {
       "artistes": "abel31",
@@ -845,7 +850,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 376
+      "nb_diffusions": 379
     },
     {
       "annee": 2025,
@@ -885,7 +890,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 19
+      "nb_diffusions": 20
     },
     {
       "annee": 2015,
@@ -939,11 +944,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 331
+      "nb": 334
     },
     {
       "type_contenu": "Explicit",
-      "nb": 333
+      "nb": 334
     }
   ],
   "albums": [
@@ -1028,19 +1033,19 @@
       "nb_diffusions": 14
     },
     {
+      "album": "MADE",
+      "artistes": "BIGBANG",
+      "nb_diffusions": 14
+    },
+    {
       "album": "WpointM",
       "artistes": "Tiakola",
       "nb_diffusions": 13
     },
     {
-      "album": "MADE",
-      "artistes": "BIGBANG",
-      "nb_diffusions": 13
-    },
-    {
       "album": "SEXY NANA (Radio Edit)",
       "artistes": "Rusky",
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "album": "Et si j'échoue ??",
@@ -1049,19 +1054,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "RENÉ CAOVILLA",
-    "artistes": null,
-    "cover_deezer": null,
-    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
-    "preview_mp3": null,
-    "date": "2026-10-21",
-    "heure": 21,
-    "album": null,
-    "annee": null,
-    "start_ts": 1792618706,
-    "end_ts": 1792618887
+    "titre": "SEXY NANA (Radio Edit)",
+    "artistes": "Rusky",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792629771~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=c55b71caa1e338bd24f804f27b0236ab02c9e069e90555bfd29958ea59cd3a8e",
+    "date": "2026-10-22",
+    "heure": 0,
+    "album": "SEXY NANA (Radio Edit)",
+    "annee": 2026,
+    "start_ts": 1792628865,
+    "end_ts": 1792629017
   },
   "derniers_morceaux": [
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792629771~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=c55b71caa1e338bd24f804f27b0236ab02c9e069e90555bfd29958ea59cd3a8e",
+      "date": "2026-10-22",
+      "heure": 0,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1792628865,
+      "end_ts": 1792629017
+    },
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.193.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1792629772~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=4d0d189581f2fe60e31fdbb7cdaed44775ed99493b4cb61571a7da6c9acc9e86",
+      "date": "2026-10-22",
+      "heure": 0,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1792628650,
+      "end_ts": 1792628868
+    },
+    {
+      "titre": "CYBERTESLA",
+      "artistes": "L2B",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1792629773~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=a6785e5f87938ba7bd3f24d3f2c82d14ec23f8f600349b9147494ff129e624c4",
+      "date": "2026-10-22",
+      "heure": 0,
+      "album": "CYBERTESLA",
+      "annee": 2026,
+      "start_ts": 1792628474,
+      "end_ts": 1792628647
+    },
+    {
+      "titre": "Run it",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/93/SKYC.9172201896900845793.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-22",
+      "heure": 0,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792628248,
+      "end_ts": 1792628476
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-22",
+      "heure": 0,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792628102,
+      "end_ts": 1792628249
+    },
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1792629775~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=018d78052a65349367ba4a5ccddce3808d716d11e6800767e2eeedd5402b6a1a",
+      "date": "2026-10-22",
+      "heure": 0,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1792627899,
+      "end_ts": 1792628104
+    },
     {
       "titre": "RENÉ CAOVILLA",
       "artistes": null,
@@ -1113,84 +1196,6 @@
       "annee": 2026,
       "start_ts": 1792609193,
       "end_ts": 1792609366
-    },
-    {
-      "titre": "Gros dégun",
-      "artistes": "Jul",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49d05f5a994627cf608b8626ce08ef2f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/7/0/8f782abcbc67ff7087a652845ede44a3.mp3?hdnea=exp=1792609658~acl=/api/1/1/8/f/7/0/8f782abcbc67ff7087a652845ede44a3.mp3*~data=user_id=0,application_id=42~hmac=f14ad1084fec0a7a74a4244b9a2e2d83b03869ceac3d3ac2f9f837b7673f6d93",
-      "date": "2026-10-21",
-      "heure": 18,
-      "album": "Album gratuit, vol. 8",
-      "annee": 2025,
-      "start_ts": 1792606821,
-      "end_ts": 1792606942
-    },
-    {
-      "titre": "COACHELLA",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1792609659~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=a73cbe4cf51becd4ff408ca277f92c059623bd41b057042b5b5d557acc73ce11",
-      "date": "2026-10-21",
-      "heure": 17,
-      "album": "COACHELLA",
-      "annee": 2025,
-      "start_ts": 1792605341,
-      "end_ts": 1792605462
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-21",
-      "heure": 17,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792605044,
-      "end_ts": 1792605195
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1792609661~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=116e20c442cf08393473f1b64d4faee04ce88f9643adddab7c38e76b70e3cc76",
-      "date": "2026-10-21",
-      "heure": 17,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1792604893,
-      "end_ts": 1792605044
-    },
-    {
-      "titre": "No Stress",
-      "artistes": "Aya Nakamura",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5cb81e22714a46a4eba8d04c88d9e3cb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/19/SKYC.4112280526000696619.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/4/0/a747f3949f076e0d688f4f06efdaa03c.mp3?hdnea=exp=1792609662~acl=/api/1/1/a/7/4/0/a747f3949f076e0d688f4f06efdaa03c.mp3*~data=user_id=0,application_id=42~hmac=e16e16832134361efffd2c3396196929d2f0166768a12e9330adbec3b3818b3a",
-      "date": "2026-10-21",
-      "heure": 17,
-      "album": "Destinée",
-      "annee": 2025,
-      "start_ts": 1792604749,
-      "end_ts": 1792604891
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-21",
-      "heure": 17,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792604516,
-      "end_ts": 1792604750
     }
   ]
 }
