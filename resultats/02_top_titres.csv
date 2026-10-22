@@ -1,9 +1,9 @@
 ﻿artistes,titre,nb_diffusions,minutes_antenne
 Vacra,Fille à Papa,29,80.2
 Leto,Pineapple,28,73.3
+Timal,Sicario,23,54.9
 PLK,Pocahontas,22,59.4
 Tiakola,Mélo Décalé,22,55.5
-Timal,Sicario,22,52.5
 KAROL G,BbY WOW,21,78.0
 Slimane,Maladie,21,65.1
 Aya Nakamura,Sexy Nana,20,50.6
@@ -13,22 +13,22 @@ GIMS,VIVE LA MONNAIE,18,53.8
 Niska,Allo Doudou,17,47.3
 Bad Bunny,NUEVAYoL,16,48.5
 Gambi,RENÉ CAOVILLA,16,35.0
+Rusky,SEXY NANA (Radio Edit),15,38.0
 BIGBANG,LOSER,14,50.9
-Rusky,SEXY NANA (Radio Edit),14,35.4
 Lil Gianni,"Séminaire (feat. Soushimada, Shivas & Machi)",14,35.0
 Mauvais djo,Wagyu,14,26.1
 Tiakola,La Nocturne,13,46.8
 Bouss,Cote à la hausse,12,33.6
 Jok'air,Nouméa,10,37.3
 disiz,melodrama,10,29.0
+Djaksparo,Pangor (Swalalala),10,20.0
 Yuston XIII,Histoire sans fin,9,30.8
-Djaksparo,Pangor (Swalalala),9,18.0
+Gambi,COACHELLA,9,18.1
 Apache 207,Loser,8,29.1
 Ariana Grande,hate that i made you love me (ari lyric draft from bed),8,25.6
 Adèle Castillon,Été avec toi,8,24.5
 Guy2bezbar,Je pense à toi,8,22.7
 Josas,Deliciosa,8,21.6
-Gambi,COACHELLA,8,16.1
 Christophe Maé,On s'attache,7,22.2
 paopao,cuenta,7,21.0
 Moji x Sboy,UBER,7,18.2
@@ -45,6 +45,7 @@ Chris Cornell,Billie Jean,3,14.3
 USHER,DJ Got Us Fallin' In Love (feat. Pitbull),3,10.9
 Teddy Swims,Mr. Know It All,3,9.7
 Jok'air,Fille à papa,3,9.1
+RnBoi,J'assume,3,8.8
 Moha La Squale,Pas comme eux,3,7.3
 Bardcore,The Real Slim Shady (Medieval Version),2,9.3
 Akon,Lonely,2,7.8
@@ -55,7 +56,6 @@ Yovo,BELVEDERE,2,6.0
 Ronisia,Cuenta (feat. Meryl & Shay),2,6.0
 MK,Sexy Nana,2,6.0
 La Chine,Sicario,2,6.0
-RnBoi,J'assume,2,5.9
 Cinco,UBER,2,5.2
 TK,Coachella,2,5.1
 ROSALÍA,DESPECHÁ,2,5.1
@@ -150,6 +150,7 @@ L2B,Tout Pour L'équipe,1,2.9
 Jeeno,COLLABO,1,2.8
 ItsAMoney,7 Rings,1,2.8
 Cheu-B,Catalina (Speed up),1,2.8
+Charles Aznavour,Le temps (Remasterisé En 2001),1,2.7
 Trinidad Cardona,Dinero,1,2.6
 Heuss L'enfoiré,Khapta,1,2.6
 Anne-Charlotte Laugier,La Pétasse,1,2.6

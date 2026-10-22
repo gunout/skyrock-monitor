@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-22T15:10:46.825094",
-  "genere_ts": 1792681846,
+  "genere_le": "2026-10-22T19:09:46.603936",
+  "genere_ts": 1792696186,
   "volume": {
-    "nb_diffusions": 685,
-    "nb_artistes": 155,
-    "nb_titres": 165,
+    "nb_diffusions": 691,
+    "nb_artistes": 156,
+    "nb_titres": 166,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-22",
-    "heures_antenne": 33.25,
-    "duree_moy_s": 174.8
+    "heures_antenne": 33.49,
+    "duree_moy_s": 174.5
   },
   "top_artistes": [
     {
@@ -60,22 +60,22 @@
       "minutes_antenne": 57.7
     },
     {
+      "artistes": "Timal",
+      "nb_diffusions": 23,
+      "titres_differents": 1,
+      "minutes_antenne": 54.9
+    },
+    {
+      "artistes": "Gambi",
+      "nb_diffusions": 25,
+      "titres_differents": 2,
+      "minutes_antenne": 53.2
+    },
+    {
       "artistes": "Aya Nakamura",
       "nb_diffusions": 21,
       "titres_differents": 2,
       "minutes_antenne": 53.0
-    },
-    {
-      "artistes": "Timal",
-      "nb_diffusions": 22,
-      "titres_differents": 1,
-      "minutes_antenne": 52.5
-    },
-    {
-      "artistes": "Gambi",
-      "nb_diffusions": 24,
-      "titres_differents": 2,
-      "minutes_antenne": 51.2
     },
     {
       "artistes": "BIGBANG",
@@ -109,9 +109,9 @@
     },
     {
       "artistes": "Rusky",
-      "nb_diffusions": 14,
+      "nb_diffusions": 15,
       "titres_differents": 1,
-      "minutes_antenne": 35.4
+      "minutes_antenne": 38.0
     },
     {
       "artistes": "Lil Gianni",
@@ -146,6 +146,12 @@
       "minutes_antenne": 73.3
     },
     {
+      "artistes": "Timal",
+      "titre": "Sicario",
+      "nb_diffusions": 23,
+      "minutes_antenne": 54.9
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_diffusions": 22,
@@ -156,12 +162,6 @@
       "titre": "Mélo Décalé",
       "nb_diffusions": 22,
       "minutes_antenne": 55.5
-    },
-    {
-      "artistes": "Timal",
-      "titre": "Sicario",
-      "nb_diffusions": 22,
-      "minutes_antenne": 52.5
     },
     {
       "artistes": "KAROL G",
@@ -218,6 +218,12 @@
       "minutes_antenne": 35.0
     },
     {
+      "artistes": "Rusky",
+      "titre": "SEXY NANA (Radio Edit)",
+      "nb_diffusions": 15,
+      "minutes_antenne": 38.0
+    },
+    {
       "artistes": "BIGBANG",
       "titre": "LOSER",
       "nb_diffusions": 14,
@@ -234,12 +240,6 @@
       "titre": "Wagyu",
       "nb_diffusions": 14,
       "minutes_antenne": 26.1
-    },
-    {
-      "artistes": "Rusky",
-      "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 14,
-      "minutes_antenne": 35.4
     },
     {
       "artistes": "Tiakola",
@@ -325,11 +325,11 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 75
+      "nb_diffusions": 79
     },
     {
       "heure": 18,
-      "nb_diffusions": 50
+      "nb_diffusions": 52
     },
     {
       "heure": 19,
@@ -475,8 +475,8 @@
     },
     {
       "date": "2026-10-22",
-      "nb_diffusions": 24,
-      "titres_differents": 20
+      "nb_diffusions": 30,
+      "titres_differents": 24
     }
   ],
   "semaine": [
@@ -498,7 +498,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 118
+      "nb_diffusions": 124
     },
     {
       "jour": "Vendredi",
@@ -537,8 +537,8 @@
     {
       "artistes": "Gambi",
       "nb_jours": 17,
-      "nb_diffusions": 24,
-      "minutes": 51.2
+      "nb_diffusions": 25,
+      "minutes": 53.2
     },
     {
       "artistes": "KAROL G",
@@ -553,16 +553,16 @@
       "minutes": 63.6
     },
     {
+      "artistes": "Timal",
+      "nb_jours": 14,
+      "nb_diffusions": 23,
+      "minutes": 54.9
+    },
+    {
       "artistes": "Bad Bunny",
       "nb_jours": 14,
       "nb_diffusions": 16,
       "minutes": 48.5
-    },
-    {
-      "artistes": "Timal",
-      "nb_jours": 13,
-      "nb_diffusions": 22,
-      "minutes": 52.5
     },
     {
       "artistes": "Slimane",
@@ -613,16 +613,16 @@
       "minutes": 53.0
     },
     {
+      "artistes": "Rusky",
+      "nb_jours": 9,
+      "nb_diffusions": 15,
+      "minutes": 38.0
+    },
+    {
       "artistes": "BIGBANG",
       "nb_jours": 9,
       "nb_diffusions": 14,
       "minutes": 50.9
-    },
-    {
-      "artistes": "Rusky",
-      "nb_jours": 9,
-      "nb_diffusions": 14,
-      "minutes": 35.4
     },
     {
       "artistes": "Jok'air",
@@ -663,6 +663,12 @@
       "nb_diffusions": 21
     },
     {
+      "artistes": "Timal",
+      "titre": "Sicario",
+      "nb_jours": 14,
+      "nb_diffusions": 23
+    },
+    {
       "artistes": "Tame Impala",
       "titre": "Dracula (with JENNIE)",
       "nb_jours": 14,
@@ -679,12 +685,6 @@
       "titre": "NUEVAYoL",
       "nb_jours": 14,
       "nb_diffusions": 16
-    },
-    {
-      "artistes": "Timal",
-      "titre": "Sicario",
-      "nb_jours": 13,
-      "nb_diffusions": 22
     },
     {
       "artistes": "Slimane",
@@ -738,7 +738,7 @@
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
       "nb_jours": 9,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "artistes": "BIGBANG",
@@ -747,10 +747,10 @@
       "nb_diffusions": 14
     },
     {
-      "artistes": "Aya Nakamura",
-      "titre": "Sexy Nana",
-      "nb_jours": 8,
-      "nb_diffusions": 20
+      "artistes": "Djaksparo",
+      "titre": "Pangor (Swalalala)",
+      "nb_jours": 9,
+      "nb_diffusions": 10
     }
   ],
   "diversifies": [
@@ -782,7 +782,7 @@
     {
       "artistes": "Gambi",
       "nb_titres_differents": 2,
-      "nb_diffusions": 24
+      "nb_diffusions": 25
     },
     {
       "artistes": "Aya Nakamura",
@@ -855,11 +855,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 384
+      "nb_diffusions": 388
     },
     {
       "annee": 2025,
-      "nb_diffusions": 90
+      "nb_diffusions": 91
     },
     {
       "annee": 2024,
@@ -906,6 +906,10 @@
       "nb_diffusions": 2
     },
     {
+      "annee": 2013,
+      "nb_diffusions": 1
+    },
+    {
       "annee": 2012,
       "nb_diffusions": 1
     },
@@ -949,11 +953,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 340
+      "nb": 344
     },
     {
       "type_contenu": "Explicit",
-      "nb": 343
+      "nb": 345
     }
   ],
   "albums": [
@@ -970,7 +974,7 @@
     {
       "album": "Sicario",
       "artistes": "Timal",
-      "nb_diffusions": 24
+      "nb_diffusions": 25
     },
     {
       "album": "Sexy Nana",
@@ -1028,13 +1032,13 @@
       "nb_diffusions": 16
     },
     {
-      "album": "Wagyu",
-      "artistes": "Mauvais djo",
-      "nb_diffusions": 14
-    },
-    {
       "album": "SEXY NANA (Radio Edit)",
       "artistes": "Rusky",
+      "nb_diffusions": 15
+    },
+    {
+      "album": "Wagyu",
+      "artistes": "Mauvais djo",
       "nb_diffusions": 14
     },
     {
@@ -1059,19 +1063,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "La petasse",
-    "artistes": "DJ Jordan MasterBoy",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1792682741~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=db4b3365912dcbd053561bbcdb82c84f20523e2956f1b7fcdc6541eb66b22943",
+    "titre": "SEXY NANA (Radio Edit)",
+    "artistes": "Rusky",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792697080~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=0c8ccf7f535e6843ff67aa7e121507239a88f2f260ae006be530285cc4102c2c",
     "date": "2026-10-22",
-    "heure": 15,
-    "album": "La petasse",
-    "annee": 2024,
-    "start_ts": 1792681757,
-    "end_ts": 1792681903
+    "heure": 18,
+    "album": "SEXY NANA (Radio Edit)",
+    "annee": 2026,
+    "start_ts": 1792695430,
+    "end_ts": 1792695582
   },
   "derniers_morceaux": [
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792697080~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=0c8ccf7f535e6843ff67aa7e121507239a88f2f260ae006be530285cc4102c2c",
+      "date": "2026-10-22",
+      "heure": 18,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1792695430,
+      "end_ts": 1792695582
+    },
+    {
+      "titre": "COACHELLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1792697081~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=d8bff5bb3405304b815e3f2795a297dff13452d10191d549e429677e6a483268",
+      "date": "2026-10-22",
+      "heure": 18,
+      "album": "COACHELLA",
+      "annee": 2025,
+      "start_ts": 1792693166,
+      "end_ts": 1792693287
+    },
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": "Djaksparo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1792697082~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=f6e52ab26fab7e146f25d4d17bbaa8ae462e8b5676023f7c9074beec77c944dd",
+      "date": "2026-10-22",
+      "heure": 17,
+      "album": "Pangor (Swalalala)",
+      "annee": 2026,
+      "start_ts": 1792691695,
+      "end_ts": 1792691816
+    },
+    {
+      "titre": "Le temps (Remasterisé En 2001)",
+      "artistes": "Charles Aznavour",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/8bf1d77226a76ef86464094cab158461/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/38/SKYC.7335266872156357838.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/9/0/bf98002dfc7aebcc8f57e20b480e967a.mp3?hdnea=exp=1792697083~acl=/api/1/1/b/f/9/0/bf98002dfc7aebcc8f57e20b480e967a.mp3*~data=user_id=0,application_id=42~hmac=c43bcbc989553716641d750c92737edf0696282116f7a0118fc57a2693a5995b",
+      "date": "2026-10-22",
+      "heure": 17,
+      "album": "Best Of 20 Chansons",
+      "annee": 2013,
+      "start_ts": 1792691420,
+      "end_ts": 1792691581
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1792697084~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=6ac475b0a26f1e931b42f4f1ce05012659c27395f37910136a31d82b5467d970",
+      "date": "2026-10-22",
+      "heure": 17,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1792691246,
+      "end_ts": 1792691423
+    },
+    {
+      "titre": "Sicario",
+      "artistes": "Timal",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1792697085~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=3b39bb042e2b4b1a7f3f087816640e35527659627c16029607e778ce628e81a6",
+      "date": "2026-10-22",
+      "heure": 17,
+      "album": "Sicario",
+      "annee": 2026,
+      "start_ts": 1792691107,
+      "end_ts": 1792691251
+    },
     {
       "titre": "La petasse",
       "artistes": "DJ Jordan MasterBoy",
@@ -1123,84 +1205,6 @@
       "annee": 2022,
       "start_ts": 1792681134,
       "end_ts": 1792681418
-    },
-    {
-      "titre": "COACHELLA",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1792682744~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=43898e111bbbe56ba4d9e9ae58b4c2a1e3859cff59412d0f05daa5eb7d337c45",
-      "date": "2026-10-22",
-      "heure": 14,
-      "album": "COACHELLA",
-      "annee": 2025,
-      "start_ts": 1792680830,
-      "end_ts": 1792680951
-    },
-    {
-      "titre": "Monaco",
-      "artistes": "Guy2bezbar",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4e6b43dbc7c9bc398d6a816b34419e8a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/66/SKYC.5090299992816446966.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/b/0/c5b5e87e29053b33dab6485207daa36d.mp3?hdnea=exp=1792682745~acl=/api/1/1/c/5/b/0/c5b5e87e29053b33dab6485207daa36d.mp3*~data=user_id=0,application_id=42~hmac=b1dbd5f7698da9a3a09e5b30077208a7a551f0160f5bc554bde6c1a0af09deed",
-      "date": "2026-10-22",
-      "heure": 14,
-      "album": "Monaco",
-      "annee": 2024,
-      "start_ts": 1792680330,
-      "end_ts": 1792680466
-    },
-    {
-      "titre": "Billie Jean",
-      "artistes": "Chris Cornell",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1792664414~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=6c7f231cc70335025dc10042052cc990f4543c96517cfc9647cddb2879d886f6",
-      "date": "2026-10-22",
-      "heure": 10,
-      "album": "Chris Cornell (Deluxe Edition)",
-      "annee": 2018,
-      "start_ts": 1792663482,
-      "end_ts": 1792663768
-    },
-    {
-      "titre": "Maladie",
-      "artistes": "Slimane",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1792664415~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=fe743d57767ca6b5fc29b43ba7d4043e1c275e472eeba7ee7faf41c44ccd70af",
-      "date": "2026-10-22",
-      "heure": 10,
-      "album": "Chroniques d’un cupidon",
-      "annee": 2022,
-      "start_ts": 1792663292,
-      "end_ts": 1792663478
-    },
-    {
-      "titre": "Etat des lieux (Part 1)",
-      "artistes": "La Fouine",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2c225e238e130ab355928e4f5af67ebf/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/93/SKYC.1439694398691021493.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/6/0/1a6527eff3cc1a540e103065dbec3fef.mp3?hdnea=exp=1792664416~acl=/api/1/1/1/a/6/0/1a6527eff3cc1a540e103065dbec3fef.mp3*~data=user_id=0,application_id=42~hmac=b229f11eaed93e2bbc0acf5354db71fecfb124a9302ecf9e158fd8905d3e9012",
-      "date": "2026-10-22",
-      "heure": 9,
-      "album": "ÉTAT DES LIEUX",
-      "annee": 2025,
-      "start_ts": 1792663120,
-      "end_ts": 1792663231
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1792664417~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=a8473383bcef37238bef5553d43a880aeac0ec58b69ad868663d2c5cb93894f6",
-      "date": "2026-10-22",
-      "heure": 9,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1792662958,
-      "end_ts": 1792663120
     }
   ]
 }
