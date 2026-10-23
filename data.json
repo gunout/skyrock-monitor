@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-23T18:56:21.946420",
-  "genere_ts": 1792781781,
+  "genere_le": "2026-10-23T21:45:05.982574",
+  "genere_ts": 1792791905,
   "volume": {
-    "nb_diffusions": 725,
+    "nb_diffusions": 729,
     "nb_artistes": 158,
     "nb_titres": 169,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-23",
-    "heures_antenne": 35.07,
+    "heures_antenne": 35.25,
     "duree_moy_s": 174.1
   },
   "top_artistes": [
@@ -25,15 +25,15 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 30,
+      "nb_diffusions": 31,
       "titres_differents": 1,
-      "minutes_antenne": 83.0
+      "minutes_antenne": 85.8
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 29,
+      "nb_diffusions": 30,
       "titres_differents": 1,
-      "minutes_antenne": 75.9
+      "minutes_antenne": 78.5
     },
     {
       "artistes": "Slimane",
@@ -115,9 +115,9 @@
     },
     {
       "artistes": "Lil Gianni",
-      "nb_diffusions": 15,
+      "nb_diffusions": 16,
       "titres_differents": 1,
-      "minutes_antenne": 37.5
+      "minutes_antenne": 40.0
     },
     {
       "artistes": "Bouss",
@@ -136,14 +136,14 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 30,
-      "minutes_antenne": 83.0
+      "nb_diffusions": 31,
+      "minutes_antenne": 85.8
     },
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_diffusions": 29,
-      "minutes_antenne": 75.9
+      "nb_diffusions": 30,
+      "minutes_antenne": 78.5
     },
     {
       "artistes": "PLK",
@@ -224,6 +224,12 @@
       "minutes_antenne": 35.0
     },
     {
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "nb_diffusions": 16,
+      "minutes_antenne": 40.0
+    },
+    {
       "artistes": "Mauvais djo",
       "titre": "Wagyu",
       "nb_diffusions": 16,
@@ -234,12 +240,6 @@
       "titre": "LOSER",
       "nb_diffusions": 15,
       "minutes_antenne": 54.5
-    },
-    {
-      "artistes": "Lil Gianni",
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_diffusions": 15,
-      "minutes_antenne": 37.5
     },
     {
       "artistes": "Bouss",
@@ -329,19 +329,19 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 53
+      "nb_diffusions": 54
     },
     {
       "heure": 19,
-      "nb_diffusions": 35
+      "nb_diffusions": 36
     },
     {
       "heure": 20,
-      "nb_diffusions": 28
+      "nb_diffusions": 29
     },
     {
       "heure": 21,
-      "nb_diffusions": 20
+      "nb_diffusions": 22
     },
     {
       "heure": 22,
@@ -480,8 +480,8 @@
     },
     {
       "date": "2026-10-23",
-      "nb_diffusions": 30,
-      "titres_differents": 27
+      "nb_diffusions": 35,
+      "titres_differents": 29
     }
   ],
   "semaine": [
@@ -507,7 +507,7 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 119
+      "nb_diffusions": 124
     },
     {
       "jour": "Samedi",
@@ -524,8 +524,8 @@
     {
       "artistes": "Leto",
       "nb_jours": 19,
-      "nb_diffusions": 29,
-      "minutes": 75.9
+      "nb_diffusions": 30,
+      "minutes": 78.5
     },
     {
       "artistes": "PLK",
@@ -536,8 +536,8 @@
     {
       "artistes": "Vacra",
       "nb_jours": 18,
-      "nb_diffusions": 30,
-      "minutes": 83.0
+      "nb_diffusions": 31,
+      "minutes": 85.8
     },
     {
       "artistes": "Gambi",
@@ -590,8 +590,8 @@
     {
       "artistes": "Lil Gianni",
       "nb_jours": 12,
-      "nb_diffusions": 15,
-      "minutes": 37.5
+      "nb_diffusions": 16,
+      "minutes": 40.0
     },
     {
       "artistes": "Mauvais djo",
@@ -641,7 +641,7 @@
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_jours": 19,
-      "nb_diffusions": 29
+      "nb_diffusions": 30
     },
     {
       "artistes": "PLK",
@@ -653,7 +653,7 @@
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_jours": 18,
-      "nb_diffusions": 30
+      "nb_diffusions": 31
     },
     {
       "artistes": "Tiakola",
@@ -713,7 +713,7 @@
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_jours": 12,
-      "nb_diffusions": 15
+      "nb_diffusions": 16
     },
     {
       "artistes": "Niska",
@@ -865,7 +865,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 409
+      "nb_diffusions": 412
     },
     {
       "annee": 2025,
@@ -881,7 +881,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 57
+      "nb_diffusions": 58
     },
     {
       "annee": 2021,
@@ -971,19 +971,19 @@
     },
     {
       "type_contenu": "Explicit",
-      "nb": 361
+      "nb": 365
     }
   ],
   "albums": [
     {
       "album": "Pineapple",
       "artistes": "Leto",
-      "nb_diffusions": 30
+      "nb_diffusions": 31
     },
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 30
+      "nb_diffusions": 31
     },
     {
       "album": "Sicario",
@@ -1058,7 +1058,7 @@
     {
       "album": "SAMPLEMAKER",
       "artistes": "Lil Gianni",
-      "nb_diffusions": 15
+      "nb_diffusions": 16
     },
     {
       "album": "MADE",
@@ -1077,19 +1077,84 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Pangor (Swalalala)",
-    "artistes": "Djaksparo",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1792782676~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=e668b3b1565a39d282837a9d24440f282bdc8fa69ef1d6232a7f96a91752d800",
+    "titre": "DANCE FOR ME x LA PÉTASSE",
+    "artistes": "Manzala",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cf67bbeb542373520dab73ed158e227d/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/9/0/e7976f95cec67e62d419709bb16c6a2c.mp3?hdnea=exp=1792792800~acl=/api/1/1/e/7/9/0/e7976f95cec67e62d419709bb16c6a2c.mp3*~data=user_id=0,application_id=42~hmac=53a87314e6c8ea19c6174c87c512bc915411923b0af1cbbc2e2cbbe1781b0074",
     "date": "2026-10-23",
-    "heure": 18,
-    "album": "Pangor (Swalalala)",
+    "heure": 21,
+    "album": "DANCE FOR ME x LA PÉTASSE",
     "annee": 2026,
-    "start_ts": 1792779621,
-    "end_ts": 1792779742
+    "start_ts": 1792791567,
+    "end_ts": 1792791748
   },
   "derniers_morceaux": [
+    {
+      "titre": "DANCE FOR ME x LA PÉTASSE",
+      "artistes": "Manzala",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cf67bbeb542373520dab73ed158e227d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/9/0/e7976f95cec67e62d419709bb16c6a2c.mp3?hdnea=exp=1792792800~acl=/api/1/1/e/7/9/0/e7976f95cec67e62d419709bb16c6a2c.mp3*~data=user_id=0,application_id=42~hmac=53a87314e6c8ea19c6174c87c512bc915411923b0af1cbbc2e2cbbe1781b0074",
+      "date": "2026-10-23",
+      "heure": 21,
+      "album": "DANCE FOR ME x LA PÉTASSE",
+      "annee": 2026,
+      "start_ts": 1792791567,
+      "end_ts": 1792791748
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1792792801~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=aaaca519335bb67b079ef55754c801982924dfe9ac5a9ee95b915744fe03882e",
+      "date": "2026-10-23",
+      "heure": 21,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1792789229,
+      "end_ts": 1792789386
+    },
+    {
+      "titre": "RENÉ CAOVILLA",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-23",
+      "heure": 20,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792786371,
+      "end_ts": 1792786492
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792792803~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=bbec4e068e9e7088257bb8aafc9ff48fe1e0fe2e6f6553eeff9617cc340709c4",
+      "date": "2026-10-23",
+      "heure": 19,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1792783993,
+      "end_ts": 1792784159
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1792792804~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=b963063a0994ad452feceb5e0b154168ef903f6d15f1eacf7d5a8626b0b9029b",
+      "date": "2026-10-23",
+      "heure": 18,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1792781873,
+      "end_ts": 1792782023
+    },
     {
       "titre": "Pangor (Swalalala)",
       "artistes": "Djaksparo",
@@ -1154,71 +1219,6 @@
       "annee": 2026,
       "start_ts": 1792777466,
       "end_ts": 1792777578
-    },
-    {
-      "titre": "Pocahontas",
-      "artistes": "PLK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1792782680~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=04226721802a089be8471e807a34f6f2c6e548b18872bb23be8c72faba3bfca2",
-      "date": "2026-10-23",
-      "heure": 17,
-      "album": "Grand Garçon",
-      "annee": 2026,
-      "start_ts": 1792777314,
-      "end_ts": 1792777476
-    },
-    {
-      "titre": "If I Were a Boy (In the Style of Beyoncé)",
-      "artistes": "Stingray",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2617c23bf074ce73c0c3a05afaddb6f2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.2071384875881648614.8.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/9/0/639fd5505b5aeda003028d439ae38362.mp3?hdnea=exp=1792768590~acl=/api/1/1/6/3/9/0/639fd5505b5aeda003028d439ae38362.mp3*~data=user_id=0,application_id=42~hmac=6369aeb838bf10ae732254aa45cc30e253bea19e9cb995944f091b67233f4db9",
-      "date": "2026-10-23",
-      "heure": 14,
-      "album": "2000's Hits",
-      "annee": 2022,
-      "start_ts": 1792767478,
-      "end_ts": 1792767723
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1792768591~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=6cb60c96b7a52f9b23af00f3b7ed8b372d90a9bbe983a9a1a2215d7812f33e5e",
-      "date": "2026-10-23",
-      "heure": 14,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1792767317,
-      "end_ts": 1792767474
-    },
-    {
-      "titre": "Pangor (Swalalala)",
-      "artistes": "Djaksparo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1792768592~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=44d173a710c86f9a377e2a9342514fac654875827c4a39ad3cd3097b655eb16c",
-      "date": "2026-10-23",
-      "heure": 14,
-      "album": "Pangor (Swalalala)",
-      "annee": 2026,
-      "start_ts": 1792767192,
-      "end_ts": 1792767313
-    },
-    {
-      "titre": "J'assume",
-      "artistes": "RnBoi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1792768593~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=48c849d2829b87fbbf62259080e5b21d2747db5dc119a9046a729de5484c9713",
-      "date": "2026-10-23",
-      "heure": 14,
-      "album": "J'assume",
-      "annee": 2026,
-      "start_ts": 1792766652,
-      "end_ts": 1792766829
     }
   ]
 }
