@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-23T05:20:24.127523",
-  "genere_ts": 1792732824,
+  "genere_le": "2026-10-23T10:11:59.340274",
+  "genere_ts": 1792750319,
   "volume": {
-    "nb_diffusions": 707,
+    "nb_diffusions": 713,
     "nb_artistes": 156,
     "nb_titres": 167,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-23",
-    "heures_antenne": 34.24,
-    "duree_moy_s": 174.3
+    "heures_antenne": 34.54,
+    "duree_moy_s": 174.4
   },
   "top_artistes": [
     {
@@ -19,9 +19,9 @@
     },
     {
       "artistes": "KAROL G",
-      "nb_diffusions": 23,
+      "nb_diffusions": 24,
       "titres_differents": 3,
-      "minutes_antenne": 84.2
+      "minutes_antenne": 87.9
     },
     {
       "artistes": "Vacra",
@@ -55,15 +55,27 @@
     },
     {
       "artistes": "GIMS",
-      "nb_diffusions": 19,
+      "nb_diffusions": 20,
       "titres_differents": 2,
-      "minutes_antenne": 57.7
+      "minutes_antenne": 60.6
     },
     {
       "artistes": "Timal",
       "nb_diffusions": 24,
       "titres_differents": 1,
       "minutes_antenne": 57.3
+    },
+    {
+      "artistes": "Bad Bunny",
+      "nb_diffusions": 18,
+      "titres_differents": 1,
+      "minutes_antenne": 54.6
+    },
+    {
+      "artistes": "BIGBANG",
+      "nb_diffusions": 15,
+      "titres_differents": 1,
+      "minutes_antenne": 54.5
     },
     {
       "artistes": "Gambi",
@@ -76,18 +88,6 @@
       "nb_diffusions": 21,
       "titres_differents": 2,
       "minutes_antenne": 53.0
-    },
-    {
-      "artistes": "Bad Bunny",
-      "nb_diffusions": 17,
-      "titres_differents": 1,
-      "minutes_antenne": 51.5
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_diffusions": 14,
-      "titres_differents": 1,
-      "minutes_antenne": 50.9
     },
     {
       "artistes": "Jok'air",
@@ -109,21 +109,21 @@
     },
     {
       "artistes": "Rusky",
-      "nb_diffusions": 16,
+      "nb_diffusions": 17,
       "titres_differents": 1,
-      "minutes_antenne": 40.5
+      "minutes_antenne": 43.0
+    },
+    {
+      "artistes": "Lil Gianni",
+      "nb_diffusions": 15,
+      "titres_differents": 1,
+      "minutes_antenne": 37.5
     },
     {
       "artistes": "Bouss",
       "nb_diffusions": 13,
       "titres_differents": 1,
       "minutes_antenne": 36.4
-    },
-    {
-      "artistes": "Lil Gianni",
-      "nb_diffusions": 14,
-      "titres_differents": 1,
-      "minutes_antenne": 35.0
     },
     {
       "artistes": "Yuston XIII",
@@ -166,8 +166,8 @@
     {
       "artistes": "KAROL G",
       "titre": "BbY WOW",
-      "nb_diffusions": 21,
-      "minutes_antenne": 78.0
+      "nb_diffusions": 22,
+      "minutes_antenne": 81.8
     },
     {
       "artistes": "Slimane",
@@ -190,8 +190,14 @@
     {
       "artistes": "GIMS",
       "titre": "VIVE LA MONNAIE",
+      "nb_diffusions": 19,
+      "minutes_antenne": 56.7
+    },
+    {
+      "artistes": "Bad Bunny",
+      "titre": "NUEVAYoL",
       "nb_diffusions": 18,
-      "minutes_antenne": 53.8
+      "minutes_antenne": 54.6
     },
     {
       "artistes": "Tame Impala",
@@ -200,16 +206,16 @@
       "minutes_antenne": 60.3
     },
     {
-      "artistes": "Bad Bunny",
-      "titre": "NUEVAYoL",
-      "nb_diffusions": 17,
-      "minutes_antenne": 51.5
-    },
-    {
       "artistes": "Niska",
       "titre": "Allo Doudou",
       "nb_diffusions": 17,
       "minutes_antenne": 47.3
+    },
+    {
+      "artistes": "Rusky",
+      "titre": "SEXY NANA (Radio Edit)",
+      "nb_diffusions": 17,
+      "minutes_antenne": 43.0
     },
     {
       "artistes": "Gambi",
@@ -218,22 +224,16 @@
       "minutes_antenne": 35.0
     },
     {
-      "artistes": "Rusky",
-      "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 16,
-      "minutes_antenne": 40.5
-    },
-    {
       "artistes": "BIGBANG",
       "titre": "LOSER",
-      "nb_diffusions": 14,
-      "minutes_antenne": 50.9
+      "nb_diffusions": 15,
+      "minutes_antenne": 54.5
     },
     {
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_diffusions": 14,
-      "minutes_antenne": 35.0
+      "nb_diffusions": 15,
+      "minutes_antenne": 37.5
     },
     {
       "artistes": "Mauvais djo",
@@ -293,11 +293,11 @@
     },
     {
       "heure": 9,
-      "nb_diffusions": 29
+      "nb_diffusions": 31
     },
     {
       "heure": 10,
-      "nb_diffusions": 28
+      "nb_diffusions": 32
     },
     {
       "heure": 11,
@@ -480,8 +480,8 @@
     },
     {
       "date": "2026-10-23",
-      "nb_diffusions": 12,
-      "titres_differents": 12
+      "nb_diffusions": 18,
+      "titres_differents": 17
     }
   ],
   "semaine": [
@@ -507,7 +507,7 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 101
+      "nb_diffusions": 107
     },
     {
       "jour": "Samedi",
@@ -547,9 +547,9 @@
     },
     {
       "artistes": "KAROL G",
-      "nb_jours": 16,
-      "nb_diffusions": 23,
-      "minutes": 84.2
+      "nb_jours": 17,
+      "nb_diffusions": 24,
+      "minutes": 87.9
     },
     {
       "artistes": "Timal",
@@ -566,8 +566,8 @@
     {
       "artistes": "Bad Bunny",
       "nb_jours": 15,
-      "nb_diffusions": 17,
-      "minutes": 51.5
+      "nb_diffusions": 18,
+      "minutes": 54.6
     },
     {
       "artistes": "Slimane",
@@ -576,16 +576,22 @@
       "minutes": 65.1
     },
     {
+      "artistes": "GIMS",
+      "nb_jours": 12,
+      "nb_diffusions": 20,
+      "minutes": 60.6
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "nb_jours": 12,
       "nb_diffusions": 19,
       "minutes": 46.2
     },
     {
-      "artistes": "GIMS",
-      "nb_jours": 11,
-      "nb_diffusions": 19,
-      "minutes": 57.7
+      "artistes": "Lil Gianni",
+      "nb_jours": 12,
+      "nb_diffusions": 15,
+      "minutes": 37.5
     },
     {
       "artistes": "Niska",
@@ -600,16 +606,22 @@
       "minutes": 28.6
     },
     {
-      "artistes": "Lil Gianni",
-      "nb_jours": 11,
-      "nb_diffusions": 14,
-      "minutes": 35.0
-    },
-    {
       "artistes": "Bouss",
       "nb_jours": 11,
       "nb_diffusions": 13,
       "minutes": 36.4
+    },
+    {
+      "artistes": "Rusky",
+      "nb_jours": 10,
+      "nb_diffusions": 17,
+      "minutes": 43.0
+    },
+    {
+      "artistes": "BIGBANG",
+      "nb_jours": 10,
+      "nb_diffusions": 15,
+      "minutes": 54.5
     },
     {
       "artistes": "Jok'air",
@@ -622,18 +634,6 @@
       "nb_jours": 9,
       "nb_diffusions": 21,
       "minutes": 53.0
-    },
-    {
-      "artistes": "Rusky",
-      "nb_jours": 9,
-      "nb_diffusions": 16,
-      "minutes": 40.5
-    },
-    {
-      "artistes": "BIGBANG",
-      "nb_jours": 9,
-      "nb_diffusions": 14,
-      "minutes": 50.9
     }
   ],
   "titres_recurrents": [
@@ -662,22 +662,22 @@
       "nb_diffusions": 24
     },
     {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
+      "nb_jours": 16,
+      "nb_diffusions": 22
+    },
+    {
       "artistes": "Timal",
       "titre": "Sicario",
       "nb_jours": 15,
       "nb_diffusions": 24
     },
     {
-      "artistes": "KAROL G",
-      "titre": "BbY WOW",
-      "nb_jours": 15,
-      "nb_diffusions": 21
-    },
-    {
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
       "nb_jours": 15,
-      "nb_diffusions": 17
+      "nb_diffusions": 18
     },
     {
       "artistes": "Tame Impala",
@@ -698,28 +698,28 @@
       "nb_diffusions": 21
     },
     {
+      "artistes": "GIMS",
+      "titre": "VIVE LA MONNAIE",
+      "nb_jours": 12,
+      "nb_diffusions": 19
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
       "nb_jours": 12,
       "nb_diffusions": 19
     },
     {
-      "artistes": "GIMS",
-      "titre": "VIVE LA MONNAIE",
-      "nb_jours": 11,
-      "nb_diffusions": 18
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "nb_jours": 12,
+      "nb_diffusions": 15
     },
     {
       "artistes": "Niska",
       "titre": "Allo Doudou",
       "nb_jours": 11,
       "nb_diffusions": 17
-    },
-    {
-      "artistes": "Lil Gianni",
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_jours": 11,
-      "nb_diffusions": 14
     },
     {
       "artistes": "Tiakola",
@@ -734,21 +734,21 @@
       "nb_diffusions": 13
     },
     {
-      "artistes": "Mauvais djo",
-      "titre": "Wagyu",
-      "nb_jours": 10,
-      "nb_diffusions": 14
-    },
-    {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_jours": 9,
-      "nb_diffusions": 16
+      "nb_jours": 10,
+      "nb_diffusions": 17
     },
     {
       "artistes": "BIGBANG",
       "titre": "LOSER",
-      "nb_jours": 9,
+      "nb_jours": 10,
+      "nb_diffusions": 15
+    },
+    {
+      "artistes": "Mauvais djo",
+      "titre": "Wagyu",
+      "nb_jours": 10,
       "nb_diffusions": 14
     },
     {
@@ -767,7 +767,7 @@
     {
       "artistes": "KAROL G",
       "nb_titres_differents": 3,
-      "nb_diffusions": 23
+      "nb_diffusions": 24
     },
     {
       "artistes": "Guy2bezbar",
@@ -797,7 +797,7 @@
     {
       "artistes": "GIMS",
       "nb_titres_differents": 2,
-      "nb_diffusions": 19
+      "nb_diffusions": 20
     },
     {
       "artistes": "Tame Impala",
@@ -865,11 +865,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 397
+      "nb_diffusions": 400
     },
     {
       "annee": 2025,
-      "nb_diffusions": 95
+      "nb_diffusions": 96
     },
     {
       "annee": 2024,
@@ -881,7 +881,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 55
+      "nb_diffusions": 56
     },
     {
       "annee": 2021,
@@ -905,7 +905,7 @@
     },
     {
       "annee": 2016,
-      "nb_diffusions": 21
+      "nb_diffusions": 22
     },
     {
       "annee": 2015,
@@ -963,11 +963,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 350
+      "nb": 355
     },
     {
       "type_contenu": "Explicit",
-      "nb": 355
+      "nb": 356
     }
   ],
   "albums": [
@@ -1004,7 +1004,7 @@
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
-      "nb_diffusions": 21
+      "nb_diffusions": 22
     },
     {
       "album": "Chroniques d’un cupidon",
@@ -1012,14 +1012,14 @@
       "nb_diffusions": 21
     },
     {
-      "album": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
+      "album": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
       "nb_diffusions": 19
     },
     {
-      "album": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "nb_diffusions": 18
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 19
     },
     {
       "album": "Dracula (with JENNIE)",
@@ -1027,13 +1027,18 @@
       "nb_diffusions": 18
     },
     {
-      "album": "RENÉ CAOVILLA",
-      "artistes": "Delil",
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "artistes": "Bad Bunny",
+      "nb_diffusions": 18
+    },
+    {
+      "album": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
       "nb_diffusions": 17
     },
     {
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "artistes": "Bad Bunny",
+      "album": "RENÉ CAOVILLA",
+      "artistes": "Delil",
       "nb_diffusions": 17
     },
     {
@@ -1042,23 +1047,18 @@
       "nb_diffusions": 17
     },
     {
-      "album": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "nb_diffusions": 16
-    },
-    {
-      "album": "Wagyu",
-      "artistes": "Mauvais djo",
-      "nb_diffusions": 14
-    },
-    {
       "album": "SAMPLEMAKER",
       "artistes": "Lil Gianni",
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "album": "MADE",
       "artistes": "BIGBANG",
+      "nb_diffusions": 15
+    },
+    {
+      "album": "Wagyu",
+      "artistes": "Mauvais djo",
       "nb_diffusions": 14
     },
     {
@@ -1073,19 +1073,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Sicario",
-    "artistes": "Timal",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1792733717~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=e1beebb6061599f28b17ef05e4226c5a57cb9fe10e4f7cb0ec80f22c692fa11e",
+    "titre": "NUEVAYoL",
+    "artistes": "Bad Bunny",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1792751212~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=63749e0ed83ea523715dd85594ff34496cd0c66f635b3faa7600ce215b6cd9ce",
     "date": "2026-10-23",
-    "heure": 5,
-    "album": "Sicario",
-    "annee": 2026,
-    "start_ts": 1792732774,
-    "end_ts": 1792732918
+    "heure": 10,
+    "album": "DeBÍ TiRAR MáS FOToS",
+    "annee": 2025,
+    "start_ts": 1792750275,
+    "end_ts": 1792750457
   },
   "derniers_morceaux": [
+    {
+      "titre": "NUEVAYoL",
+      "artistes": "Bad Bunny",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1792751212~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=63749e0ed83ea523715dd85594ff34496cd0c66f635b3faa7600ce215b6cd9ce",
+      "date": "2026-10-23",
+      "heure": 10,
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "annee": 2025,
+      "start_ts": 1792750275,
+      "end_ts": 1792750457
+    },
+    {
+      "titre": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1792751213~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=ef0e514483062394990470fbc69d0bcfa8d4791959f5734689bbcf9f1165eb0a",
+      "date": "2026-10-23",
+      "heure": 10,
+      "album": "VIVE LA MONNAIE",
+      "annee": 2026,
+      "start_ts": 1792750094,
+      "end_ts": 1792750272
+    },
+    {
+      "titre": "BbY WOW",
+      "artistes": "KAROL G",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1792751214~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=92f642a2fd4c200b3f6e8a4fdfa05341cd46e7145801032708253b8070198b25",
+      "date": "2026-10-23",
+      "heure": 10,
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "annee": 2026,
+      "start_ts": 1792749873,
+      "end_ts": 1792750096
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1792751215~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=9447d84d36b27d52a13d9ac769a88cded189e36241450168721713b8818bb902",
+      "date": "2026-10-23",
+      "heure": 10,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1792749721,
+      "end_ts": 1792749871
+    },
+    {
+      "titre": "LOSER",
+      "artistes": "BIGBANG",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/73f9614becfcecc25782335cacc49cd2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.211.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3?hdnea=exp=1792751216~acl=/api/1/1/6/6/2/0/66244795af22ff84e1affe1386b548e9.mp3*~data=user_id=0,application_id=42~hmac=a7c5125c4a8b1bafb4999fae82625b1ed3e3fb40a148a73e15ccce65b1177179",
+      "date": "2026-10-23",
+      "heure": 9,
+      "album": "MADE",
+      "annee": 2016,
+      "start_ts": 1792749447,
+      "end_ts": 1792749665
+    },
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1792751217~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=e21a33fb490a03f01b20cff10758afdd3dfa0113987340b2a41d23e90db461a9",
+      "date": "2026-10-23",
+      "heure": 9,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1792749291,
+      "end_ts": 1792749443
+    },
     {
       "titre": "Sicario",
       "artistes": "Timal",
@@ -1137,84 +1215,6 @@
       "annee": 2026,
       "start_ts": 1792731028,
       "end_ts": 1792731194
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1792733721~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=14c79ceeab439749ba5ae5c5b4607432b4027cdd36115b365dc8b1c7dcd1753e",
-      "date": "2026-10-23",
-      "heure": 4,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1792730413,
-      "end_ts": 1792730566
-    },
-    {
-      "titre": "Pilé",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2ecc5a2e66bccff8afc2d4e92cefb51/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/a/0/eda0362bf4b9d0f3786fec40ad6e78f7.mp3?hdnea=exp=1792733722~acl=/api/1/1/e/d/a/0/eda0362bf4b9d0f3786fec40ad6e78f7.mp3*~data=user_id=0,application_id=42~hmac=1082813c0abadce8f5a50ff9db60afe1b419fd4552eea48deedad570051258b6",
-      "date": "2026-10-23",
-      "heure": 4,
-      "album": "L'undertaker, Pt.1",
-      "annee": 2026,
-      "start_ts": 1792729681,
-      "end_ts": 1792729832
-    },
-    {
-      "titre": "Slide",
-      "artistes": "Bosh",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/59d6a51372fa5fd24c0151377a1e44ce/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/90/SKYC.2973624185156793590.6.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/8/0/c38324d863a204b785a32708caa1986c.mp3?hdnea=exp=1792716972~acl=/api/1/1/c/3/8/0/c38324d863a204b785a32708caa1986c.mp3*~data=user_id=0,application_id=42~hmac=36e8b1df5225bcb1a684cde432c33dab3374d7f0b874572c6b382cf4d8b7cd61",
-      "date": "2026-10-23",
-      "heure": 0,
-      "album": "Slide",
-      "annee": 2020,
-      "start_ts": 1792716028,
-      "end_ts": 1792716167
-    },
-    {
-      "titre": "Cote à la hausse",
-      "artistes": "Bouss",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1792716973~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=851c830a37c5fb4d2f55f010577442ab3ef9bd8e3bed147814f200c751abc4c5",
-      "date": "2026-10-23",
-      "heure": 0,
-      "album": "Et si j'échoue ??",
-      "annee": 2025,
-      "start_ts": 1792715861,
-      "end_ts": 1792716029
-    },
-    {
-      "titre": "Je pense à toi",
-      "artistes": "Guy2bezbar",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f650339f6ac5227a8702147af20fa70a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.1607869065038250617.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3?hdnea=exp=1792716974~acl=/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3*~data=user_id=0,application_id=42~hmac=59e8cb1274672298680a5cf8c96f424ceac24fb5c209c6a18446db3e84c66c63",
-      "date": "2026-10-23",
-      "heure": 0,
-      "album": "Jeunesse Dorée",
-      "annee": 2025,
-      "start_ts": 1792715691,
-      "end_ts": 1792715861
-    },
-    {
-      "titre": "NUEVAYoL",
-      "artistes": "Bad Bunny",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3?hdnea=exp=1792716975~acl=/api/1/1/f/6/5/0/f65ad0dfd44f0e0d1b47aa1355fcf7bc.mp3*~data=user_id=0,application_id=42~hmac=19425a3cebb64288350e7cbc10747b1e4ca0df65f1f87eb91086261232aa2937",
-      "date": "2026-10-23",
-      "heure": 0,
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "annee": 2025,
-      "start_ts": 1792715509,
-      "end_ts": 1792715691
     }
   ]
 }
