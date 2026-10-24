@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-23T21:45:05.982574",
-  "genere_ts": 1792791905,
+  "genere_le": "2026-10-24T00:02:58.806784",
+  "genere_ts": 1792800178,
   "volume": {
-    "nb_diffusions": 729,
+    "nb_diffusions": 731,
     "nb_artistes": 158,
     "nb_titres": 169,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-23",
-    "heures_antenne": 35.25,
+    "derniere_date": "2026-10-24",
+    "heures_antenne": 35.35,
     "duree_moy_s": 174.1
   },
   "top_artistes": [
@@ -31,9 +31,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 30,
+      "nb_diffusions": 31,
       "titres_differents": 1,
-      "minutes_antenne": 78.5
+      "minutes_antenne": 81.1
     },
     {
       "artistes": "Slimane",
@@ -126,24 +126,24 @@
       "minutes_antenne": 36.4
     },
     {
-      "artistes": "Mauvais djo",
-      "nb_diffusions": 17,
-      "titres_differents": 2,
-      "minutes_antenne": 32.4
+      "artistes": "Yuston XIII",
+      "nb_diffusions": 10,
+      "titres_differents": 1,
+      "minutes_antenne": 34.2
     }
   ],
   "top_titres": [
+    {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_diffusions": 31,
+      "minutes_antenne": 81.1
+    },
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_diffusions": 31,
       "minutes_antenne": 85.8
-    },
-    {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_diffusions": 30,
-      "minutes_antenne": 78.5
     },
     {
       "artistes": "PLK",
@@ -257,7 +257,7 @@
   "heures": [
     {
       "heure": 0,
-      "nb_diffusions": 82
+      "nb_diffusions": 83
     },
     {
       "heure": 1,
@@ -349,7 +349,7 @@
     },
     {
       "heure": 23,
-      "nb_diffusions": 22
+      "nb_diffusions": 23
     }
   ],
   "jours": [
@@ -480,8 +480,13 @@
     },
     {
       "date": "2026-10-23",
-      "nb_diffusions": 35,
+      "nb_diffusions": 36,
       "titres_differents": 29
+    },
+    {
+      "date": "2026-10-24",
+      "nb_diffusions": 1,
+      "titres_differents": 1
     }
   ],
   "semaine": [
@@ -507,11 +512,11 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 124
+      "nb_diffusions": 125
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 114
+      "nb_diffusions": 115
     }
   ],
   "recurrents": [
@@ -524,8 +529,8 @@
     {
       "artistes": "Leto",
       "nb_jours": 19,
-      "nb_diffusions": 30,
-      "minutes": 78.5
+      "nb_diffusions": 31,
+      "minutes": 81.1
     },
     {
       "artistes": "PLK",
@@ -641,7 +646,7 @@
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_jours": 19,
-      "nb_diffusions": 30
+      "nb_diffusions": 31
     },
     {
       "artistes": "PLK",
@@ -865,7 +870,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 412
+      "nb_diffusions": 414
     },
     {
       "annee": 2025,
@@ -967,18 +972,18 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 362
+      "nb": 363
     },
     {
       "type_contenu": "Explicit",
-      "nb": 365
+      "nb": 366
     }
   ],
   "albums": [
     {
       "album": "Pineapple",
       "artistes": "Leto",
-      "nb_diffusions": 31
+      "nb_diffusions": 32
     },
     {
       "album": "Fille à Papa",
@@ -1077,19 +1082,45 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "DANCE FOR ME x LA PÉTASSE",
-    "artistes": "Manzala",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cf67bbeb542373520dab73ed158e227d/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/9/0/e7976f95cec67e62d419709bb16c6a2c.mp3?hdnea=exp=1792792800~acl=/api/1/1/e/7/9/0/e7976f95cec67e62d419709bb16c6a2c.mp3*~data=user_id=0,application_id=42~hmac=53a87314e6c8ea19c6174c87c512bc915411923b0af1cbbc2e2cbbe1781b0074",
-    "date": "2026-10-23",
-    "heure": 21,
-    "album": "DANCE FOR ME x LA PÉTASSE",
+    "titre": "Histoire sans fin",
+    "artistes": "Yuston XIII",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1792801076~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=3a902f23293546f095a216885621cb5f5f01c2e8a1a60d48df0e77f198565364",
+    "date": "2026-10-24",
+    "heure": 0,
+    "album": "Les Enfants du Chaos",
     "annee": 2026,
-    "start_ts": 1792791567,
-    "end_ts": 1792791748
+    "start_ts": 1792800116,
+    "end_ts": 1792800321
   },
   "derniers_morceaux": [
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1792801076~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=3a902f23293546f095a216885621cb5f5f01c2e8a1a60d48df0e77f198565364",
+      "date": "2026-10-24",
+      "heure": 0,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1792800116,
+      "end_ts": 1792800321
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1792801077~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=0ecef5924fb2a83656de0c79803fba15652fda513738a44287422f8d56a93b36",
+      "date": "2026-10-23",
+      "heure": 23,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1792799957,
+      "end_ts": 1792800114
+    },
     {
       "titre": "DANCE FOR ME x LA PÉTASSE",
       "artistes": "Manzala",
@@ -1193,32 +1224,6 @@
       "annee": 2024,
       "start_ts": 1792777747,
       "end_ts": 1792777928
-    },
-    {
-      "titre": "CYBERTESLA",
-      "artistes": "L2B",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1792782678~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=7f30dba0a787e716f81073a5381d48c92877f9e5467fcf22031d7bf8e5da29b1",
-      "date": "2026-10-23",
-      "heure": 17,
-      "album": "CYBERTESLA",
-      "annee": 2026,
-      "start_ts": 1792777577,
-      "end_ts": 1792777750
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1792782679~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=2f67c5512aa766f3ba609d8433ee179d158b34f1f4d2fa7731d3bbcaf057b82e",
-      "date": "2026-10-23",
-      "heure": 17,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1792777466,
-      "end_ts": 1792777578
     }
   ]
 }
