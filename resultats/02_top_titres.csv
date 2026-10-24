@@ -1,9 +1,9 @@
 ﻿artistes,titre,nb_diffusions,minutes_antenne
 Vacra,Fille à Papa,32,88.5
 Leto,Pineapple,31,81.1
+Timal,Sicario,25,59.7
 PLK,Pocahontas,24,64.8
 Tiakola,Mélo Décalé,24,60.6
-Timal,Sicario,24,57.3
 KAROL G,BbY WOW,22,81.8
 Slimane,Maladie,22,68.2
 GIMS,VIVE LA MONNAIE,20,59.7
@@ -13,9 +13,9 @@ Tame Impala,Dracula (with JENNIE),18,60.3
 Bad Bunny,NUEVAYoL,18,54.6
 Niska,Allo Doudou,18,50.1
 Rusky,SEXY NANA (Radio Edit),17,43.0
+Gambi,RENÉ CAOVILLA,17,37.2
 BIGBANG,LOSER,16,58.1
 Lil Gianni,"Séminaire (feat. Soushimada, Shivas & Machi)",16,40.0
-Gambi,RENÉ CAOVILLA,16,35.0
 Mauvais djo,Wagyu,16,29.9
 Tiakola,La Nocturne,13,46.8
 Bouss,Cote à la hausse,13,36.4
@@ -24,30 +24,31 @@ Jok'air,Nouméa,11,41.1
 Yuston XIII,Histoire sans fin,10,34.2
 disiz,melodrama,10,29.0
 Guy2bezbar,Je pense à toi,10,28.3
+L2B,CYBERTESLA,9,26.1
 Gambi,COACHELLA,9,18.1
 Apache 207,Loser,8,29.1
 Ariana Grande,hate that i made you love me (ari lyric draft from bed),8,25.6
 Adèle Castillon,Été avec toi,8,24.5
-L2B,CYBERTESLA,8,23.2
 Josas,Deliciosa,8,21.6
 Christophe Maé,On s'attache,7,22.2
 paopao,cuenta,7,21.0
 Moji x Sboy,UBER,7,18.2
 Bello&Dallas,Belvedere,7,14.1
 Seventh,Mr. Know It All (House),6,19.4
+RnBoi,J'assume,5,14.8
 ASHE 22,BRACELET,5,13.9
 kulturr,méli-mélo,5,12.4
 FC433ARMY,PILE (remix),5,12.3
+Teddy Swims,Mr. Know It All,4,12.9
 TRIANGLE DES BERMUDES,"Mopao aye (feat. MC YOSHI, Mauvais Djo & Kokosvoice)",4,12.7
-RnBoi,J'assume,4,11.8
 Wassim,BELVÉDÈRE,4,10.1
 Massilia Sound System,Degun,4,10.1
 Chris Cornell,Billie Jean,3,14.3
 USHER,DJ Got Us Fallin' In Love (feat. Pitbull),3,10.9
-Teddy Swims,Mr. Know It All,3,9.7
 Jok'air,Fille à papa,3,9.1
 Ronisia,Cuenta (feat. Meryl & Shay),3,9.0
 Moha La Squale,Pas comme eux,3,7.3
+Jul,Gros dégun,3,6.0
 Bardcore,The Real Slim Shady (Medieval Version),2,9.3
 Stingray,If I Were a Boy (In the Style of Beyoncé),2,8.2
 Akon,Lonely,2,7.8
@@ -68,7 +69,6 @@ abel31,coachella,2,5.0
 Lagui,Olivia Valere,2,4.7
 Bosh,Slide,2,4.6
 Groove Crackers,Players,2,4.5
-Jul,Gros dégun,2,4.0
 Justin Timberlake,What Goes Around...Comes Around (Radio Edit),1,5.1
 Doc Gynéco,Viens voir le docteur (Version alternative; Nouveau mix 2016),1,5.1
 sped up + slowed,Rock Your Body (Slowed Down),1,4.8
