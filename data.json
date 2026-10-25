@@ -1,27 +1,27 @@
 {
-  "genere_le": "2026-10-25T20:01:27.074435",
-  "genere_ts": 1792958487,
+  "genere_le": "2026-10-25T22:22:27.662786",
+  "genere_ts": 1792966947,
   "volume": {
-    "nb_diffusions": 802,
+    "nb_diffusions": 806,
     "nb_artistes": 167,
     "nb_titres": 182,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-25",
-    "heures_antenne": 38.98,
-    "duree_moy_s": 175.0
+    "heures_antenne": 39.2,
+    "duree_moy_s": 175.1
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 39,
+      "nb_diffusions": 40,
       "titres_differents": 2,
-      "minutes_antenne": 112.4
+      "minutes_antenne": 116.0
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 35,
+      "nb_diffusions": 36,
       "titres_differents": 1,
-      "minutes_antenne": 96.8
+      "minutes_antenne": 99.6
     },
     {
       "artistes": "KAROL G",
@@ -84,6 +84,12 @@
       "minutes_antenne": 57.6
     },
     {
+      "artistes": "Jok'air",
+      "nb_diffusions": 15,
+      "titres_differents": 2,
+      "minutes_antenne": 53.9
+    },
+    {
       "artistes": "Niska",
       "nb_diffusions": 19,
       "titres_differents": 2,
@@ -94,12 +100,6 @@
       "nb_diffusions": 21,
       "titres_differents": 2,
       "minutes_antenne": 53.0
-    },
-    {
-      "artistes": "Jok'air",
-      "nb_diffusions": 14,
-      "titres_differents": 2,
-      "minutes_antenne": 50.1
     },
     {
       "artistes": "Rusky",
@@ -136,8 +136,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 35,
-      "minutes_antenne": 96.8
+      "nb_diffusions": 36,
+      "minutes_antenne": 99.6
     },
     {
       "artistes": "Leto",
@@ -248,10 +248,10 @@
       "minutes_antenne": 39.2
     },
     {
-      "artistes": "Djaksparo",
-      "titre": "Pangor (Swalalala)",
-      "nb_diffusions": 13,
-      "minutes_antenne": 26.1
+      "artistes": "Tiakola",
+      "titre": "La Nocturne",
+      "nb_diffusions": 14,
+      "minutes_antenne": 50.4
     }
   ],
   "heures": [
@@ -337,11 +337,11 @@
     },
     {
       "heure": 20,
-      "nb_diffusions": 30
+      "nb_diffusions": 31
     },
     {
       "heure": 21,
-      "nb_diffusions": 22
+      "nb_diffusions": 25
     },
     {
       "heure": 22,
@@ -490,14 +490,14 @@
     },
     {
       "date": "2026-10-25",
-      "nb_diffusions": 36,
-      "titres_differents": 31
+      "nb_diffusions": 40,
+      "titres_differents": 34
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 143
+      "nb_diffusions": 147
     },
     {
       "jour": "Lundi",
@@ -528,14 +528,14 @@
     {
       "artistes": "Tiakola",
       "nb_jours": 23,
-      "nb_diffusions": 39,
-      "minutes": 112.4
+      "nb_diffusions": 40,
+      "minutes": 116.0
     },
     {
       "artistes": "Vacra",
       "nb_jours": 20,
-      "nb_diffusions": 35,
-      "minutes": 96.8
+      "nb_diffusions": 36,
+      "minutes": 99.6
     },
     {
       "artistes": "Leto",
@@ -634,16 +634,16 @@
       "minutes": 58.1
     },
     {
+      "artistes": "Jok'air",
+      "nb_jours": 11,
+      "nb_diffusions": 15,
+      "minutes": 53.9
+    },
+    {
       "artistes": "Djaksparo",
       "nb_jours": 11,
       "nb_diffusions": 13,
       "minutes": 26.1
-    },
-    {
-      "artistes": "Jok'air",
-      "nb_jours": 10,
-      "nb_diffusions": 14,
-      "minutes": 50.1
     }
   ],
   "titres_recurrents": [
@@ -651,7 +651,7 @@
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_jours": 20,
-      "nb_diffusions": 35
+      "nb_diffusions": 36
     },
     {
       "artistes": "Leto",
@@ -738,6 +738,12 @@
       "nb_diffusions": 17
     },
     {
+      "artistes": "Tiakola",
+      "titre": "La Nocturne",
+      "nb_jours": 12,
+      "nb_diffusions": 14
+    },
+    {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
       "nb_jours": 12,
@@ -754,12 +760,6 @@
       "titre": "LOSER",
       "nb_jours": 11,
       "nb_diffusions": 16
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "La Nocturne",
-      "nb_jours": 11,
-      "nb_diffusions": 13
     },
     {
       "artistes": "Djaksparo",
@@ -797,7 +797,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 39
+      "nb_diffusions": 40
     },
     {
       "artistes": "Gambi",
@@ -827,7 +827,7 @@
     {
       "artistes": "Jok'air",
       "nb_titres_differents": 2,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "artistes": "L2B",
@@ -880,7 +880,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 451
+      "nb_diffusions": 454
     },
     {
       "annee": 2025,
@@ -896,7 +896,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 61
+      "nb_diffusions": 62
     },
     {
       "annee": 2021,
@@ -986,22 +986,22 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 401
+      "nb": 402
     },
     {
       "type_contenu": "Explicit",
-      "nb": 399
+      "nb": 402
     }
   ],
   "albums": [
     {
-      "album": "Pineapple",
-      "artistes": "Leto",
-      "nb_diffusions": 35
-    },
-    {
       "album": "Fille à Papa",
       "artistes": "Vacra",
+      "nb_diffusions": 36
+    },
+    {
+      "album": "Pineapple",
+      "artistes": "Leto",
       "nb_diffusions": 35
     },
     {
@@ -1025,14 +1025,14 @@
       "nb_diffusions": 24
     },
     {
-      "album": "Chroniques d’un cupidon",
-      "artistes": "Slimane",
+      "album": "Sexy Nana",
+      "artistes": "Aya Nakamura",
       "nb_diffusions": 23
     },
     {
-      "album": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 22
+      "album": "Chroniques d’un cupidon",
+      "artistes": "Slimane",
+      "nb_diffusions": 23
     },
     {
       "album": "VIVE LA MONNAIE",
@@ -1085,30 +1085,82 @@
       "nb_diffusions": 16
     },
     {
-      "album": "Et si j'échoue ??",
-      "artistes": "Bouss",
+      "album": "WpointM",
+      "artistes": "Tiakola",
       "nb_diffusions": 14
     },
     {
-      "album": "WpointM",
-      "artistes": "Tiakola",
-      "nb_diffusions": 13
+      "album": "Et si j'échoue ??",
+      "artistes": "Bouss",
+      "nb_diffusions": 14
     }
   ],
   "dernier_morceau": {
-    "titre": "BbY WOW",
-    "artistes": "KAROL G",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1792959380~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=f7d0292104615784b9aa2b6ce26d98db5f96bec89836b5ac92179975115d67f4",
+    "titre": "Nouméa",
+    "artistes": "Jok'air",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792967843~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=7a365b5bdd667c6cfa87735205305ea29b1f052ac24a033348073a1f236f8a23",
     "date": "2026-10-25",
-    "heure": 19,
-    "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+    "heure": 21,
+    "album": "Nouméa",
     "annee": 2026,
-    "start_ts": 1792958365,
-    "end_ts": 1792958588
+    "start_ts": 1792965582,
+    "end_ts": 1792965806
   },
   "derniers_morceaux": [
+    {
+      "titre": "Nouméa",
+      "artistes": "Jok'air",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792967843~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=7a365b5bdd667c6cfa87735205305ea29b1f052ac24a033348073a1f236f8a23",
+      "date": "2026-10-25",
+      "heure": 21,
+      "album": "Nouméa",
+      "annee": 2026,
+      "start_ts": 1792965582,
+      "end_ts": 1792965806
+    },
+    {
+      "titre": "La Nocturne",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1792967844~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=66be90f128a71c11b841350673a75ee72d94fedb7ddbd4ebc71f33ec94f43d84",
+      "date": "2026-10-25",
+      "heure": 21,
+      "album": "WpointM",
+      "annee": 2026,
+      "start_ts": 1792964066,
+      "end_ts": 1792964282
+    },
+    {
+      "titre": "Sexy Nana",
+      "artistes": "MK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c997d8622c33cf44370e90c5269b04e2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/d/0/3dd4f3526588d561e07f34202fdd36ce.mp3?hdnea=exp=1792967845~acl=/api/1/1/3/d/d/0/3dd4f3526588d561e07f34202fdd36ce.mp3*~data=user_id=0,application_id=42~hmac=b1f2178ad1aab4f4719435546bc3473fd580c3615f0490d520827b28f1c33ad9",
+      "date": "2026-10-25",
+      "heure": 21,
+      "album": "Sexy Nana",
+      "annee": 2022,
+      "start_ts": 1792962002,
+      "end_ts": 1792962183
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792967846~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=4d78f88248349a61fb56ca16f5ad1ab60082d5dce3db670c1c17ff5e340817e9",
+      "date": "2026-10-25",
+      "heure": 20,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1792959979,
+      "end_ts": 1792960145
+    },
     {
       "titre": "BbY WOW",
       "artistes": "KAROL G",
@@ -1186,58 +1238,6 @@
       "annee": 2026,
       "start_ts": 1792957260,
       "end_ts": 1792957452
-    },
-    {
-      "titre": "Changer (Skyrock Version)",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.9123061347380768010.7.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-25",
-      "heure": 17,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792950626,
-      "end_ts": 1792950747
-    },
-    {
-      "titre": "Soldier",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/81/SKYC.1553311832780716281.5.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-25",
-      "heure": 17,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792950025,
-      "end_ts": 1792950266
-    },
-    {
-      "titre": "Y'a Pas de Couleur - Inédit",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.6095009125336790231.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-25",
-      "heure": 17,
-      "album": null,
-      "annee": null,
-      "start_ts": 1792949826,
-      "end_ts": 1792950033
-    },
-    {
-      "titre": "Not Tonight",
-      "artistes": "Pip Blom",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/23553530454ca5e50e22a9a482767ee9/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4825948341337060046.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/1/0/be1abe5a90bb584c4c6d682d9ac3dd9b.mp3?hdnea=exp=1792951599~acl=/api/1/1/b/e/1/0/be1abe5a90bb584c4c6d682d9ac3dd9b.mp3*~data=user_id=0,application_id=42~hmac=ab47106c93a2a2a746b639864446b0a442579f2d4e1e3a34d7a2cb7a0eb37958",
-      "date": "2026-10-25",
-      "heure": 17,
-      "album": "Bobbie",
-      "annee": 2023,
-      "start_ts": 1792949603,
-      "end_ts": 1792949827
     }
   ]
 }
