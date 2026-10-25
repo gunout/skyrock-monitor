@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-25T14:43:02.872988",
-  "genere_ts": 1792939382,
+  "genere_le": "2026-10-25T17:51:42.677279",
+  "genere_ts": 1792950702,
   "volume": {
-    "nb_diffusions": 795,
-    "nb_artistes": 166,
-    "nb_titres": 180,
+    "nb_diffusions": 797,
+    "nb_artistes": 167,
+    "nb_titres": 182,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-25",
-    "heures_antenne": 38.57,
-    "duree_moy_s": 174.7
+    "heures_antenne": 38.69,
+    "duree_moy_s": 174.8
   },
   "top_artistes": [
     {
@@ -49,9 +49,9 @@
     },
     {
       "artistes": "GIMS",
-      "nb_diffusions": 22,
-      "titres_differents": 2,
-      "minutes_antenne": 66.6
+      "nb_diffusions": 23,
+      "titres_differents": 3,
+      "minutes_antenne": 69.9
     },
     {
       "artistes": "Timal",
@@ -325,7 +325,7 @@
     },
     {
       "heure": 17,
-      "nb_diffusions": 84
+      "nb_diffusions": 90
     },
     {
       "heure": 18,
@@ -490,14 +490,14 @@
     },
     {
       "date": "2026-10-25",
-      "nb_diffusions": 24,
-      "titres_differents": 21
+      "nb_diffusions": 30,
+      "titres_differents": 27
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 131
+      "nb_diffusions": 137
     },
     {
       "jour": "Lundi",
@@ -580,16 +580,16 @@
       "minutes": 54.6
     },
     {
+      "artistes": "GIMS",
+      "nb_jours": 14,
+      "nb_diffusions": 23,
+      "minutes": 69.9
+    },
+    {
       "artistes": "Slimane",
       "nb_jours": 14,
       "nb_diffusions": 23,
       "minutes": 71.3
-    },
-    {
-      "artistes": "GIMS",
-      "nb_jours": 13,
-      "nb_diffusions": 22,
-      "minutes": 66.6
     },
     {
       "artistes": "Lil Gianni",
@@ -785,6 +785,11 @@
       "nb_diffusions": 25
     },
     {
+      "artistes": "GIMS",
+      "nb_titres_differents": 3,
+      "nb_diffusions": 23
+    },
+    {
       "artistes": "Guy2bezbar",
       "nb_titres_differents": 3,
       "nb_diffusions": 13
@@ -798,11 +803,6 @@
       "artistes": "Gambi",
       "nb_titres_differents": 2,
       "nb_diffusions": 28
-    },
-    {
-      "artistes": "GIMS",
-      "nb_titres_differents": 2,
-      "nb_diffusions": 22
     },
     {
       "artistes": "Aya Nakamura",
@@ -884,7 +884,7 @@
     },
     {
       "annee": 2025,
-      "nb_diffusions": 103
+      "nb_diffusions": 104
     },
     {
       "annee": 2024,
@@ -892,7 +892,7 @@
     },
     {
       "annee": 2023,
-      "nb_diffusions": 21
+      "nb_diffusions": 22
     },
     {
       "annee": 2022,
@@ -986,7 +986,7 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 395
+      "nb": 397
     },
     {
       "type_contenu": "Explicit",
@@ -1096,19 +1096,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Zemër",
-    "artistes": "Soolking",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d1c0c48d624f7d01b5aa50a893b5693b/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/18/SKYC.1195772679617598818.7.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/9/d/0/69d1226048fdf45dc965f1be774f9606.mp3?hdnea=exp=1792940276~acl=/api/1/1/6/9/d/0/69d1226048fdf45dc965f1be774f9606.mp3*~data=user_id=0,application_id=42~hmac=0e6a5a32147aa7abc263cc1181ecda198d2a8912f1109a14b620ad4537d66723",
+    "titre": "Changer (Skyrock Version)",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.9123061347380768010.7.0.jpg",
+    "preview_mp3": null,
     "date": "2026-10-25",
-    "heure": 14,
-    "album": "Zemër",
-    "annee": 2019,
-    "start_ts": 1792939297,
-    "end_ts": 1792939517
+    "heure": 17,
+    "album": null,
+    "annee": null,
+    "start_ts": 1792950626,
+    "end_ts": 1792950747
   },
   "derniers_morceaux": [
+    {
+      "titre": "Changer (Skyrock Version)",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.9123061347380768010.7.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-25",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792950626,
+      "end_ts": 1792950747
+    },
+    {
+      "titre": "Soldier",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/81/SKYC.1553311832780716281.5.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-25",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792950025,
+      "end_ts": 1792950266
+    },
+    {
+      "titre": "Y'a Pas de Couleur - Inédit",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.6095009125336790231.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-25",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792949826,
+      "end_ts": 1792950033
+    },
+    {
+      "titre": "Not Tonight",
+      "artistes": "Pip Blom",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/23553530454ca5e50e22a9a482767ee9/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4825948341337060046.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/e/1/0/be1abe5a90bb584c4c6d682d9ac3dd9b.mp3?hdnea=exp=1792951599~acl=/api/1/1/b/e/1/0/be1abe5a90bb584c4c6d682d9ac3dd9b.mp3*~data=user_id=0,application_id=42~hmac=ab47106c93a2a2a746b639864446b0a442579f2d4e1e3a34d7a2cb7a0eb37958",
+      "date": "2026-10-25",
+      "heure": 17,
+      "album": "Bobbie",
+      "annee": 2023,
+      "start_ts": 1792949603,
+      "end_ts": 1792949827
+    },
+    {
+      "titre": "BLOQUÉ",
+      "artistes": "GIMS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/12f57e12e20eb8d02954a100c192fe05/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.6794620698457550649.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/c/0/12c1851e72d64a8389424c3389c679a4.mp3?hdnea=exp=1792951600~acl=/api/1/1/1/2/c/0/12c1851e72d64a8389424c3389c679a4.mp3*~data=user_id=0,application_id=42~hmac=1b2f5fb2c47b25e8b7d7cd59fa15ac762a1185ceda3c75ffc718c179a9d0dc79",
+      "date": "2026-10-25",
+      "heure": 17,
+      "album": "BLOQUÉ",
+      "annee": 2025,
+      "start_ts": 1792949407,
+      "end_ts": 1792949607
+    },
+    {
+      "titre": "Make It Clap",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.4062156788461424598.5.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-25",
+      "heure": 17,
+      "album": null,
+      "annee": null,
+      "start_ts": 1792949160,
+      "end_ts": 1792949392
+    },
     {
       "titre": "Zemër",
       "artistes": "Soolking",
@@ -1160,84 +1238,6 @@
       "annee": 2018,
       "start_ts": 1792938675,
       "end_ts": 1792938961
-    },
-    {
-      "titre": "RENÉ CAOVILLA",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1792940280~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=458dfaba9d952ec3507894797ef2a40a4e7e24744f60b9378b4acf456c33ee14",
-      "date": "2026-10-25",
-      "heure": 14,
-      "album": "RENÉ CAOVILLA",
-      "annee": 2026,
-      "start_ts": 1792938543,
-      "end_ts": 1792938674
-    },
-    {
-      "titre": "Cote à la hausse",
-      "artistes": "Bouss",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1792940281~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=6b2b7ee15023c98cfe3c12e3da574e4b7abdcaf65e813d1e00be5578e4176a69",
-      "date": "2026-10-25",
-      "heure": 14,
-      "album": "Et si j'échoue ??",
-      "annee": 2025,
-      "start_ts": 1792938323,
-      "end_ts": 1792938491
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792926759~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=362543a24b492474851b9a0f8471c72219368d5a20943746b3fe3e3372d47a1a",
-      "date": "2026-10-25",
-      "heure": 10,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1792925695,
-      "end_ts": 1792925861
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1792926760~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=a66f74f907a416157e2a2d7acbe645fb0d117f161e7de6b5a5463e4df9d4b642",
-      "date": "2026-10-25",
-      "heure": 10,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1792925446,
-      "end_ts": 1792925597
-    },
-    {
-      "titre": "COACHELLA",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b0b5d4dd17b726f84395af66109b49d/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3?hdnea=exp=1792926761~acl=/api/1/1/5/1/9/0/51911eef41975d4e35892a4ce0eb3deb.mp3*~data=user_id=0,application_id=42~hmac=fe02005cf2e5f7d50e69049c1b339ce92a75ab1084d964ff6750efee27e15fe8",
-      "date": "2026-10-25",
-      "heure": 10,
-      "album": "COACHELLA",
-      "annee": 2025,
-      "start_ts": 1792925320,
-      "end_ts": 1792925441
-    },
-    {
-      "titre": "J'assume",
-      "artistes": "RnBoi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1792926762~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=b3870cb3882e3de0fcfe108706519243177cf38c8039f7a366120aa92f50b314",
-      "date": "2026-10-25",
-      "heure": 10,
-      "album": "J'assume",
-      "annee": 2026,
-      "start_ts": 1792924932,
-      "end_ts": 1792925109
     }
   ]
 }
