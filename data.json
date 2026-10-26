@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-26T00:28:22.895427",
-  "genere_ts": 1792974502,
+  "genere_le": "2026-10-26T05:06:25.753483",
+  "genere_ts": 1792991185,
   "volume": {
-    "nb_diffusions": 812,
-    "nb_artistes": 167,
-    "nb_titres": 182,
+    "nb_diffusions": 818,
+    "nb_artistes": 168,
+    "nb_titres": 183,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-26",
-    "heures_antenne": 39.49,
-    "duree_moy_s": 175.1
+    "heures_antenne": 39.84,
+    "duree_moy_s": 175.3
   },
   "top_artistes": [
     {
@@ -85,9 +85,9 @@
     },
     {
       "artistes": "Jok'air",
-      "nb_diffusions": 15,
+      "nb_diffusions": 16,
       "titres_differents": 2,
-      "minutes_antenne": 53.9
+      "minutes_antenne": 57.6
     },
     {
       "artistes": "Niska",
@@ -273,11 +273,11 @@
     },
     {
       "heure": 4,
-      "nb_diffusions": 49
+      "nb_diffusions": 54
     },
     {
       "heure": 5,
-      "nb_diffusions": 40
+      "nb_diffusions": 41
     },
     {
       "heure": 6,
@@ -495,8 +495,8 @@
     },
     {
       "date": "2026-10-26",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 12
     }
   ],
   "semaine": [
@@ -506,7 +506,7 @@
     },
     {
       "jour": "Lundi",
-      "nb_diffusions": 90
+      "nb_diffusions": 96
     },
     {
       "jour": "Mardi",
@@ -621,6 +621,12 @@
       "minutes": 53.3
     },
     {
+      "artistes": "Jok'air",
+      "nb_jours": 12,
+      "nb_diffusions": 16,
+      "minutes": 57.6
+    },
+    {
       "artistes": "Bouss",
       "nb_jours": 12,
       "nb_diffusions": 14,
@@ -637,12 +643,6 @@
       "nb_jours": 11,
       "nb_diffusions": 16,
       "minutes": 58.1
-    },
-    {
-      "artistes": "Jok'air",
-      "nb_jours": 11,
-      "nb_diffusions": 15,
-      "minutes": 53.9
     },
     {
       "artistes": "Djaksparo",
@@ -832,12 +832,12 @@
     {
       "artistes": "Jok'air",
       "nb_titres_differents": 2,
-      "nb_diffusions": 15
+      "nb_diffusions": 16
     },
     {
       "artistes": "L2B",
       "nb_titres_differents": 2,
-      "nb_diffusions": 10
+      "nb_diffusions": 11
     },
     {
       "artistes": "abel31",
@@ -885,11 +885,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 458
+      "nb_diffusions": 461
     },
     {
       "annee": 2025,
-      "nb_diffusions": 106
+      "nb_diffusions": 107
     },
     {
       "annee": 2024,
@@ -913,7 +913,7 @@
     },
     {
       "annee": 2019,
-      "nb_diffusions": 11
+      "nb_diffusions": 12
     },
     {
       "annee": 2018,
@@ -941,7 +941,7 @@
     },
     {
       "annee": 2012,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "annee": 2010,
@@ -991,11 +991,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 405
+      "nb": 409
     },
     {
       "type_contenu": "Explicit",
-      "nb": 405
+      "nb": 407
     }
   ],
   "albums": [
@@ -1101,19 +1101,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Cuenta (feat. Meryl & Shay)",
-    "artistes": "Ronisia",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1792975396~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=51dd34092929b1cc27126b12a55aa4d33759e093f0ad9a71de4e180568c21f9b",
+    "titre": "Nouméa",
+    "artistes": "Jok'air",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792992079~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=517e224b5b7ed809a7717f75351c8d99fef146227ebc0bbc28852041e7207883",
     "date": "2026-10-26",
-    "heure": 0,
-    "album": "Cuenta (feat. Meryl & Shay)",
+    "heure": 5,
+    "album": "Nouméa",
     "annee": 2026,
-    "start_ts": 1792974351,
-    "end_ts": 1792974531
+    "start_ts": 1792991079,
+    "end_ts": 1792991303
   },
   "derniers_morceaux": [
+    {
+      "titre": "Nouméa",
+      "artistes": "Jok'air",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792992079~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=517e224b5b7ed809a7717f75351c8d99fef146227ebc0bbc28852041e7207883",
+      "date": "2026-10-26",
+      "heure": 5,
+      "album": "Nouméa",
+      "annee": 2026,
+      "start_ts": 1792991079,
+      "end_ts": 1792991303
+    },
+    {
+      "titre": "Été avec toi",
+      "artistes": "Adèle Castillon",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1792992080~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=b0109df7da83ef631df1d1b280e88d2de32b3af98e0947a208243d53a36f98fb",
+      "date": "2026-10-26",
+      "heure": 4,
+      "album": "Été avec toi",
+      "annee": 2026,
+      "start_ts": 1792990661,
+      "end_ts": 1792990845
+    },
+    {
+      "titre": "Can't Hold Us (feat. Ray Dalton)",
+      "artistes": "Macklemore",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/238f1c36e8445fd162d1d53b8181ecb5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/72/SKYC.201191464133748472.10.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/6/0/bc66a201d24622fb130e7a624b1679fd.mp3?hdnea=exp=1792992081~acl=/api/1/1/b/c/6/0/bc66a201d24622fb130e7a624b1679fd.mp3*~data=user_id=0,application_id=42~hmac=487001798168435d2d24c5c8abb9b8480e797eafc7767c11afd19b689bb94441",
+      "date": "2026-10-26",
+      "heure": 4,
+      "album": "The Heist",
+      "annee": 2012,
+      "start_ts": 1792990406,
+      "end_ts": 1792990662
+    },
+    {
+      "titre": "Degun les Sèche",
+      "artistes": "Ekloz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/8e9183903c77fdae3e51fbcecf40613f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/1/0/151fb0b98bd6b5f183fd5fa686160099.mp3?hdnea=exp=1792992082~acl=/api/1/1/1/5/1/0/151fb0b98bd6b5f183fd5fa686160099.mp3*~data=user_id=0,application_id=42~hmac=91bdaf930300b53a63a5e39b78974172074225eceb336d7c3c35ab8eb7f4b00b",
+      "date": "2026-10-26",
+      "heure": 4,
+      "album": "Degun les Sèche",
+      "annee": 2025,
+      "start_ts": 1792989827,
+      "end_ts": 1792990008
+    },
+    {
+      "titre": "CYBERTESLA",
+      "artistes": "L2B",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1792992083~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=aa0ed185b904ee101722e39990d8bd8ffedbd016c5557fb0cdfb385c19c9c625",
+      "date": "2026-10-26",
+      "heure": 4,
+      "album": "CYBERTESLA",
+      "annee": 2026,
+      "start_ts": 1792989522,
+      "end_ts": 1792989695
+    },
+    {
+      "titre": "Giant",
+      "artistes": "Calvin Harris",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/faa77ed242019d1c534e87da6bf153b0/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/86/SKYC.4310476525579147886.30.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/f/0/dbfbde29b0b6fcad262558410fcd2985.mp3?hdnea=exp=1792992084~acl=/api/1/1/d/b/f/0/dbfbde29b0b6fcad262558410fcd2985.mp3*~data=user_id=0,application_id=42~hmac=9ecb5f46bb9089780c617ff3c36df05545f809466114c3ad8f6f74224ba88d26",
+      "date": "2026-10-26",
+      "heure": 4,
+      "album": "Giant",
+      "annee": 2019,
+      "start_ts": 1792989298,
+      "end_ts": 1792989525
+    },
     {
       "titre": "Cuenta (feat. Meryl & Shay)",
       "artistes": "Ronisia",
@@ -1165,84 +1243,6 @@
       "annee": 2026,
       "start_ts": 1792973808,
       "end_ts": 1792973920
-    },
-    {
-      "titre": "Histoire sans fin",
-      "artistes": "Yuston XIII",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1792975400~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=be83a67222efc2f78a5ac1792b303836dbcc6129571e9393ee4d9ff533db3c77",
-      "date": "2026-10-26",
-      "heure": 0,
-      "album": "Les Enfants du Chaos",
-      "annee": 2026,
-      "start_ts": 1792973593,
-      "end_ts": 1792973798
-    },
-    {
-      "titre": "Je pense à toi",
-      "artistes": "Guy2bezbar",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f650339f6ac5227a8702147af20fa70a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.1607869065038250617.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3?hdnea=exp=1792975401~acl=/api/1/1/b/3/f/0/b3fe482e77e0fa22d44abc874b5a273c.mp3*~data=user_id=0,application_id=42~hmac=0d88bc4b827a033d68c934b5dc8269dab85098297ebc82e3bc9ad7802ac6494d",
-      "date": "2026-10-26",
-      "heure": 0,
-      "album": "Jeunesse Dorée",
-      "annee": 2025,
-      "start_ts": 1792973428,
-      "end_ts": 1792973598
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792967843~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=7a365b5bdd667c6cfa87735205305ea29b1f052ac24a033348073a1f236f8a23",
-      "date": "2026-10-25",
-      "heure": 21,
-      "album": "Nouméa",
-      "annee": 2026,
-      "start_ts": 1792965582,
-      "end_ts": 1792965806
-    },
-    {
-      "titre": "La Nocturne",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1792967844~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=66be90f128a71c11b841350673a75ee72d94fedb7ddbd4ebc71f33ec94f43d84",
-      "date": "2026-10-25",
-      "heure": 21,
-      "album": "WpointM",
-      "annee": 2026,
-      "start_ts": 1792964066,
-      "end_ts": 1792964282
-    },
-    {
-      "titre": "Sexy Nana",
-      "artistes": "MK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c997d8622c33cf44370e90c5269b04e2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/d/0/3dd4f3526588d561e07f34202fdd36ce.mp3?hdnea=exp=1792967845~acl=/api/1/1/3/d/d/0/3dd4f3526588d561e07f34202fdd36ce.mp3*~data=user_id=0,application_id=42~hmac=b1f2178ad1aab4f4719435546bc3473fd580c3615f0490d520827b28f1c33ad9",
-      "date": "2026-10-25",
-      "heure": 21,
-      "album": "Sexy Nana",
-      "annee": 2022,
-      "start_ts": 1792962002,
-      "end_ts": 1792962183
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1792967846~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=4d78f88248349a61fb56ca16f5ad1ab60082d5dce3db670c1c17ff5e340817e9",
-      "date": "2026-10-25",
-      "heure": 20,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1792959979,
-      "end_ts": 1792960145
     }
   ]
 }
