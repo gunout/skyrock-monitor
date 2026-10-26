@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-26T05:06:25.753483",
-  "genere_ts": 1792991185,
+  "genere_le": "2026-10-26T10:59:02.461384",
+  "genere_ts": 1793012342,
   "volume": {
-    "nb_diffusions": 818,
-    "nb_artistes": 168,
-    "nb_titres": 183,
+    "nb_diffusions": 823,
+    "nb_artistes": 170,
+    "nb_titres": 185,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-26",
-    "heures_antenne": 39.84,
-    "duree_moy_s": 175.3
+    "heures_antenne": 40.09,
+    "duree_moy_s": 175.4
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 40,
+      "nb_diffusions": 41,
       "titres_differents": 2,
-      "minutes_antenne": 116.0
+      "minutes_antenne": 118.5
     },
     {
       "artistes": "Vacra",
@@ -66,6 +66,12 @@
       "minutes_antenne": 63.6
     },
     {
+      "artistes": "Jok'air",
+      "nb_diffusions": 17,
+      "titres_differents": 2,
+      "minutes_antenne": 61.3
+    },
+    {
       "artistes": "Gambi",
       "nb_diffusions": 28,
       "titres_differents": 2,
@@ -81,12 +87,6 @@
       "artistes": "Bad Bunny",
       "nb_diffusions": 19,
       "titres_differents": 1,
-      "minutes_antenne": 57.6
-    },
-    {
-      "artistes": "Jok'air",
-      "nb_diffusions": 16,
-      "titres_differents": 2,
       "minutes_antenne": 57.6
     },
     {
@@ -146,6 +146,12 @@
       "minutes_antenne": 91.6
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 27,
+      "minutes_antenne": 68.1
+    },
+    {
       "artistes": "Timal",
       "titre": "Sicario",
       "nb_diffusions": 27,
@@ -156,12 +162,6 @@
       "titre": "Pocahontas",
       "nb_diffusions": 26,
       "minutes_antenne": 70.2
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_diffusions": 26,
-      "minutes_antenne": 65.6
     },
     {
       "artistes": "KAROL G",
@@ -248,10 +248,10 @@
       "minutes_antenne": 39.2
     },
     {
-      "artistes": "Tiakola",
-      "titre": "La Nocturne",
+      "artistes": "Jok'air",
+      "titre": "Nouméa",
       "nb_diffusions": 14,
-      "minutes_antenne": 50.4
+      "minutes_antenne": 52.3
     }
   ],
   "heures": [
@@ -297,7 +297,7 @@
     },
     {
       "heure": 10,
-      "nb_diffusions": 38
+      "nb_diffusions": 44
     },
     {
       "heure": 11,
@@ -495,8 +495,8 @@
     },
     {
       "date": "2026-10-26",
-      "nb_diffusions": 12,
-      "titres_differents": 12
+      "nb_diffusions": 18,
+      "titres_differents": 16
     }
   ],
   "semaine": [
@@ -506,7 +506,7 @@
     },
     {
       "jour": "Lundi",
-      "nb_diffusions": 96
+      "nb_diffusions": 102
     },
     {
       "jour": "Mardi",
@@ -532,9 +532,9 @@
   "recurrents": [
     {
       "artistes": "Tiakola",
-      "nb_jours": 23,
-      "nb_diffusions": 40,
-      "minutes": 116.0
+      "nb_jours": 24,
+      "nb_diffusions": 41,
+      "minutes": 118.5
     },
     {
       "artistes": "Leto",
@@ -623,8 +623,8 @@
     {
       "artistes": "Jok'air",
       "nb_jours": 12,
-      "nb_diffusions": 16,
-      "minutes": 57.6
+      "nb_diffusions": 17,
+      "minutes": 61.3
     },
     {
       "artistes": "Bouss",
@@ -673,8 +673,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_jours": 18,
-      "nb_diffusions": 26
+      "nb_jours": 19,
+      "nb_diffusions": 27
     },
     {
       "artistes": "Timal",
@@ -802,7 +802,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 40
+      "nb_diffusions": 41
     },
     {
       "artistes": "Gambi",
@@ -832,7 +832,7 @@
     {
       "artistes": "Jok'air",
       "nb_titres_differents": 2,
-      "nb_diffusions": 16
+      "nb_diffusions": 17
     },
     {
       "artistes": "L2B",
@@ -885,11 +885,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 461
+      "nb_diffusions": 464
     },
     {
       "annee": 2025,
-      "nb_diffusions": 107
+      "nb_diffusions": 108
     },
     {
       "annee": 2024,
@@ -921,7 +921,7 @@
     },
     {
       "annee": 2017,
-      "nb_diffusions": 2
+      "nb_diffusions": 3
     },
     {
       "annee": 2016,
@@ -991,11 +991,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 409
+      "nb": 411
     },
     {
       "type_contenu": "Explicit",
-      "nb": 407
+      "nb": 410
     }
   ],
   "albums": [
@@ -1017,7 +1017,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 26
+      "nb_diffusions": 27
     },
     {
       "album": "Grand Garçon",
@@ -1095,8 +1095,8 @@
       "nb_diffusions": 14
     },
     {
-      "album": "Et si j'échoue ??",
-      "artistes": "Bouss",
+      "album": "Nouméa",
+      "artistes": "Jok'air",
       "nb_diffusions": 14
     }
   ],
@@ -1105,15 +1105,93 @@
     "artistes": "Jok'air",
     "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
     "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1792992079~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=517e224b5b7ed809a7717f75351c8d99fef146227ebc0bbc28852041e7207883",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1793013235~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=ab5475467067232482f14f5ae3eb9457c03be3162f3a3f82089bbafb5c4d4336",
     "date": "2026-10-26",
-    "heure": 5,
+    "heure": 10,
     "album": "Nouméa",
     "annee": 2026,
-    "start_ts": 1792991079,
-    "end_ts": 1792991303
+    "start_ts": 1793012149,
+    "end_ts": 1793012373
   },
   "derniers_morceaux": [
+    {
+      "titre": "Nouméa",
+      "artistes": "Jok'air",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1793013235~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=ab5475467067232482f14f5ae3eb9457c03be3162f3a3f82089bbafb5c4d4336",
+      "date": "2026-10-26",
+      "heure": 10,
+      "album": "Nouméa",
+      "annee": 2026,
+      "start_ts": 1793012149,
+      "end_ts": 1793012373
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1793013237~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=0163752bb362b06f2f40ef723c05e8109511bf3e0f18951072bf3e862f777bac",
+      "date": "2026-10-26",
+      "heure": 10,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1793011993,
+      "end_ts": 1793012144
+    },
+    {
+      "titre": "NUEVAYoL (piano version)",
+      "artistes": "Lil Baby Grand",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/91f37f956facf6ac3e29ed74281b2256/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.6974229277361978087.267.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/d/8/0/1d8a0be8cff83e2965ab706d51ffa1f8.mp3?hdnea=exp=1793013238~acl=/api/1/1/1/d/8/0/1d8a0be8cff83e2965ab706d51ffa1f8.mp3*~data=user_id=0,application_id=42~hmac=437fc61a7b975c800fd4404a1c41fd84b9b5fa4a4a2479b0b3c0a662ab6db064",
+      "date": "2026-10-26",
+      "heure": 10,
+      "album": "DtMF (piano version)",
+      "annee": 2025,
+      "start_ts": 1793011834,
+      "end_ts": 1793011985
+    },
+    {
+      "titre": "Mask Off",
+      "artistes": "Future",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5186078c5bd5623ebec9b2753d8aaebe/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/33/SKYC.5116374204236289133.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/4/0/f24eb3845ff02fae3022d102a7d27e6a.mp3?hdnea=exp=1793013239~acl=/api/1/1/f/2/4/0/f24eb3845ff02fae3022d102a7d27e6a.mp3*~data=user_id=0,application_id=42~hmac=f4168d3d6c333812daa134f1033dbc6cbbd6c16c0a09090fecfa39bfcd5c2b1c",
+      "date": "2026-10-26",
+      "heure": 10,
+      "album": "FUTURE",
+      "annee": 2017,
+      "start_ts": 1793011293,
+      "end_ts": 1793011489
+    },
+    {
+      "titre": "Pilé",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-26",
+      "heure": 10,
+      "album": null,
+      "annee": null,
+      "start_ts": 1793011143,
+      "end_ts": 1793011290
+    },
+    {
+      "titre": "Cuenta (feat. Meryl & Shay)",
+      "artistes": "Ronisia",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1793013241~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=6aa3aecfd1b7a6c97bb652c7545a14f7086b5a8591bfa9c82f69855025436ab6",
+      "date": "2026-10-26",
+      "heure": 10,
+      "album": "Cuenta (feat. Meryl & Shay)",
+      "annee": 2026,
+      "start_ts": 1793010962,
+      "end_ts": 1793011142
+    },
     {
       "titre": "Nouméa",
       "artistes": "Jok'air",
@@ -1165,84 +1243,6 @@
       "annee": 2025,
       "start_ts": 1792989827,
       "end_ts": 1792990008
-    },
-    {
-      "titre": "CYBERTESLA",
-      "artistes": "L2B",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1792992083~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=aa0ed185b904ee101722e39990d8bd8ffedbd016c5557fb0cdfb385c19c9c625",
-      "date": "2026-10-26",
-      "heure": 4,
-      "album": "CYBERTESLA",
-      "annee": 2026,
-      "start_ts": 1792989522,
-      "end_ts": 1792989695
-    },
-    {
-      "titre": "Giant",
-      "artistes": "Calvin Harris",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/faa77ed242019d1c534e87da6bf153b0/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/86/SKYC.4310476525579147886.30.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/f/0/dbfbde29b0b6fcad262558410fcd2985.mp3?hdnea=exp=1792992084~acl=/api/1/1/d/b/f/0/dbfbde29b0b6fcad262558410fcd2985.mp3*~data=user_id=0,application_id=42~hmac=9ecb5f46bb9089780c617ff3c36df05545f809466114c3ad8f6f74224ba88d26",
-      "date": "2026-10-26",
-      "heure": 4,
-      "album": "Giant",
-      "annee": 2019,
-      "start_ts": 1792989298,
-      "end_ts": 1792989525
-    },
-    {
-      "titre": "Cuenta (feat. Meryl & Shay)",
-      "artistes": "Ronisia",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1792975396~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=51dd34092929b1cc27126b12a55aa4d33759e093f0ad9a71de4e180568c21f9b",
-      "date": "2026-10-26",
-      "heure": 0,
-      "album": "Cuenta (feat. Meryl & Shay)",
-      "annee": 2026,
-      "start_ts": 1792974351,
-      "end_ts": 1792974531
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1792975397~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=f79a38a534ecfbf7388935d2ab758773357f4beb76aa470d13ce0b8fe03bb202",
-      "date": "2026-10-26",
-      "heure": 0,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1792974153,
-      "end_ts": 1792974310
-    },
-    {
-      "titre": "Lonely",
-      "artistes": "Akon",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/edcd5cfc4d0f6da3e7389e3507780348/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/57/SKYC.2283362582156872457.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/9/b/0/b9b7e1f45ba755096ffab230d1a84ddc.mp3?hdnea=exp=1792975398~acl=/api/1/1/b/9/b/0/b9b7e1f45ba755096ffab230d1a84ddc.mp3*~data=user_id=0,application_id=42~hmac=44a93409e52953f7a6a3292e6a59b8c6bb02a30c84d1da09ec232a8f5f0d7a1c",
-      "date": "2026-10-26",
-      "heure": 0,
-      "album": "Trouble",
-      "annee": 2006,
-      "start_ts": 1792973922,
-      "end_ts": 1792974155
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1792975399~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=78388b5f7d1d322477a358797187d56c3962aa725cac44d0552d5013d8f98e2f",
-      "date": "2026-10-26",
-      "heure": 0,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1792973808,
-      "end_ts": 1792973920
     }
   ]
 }
