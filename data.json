@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-27T10:55:04.395745",
-  "genere_ts": 1793098504,
+  "genere_le": "2026-10-27T16:05:01.231049",
+  "genere_ts": 1793117101,
   "volume": {
-    "nb_diffusions": 850,
-    "nb_artistes": 174,
-    "nb_titres": 190,
+    "nb_diffusions": 855,
+    "nb_artistes": 176,
+    "nb_titres": 192,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-27",
-    "heures_antenne": 41.4,
+    "heures_antenne": 41.66,
     "duree_moy_s": 175.4
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 42,
+      "nb_diffusions": 43,
       "titres_differents": 2,
-      "minutes_antenne": 122.1
+      "minutes_antenne": 124.6
     },
     {
       "artistes": "Vacra",
@@ -37,9 +37,9 @@
     },
     {
       "artistes": "Slimane",
-      "nb_diffusions": 25,
+      "nb_diffusions": 26,
       "titres_differents": 1,
-      "minutes_antenne": 77.5
+      "minutes_antenne": 80.6
     },
     {
       "artistes": "PLK",
@@ -146,16 +146,16 @@
       "minutes_antenne": 94.2
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 28,
+      "minutes_antenne": 70.6
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_diffusions": 27,
       "minutes_antenne": 72.9
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_diffusions": 27,
-      "minutes_antenne": 68.1
     },
     {
       "artistes": "Timal",
@@ -166,8 +166,8 @@
     {
       "artistes": "Slimane",
       "titre": "Maladie",
-      "nb_diffusions": 25,
-      "minutes_antenne": 77.5
+      "nb_diffusions": 26,
+      "minutes_antenne": 80.6
     },
     {
       "artistes": "KAROL G",
@@ -317,11 +317,11 @@
     },
     {
       "heure": 15,
-      "nb_diffusions": 38
+      "nb_diffusions": 42
     },
     {
       "heure": 16,
-      "nb_diffusions": 34
+      "nb_diffusions": 36
     },
     {
       "heure": 17,
@@ -500,8 +500,8 @@
     },
     {
       "date": "2026-10-27",
-      "nb_diffusions": 18,
-      "titres_differents": 15
+      "nb_diffusions": 24,
+      "titres_differents": 20
     }
   ],
   "semaine": [
@@ -515,7 +515,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 196
+      "nb_diffusions": 202
     },
     {
       "jour": "Mercredi",
@@ -538,8 +538,8 @@
     {
       "artistes": "Tiakola",
       "nb_jours": 25,
-      "nb_diffusions": 42,
-      "minutes": 122.1
+      "nb_diffusions": 43,
+      "minutes": 124.6
     },
     {
       "artistes": "Leto",
@@ -580,8 +580,8 @@
     {
       "artistes": "Slimane",
       "nb_jours": 16,
-      "nb_diffusions": 25,
-      "minutes": 77.5
+      "nb_diffusions": 26,
+      "minutes": 80.6
     },
     {
       "artistes": "Bad Bunny",
@@ -678,8 +678,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_jours": 19,
-      "nb_diffusions": 27
+      "nb_jours": 20,
+      "nb_diffusions": 28
     },
     {
       "artistes": "Timal",
@@ -703,7 +703,7 @@
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_jours": 16,
-      "nb_diffusions": 25
+      "nb_diffusions": 26
     },
     {
       "artistes": "Bad Bunny",
@@ -807,7 +807,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 42
+      "nb_diffusions": 43
     },
     {
       "artistes": "Gambi",
@@ -895,7 +895,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 478
+      "nb_diffusions": 481
     },
     {
       "annee": 2025,
@@ -911,7 +911,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 65
+      "nb_diffusions": 66
     },
     {
       "annee": 2021,
@@ -951,7 +951,7 @@
     },
     {
       "annee": 2012,
-      "nb_diffusions": 2
+      "nb_diffusions": 3
     },
     {
       "annee": 2010,
@@ -1001,11 +1001,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 422
+      "nb": 425
     },
     {
       "type_contenu": "Explicit",
-      "nb": 426
+      "nb": 428
     }
   ],
   "albums": [
@@ -1027,7 +1027,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 27
+      "nb_diffusions": 28
     },
     {
       "album": "Grand Garçon",
@@ -1037,7 +1037,7 @@
     {
       "album": "Chroniques d’un cupidon",
       "artistes": "Slimane",
-      "nb_diffusions": 25
+      "nb_diffusions": 26
     },
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -1111,19 +1111,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Pineapple",
-    "artistes": "Leto",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1793099397~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=0e96301c0ba15bf147b69e4532d5c63121bacb5e8d0880ee4d777f996280bdc7",
+    "titre": "Bodycount",
+    "artistes": "Le Crime",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793117995~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=ce4ccf56052a824c28abb7f5ce8bcf05816441ac1663732b3e56bc537149e6a1",
     "date": "2026-10-27",
-    "heure": 10,
-    "album": "Pineapple",
+    "heure": 16,
+    "album": "Casus Belli",
     "annee": 2026,
-    "start_ts": 1793098458,
-    "end_ts": 1793098615
+    "start_ts": 1793117046,
+    "end_ts": 1793117196
   },
   "derniers_morceaux": [
+    {
+      "titre": "Bodycount",
+      "artistes": "Le Crime",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793117995~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=ce4ccf56052a824c28abb7f5ce8bcf05816441ac1663732b3e56bc537149e6a1",
+      "date": "2026-10-27",
+      "heure": 16,
+      "album": "Casus Belli",
+      "annee": 2026,
+      "start_ts": 1793117046,
+      "end_ts": 1793117196
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1793117996~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=f2884cd5581f722362ca70950f079219eb0b626bc482f6c0fc4290b7b9f3e15d",
+      "date": "2026-10-27",
+      "heure": 16,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1793116895,
+      "end_ts": 1793117046
+    },
+    {
+      "titre": "The Real Slim Shady",
+      "artistes": "Fitness Nation",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4219edcfef25d020c8027f2379e7e01d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.2068428030132266045.16.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/2/0/822a038dbaf93ca13864f2ec6a9a356c.mp3?hdnea=exp=1793117997~acl=/api/1/1/8/2/2/0/822a038dbaf93ca13864f2ec6a9a356c.mp3*~data=user_id=0,application_id=42~hmac=9d1a935cbc30d7ef17a5d33a5a52deef08d7d2d0e5ed36aee3edc5f1bcbcc288",
+      "date": "2026-10-27",
+      "heure": 15,
+      "album": "Running 00s: Dance and Hip Hop - The Best Workout Playlist for Walking, Jogging, Running, and Cardio Exercise",
+      "annee": 2012,
+      "start_ts": 1793116589,
+      "end_ts": 1793116869
+    },
+    {
+      "titre": "Maladie",
+      "artistes": "Slimane",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1793117998~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=f2a9426c94a17ccc94d4b808f2c79e7a742efe18b17ff676bbe7b4f44dfc5b19",
+      "date": "2026-10-27",
+      "heure": 15,
+      "album": "Chroniques d’un cupidon",
+      "annee": 2022,
+      "start_ts": 1793116410,
+      "end_ts": 1793116596
+    },
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-27",
+      "heure": 15,
+      "album": null,
+      "annee": null,
+      "start_ts": 1793116253,
+      "end_ts": 1793116404
+    },
+    {
+      "titre": "Deliciosa",
+      "artistes": "Josas",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b691f3bd93fd9eabaf85eeb6ac014197/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.1272903837126516885.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3?hdnea=exp=1793117999~acl=/api/1/1/b/f/7/0/bf7df854848dddbd4a61b2ab0e44a551.mp3*~data=user_id=0,application_id=42~hmac=b0c49d625fbabe72fb39572c9c9b510264b22e646fcc671a7638aa6c1c6575bc",
+      "date": "2026-10-27",
+      "heure": 15,
+      "album": "Deliciosa",
+      "annee": 2026,
+      "start_ts": 1793115791,
+      "end_ts": 1793115953
+    },
     {
       "titre": "Pineapple",
       "artistes": "Leto",
@@ -1175,84 +1253,6 @@
       "annee": 2025,
       "start_ts": 1793097598,
       "end_ts": 1793097766
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1793099402~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=9e4b8d850beb09a740e6a5f63e14ff32f136c399c8c64857b00904de61d94371",
-      "date": "2026-10-27",
-      "heure": 10,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1793097450,
-      "end_ts": 1793097596
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1793099403~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=5a000f2f394b6b56dadfc773814844e0d61e6332b063eb3038ef2ffb76709961",
-      "date": "2026-10-27",
-      "heure": 10,
-      "album": "Nouméa",
-      "annee": 2026,
-      "start_ts": 1793097225,
-      "end_ts": 1793097449
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1793080370~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=80b8fe86e62fa89b49453a8b4048dd74ac7b31a6ebe518fda1478db36cf6de22",
-      "date": "2026-10-27",
-      "heure": 5,
-      "album": "Nouméa",
-      "annee": 2026,
-      "start_ts": 1793079445,
-      "end_ts": 1793079669
-    },
-    {
-      "titre": "BbY WOW (Remix Afro House)",
-      "artistes": "Jefry Valencia",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0e869dd4547eb31d258da57696e924f3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/7/8/0/57828a89b699f2873514ed55536bf722.mp3?hdnea=exp=1793080371~acl=/api/1/1/5/7/8/0/57828a89b699f2873514ed55536bf722.mp3*~data=user_id=0,application_id=42~hmac=24adf7a814cfc67eeccaec811fb12487bfd3c39c018ea83769342de8b1df7bd1",
-      "date": "2026-10-27",
-      "heure": 5,
-      "album": "BbY WOW (Remix Afro House)",
-      "annee": 2026,
-      "start_ts": 1793079000,
-      "end_ts": 1793079181
-    },
-    {
-      "titre": "CYBERTESLA",
-      "artistes": "L2B",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1793080372~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=034202bd90cc0157378c8d1e87fbe4df2263407440654c3472ed6a163640eaf4",
-      "date": "2026-10-27",
-      "heure": 5,
-      "album": "CYBERTESLA",
-      "annee": 2026,
-      "start_ts": 1793078451,
-      "end_ts": 1793078624
-    },
-    {
-      "titre": "beat it",
-      "artistes": "Lil Peep",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9eb6c0b2419fbd19ea14ccf32f53e0b2/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/04/SKYC.250124618585692204.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/d/0/d8dde9204fde62382429696e032f246b.mp3?hdnea=exp=1793080373~acl=/api/1/1/d/8/d/0/d8dde9204fde62382429696e032f246b.mp3*~data=user_id=0,application_id=42~hmac=4462700e9a454f57f078e50accd982cfbaa2c9c0e0bf43d8341253092b73cf0c",
-      "date": "2026-10-27",
-      "heure": 5,
-      "album": "CALIFORNIA GIRLS",
-      "annee": 2016,
-      "start_ts": 1793077909,
-      "end_ts": 1793078111
     }
   ]
 }
