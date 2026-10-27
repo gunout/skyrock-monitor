@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-10-26T21:35:43.755883",
-  "genere_ts": 1793050543,
+  "genere_le": "2026-10-27T00:45:15.898628",
+  "genere_ts": 1793061915,
   "volume": {
-    "nb_diffusions": 833,
-    "nb_artistes": 172,
-    "nb_titres": 187,
+    "nb_diffusions": 839,
+    "nb_artistes": 173,
+    "nb_titres": 188,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-26",
-    "heures_antenne": 40.54,
+    "derniere_date": "2026-10-27",
+    "heures_antenne": 40.83,
     "duree_moy_s": 175.2
   },
   "top_artistes": [
@@ -37,15 +37,15 @@
     },
     {
       "artistes": "Slimane",
-      "nb_diffusions": 24,
+      "nb_diffusions": 25,
       "titres_differents": 1,
-      "minutes_antenne": 74.4
+      "minutes_antenne": 77.5
     },
     {
       "artistes": "PLK",
-      "nb_diffusions": 26,
+      "nb_diffusions": 27,
       "titres_differents": 1,
-      "minutes_antenne": 70.2
+      "minutes_antenne": 72.9
     },
     {
       "artistes": "GIMS",
@@ -103,9 +103,9 @@
     },
     {
       "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 20,
+      "nb_diffusions": 21,
       "titres_differents": 1,
-      "minutes_antenne": 48.7
+      "minutes_antenne": 51.1
     },
     {
       "artistes": "Rusky",
@@ -146,6 +146,12 @@
       "minutes_antenne": 91.6
     },
     {
+      "artistes": "PLK",
+      "titre": "Pocahontas",
+      "nb_diffusions": 27,
+      "minutes_antenne": 72.9
+    },
+    {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_diffusions": 27,
@@ -158,10 +164,10 @@
       "minutes_antenne": 64.5
     },
     {
-      "artistes": "PLK",
-      "titre": "Pocahontas",
-      "nb_diffusions": 26,
-      "minutes_antenne": 70.2
+      "artistes": "Slimane",
+      "titre": "Maladie",
+      "nb_diffusions": 25,
+      "minutes_antenne": 77.5
     },
     {
       "artistes": "KAROL G",
@@ -170,10 +176,10 @@
       "minutes_antenne": 89.2
     },
     {
-      "artistes": "Slimane",
-      "titre": "Maladie",
-      "nb_diffusions": 24,
-      "minutes_antenne": 74.4
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_diffusions": 21,
+      "minutes_antenne": 51.1
     },
     {
       "artistes": "GIMS",
@@ -186,12 +192,6 @@
       "titre": "Sexy Nana",
       "nb_diffusions": 20,
       "minutes_antenne": 50.6
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
-      "nb_diffusions": 20,
-      "minutes_antenne": 48.7
     },
     {
       "artistes": "Bad Bunny",
@@ -257,7 +257,7 @@
   "heures": [
     {
       "heure": 0,
-      "nb_diffusions": 89
+      "nb_diffusions": 95
     },
     {
       "heure": 1,
@@ -497,6 +497,11 @@
       "date": "2026-10-26",
       "nb_diffusions": 30,
       "titres_differents": 27
+    },
+    {
+      "date": "2026-10-27",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -510,7 +515,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 178
+      "nb_diffusions": 184
     },
     {
       "jour": "Mercredi",
@@ -549,16 +554,16 @@
       "minutes": 91.6
     },
     {
+      "artistes": "PLK",
+      "nb_jours": 21,
+      "nb_diffusions": 27,
+      "minutes": 72.9
+    },
+    {
       "artistes": "Gambi",
       "nb_jours": 20,
       "nb_diffusions": 29,
       "minutes": 61.8
-    },
-    {
-      "artistes": "PLK",
-      "nb_jours": 20,
-      "nb_diffusions": 26,
-      "minutes": 70.2
     },
     {
       "artistes": "KAROL G",
@@ -573,16 +578,16 @@
       "minutes": 64.5
     },
     {
+      "artistes": "Slimane",
+      "nb_jours": 16,
+      "nb_diffusions": 25,
+      "minutes": 77.5
+    },
+    {
       "artistes": "Bad Bunny",
       "nb_jours": 16,
       "nb_diffusions": 19,
       "minutes": 57.6
-    },
-    {
-      "artistes": "Slimane",
-      "nb_jours": 15,
-      "nb_diffusions": 24,
-      "minutes": 74.4
     },
     {
       "artistes": "Tame Impala",
@@ -597,16 +602,16 @@
       "minutes": 69.9
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_jours": 14,
+      "nb_diffusions": 21,
+      "minutes": 51.1
+    },
+    {
       "artistes": "Lil Gianni",
       "nb_jours": 14,
       "nb_diffusions": 18,
       "minutes": 45.0
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_jours": 13,
-      "nb_diffusions": 20,
-      "minutes": 48.7
     },
     {
       "artistes": "Mauvais djo",
@@ -667,8 +672,8 @@
     {
       "artistes": "PLK",
       "titre": "Pocahontas",
-      "nb_jours": 20,
-      "nb_diffusions": 26
+      "nb_jours": 21,
+      "nb_diffusions": 27
     },
     {
       "artistes": "Tiakola",
@@ -695,16 +700,22 @@
       "nb_diffusions": 19
     },
     {
+      "artistes": "Slimane",
+      "titre": "Maladie",
+      "nb_jours": 16,
+      "nb_diffusions": 25
+    },
+    {
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
       "nb_jours": 16,
       "nb_diffusions": 19
     },
     {
-      "artistes": "Slimane",
-      "titre": "Maladie",
-      "nb_jours": 15,
-      "nb_diffusions": 24
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_jours": 14,
+      "nb_diffusions": 21
     },
     {
       "artistes": "Tame Impala",
@@ -723,12 +734,6 @@
       "titre": "VIVE LA MONNAIE",
       "nb_jours": 13,
       "nb_diffusions": 21
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
-      "nb_jours": 13,
-      "nb_diffusions": 20
     },
     {
       "artistes": "Mauvais djo",
@@ -885,15 +890,15 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 468
+      "nb_diffusions": 471
     },
     {
       "annee": 2025,
-      "nb_diffusions": 108
+      "nb_diffusions": 109
     },
     {
       "annee": 2024,
-      "nb_diffusions": 57
+      "nb_diffusions": 58
     },
     {
       "annee": 2023,
@@ -901,7 +906,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 64
+      "nb_diffusions": 65
     },
     {
       "annee": 2021,
@@ -991,11 +996,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 415
+      "nb": 417
     },
     {
       "type_contenu": "Explicit",
-      "nb": 416
+      "nb": 420
     }
   ],
   "albums": [
@@ -1022,16 +1027,16 @@
     {
       "album": "Grand Garçon",
       "artistes": "PLK",
-      "nb_diffusions": 26
-    },
-    {
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "artistes": "KAROL G",
-      "nb_diffusions": 24
+      "nb_diffusions": 27
     },
     {
       "album": "Chroniques d’un cupidon",
       "artistes": "Slimane",
+      "nb_diffusions": 25
+    },
+    {
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "artistes": "KAROL G",
       "nb_diffusions": 24
     },
     {
@@ -1045,13 +1050,13 @@
       "nb_diffusions": 21
     },
     {
-      "album": "RENÉ CAOVILLA",
-      "artistes": "Delil",
-      "nb_diffusions": 20
-    },
-    {
       "album": "La petasse",
       "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 21
+    },
+    {
+      "album": "RENÉ CAOVILLA",
+      "artistes": "Delil",
       "nb_diffusions": 20
     },
     {
@@ -1102,18 +1107,96 @@
   ],
   "dernier_morceau": {
     "titre": "Maladie",
-    "artistes": null,
-    "cover_deezer": null,
+    "artistes": "Slimane",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
     "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-    "preview_mp3": null,
-    "date": "2026-10-26",
-    "heure": 21,
-    "album": null,
-    "annee": null,
-    "start_ts": 1793048729,
-    "end_ts": 1793048850
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1793062808~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=00cfa96f940f0ab69862b046796928bf866dd34b5a0d7e80313dcf524419850d",
+    "date": "2026-10-27",
+    "heure": 0,
+    "album": "Chroniques d’un cupidon",
+    "annee": 2022,
+    "start_ts": 1793061806,
+    "end_ts": 1793061992
   },
   "derniers_morceaux": [
+    {
+      "titre": "Maladie",
+      "artistes": "Slimane",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1793062808~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=00cfa96f940f0ab69862b046796928bf866dd34b5a0d7e80313dcf524419850d",
+      "date": "2026-10-27",
+      "heure": 0,
+      "album": "Chroniques d’un cupidon",
+      "annee": 2022,
+      "start_ts": 1793061806,
+      "end_ts": 1793061992
+    },
+    {
+      "titre": "Mwen An Sa",
+      "artistes": "SKUNK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4b94d02f4fbd3c8856aacc21ba6a238b/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.7842040124298259730.11.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/b/0/c0b5d3c3b14a2190c669332f713f9cd0.mp3?hdnea=exp=1793062809~acl=/api/1/1/c/0/b/0/c0b5d3c3b14a2190c669332f713f9cd0.mp3*~data=user_id=0,application_id=42~hmac=1962e676d43db9ac66c45fc81a3fe7819f81b605d666422b314048d34be8b535",
+      "date": "2026-10-27",
+      "heure": 0,
+      "album": "Mwen An Sa",
+      "annee": 2025,
+      "start_ts": 1793061506,
+      "end_ts": 1793061683
+    },
+    {
+      "titre": "Cuenta (feat. Meryl & Shay)",
+      "artistes": "Ronisia",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1793062810~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=ece1c098749ee0d75b41c787eda2e4e6eee97ee09e81c802f28298371c031cf9",
+      "date": "2026-10-27",
+      "heure": 0,
+      "album": "Cuenta (feat. Meryl & Shay)",
+      "annee": 2026,
+      "start_ts": 1793061327,
+      "end_ts": 1793061507
+    },
+    {
+      "titre": "Pocahontas",
+      "artistes": "PLK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/da047273c9d96904ebb7d2585fcb5021/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3?hdnea=exp=1793062811~acl=/api/1/1/a/7/1/0/a71881ea03e891f4631c529f7f5e2d5e.mp3*~data=user_id=0,application_id=42~hmac=53cbd45693750abc50c5a87804d56ced515430a3093ed5a931e4009de60971d7",
+      "date": "2026-10-27",
+      "heure": 0,
+      "album": "Grand Garçon",
+      "annee": 2026,
+      "start_ts": 1793061156,
+      "end_ts": 1793061318
+    },
+    {
+      "titre": "Mr. Know It All",
+      "artistes": "Teddy Swims",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ae84b07e7cc79189d9f54948789633ac/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1100245519751421784.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/1/0/91186b8958202dd72bd19b5989190618.mp3?hdnea=exp=1793062813~acl=/api/1/1/9/1/1/0/91186b8958202dd72bd19b5989190618.mp3*~data=user_id=0,application_id=42~hmac=2ae69ea089d22b4b459f14218eb7f034e4d79f121f0d979c5c6fc40486b47509",
+      "date": "2026-10-27",
+      "heure": 0,
+      "album": "Mr. Know It All",
+      "annee": 2026,
+      "start_ts": 1793060966,
+      "end_ts": 1793061160
+    },
+    {
+      "titre": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1793062814~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=76fdabf3d18daaf7395cc7f458ce4cf8ca23ab66779af5c8ac0eddca21e2e302",
+      "date": "2026-10-27",
+      "heure": 0,
+      "album": "La petasse",
+      "annee": 2024,
+      "start_ts": 1793060816,
+      "end_ts": 1793060962
+    },
     {
       "titre": "Maladie",
       "artistes": null,
@@ -1165,84 +1248,6 @@
       "annee": 2026,
       "start_ts": 1793042286,
       "end_ts": 1793042467
-    },
-    {
-      "titre": "Dégun",
-      "artistes": "BARA8!",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5424c2d09ecc19e0b73b686149db2837/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/5/0/c75883f2bb8b44db08c8fe000a859442.mp3?hdnea=exp=1793051441~acl=/api/1/1/c/7/5/0/c75883f2bb8b44db08c8fe000a859442.mp3*~data=user_id=0,application_id=42~hmac=54f63db8af92cd15878db444498df0b522978b60e4f2914752923a075837c77d",
-      "date": "2026-10-26",
-      "heure": 18,
-      "album": "Dégun",
-      "annee": 2023,
-      "start_ts": 1793040688,
-      "end_ts": 1793040809
-    },
-    {
-      "titre": "J'assume",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-26",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793040385,
-      "end_ts": 1793040506
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1793035303~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=92a36e8b6f9d4a5dd3655166375a4b9fa77c7b7991fcb27c310d492d17f76980",
-      "date": "2026-10-26",
-      "heure": 17,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1793034322,
-      "end_ts": 1793034468
-    },
-    {
-      "titre": "Loser",
-      "artistes": "Apache 207",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.223.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1793035304~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=ca1ee0593c6bc1f0958c653450e1d8c426f858bacf6ed4f19d3b686cc31cd19b",
-      "date": "2026-10-26",
-      "heure": 17,
-      "album": "Loser",
-      "annee": 2024,
-      "start_ts": 1793034102,
-      "end_ts": 1793034320
-    },
-    {
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "artistes": "Lil Gianni",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1793035305~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=d2731684f6ce81aeaf992549153c02acdf769f09ee7b5fd9808b904d29824f7a",
-      "date": "2026-10-26",
-      "heure": 16,
-      "album": "SAMPLEMAKER",
-      "annee": 2022,
-      "start_ts": 1793033952,
-      "end_ts": 1793034102
-    },
-    {
-      "titre": "Timber",
-      "artistes": "Pitbull",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c70750fc7943ae13d3e6ccad60c3c0af/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/33/SKYC.5931028827329762633.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/8/0/c38cc6fefa309b9509744de6bf649c4e.mp3?hdnea=exp=1793035307~acl=/api/1/1/c/3/8/0/c38cc6fefa309b9509744de6bf649c4e.mp3*~data=user_id=0,application_id=42~hmac=a89f071f923e5958c1c225b7cee984ba933b7657d2ebb340282dae4081691b58",
-      "date": "2026-10-26",
-      "heure": 16,
-      "album": "Timber",
-      "annee": 2013,
-      "start_ts": 1793033726,
-      "end_ts": 1793033926
     }
   ]
 }
