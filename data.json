@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-28T16:18:37.874768",
-  "genere_ts": 1793204317,
+  "genere_le": "2026-10-28T21:08:54.966496",
+  "genere_ts": 1793221734,
   "volume": {
-    "nb_diffusions": 882,
-    "nb_artistes": 180,
-    "nb_titres": 199,
+    "nb_diffusions": 887,
+    "nb_artistes": 182,
+    "nb_titres": 200,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-28",
-    "heures_antenne": 42.98,
-    "duree_moy_s": 175.4
+    "heures_antenne": 43.17,
+    "duree_moy_s": 175.2
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 44,
+      "nb_diffusions": 45,
       "titres_differents": 2,
-      "minutes_antenne": 127.2
+      "minutes_antenne": 129.7
     },
     {
       "artistes": "Vacra",
@@ -102,16 +102,16 @@
       "minutes_antenne": 53.3
     },
     {
+      "artistes": "Rusky",
+      "nb_diffusions": 21,
+      "titres_differents": 1,
+      "minutes_antenne": 53.2
+    },
+    {
       "artistes": "Aya Nakamura",
       "nb_diffusions": 21,
       "titres_differents": 2,
       "minutes_antenne": 53.0
-    },
-    {
-      "artistes": "Rusky",
-      "nb_diffusions": 20,
-      "titres_differents": 1,
-      "minutes_antenne": 50.6
     },
     {
       "artistes": "Lil Gianni",
@@ -148,8 +148,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_diffusions": 29,
-      "minutes_antenne": 73.2
+      "nb_diffusions": 30,
+      "minutes_antenne": 75.7
     },
     {
       "artistes": "Timal",
@@ -188,6 +188,12 @@
       "minutes_antenne": 53.5
     },
     {
+      "artistes": "Rusky",
+      "titre": "SEXY NANA (Radio Edit)",
+      "nb_diffusions": 21,
+      "minutes_antenne": 53.2
+    },
+    {
       "artistes": "Aya Nakamura",
       "titre": "Sexy Nana",
       "nb_diffusions": 20,
@@ -204,12 +210,6 @@
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_diffusions": 20,
       "minutes_antenne": 50.0
-    },
-    {
-      "artistes": "Rusky",
-      "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 20,
-      "minutes_antenne": 50.6
     },
     {
       "artistes": "Bad Bunny",
@@ -329,19 +329,19 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 65
+      "nb_diffusions": 67
     },
     {
       "heure": 19,
-      "nb_diffusions": 51
+      "nb_diffusions": 53
     },
     {
       "heure": 20,
-      "nb_diffusions": 33
+      "nb_diffusions": 34
     },
     {
       "heure": 21,
-      "nb_diffusions": 26
+      "nb_diffusions": 27
     },
     {
       "heure": 22,
@@ -505,8 +505,8 @@
     },
     {
       "date": "2026-10-28",
-      "nb_diffusions": 18,
-      "titres_differents": 17
+      "nb_diffusions": 24,
+      "titres_differents": 21
     }
   ],
   "semaine": [
@@ -524,7 +524,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 140
+      "nb_diffusions": 146
     },
     {
       "jour": "Jeudi",
@@ -543,8 +543,8 @@
     {
       "artistes": "Tiakola",
       "nb_jours": 26,
-      "nb_diffusions": 44,
-      "minutes": 127.2
+      "nb_diffusions": 45,
+      "minutes": 129.7
     },
     {
       "artistes": "Leto",
@@ -619,6 +619,12 @@
       "minutes": 53.5
     },
     {
+      "artistes": "Rusky",
+      "nb_jours": 13,
+      "nb_diffusions": 21,
+      "minutes": 53.2
+    },
+    {
       "artistes": "Jok'air",
       "nb_jours": 13,
       "nb_diffusions": 19,
@@ -641,12 +647,6 @@
       "nb_jours": 13,
       "nb_diffusions": 15,
       "minutes": 30.1
-    },
-    {
-      "artistes": "Rusky",
-      "nb_jours": 12,
-      "nb_diffusions": 20,
-      "minutes": 50.6
     },
     {
       "artistes": "Niska",
@@ -678,7 +678,7 @@
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 21,
-      "nb_diffusions": 29
+      "nb_diffusions": 30
     },
     {
       "artistes": "PLK",
@@ -741,6 +741,12 @@
       "nb_diffusions": 18
     },
     {
+      "artistes": "Rusky",
+      "titre": "SEXY NANA (Radio Edit)",
+      "nb_jours": 13,
+      "nb_diffusions": 21
+    },
+    {
       "artistes": "Mauvais djo",
       "titre": "Wagyu",
       "nb_jours": 13,
@@ -763,12 +769,6 @@
       "titre": "Cote à la hausse",
       "nb_jours": 13,
       "nb_diffusions": 15
-    },
-    {
-      "artistes": "Rusky",
-      "titre": "SEXY NANA (Radio Edit)",
-      "nb_jours": 12,
-      "nb_diffusions": 20
     },
     {
       "artistes": "Niska",
@@ -817,7 +817,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 44
+      "nb_diffusions": 45
     },
     {
       "artistes": "Gambi",
@@ -900,7 +900,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 495
+      "nb_diffusions": 499
     },
     {
       "annee": 2025,
@@ -920,7 +920,7 @@
     },
     {
       "annee": 2021,
-      "nb_diffusions": 12
+      "nb_diffusions": 13
     },
     {
       "annee": 2020,
@@ -1006,11 +1006,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 439
+      "nb": 441
     },
     {
       "type_contenu": "Explicit",
-      "nb": 441
+      "nb": 444
     }
   ],
   "albums": [
@@ -1032,7 +1032,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 29
+      "nb_diffusions": 30
     },
     {
       "album": "Grand Garçon",
@@ -1065,14 +1065,14 @@
       "nb_diffusions": 22
     },
     {
-      "album": "RENÉ CAOVILLA",
-      "artistes": "Delil",
+      "album": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
       "nb_diffusions": 21
     },
     {
-      "album": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "nb_diffusions": 20
+      "album": "RENÉ CAOVILLA",
+      "artistes": "Delil",
+      "nb_diffusions": 21
     },
     {
       "album": "SAMPLEMAKER",
@@ -1116,19 +1116,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Été avec toi",
-    "artistes": "Adèle Castillon",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1793205209~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=bfb4a85a616297bb8bb0367bfb0f30d6037d54d65712cbcf554052afb3b4e9ba",
+    "titre": "BbY WOW",
+    "artistes": "LatinoFi",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9781ae2f423070418dae5500951bbbf7/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/6/0/d36b0d6b5793509603f175c49542304b.mp3?hdnea=exp=1793222629~acl=/api/1/1/d/3/6/0/d36b0d6b5793509603f175c49542304b.mp3*~data=user_id=0,application_id=42~hmac=d5c4a5cf6a21fd66ddbec186d341e00401559312a08b327fd17f65288e3b6231",
     "date": "2026-10-28",
-    "heure": 16,
-    "album": "Été avec toi",
+    "heure": 21,
+    "album": "BbY WOW",
     "annee": 2026,
-    "start_ts": 1793203961,
-    "end_ts": 1793204145
+    "start_ts": 1793221376,
+    "end_ts": 1793221497
   },
   "derniers_morceaux": [
+    {
+      "titre": "BbY WOW",
+      "artistes": "LatinoFi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9781ae2f423070418dae5500951bbbf7/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/6/0/d36b0d6b5793509603f175c49542304b.mp3?hdnea=exp=1793222629~acl=/api/1/1/d/3/6/0/d36b0d6b5793509603f175c49542304b.mp3*~data=user_id=0,application_id=42~hmac=d5c4a5cf6a21fd66ddbec186d341e00401559312a08b327fd17f65288e3b6231",
+      "date": "2026-10-28",
+      "heure": 21,
+      "album": "BbY WOW",
+      "annee": 2026,
+      "start_ts": 1793221376,
+      "end_ts": 1793221497
+    },
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1793222630~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=81f3e8e1d8e0ba0d2579a1c28fbf280f36e0f79514bced8c70736440d43cf4c8",
+      "date": "2026-10-28",
+      "heure": 20,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1793219237,
+      "end_ts": 1793219389
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1793222631~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=d9e467a6e9c77574d761b1a210d718b7e1ab6e9c41356e00030bf34b724d86e2",
+      "date": "2026-10-28",
+      "heure": 19,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1793217439,
+      "end_ts": 1793217590
+    },
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-28",
+      "heure": 19,
+      "album": null,
+      "annee": null,
+      "start_ts": 1793215180,
+      "end_ts": 1793215361
+    },
+    {
+      "titre": "Belvedere",
+      "artistes": "Bello&Dallas",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c9ee3f22f0b2d8eedaf73188f176fa79/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.2521995968359080751.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/d/0/e6d7d35c2b5a003742d7885dcc946e55.mp3?hdnea=exp=1793222632~acl=/api/1/1/e/6/d/0/e6d7d35c2b5a003742d7885dcc946e55.mp3*~data=user_id=0,application_id=42~hmac=5c1401ff68c94e5bfc0dee823a0caa8643c64852378b5487a3caf0d6961fda06",
+      "date": "2026-10-28",
+      "heure": 18,
+      "album": "Belvedere",
+      "annee": 2026,
+      "start_ts": 1793213747,
+      "end_ts": 1793213868
+    },
+    {
+      "titre": "CUENTA",
+      "artistes": "Myke Towers",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ae0915cad352581464d954b80f6fcc15/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/7/e/0/67e87a8faa09cd326c066f2cde12b204.mp3?hdnea=exp=1793222633~acl=/api/1/1/6/7/e/0/67e87a8faa09cd326c066f2cde12b204.mp3*~data=user_id=0,application_id=42~hmac=fb77ba156e370bcdf72226551978fef4593c1424ea316cfb2a8e17622d0d1bd0",
+      "date": "2026-10-28",
+      "heure": 18,
+      "album": "LYKE MIKE",
+      "annee": 2021,
+      "start_ts": 1793213402,
+      "end_ts": 1793213553
+    },
     {
       "titre": "Été avec toi",
       "artistes": "Adèle Castillon",
@@ -1180,84 +1258,6 @@
       "annee": 2022,
       "start_ts": 1793203416,
       "end_ts": 1793203602
-    },
-    {
-      "titre": "Can't Hold Us (feat. Ray Dalton)",
-      "artistes": "Macklemore",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/238f1c36e8445fd162d1d53b8181ecb5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/72/SKYC.201191464133748472.10.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/6/0/bc66a201d24622fb130e7a624b1679fd.mp3?hdnea=exp=1793205214~acl=/api/1/1/b/c/6/0/bc66a201d24622fb130e7a624b1679fd.mp3*~data=user_id=0,application_id=42~hmac=ad0957952ecae0193556ce579c5859a0156472cf440611e2f3a95d1be19c8a8d",
-      "date": "2026-10-28",
-      "heure": 15,
-      "album": "The Heist",
-      "annee": 2012,
-      "start_ts": 1793203123,
-      "end_ts": 1793203379
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1793205216~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=093b261c75110d756ff8c0c0a5a7d03aa3576b7bfd7c74ba46b769e648a87add",
-      "date": "2026-10-28",
-      "heure": 15,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1793202966,
-      "end_ts": 1793203123
-    },
-    {
-      "titre": "Eurostar (feat. Central Cee)",
-      "artistes": "Ninho",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7b49d51e89ff07824c8c62043775a2ab/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.2134826110023341745.34.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/a/0/8ca6c9ca191d6a23421318a1b070e982.mp3?hdnea=exp=1793182010~acl=/api/1/1/8/c/a/0/8ca6c9ca191d6a23421318a1b070e982.mp3*~data=user_id=0,application_id=42~hmac=d993a5ab28ac1cc03d2213d3ffad88e987b0ee5d0626298f76658b4b71d350e5",
-      "date": "2026-10-28",
-      "heure": 9,
-      "album": "NI",
-      "annee": 2023,
-      "start_ts": 1793180576,
-      "end_ts": 1793180757
-    },
-    {
-      "titre": "Coachella",
-      "artistes": "TK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2ef6582bc94da775e6161bffd453f642/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/f/0/20f57670cde4235a9db614840c5edb4b.mp3?hdnea=exp=1793182011~acl=/api/1/1/2/0/f/0/20f57670cde4235a9db614840c5edb4b.mp3*~data=user_id=0,application_id=42~hmac=a139f61c0a7d634f2e4031c309ecbe727a6e9e0a900a435744140580c566d5ce",
-      "date": "2026-10-28",
-      "heure": 9,
-      "album": "Coachella",
-      "annee": 2026,
-      "start_ts": 1793180420,
-      "end_ts": 1793180574
-    },
-    {
-      "titre": "Pilé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-28",
-      "heure": 9,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793180272,
-      "end_ts": 1793180419
-    },
-    {
-      "titre": "Cuenta (feat. Meryl & Shay)",
-      "artistes": "Ronisia",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1793182013~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=6bbdaf1152853e6c136cc679a2a2041de0e02c69b25b720cf0b6cbd7afeb2433",
-      "date": "2026-10-28",
-      "heure": 9,
-      "album": "Cuenta (feat. Meryl & Shay)",
-      "annee": 2026,
-      "start_ts": 1793180091,
-      "end_ts": 1793180271
     }
   ]
 }
