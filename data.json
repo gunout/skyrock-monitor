@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-27T23:57:46.173592",
-  "genere_ts": 1793145466,
+  "genere_le": "2026-10-28T03:24:32.651738",
+  "genere_ts": 1793157872,
   "volume": {
-    "nb_diffusions": 866,
+    "nb_diffusions": 871,
     "nb_artistes": 179,
-    "nb_titres": 196,
+    "nb_titres": 197,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-10-27",
-    "heures_antenne": 42.18,
+    "derniere_date": "2026-10-28",
+    "heures_antenne": 42.42,
     "duree_moy_s": 175.3
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 43,
+      "nb_diffusions": 44,
       "titres_differents": 2,
-      "minutes_antenne": 124.6
+      "minutes_antenne": 127.2
     },
     {
       "artistes": "Vacra",
@@ -66,16 +66,16 @@
       "minutes_antenne": 64.5
     },
     {
+      "artistes": "Gambi",
+      "nb_diffusions": 30,
+      "titres_differents": 2,
+      "minutes_antenne": 64.0
+    },
+    {
       "artistes": "Tame Impala",
       "nb_diffusions": 19,
       "titres_differents": 2,
       "minutes_antenne": 63.6
-    },
-    {
-      "artistes": "Gambi",
-      "nb_diffusions": 29,
-      "titres_differents": 2,
-      "minutes_antenne": 61.8
     },
     {
       "artistes": "BIGBANG",
@@ -114,16 +114,16 @@
       "minutes_antenne": 50.6
     },
     {
+      "artistes": "Lil Gianni",
+      "nb_diffusions": 19,
+      "titres_differents": 1,
+      "minutes_antenne": 47.5
+    },
+    {
       "artistes": "Apache 207",
       "nb_diffusions": 13,
       "titres_differents": 1,
       "minutes_antenne": 47.2
-    },
-    {
-      "artistes": "Lil Gianni",
-      "nb_diffusions": 18,
-      "titres_differents": 1,
-      "minutes_antenne": 45.0
     },
     {
       "artistes": "Bouss",
@@ -148,8 +148,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_diffusions": 28,
-      "minutes_antenne": 70.6
+      "nb_diffusions": 29,
+      "minutes_antenne": 73.2
     },
     {
       "artistes": "PLK",
@@ -194,6 +194,12 @@
       "minutes_antenne": 50.6
     },
     {
+      "artistes": "Gambi",
+      "titre": "RENÉ CAOVILLA",
+      "nb_diffusions": 20,
+      "minutes_antenne": 43.8
+    },
+    {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
       "nb_diffusions": 20,
@@ -206,16 +212,10 @@
       "minutes_antenne": 57.6
     },
     {
-      "artistes": "Gambi",
-      "titre": "RENÉ CAOVILLA",
-      "nb_diffusions": 19,
-      "minutes_antenne": 41.6
-    },
-    {
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_diffusions": 18,
-      "minutes_antenne": 45.0
+      "nb_diffusions": 19,
+      "minutes_antenne": 47.5
     },
     {
       "artistes": "Mauvais djo",
@@ -269,7 +269,7 @@
     },
     {
       "heure": 3,
-      "nb_diffusions": 31
+      "nb_diffusions": 37
     },
     {
       "heure": 4,
@@ -502,6 +502,11 @@
       "date": "2026-10-27",
       "nb_diffusions": 36,
       "titres_differents": 28
+    },
+    {
+      "date": "2026-10-28",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -519,7 +524,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 122
+      "nb_diffusions": 128
     },
     {
       "jour": "Jeudi",
@@ -537,9 +542,9 @@
   "recurrents": [
     {
       "artistes": "Tiakola",
-      "nb_jours": 25,
-      "nb_diffusions": 43,
-      "minutes": 124.6
+      "nb_jours": 26,
+      "nb_diffusions": 44,
+      "minutes": 127.2
     },
     {
       "artistes": "Leto",
@@ -554,16 +559,16 @@
       "minutes": 102.4
     },
     {
+      "artistes": "Gambi",
+      "nb_jours": 21,
+      "nb_diffusions": 30,
+      "minutes": 64.0
+    },
+    {
       "artistes": "PLK",
       "nb_jours": 21,
       "nb_diffusions": 27,
       "minutes": 72.9
-    },
-    {
-      "artistes": "Gambi",
-      "nb_jours": 20,
-      "nb_diffusions": 29,
-      "minutes": 61.8
     },
     {
       "artistes": "KAROL G",
@@ -596,6 +601,12 @@
       "minutes": 75.8
     },
     {
+      "artistes": "Lil Gianni",
+      "nb_jours": 15,
+      "nb_diffusions": 19,
+      "minutes": 47.5
+    },
+    {
       "artistes": "Tame Impala",
       "nb_jours": 15,
       "nb_diffusions": 19,
@@ -606,12 +617,6 @@
       "nb_jours": 14,
       "nb_diffusions": 22,
       "minutes": 53.5
-    },
-    {
-      "artistes": "Lil Gianni",
-      "nb_jours": 14,
-      "nb_diffusions": 18,
-      "minutes": 45.0
     },
     {
       "artistes": "Jok'air",
@@ -670,16 +675,22 @@
       "nb_diffusions": 37
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_jours": 21,
+      "nb_diffusions": 29
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_jours": 21,
       "nb_diffusions": 27
     },
     {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_jours": 20,
-      "nb_diffusions": 28
+      "artistes": "Gambi",
+      "titre": "RENÉ CAOVILLA",
+      "nb_jours": 18,
+      "nb_diffusions": 20
     },
     {
       "artistes": "Timal",
@@ -694,12 +705,6 @@
       "nb_diffusions": 24
     },
     {
-      "artistes": "Gambi",
-      "titre": "RENÉ CAOVILLA",
-      "nb_jours": 17,
-      "nb_diffusions": 19
-    },
-    {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_jours": 16,
@@ -709,6 +714,12 @@
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
       "nb_jours": 16,
+      "nb_diffusions": 19
+    },
+    {
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "nb_jours": 15,
       "nb_diffusions": 19
     },
     {
@@ -726,12 +737,6 @@
     {
       "artistes": "Tame Impala",
       "titre": "Dracula (with JENNIE)",
-      "nb_jours": 14,
-      "nb_diffusions": 18
-    },
-    {
-      "artistes": "Lil Gianni",
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_jours": 14,
       "nb_diffusions": 18
     },
@@ -807,12 +812,12 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 43
+      "nb_diffusions": 44
     },
     {
       "artistes": "Gambi",
       "nb_titres_differents": 2,
-      "nb_diffusions": 29
+      "nb_diffusions": 30
     },
     {
       "artistes": "Aya Nakamura",
@@ -895,7 +900,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 486
+      "nb_diffusions": 489
     },
     {
       "annee": 2025,
@@ -911,7 +916,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 66
+      "nb_diffusions": 67
     },
     {
       "annee": 2021,
@@ -959,7 +964,7 @@
     },
     {
       "annee": 2009,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     },
     {
       "annee": 2008,
@@ -1001,11 +1006,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 431
+      "nb": 433
     },
     {
       "type_contenu": "Explicit",
-      "nb": 433
+      "nb": 436
     }
   ],
   "albums": [
@@ -1027,7 +1032,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 28
+      "nb_diffusions": 29
     },
     {
       "album": "Grand Garçon",
@@ -1060,14 +1065,19 @@
       "nb_diffusions": 22
     },
     {
+      "album": "RENÉ CAOVILLA",
+      "artistes": "Delil",
+      "nb_diffusions": 21
+    },
+    {
       "album": "SEXY NANA (Radio Edit)",
       "artistes": "Rusky",
       "nb_diffusions": 20
     },
     {
-      "album": "RENÉ CAOVILLA",
-      "artistes": "Delil",
-      "nb_diffusions": 20
+      "album": "SAMPLEMAKER",
+      "artistes": "Lil Gianni",
+      "nb_diffusions": 19
     },
     {
       "album": "DeBÍ TiRAR MáS FOToS",
@@ -1077,11 +1087,6 @@
     {
       "album": "Wagyu",
       "artistes": "Mauvais djo",
-      "nb_diffusions": 18
-    },
-    {
-      "album": "SAMPLEMAKER",
-      "artistes": "Lil Gianni",
       "nb_diffusions": 18
     },
     {
@@ -1111,19 +1116,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "On s'attache",
-    "artistes": "Christophe Maé",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1793146359~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=a79bcfefdec3d68f3e87f9574b62f81a0b7bddd94e1aeeee44df7cf147e716c2",
-    "date": "2026-10-27",
-    "heure": 23,
-    "album": "Mon paradis",
-    "annee": 2007,
-    "start_ts": 1793145334,
-    "end_ts": 1793145524
+    "titre": "BIR HAKEIM",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+    "preview_mp3": null,
+    "date": "2026-10-28",
+    "heure": 3,
+    "album": null,
+    "annee": null,
+    "start_ts": 1793157826,
+    "end_ts": 1793158060
   },
   "derniers_morceaux": [
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-28",
+      "heure": 3,
+      "album": null,
+      "annee": null,
+      "start_ts": 1793157826,
+      "end_ts": 1793158060
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1793158767~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=4260617fb7731048f96104dd970623973a818cd190395ff5ad35f0ea01543d6c",
+      "date": "2026-10-28",
+      "heure": 3,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1793157669,
+      "end_ts": 1793157819
+    },
+    {
+      "titre": "Hotel Room Service",
+      "artistes": "Pitbull",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2b0fe2aab6f61ba46edd70b74867c2fa/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/87/SKYC.2875490380660930287.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/8/0/268581a9f77c74d44cd29929c06d059a.mp3?hdnea=exp=1793158768~acl=/api/1/1/2/6/8/0/268581a9f77c74d44cd29929c06d059a.mp3*~data=user_id=0,application_id=42~hmac=8c943bfaeb4cd316fbc5d25775dd15e344bc8709d756854fc4677f20db06d85c",
+      "date": "2026-10-28",
+      "heure": 3,
+      "album": "Hotel Room Service",
+      "annee": 2009,
+      "start_ts": 1793157437,
+      "end_ts": 1793157675
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1793158769~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=3bbe9e2f03f3d17f085ba8700d350d0ce05610947f946a9ae5d8b8d6b5866981",
+      "date": "2026-10-28",
+      "heure": 3,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1793157285,
+      "end_ts": 1793157436
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1793158770~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=e64d40e8d82ea8a946a07137cbff60c208cf868da25760773100bdac29bf0089",
+      "date": "2026-10-28",
+      "heure": 3,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1793157108,
+      "end_ts": 1793157285
+    },
+    {
+      "titre": "RENÉ CAOVILLA",
+      "artistes": "Gambi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ee4b5602c0c3ce9a09194ca9715e2648/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.326202054362259341.5.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3?hdnea=exp=1793158771~acl=/api/1/1/a/1/3/0/a139d1b9efc8477af1fc097bca74549c.mp3*~data=user_id=0,application_id=42~hmac=4c65c29e1e61a891b829ae815325fa73c39e863681aa3a860626962d6af6ce94",
+      "date": "2026-10-28",
+      "heure": 3,
+      "album": "RENÉ CAOVILLA",
+      "annee": 2026,
+      "start_ts": 1793156977,
+      "end_ts": 1793157108
+    },
     {
       "titre": "On s'attache",
       "artistes": "Christophe Maé",
@@ -1175,84 +1258,6 @@
       "annee": 2026,
       "start_ts": 1793144840,
       "end_ts": 1793144992
-    },
-    {
-      "titre": "Doudou",
-      "artistes": "Koba LaD",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ddcdd2279f0eb7d319166a2639dfcbb3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/76/SKYC.1299707082408331076.6.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/5/7/0/357de82769e1b39faae3c881b25a958e.mp3?hdnea=exp=1793146363~acl=/api/1/1/3/5/7/0/357de82769e1b39faae3c881b25a958e.mp3*~data=user_id=0,application_id=42~hmac=9c17959b5b5e1e45712319d99aca964584fe8a491f600785dcceddebb5fffb58",
-      "date": "2026-10-27",
-      "heure": 23,
-      "album": "Cartel : volume 1 & 2",
-      "annee": 2021,
-      "start_ts": 1793144551,
-      "end_ts": 1793144728
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-27",
-      "heure": 23,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793144319,
-      "end_ts": 1793144553
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1793134269~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=406877b1fc2d91f7a183d585374365d716aeb0dde3f02fd72d376e94c66bf3fa",
-      "date": "2026-10-27",
-      "heure": 20,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1793132911,
-      "end_ts": 1793133069
-    },
-    {
-      "titre": "CYBERTESLA",
-      "artistes": "L2B",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1793134270~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=a86bc1936bac4bc421a9a58830398617130894544940347bb8cbcb6f38fe9296",
-      "date": "2026-10-27",
-      "heure": 19,
-      "album": "CYBERTESLA",
-      "annee": 2026,
-      "start_ts": 1793131032,
-      "end_ts": 1793131205
-    },
-    {
-      "titre": "Degun les Sèche",
-      "artistes": "Ekloz",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/8e9183903c77fdae3e51fbcecf40613f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/5/1/0/151fb0b98bd6b5f183fd5fa686160099.mp3?hdnea=exp=1793134271~acl=/api/1/1/1/5/1/0/151fb0b98bd6b5f183fd5fa686160099.mp3*~data=user_id=0,application_id=42~hmac=844d0057c7ac864681df9488df063dd527c673e55259d81f8c0ec07371eba57a",
-      "date": "2026-10-27",
-      "heure": 19,
-      "album": "Degun les Sèche",
-      "annee": 2025,
-      "start_ts": 1793128715,
-      "end_ts": 1793128896
-    },
-    {
-      "titre": "Pangor (Swalalala)",
-      "artistes": "Djaksparo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1793134272~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=50a28883b85e6fcca23cdd6006cb4e4b540272d217f70dcaa2041a96ec88779b",
-      "date": "2026-10-27",
-      "heure": 18,
-      "album": "Pangor (Swalalala)",
-      "annee": 2026,
-      "start_ts": 1793127264,
-      "end_ts": 1793127385
     }
   ]
 }
