@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-10-29T00:50:57.557963",
-  "genere_ts": 1793235057,
+  "genere_le": "2026-10-29T06:32:24.387270",
+  "genere_ts": 1793255544,
   "volume": {
-    "nb_diffusions": 892,
-    "nb_artistes": 182,
-    "nb_titres": 201,
+    "nb_diffusions": 898,
+    "nb_artistes": 184,
+    "nb_titres": 203,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-29",
-    "heures_antenne": 43.42,
-    "duree_moy_s": 175.3
+    "heures_antenne": 43.76,
+    "duree_moy_s": 175.4
   },
   "top_artistes": [
     {
@@ -42,6 +42,12 @@
       "minutes_antenne": 86.8
     },
     {
+      "artistes": "Jok'air",
+      "nb_diffusions": 21,
+      "titres_differents": 2,
+      "minutes_antenne": 76.3
+    },
+    {
       "artistes": "GIMS",
       "nb_diffusions": 25,
       "titres_differents": 3,
@@ -54,16 +60,10 @@
       "minutes_antenne": 72.9
     },
     {
-      "artistes": "Jok'air",
-      "nb_diffusions": 20,
-      "titres_differents": 2,
-      "minutes_antenne": 72.5
-    },
-    {
       "artistes": "Timal",
-      "nb_diffusions": 29,
+      "nb_diffusions": 30,
       "titres_differents": 1,
-      "minutes_antenne": 69.3
+      "minutes_antenne": 71.7
     },
     {
       "artistes": "Gambi",
@@ -154,8 +154,8 @@
     {
       "artistes": "Timal",
       "titre": "Sicario",
-      "nb_diffusions": 29,
-      "minutes_antenne": 69.3
+      "nb_diffusions": 30,
+      "minutes_antenne": 71.7
     },
     {
       "artistes": "Slimane",
@@ -218,6 +218,12 @@
       "minutes_antenne": 57.6
     },
     {
+      "artistes": "Jok'air",
+      "titre": "Nouméa",
+      "nb_diffusions": 18,
+      "minutes_antenne": 67.2
+    },
+    {
       "artistes": "Mauvais djo",
       "titre": "Wagyu",
       "nb_diffusions": 18,
@@ -234,12 +240,6 @@
       "titre": "Dracula (with JENNIE)",
       "nb_diffusions": 18,
       "minutes_antenne": 60.3
-    },
-    {
-      "artistes": "Jok'air",
-      "titre": "Nouméa",
-      "nb_diffusions": 17,
-      "minutes_antenne": 63.5
     },
     {
       "artistes": "BIGBANG",
@@ -273,15 +273,15 @@
     },
     {
       "heure": 4,
-      "nb_diffusions": 55
+      "nb_diffusions": 56
     },
     {
       "heure": 5,
-      "nb_diffusions": 46
+      "nb_diffusions": 49
     },
     {
       "heure": 6,
-      "nb_diffusions": 32
+      "nb_diffusions": 34
     },
     {
       "heure": 7,
@@ -510,8 +510,8 @@
     },
     {
       "date": "2026-10-29",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 10
     }
   ],
   "semaine": [
@@ -533,7 +533,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 136
+      "nb_diffusions": 142
     },
     {
       "jour": "Vendredi",
@@ -578,8 +578,8 @@
     {
       "artistes": "Timal",
       "nb_jours": 19,
-      "nb_diffusions": 29,
-      "minutes": 69.3
+      "nb_diffusions": 30,
+      "minutes": 71.7
     },
     {
       "artistes": "KAROL G",
@@ -626,8 +626,8 @@
     {
       "artistes": "Jok'air",
       "nb_jours": 14,
-      "nb_diffusions": 20,
-      "minutes": 72.5
+      "nb_diffusions": 21,
+      "minutes": 76.3
     },
     {
       "artistes": "Rusky",
@@ -695,7 +695,7 @@
       "artistes": "Timal",
       "titre": "Sicario",
       "nb_jours": 19,
-      "nb_diffusions": 29
+      "nb_diffusions": 30
     },
     {
       "artistes": "Slimane",
@@ -785,7 +785,7 @@
       "artistes": "Jok'air",
       "titre": "Nouméa",
       "nb_jours": 12,
-      "nb_diffusions": 17
+      "nb_diffusions": 18
     }
   ],
   "diversifies": [
@@ -837,7 +837,7 @@
     {
       "artistes": "Jok'air",
       "nb_titres_differents": 2,
-      "nb_diffusions": 20
+      "nb_diffusions": 21
     },
     {
       "artistes": "Mauvais djo",
@@ -857,7 +857,7 @@
     {
       "artistes": "L2B",
       "nb_titres_differents": 2,
-      "nb_diffusions": 13
+      "nb_diffusions": 14
     },
     {
       "artistes": "abel31",
@@ -905,11 +905,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 502
+      "nb_diffusions": 505
     },
     {
       "annee": 2025,
-      "nb_diffusions": 112
+      "nb_diffusions": 113
     },
     {
       "annee": 2024,
@@ -929,7 +929,7 @@
     },
     {
       "annee": 2020,
-      "nb_diffusions": 8
+      "nb_diffusions": 9
     },
     {
       "annee": 2019,
@@ -937,7 +937,7 @@
     },
     {
       "annee": 2018,
-      "nb_diffusions": 10
+      "nb_diffusions": 11
     },
     {
       "annee": 2017,
@@ -1011,11 +1011,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 444
+      "nb": 448
     },
     {
       "type_contenu": "Explicit",
-      "nb": 446
+      "nb": 448
     }
   ],
   "albums": [
@@ -1032,7 +1032,7 @@
     {
       "album": "Sicario",
       "artistes": "Timal",
-      "nb_diffusions": 31
+      "nb_diffusions": 32
     },
     {
       "album": "Mélo Décalé",
@@ -1095,6 +1095,11 @@
       "nb_diffusions": 18
     },
     {
+      "album": "Nouméa",
+      "artistes": "Jok'air",
+      "nb_diffusions": 18
+    },
+    {
       "album": "Dracula (with JENNIE)",
       "artistes": "Tame Impala",
       "nb_diffusions": 18
@@ -1103,11 +1108,6 @@
       "album": "Allo Doudou",
       "artistes": "Niska",
       "nb_diffusions": 18
-    },
-    {
-      "album": "Nouméa",
-      "artistes": "Jok'air",
-      "nb_diffusions": 17
     },
     {
       "album": "MADE",
@@ -1121,19 +1121,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "La Perla",
-    "artistes": "ROSALÍA",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/80/SKYC.3600616837088886980.5.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/d/5/0/cd52c0611567c80cf2b748ac6eeaeb1d.mp3?hdnea=exp=1793235951~acl=/api/1/1/c/d/5/0/cd52c0611567c80cf2b748ac6eeaeb1d.mp3*~data=user_id=0,application_id=42~hmac=e06ed0252f3137393398a29c41bdefebd2a80fc693d4e4674c46c237edf310b9",
+    "titre": "Billie Jean",
+    "artistes": "Chris Cornell",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1793256437~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=411af7e6a410042c203bf4482c0aa9a2c513cba87ac2714a73e708b6de821ae7",
     "date": "2026-10-29",
-    "heure": 0,
-    "album": "LUX",
-    "annee": 2025,
-    "start_ts": 1793234924,
-    "end_ts": 1793235115
+    "heure": 6,
+    "album": "Chris Cornell (Deluxe Edition)",
+    "annee": 2018,
+    "start_ts": 1793254247,
+    "end_ts": 1793254533
   },
   "derniers_morceaux": [
+    {
+      "titre": "Billie Jean",
+      "artistes": "Chris Cornell",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1793256437~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=411af7e6a410042c203bf4482c0aa9a2c513cba87ac2714a73e708b6de821ae7",
+      "date": "2026-10-29",
+      "heure": 6,
+      "album": "Chris Cornell (Deluxe Edition)",
+      "annee": 2018,
+      "start_ts": 1793254247,
+      "end_ts": 1793254533
+    },
+    {
+      "titre": "CYBERTESLA",
+      "artistes": "L2B",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1793256438~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=1a4de664e4c972d0a5de3e33398615540d99324cc2611ea972bebacc47126180",
+      "date": "2026-10-29",
+      "heure": 6,
+      "album": "CYBERTESLA",
+      "annee": 2026,
+      "start_ts": 1793253890,
+      "end_ts": 1793254063
+    },
+    {
+      "titre": "Hips Don't Lie",
+      "artistes": "Stantough",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6fd781e5466407e665cb84abd13c09c4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.5245024572822338698.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/9/0/5e9c37dbdc4db4c611e4aa9fe72754bc.mp3?hdnea=exp=1793256440~acl=/api/1/1/5/e/9/0/5e9c37dbdc4db4c611e4aa9fe72754bc.mp3*~data=user_id=0,application_id=42~hmac=2db61d4fd7f149a211811d54043817ad6ed5a4904b013ead8b0d65834abc13ff",
+      "date": "2026-10-29",
+      "heure": 5,
+      "album": "Medieval Style (Kind of, but Not Really)",
+      "annee": 2020,
+      "start_ts": 1793253183,
+      "end_ts": 1793253397
+    },
+    {
+      "titre": "Melodrama",
+      "artistes": "BEKS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82928308ac6f17612cf0ea39f32a1c01/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/5/0/3e5fdf72e4161cac37eb56a4f14f6b91.mp3?hdnea=exp=1793256440~acl=/api/1/1/3/e/5/0/3e5fdf72e4161cac37eb56a4f14f6b91.mp3*~data=user_id=0,application_id=42~hmac=489e45ee6a3445d11b3bbb562030535680ea756cd04bbda69ae1df4fc578772d",
+      "date": "2026-10-29",
+      "heure": 5,
+      "album": "Melodrama",
+      "annee": 2025,
+      "start_ts": 1793251621,
+      "end_ts": 1793251802
+    },
+    {
+      "titre": "Nouméa",
+      "artistes": "Jok'air",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1793256442~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=ea1a94187dd8cd73a69bd6bbb39b4fa7e63ffd4e456bdd71b16ec7e69575db13",
+      "date": "2026-10-29",
+      "heure": 5,
+      "album": "Nouméa",
+      "annee": 2026,
+      "start_ts": 1793251073,
+      "end_ts": 1793251297
+    },
+    {
+      "titre": "Sicario",
+      "artistes": "Timal",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1793256443~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=ef810d26a996499edcf6cb45d81f1b38ed82a5a960d9dc6d2ceeeefcfcfd51ed",
+      "date": "2026-10-29",
+      "heure": 4,
+      "album": "Sicario",
+      "annee": 2026,
+      "start_ts": 1793249844,
+      "end_ts": 1793249988
+    },
     {
       "titre": "La Perla",
       "artistes": "ROSALÍA",
@@ -1185,84 +1263,6 @@
       "annee": null,
       "start_ts": 1793234247,
       "end_ts": 1793234409
-    },
-    {
-      "titre": "Coachella",
-      "artistes": "TK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2ef6582bc94da775e6161bffd453f642/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/f/0/20f57670cde4235a9db614840c5edb4b.mp3?hdnea=exp=1793235955~acl=/api/1/1/2/0/f/0/20f57670cde4235a9db614840c5edb4b.mp3*~data=user_id=0,application_id=42~hmac=0df4ecf938b41b4074c2659e6d558c8af83ce2adf399ab3c84a5c29a22ae4832",
-      "date": "2026-10-29",
-      "heure": 0,
-      "album": "Coachella",
-      "annee": 2026,
-      "start_ts": 1793234092,
-      "end_ts": 1793234246
-    },
-    {
-      "titre": "Maladie",
-      "artistes": "Slimane",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1793235956~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=2757c8c0157603d2debc98f0c5b197ec0f4d79bc1150808cd1207bc4b0cf1f44",
-      "date": "2026-10-29",
-      "heure": 0,
-      "album": "Chroniques d’un cupidon",
-      "annee": 2022,
-      "start_ts": 1793233904,
-      "end_ts": 1793234090
-    },
-    {
-      "titre": "BbY WOW",
-      "artistes": "LatinoFi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9781ae2f423070418dae5500951bbbf7/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/6/0/d36b0d6b5793509603f175c49542304b.mp3?hdnea=exp=1793222629~acl=/api/1/1/d/3/6/0/d36b0d6b5793509603f175c49542304b.mp3*~data=user_id=0,application_id=42~hmac=d5c4a5cf6a21fd66ddbec186d341e00401559312a08b327fd17f65288e3b6231",
-      "date": "2026-10-28",
-      "heure": 21,
-      "album": "BbY WOW",
-      "annee": 2026,
-      "start_ts": 1793221376,
-      "end_ts": 1793221497
-    },
-    {
-      "titre": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1793222630~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=81f3e8e1d8e0ba0d2579a1c28fbf280f36e0f79514bced8c70736440d43cf4c8",
-      "date": "2026-10-28",
-      "heure": 20,
-      "album": "SEXY NANA (Radio Edit)",
-      "annee": 2026,
-      "start_ts": 1793219237,
-      "end_ts": 1793219389
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1793222631~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=d9e467a6e9c77574d761b1a210d718b7e1ab6e9c41356e00030bf34b724d86e2",
-      "date": "2026-10-28",
-      "heure": 19,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1793217439,
-      "end_ts": 1793217590
-    },
-    {
-      "titre": "Pangor (Swalalala)",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-28",
-      "heure": 19,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793215180,
-      "end_ts": 1793215361
     }
   ]
 }
