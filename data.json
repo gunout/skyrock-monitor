@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-10-31T02:33:15.091214",
-  "genere_ts": 1793413995,
+  "genere_le": "2026-10-31T08:45:44.145385",
+  "genere_ts": 1793436344,
   "volume": {
-    "nb_diffusions": 948,
-    "nb_artistes": 187,
-    "nb_titres": 209,
+    "nb_diffusions": 952,
+    "nb_artistes": 189,
+    "nb_titres": 211,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-10-31",
-    "heures_antenne": 46.16,
+    "heures_antenne": 46.36,
     "duree_moy_s": 175.3
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 48,
+      "nb_diffusions": 49,
       "titres_differents": 2,
-      "minutes_antenne": 137.2
+      "minutes_antenne": 140.8
     },
     {
       "artistes": "Vacra",
@@ -37,9 +37,9 @@
     },
     {
       "artistes": "Slimane",
-      "nb_diffusions": 29,
+      "nb_diffusions": 30,
       "titres_differents": 1,
-      "minutes_antenne": 89.9
+      "minutes_antenne": 93.0
     },
     {
       "artistes": "Jok'air",
@@ -160,8 +160,8 @@
     {
       "artistes": "Slimane",
       "titre": "Maladie",
-      "nb_diffusions": 29,
-      "minutes_antenne": 89.9
+      "nb_diffusions": 30,
+      "minutes_antenne": 93.0
     },
     {
       "artistes": "PLK",
@@ -289,7 +289,7 @@
     },
     {
       "heure": 8,
-      "nb_diffusions": 35
+      "nb_diffusions": 41
     },
     {
       "heure": 9,
@@ -520,8 +520,8 @@
     },
     {
       "date": "2026-10-31",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 12
     }
   ],
   "semaine": [
@@ -551,15 +551,15 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 163
+      "nb_diffusions": 169
     }
   ],
   "recurrents": [
     {
       "artistes": "Tiakola",
-      "nb_jours": 28,
-      "nb_diffusions": 48,
-      "minutes": 137.2
+      "nb_jours": 29,
+      "nb_diffusions": 49,
+      "minutes": 140.8
     },
     {
       "artistes": "Leto",
@@ -592,16 +592,16 @@
       "minutes": 72.9
     },
     {
+      "artistes": "Slimane",
+      "nb_jours": 20,
+      "nb_diffusions": 30,
+      "minutes": 93.0
+    },
+    {
       "artistes": "KAROL G",
       "nb_jours": 20,
       "nb_diffusions": 29,
       "minutes": 105.8
-    },
-    {
-      "artistes": "Slimane",
-      "nb_jours": 19,
-      "nb_diffusions": 29,
-      "minutes": 89.9
     },
     {
       "artistes": "GIMS",
@@ -710,8 +710,8 @@
     {
       "artistes": "Slimane",
       "titre": "Maladie",
-      "nb_jours": 19,
-      "nb_diffusions": 29
+      "nb_jours": 20,
+      "nb_diffusions": 30
     },
     {
       "artistes": "KAROL G",
@@ -774,16 +774,16 @@
       "nb_diffusions": 18
     },
     {
+      "artistes": "Tiakola",
+      "titre": "La Nocturne",
+      "nb_jours": 14,
+      "nb_diffusions": 16
+    },
+    {
       "artistes": "Jok'air",
       "titre": "Nouméa",
       "nb_jours": 13,
       "nb_diffusions": 21
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "La Nocturne",
-      "nb_jours": 13,
-      "nb_diffusions": 15
     },
     {
       "artistes": "Djaksparo",
@@ -832,7 +832,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 48
+      "nb_diffusions": 49
     },
     {
       "artistes": "Gambi",
@@ -915,7 +915,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 536
+      "nb_diffusions": 538
     },
     {
       "annee": 2025,
@@ -927,11 +927,11 @@
     },
     {
       "annee": 2023,
-      "nb_diffusions": 29
+      "nb_diffusions": 30
     },
     {
       "annee": 2022,
-      "nb_diffusions": 73
+      "nb_diffusions": 74
     },
     {
       "annee": 2021,
@@ -1021,11 +1021,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 475
+      "nb": 477
     },
     {
       "type_contenu": "Explicit",
-      "nb": 471
+      "nb": 473
     }
   ],
   "albums": [
@@ -1052,7 +1052,7 @@
     {
       "album": "Chroniques d’un cupidon",
       "artistes": "Slimane",
-      "nb_diffusions": 29
+      "nb_diffusions": 30
     },
     {
       "album": "Grand Garçon",
@@ -1120,30 +1120,108 @@
       "nb_diffusions": 18
     },
     {
-      "album": "MADE",
-      "artistes": "BIGBANG",
+      "album": "WpointM",
+      "artistes": "Tiakola",
       "nb_diffusions": 16
     },
     {
-      "album": "Loser",
-      "artistes": "Apache 207",
+      "album": "MADE",
+      "artistes": "BIGBANG",
       "nb_diffusions": 16
     }
   ],
   "dernier_morceau": {
-    "titre": "Coachella",
-    "artistes": "TK",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2ef6582bc94da775e6161bffd453f642/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9159864841032474458.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/f/0/20f57670cde4235a9db614840c5edb4b.mp3?hdnea=exp=1793414887~acl=/api/1/1/2/0/f/0/20f57670cde4235a9db614840c5edb4b.mp3*~data=user_id=0,application_id=42~hmac=70ea1b026251c31ccf96090964245acd9637180befb1fe32481f8afbbbe25525",
+    "titre": "Maladie",
+    "artistes": "Slimane",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1793437239~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=f1f47486e6dfd8586ed7ce178f9a3bc2ca712c41065357dcf629d7e823bd538e",
     "date": "2026-10-31",
-    "heure": 2,
-    "album": "Coachella",
-    "annee": 2026,
-    "start_ts": 1793413889,
-    "end_ts": 1793414043
+    "heure": 8,
+    "album": "Chroniques d’un cupidon",
+    "annee": 2022,
+    "start_ts": 1793436133,
+    "end_ts": 1793436319
   },
   "derniers_morceaux": [
+    {
+      "titre": "Maladie",
+      "artistes": "Slimane",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ab530e73c298ac2e2dfc516b92042488/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3?hdnea=exp=1793437239~acl=/api/1/1/d/e/e/0/dee49d9100cf53c6109ff9576e2b2c2a.mp3*~data=user_id=0,application_id=42~hmac=f1f47486e6dfd8586ed7ce178f9a3bc2ca712c41065357dcf629d7e823bd538e",
+      "date": "2026-10-31",
+      "heure": 8,
+      "album": "Chroniques d’un cupidon",
+      "annee": 2022,
+      "start_ts": 1793436133,
+      "end_ts": 1793436319
+    },
+    {
+      "titre": "Capitaine",
+      "artistes": "Louane",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c8f68ddbeaac47926632454028938c9a/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/99/SKYC.7770748390474957699.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/1/0/ef1267c8c0c39caaa1408b5efc0fbfdb.mp3?hdnea=exp=1793437240~acl=/api/1/1/e/f/1/0/ef1267c8c0c39caaa1408b5efc0fbfdb.mp3*~data=user_id=0,application_id=42~hmac=101c77a4c07bc33a13c58c976ad9186d512dc0098b789a06d12a2d25bfeb645f",
+      "date": "2026-10-31",
+      "heure": 8,
+      "album": "Sentiments Heureux",
+      "annee": 2023,
+      "start_ts": 1793435986,
+      "end_ts": 1793436137
+    },
+    {
+      "titre": "La Nocturne",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1793437240~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=3ebbd77c16e77daff8d283f286abfef79cc5c34cc4a232920cf895bc9fb4958a",
+      "date": "2026-10-31",
+      "heure": 8,
+      "album": "WpointM",
+      "annee": 2026,
+      "start_ts": 1793435757,
+      "end_ts": 1793435974
+    },
+    {
+      "titre": "C'est Chelou - Inédit",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/11/SKYC.6517550584130654411.6.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-31",
+      "heure": 8,
+      "album": null,
+      "annee": null,
+      "start_ts": 1793435539,
+      "end_ts": 1793435751
+    },
+    {
+      "titre": "Professionnels",
+      "artistes": "SCH",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/94eb47dd221ad81bc58161edff6c9be3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a43d57c04964535d4a68cf1c11d8af8.mp3?hdnea=exp=1793437242~acl=/api/1/1/7/a/4/0/7a43d57c04964535d4a68cf1c11d8af8.mp3*~data=user_id=0,application_id=42~hmac=b644de8bf668e0367ffb16ca39e8614527707d9d748c28813a4015a4abf5a7f8",
+      "date": "2026-10-31",
+      "heure": 8,
+      "album": "Précipices & Professionnels",
+      "annee": 2026,
+      "start_ts": 1793435385,
+      "end_ts": 1793435536
+    },
+    {
+      "titre": "Pocahontas",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1518036756756426684.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-10-31",
+      "heure": 8,
+      "album": null,
+      "annee": null,
+      "start_ts": 1793435216,
+      "end_ts": 1793435378
+    },
     {
       "titre": "Coachella",
       "artistes": "TK",
@@ -1195,84 +1273,6 @@
       "annee": 2026,
       "start_ts": 1793413391,
       "end_ts": 1793413543
-    },
-    {
-      "titre": "Black Widow (feat. Twiggy)",
-      "artistes": "Fame on Fire",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/380931b7a675bf473a21ff3de7083593/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/04/SKYC.7892864056154272004.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/d/0/8bdd74326cc59eb94f4e84c8bdb27538.mp3?hdnea=exp=1793414892~acl=/api/1/1/8/b/d/0/8bdd74326cc59eb94f4e84c8bdb27538.mp3*~data=user_id=0,application_id=42~hmac=d40ced977f7f6866d6081320bb21397161e107242a774ad99741b7d9063658c2",
-      "date": "2026-10-31",
-      "heure": 2,
-      "album": "Black Widow (feat. Twiggy)",
-      "annee": 2014,
-      "start_ts": 1793413121,
-      "end_ts": 1793413328
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1793414893~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=f46587c14210116902aa4ada972b2849fdd8a619deebc88facd9deaec0e96b87",
-      "date": "2026-10-31",
-      "heure": 2,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1793412979,
-      "end_ts": 1793413123
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1793403630~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=fbb6a296e769b70d6f685c019823fa5bbc442278290f60fe5c87afe7a1c8ea7e",
-      "date": "2026-10-30",
-      "heure": 22,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1793399975,
-      "end_ts": 1793400141
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "KAROL G",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ad3e57e5abd9152ed2914c905a294dd1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/5/0/eb580af221fedcfc42c940016b132f7e.mp3?hdnea=exp=1793403631~acl=/api/1/1/e/b/5/0/eb580af221fedcfc42c940016b132f7e.mp3*~data=user_id=0,application_id=42~hmac=0ae52afd40175e8ec91b0c8ab0d241b3e896d0754a2195d9a29fcaf11f54a626",
-      "date": "2026-10-30",
-      "heure": 22,
-      "album": "Pineapple",
-      "annee": 2018,
-      "start_ts": 1793398049,
-      "end_ts": 1793398230
-    },
-    {
-      "titre": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1793403632~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=243720ade6c8a084b0e195fd11254cdb37e15b1c9e4ca49f211179bc096f9197",
-      "date": "2026-10-30",
-      "heure": 21,
-      "album": "VIVE LA MONNAIE",
-      "annee": 2026,
-      "start_ts": 1793395899,
-      "end_ts": 1793396077
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-10-30",
-      "heure": 21,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793394310,
-      "end_ts": 1793394431
     }
   ]
 }
