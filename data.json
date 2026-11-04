@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-04T01:14:46.986716",
-  "genere_ts": 1793754886,
+  "genere_le": "2026-11-04T07:29:38.907508",
+  "genere_ts": 1793777378,
   "volume": {
-    "nb_diffusions": 1040,
-    "nb_artistes": 203,
-    "nb_titres": 228,
+    "nb_diffusions": 1046,
+    "nb_artistes": 204,
+    "nb_titres": 230,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-04",
-    "heures_antenne": 50.79,
+    "heures_antenne": 51.07,
     "duree_moy_s": 175.8
   },
   "top_artistes": [
@@ -19,15 +19,15 @@
     },
     {
       "artistes": "KAROL G",
-      "nb_diffusions": 34,
+      "nb_diffusions": 35,
       "titres_differents": 3,
-      "minutes_antenne": 123.7
+      "minutes_antenne": 127.5
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 43,
+      "nb_diffusions": 44,
       "titres_differents": 1,
-      "minutes_antenne": 119.0
+      "minutes_antenne": 121.7
     },
     {
       "artistes": "Leto",
@@ -78,16 +78,16 @@
       "minutes_antenne": 70.3
     },
     {
+      "artistes": "Rusky",
+      "nb_diffusions": 27,
+      "titres_differents": 1,
+      "minutes_antenne": 68.4
+    },
+    {
       "artistes": "Niska",
       "nb_diffusions": 24,
       "titres_differents": 2,
       "minutes_antenne": 67.2
-    },
-    {
-      "artistes": "Rusky",
-      "nb_diffusions": 26,
-      "titres_differents": 1,
-      "minutes_antenne": 65.8
     },
     {
       "artistes": "Tame Impala",
@@ -126,18 +126,18 @@
       "minutes_antenne": 52.2
     },
     {
-      "artistes": "Lil Gianni",
-      "nb_diffusions": 20,
-      "titres_differents": 1,
-      "minutes_antenne": 50.0
+      "artistes": "Mauvais djo",
+      "nb_diffusions": 26,
+      "titres_differents": 4,
+      "minutes_antenne": 50.6
     }
   ],
   "top_titres": [
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 43,
-      "minutes_antenne": 119.0
+      "nb_diffusions": 44,
+      "minutes_antenne": 121.7
     },
     {
       "artistes": "Leto",
@@ -158,16 +158,16 @@
       "minutes_antenne": 88.3
     },
     {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
+      "nb_diffusions": 31,
+      "minutes_antenne": 115.3
+    },
+    {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_diffusions": 31,
       "minutes_antenne": 96.1
-    },
-    {
-      "artistes": "KAROL G",
-      "titre": "BbY WOW",
-      "nb_diffusions": 30,
-      "minutes_antenne": 111.5
     },
     {
       "artistes": "GIMS",
@@ -184,8 +184,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 26,
-      "minutes_antenne": 65.8
+      "nb_diffusions": 27,
+      "minutes_antenne": 68.4
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -281,11 +281,11 @@
     },
     {
       "heure": 6,
-      "nb_diffusions": 44
+      "nb_diffusions": 47
     },
     {
       "heure": 7,
-      "nb_diffusions": 16
+      "nb_diffusions": 19
     },
     {
       "heure": 8,
@@ -540,8 +540,8 @@
     },
     {
       "date": "2026-11-04",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 11
     }
   ],
   "semaine": [
@@ -559,7 +559,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 152
+      "nb_diffusions": 158
     },
     {
       "jour": "Jeudi",
@@ -584,8 +584,8 @@
     {
       "artistes": "Vacra",
       "nb_jours": 27,
-      "nb_diffusions": 43,
-      "minutes": 119.0
+      "nb_diffusions": 44,
+      "minutes": 121.7
     },
     {
       "artistes": "Leto",
@@ -594,16 +594,16 @@
       "minutes": 110.0
     },
     {
+      "artistes": "KAROL G",
+      "nb_jours": 25,
+      "nb_diffusions": 35,
+      "minutes": 127.5
+    },
+    {
       "artistes": "Timal",
       "nb_jours": 24,
       "nb_diffusions": 39,
       "minutes": 93.3
-    },
-    {
-      "artistes": "KAROL G",
-      "nb_jours": 24,
-      "nb_diffusions": 34,
-      "minutes": 123.7
     },
     {
       "artistes": "Gambi",
@@ -631,15 +631,15 @@
     },
     {
       "artistes": "Rusky",
-      "nb_jours": 17,
-      "nb_diffusions": 26,
-      "minutes": 65.8
+      "nb_jours": 18,
+      "nb_diffusions": 27,
+      "minutes": 68.4
     },
     {
       "artistes": "Mauvais djo",
-      "nb_jours": 17,
-      "nb_diffusions": 25,
-      "minutes": 48.6
+      "nb_jours": 18,
+      "nb_diffusions": 26,
+      "minutes": 50.6
     },
     {
       "artistes": "Niska",
@@ -701,7 +701,7 @@
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_jours": 27,
-      "nb_diffusions": 43
+      "nb_diffusions": 44
     },
     {
       "artistes": "Leto",
@@ -724,8 +724,8 @@
     {
       "artistes": "KAROL G",
       "titre": "BbY WOW",
-      "nb_jours": 23,
-      "nb_diffusions": 30
+      "nb_jours": 24,
+      "nb_diffusions": 31
     },
     {
       "artistes": "Slimane",
@@ -754,8 +754,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_jours": 17,
-      "nb_diffusions": 26
+      "nb_jours": 18,
+      "nb_diffusions": 27
     },
     {
       "artistes": "Niska",
@@ -835,14 +835,14 @@
       "nb_diffusions": 31
     },
     {
-      "artistes": "KAROL G",
-      "nb_titres_differents": 3,
-      "nb_diffusions": 34
+      "artistes": "Mauvais djo",
+      "nb_titres_differents": 4,
+      "nb_diffusions": 26
     },
     {
-      "artistes": "Mauvais djo",
+      "artistes": "KAROL G",
       "nb_titres_differents": 3,
-      "nb_diffusions": 25
+      "nb_diffusions": 35
     },
     {
       "artistes": "Guy2bezbar",
@@ -935,7 +935,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 596
+      "nb_diffusions": 601
     },
     {
       "annee": 2025,
@@ -1015,7 +1015,7 @@
     },
     {
       "annee": 2003,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "annee": 2002,
@@ -1041,11 +1041,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 528
+      "nb": 532
     },
     {
       "type_contenu": "Explicit",
-      "nb": 510
+      "nb": 512
     }
   ],
   "albums": [
@@ -1057,7 +1057,7 @@
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 43
+      "nb_diffusions": 44
     },
     {
       "album": "Sicario",
@@ -1070,14 +1070,14 @@
       "nb_diffusions": 35
     },
     {
-      "album": "Chroniques d’un cupidon",
-      "artistes": "Slimane",
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "artistes": "KAROL G",
       "nb_diffusions": 31
     },
     {
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "artistes": "KAROL G",
-      "nb_diffusions": 30
+      "album": "Chroniques d’un cupidon",
+      "artistes": "Slimane",
+      "nb_diffusions": 31
     },
     {
       "album": "VIVE LA MONNAIE",
@@ -1085,14 +1085,14 @@
       "nb_diffusions": 28
     },
     {
-      "album": "Grand Garçon",
-      "artistes": "PLK",
+      "album": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
       "nb_diffusions": 27
     },
     {
-      "album": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "nb_diffusions": 26
+      "album": "Grand Garçon",
+      "artistes": "PLK",
+      "nb_diffusions": 27
     },
     {
       "album": "Sexy Nana",
@@ -1151,19 +1151,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "J'assume",
-    "artistes": "RnBoi",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1793755780~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=7381375f13d71e57de74c318cfb5549dfd2a4e9103e8fbb20cf83e8389340dea",
+    "titre": "SEXY NANA (Radio Edit)",
+    "artistes": "Rusky",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1793778273~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=e127cc63da9c8e3b39ba74cae9effb97e076435828b11536b0648fdfc0cbbe36",
     "date": "2026-11-04",
-    "heure": 1,
-    "album": "J'assume",
+    "heure": 7,
+    "album": "SEXY NANA (Radio Edit)",
     "annee": 2026,
-    "start_ts": 1793754750,
-    "end_ts": 1793754927
+    "start_ts": 1793776802,
+    "end_ts": 1793776954
   },
   "derniers_morceaux": [
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1793778273~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=e127cc63da9c8e3b39ba74cae9effb97e076435828b11536b0648fdfc0cbbe36",
+      "date": "2026-11-04",
+      "heure": 7,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1793776802,
+      "end_ts": 1793776954
+    },
+    {
+      "titre": "Bodycount",
+      "artistes": "Le Crime",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793778274~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=8d1a1e91bc1d8d5e15174df56c68c747fe3d8e9ad8cf333115ff1fbf072dd9f2",
+      "date": "2026-11-04",
+      "heure": 7,
+      "album": "Casus Belli",
+      "annee": 2026,
+      "start_ts": 1793776438,
+      "end_ts": 1793776588
+    },
+    {
+      "titre": "Pilé (Gospel)",
+      "artistes": "Mauvais djo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b6364dcbe3436b723aa844aff15768f3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/6/0/a66a9d6e8fa4dd664938f17cbc57d925.mp3?hdnea=exp=1793778274~acl=/api/1/1/a/6/6/0/a66a9d6e8fa4dd664938f17cbc57d925.mp3*~data=user_id=0,application_id=42~hmac=306c931ced1b5ea6b952407f418a22bafd8868b6ad6ef17124bf312e7efc3a2a",
+      "date": "2026-11-04",
+      "heure": 7,
+      "album": "Pilé (Gospel)",
+      "annee": 2026,
+      "start_ts": 1793775754,
+      "end_ts": 1793775875
+    },
+    {
+      "titre": "Black or White",
+      "artistes": "De Palmas",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2edf5ee5ac26c7f1ba649c96ed0bc05c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/67/SKYC.5269380291831088167.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a99dc18053bca2bc34d9b67552e3361.mp3?hdnea=exp=1793778275~acl=/api/1/1/4/a/9/0/4a99dc18053bca2bc34d9b67552e3361.mp3*~data=user_id=0,application_id=42~hmac=90de5802ed19299d1d415c5f85aef878e29de44449edc9ee2aab56daafd25713",
+      "date": "2026-11-04",
+      "heure": 6,
+      "album": "la derniere annee",
+      "annee": 2003,
+      "start_ts": 1793775102,
+      "end_ts": 1793775298
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1793778276~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=1bb038a1c85c4867f2939053fb060c873f82106c4beb85c644c4e6f7f4e78201",
+      "date": "2026-11-04",
+      "heure": 6,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1793774571,
+      "end_ts": 1793774737
+    },
+    {
+      "titre": "BbY WOW",
+      "artistes": "KAROL G",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1793778277~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=be0deb89278527746486700472914d7d452b0d233e980f253a48745855eb4acd",
+      "date": "2026-11-04",
+      "heure": 6,
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "annee": 2026,
+      "start_ts": 1793773309,
+      "end_ts": 1793773534
+    },
     {
       "titre": "J'assume",
       "artistes": "RnBoi",
@@ -1215,84 +1293,6 @@
       "annee": 2026,
       "start_ts": 1793754091,
       "end_ts": 1793754257
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-04",
-      "heure": 0,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793753822,
-      "end_ts": 1793754056
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1793755785~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=6ac830161edf8370d6d6a81e9a462b2570eab0eb411dfabf84f792950db48c19",
-      "date": "2026-11-04",
-      "heure": 0,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1793753648,
-      "end_ts": 1793753815
-    },
-    {
-      "titre": "Bodycount",
-      "artistes": "Le Crime",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793740864~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=42bd2c7ba566a32176b2ff62f87499d73db4d6cae7cadccecd4716a111457e39",
-      "date": "2026-11-03",
-      "heure": 20,
-      "album": "Casus Belli",
-      "annee": 2026,
-      "start_ts": 1793738024,
-      "end_ts": 1793738174
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1793740865~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=90f506c169d567fb5c27266a297d217da230eed795bc24f7f8a716c906230395",
-      "date": "2026-11-03",
-      "heure": 19,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1793735858,
-      "end_ts": 1793736009
-    },
-    {
-      "titre": "Degun",
-      "artistes": "Massilia Sound System",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6e22871d769e15df376896de4c7df07f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3?hdnea=exp=1793740866~acl=/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3*~data=user_id=0,application_id=42~hmac=9ff88f8988d9f65400e045be00f59512c0c844dfd5edcb9a0f43a4090278a012",
-      "date": "2026-11-03",
-      "heure": 19,
-      "album": "Marseille London Experience",
-      "annee": 1999,
-      "start_ts": 1793733534,
-      "end_ts": 1793733685
-    },
-    {
-      "titre": "BRACELET",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.5787994376877845642.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-03",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793731943,
-      "end_ts": 1793732064
     }
   ]
 }
