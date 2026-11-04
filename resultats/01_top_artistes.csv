@@ -1,7 +1,7 @@
 ﻿artistes,nb_diffusions,titres_differents,minutes_antenne
 Tiakola,55,2,160.3
 KAROL G,34,3,123.7
-Vacra,42,1,116.2
+Vacra,43,1,119.0
 Leto,42,1,110.0
 Slimane,31,1,96.1
 GIMS,31,4,93.7
@@ -10,8 +10,8 @@ Jok'air,25,2,91.2
 PLK,27,1,72.9
 Apache 207,20,1,72.7
 Gambi,33,2,70.3
+Niska,24,2,67.2
 Rusky,26,1,65.8
-Niska,23,2,64.4
 Tame Impala,19,2,63.6
 Bad Bunny,20,2,61.0
 BIGBANG,16,1,58.1
@@ -23,11 +23,11 @@ Mauvais djo,25,3,48.6
 Yuston XIII,13,1,44.4
 Christophe Maé,14,1,44.3
 Bouss,15,1,42.0
+RnBoi,13,1,38.4
 Guy2bezbar,14,3,38.1
 Adèle Castillon,12,1,36.8
-RnBoi,12,1,35.4
+disiz,12,1,34.8
 Chris Cornell,7,1,33.4
-disiz,11,1,31.9
 Djaksparo,15,1,30.1
 Teddy Swims,9,2,28.9
 Ariana Grande,8,1,25.6
@@ -198,6 +198,7 @@ Oxlade,1,1,2.4
 The Kid LAROI,1,1,2.3
 midnight Berlin,1,1,2.3
 JYEUHAIR,1,1,2.1
+Orelsan,1,1,2.1
 LatinoFi,1,1,2.0
 Natita Cruz,1,1,2.0
 Denden,1,1,1.6
