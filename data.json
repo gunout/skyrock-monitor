@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-11-05T01:36:21.760961",
-  "genere_ts": 1793842581,
+  "genere_le": "2026-11-05T08:27:04.995127",
+  "genere_ts": 1793867224,
   "volume": {
-    "nb_diffusions": 1061,
+    "nb_diffusions": 1065,
     "nb_artistes": 207,
     "nb_titres": 232,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-05",
-    "heures_antenne": 51.76,
-    "duree_moy_s": 175.6
+    "heures_antenne": 51.93,
+    "duree_moy_s": 175.5
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 56,
+      "nb_diffusions": 57,
       "titres_differents": 2,
-      "minutes_antenne": 162.8
+      "minutes_antenne": 165.3
     },
     {
       "artistes": "KAROL G",
@@ -25,15 +25,15 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 45,
+      "nb_diffusions": 46,
       "titres_differents": 1,
-      "minutes_antenne": 124.5
+      "minutes_antenne": 127.3
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 43,
+      "nb_diffusions": 44,
       "titres_differents": 1,
-      "minutes_antenne": 112.6
+      "minutes_antenne": 115.2
     },
     {
       "artistes": "GIMS",
@@ -136,14 +136,14 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 45,
-      "minutes_antenne": 124.5
+      "nb_diffusions": 46,
+      "minutes_antenne": 127.3
     },
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_diffusions": 43,
-      "minutes_antenne": 112.6
+      "nb_diffusions": 44,
+      "minutes_antenne": 115.2
     },
     {
       "artistes": "Timal",
@@ -154,8 +154,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_diffusions": 36,
-      "minutes_antenne": 90.8
+      "nb_diffusions": 37,
+      "minutes_antenne": 93.3
     },
     {
       "artistes": "KAROL G",
@@ -285,11 +285,11 @@
     },
     {
       "heure": 7,
-      "nb_diffusions": 19
+      "nb_diffusions": 24
     },
     {
       "heure": 8,
-      "nb_diffusions": 41
+      "nb_diffusions": 42
     },
     {
       "heure": 9,
@@ -545,8 +545,8 @@
     },
     {
       "date": "2026-11-05",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 11
     }
   ],
   "semaine": [
@@ -568,7 +568,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 166
+      "nb_diffusions": 172
     },
     {
       "jour": "Vendredi",
@@ -583,20 +583,20 @@
     {
       "artistes": "Tiakola",
       "nb_jours": 32,
-      "nb_diffusions": 56,
-      "minutes": 162.8
+      "nb_diffusions": 57,
+      "minutes": 165.3
     },
     {
       "artistes": "Vacra",
-      "nb_jours": 27,
-      "nb_diffusions": 45,
-      "minutes": 124.5
+      "nb_jours": 28,
+      "nb_diffusions": 46,
+      "minutes": 127.3
     },
     {
       "artistes": "Leto",
-      "nb_jours": 27,
-      "nb_diffusions": 43,
-      "minutes": 112.6
+      "nb_jours": 28,
+      "nb_diffusions": 44,
+      "minutes": 115.2
     },
     {
       "artistes": "KAROL G",
@@ -705,20 +705,20 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_jours": 27,
-      "nb_diffusions": 45
+      "nb_jours": 28,
+      "nb_diffusions": 46
     },
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_jours": 27,
-      "nb_diffusions": 43
+      "nb_jours": 28,
+      "nb_diffusions": 44
     },
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 26,
-      "nb_diffusions": 36
+      "nb_diffusions": 37
     },
     {
       "artistes": "Timal",
@@ -862,7 +862,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 56
+      "nb_diffusions": 57
     },
     {
       "artistes": "Gambi",
@@ -940,7 +940,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 613
+      "nb_diffusions": 617
     },
     {
       "annee": 2025,
@@ -1050,19 +1050,19 @@
     },
     {
       "type_contenu": "Explicit",
-      "nb": 517
+      "nb": 521
     }
   ],
   "albums": [
     {
       "album": "Pineapple",
       "artistes": "Leto",
-      "nb_diffusions": 46
+      "nb_diffusions": 47
     },
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 45
+      "nb_diffusions": 46
     },
     {
       "album": "Sicario",
@@ -1072,7 +1072,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 36
+      "nb_diffusions": 37
     },
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -1100,6 +1100,11 @@
       "nb_diffusions": 27
     },
     {
+      "album": "Wagyu",
+      "artistes": "Mattie",
+      "nb_diffusions": 23
+    },
+    {
       "album": "Sexy Nana",
       "artistes": "Aya Nakamura",
       "nb_diffusions": 23
@@ -1118,11 +1123,6 @@
       "album": "Allo Doudou",
       "artistes": "Niska",
       "nb_diffusions": 23
-    },
-    {
-      "album": "Wagyu",
-      "artistes": "Mattie",
-      "nb_diffusions": 22
     },
     {
       "album": "Nouméa",
@@ -1156,19 +1156,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Été avec toi",
-    "artistes": "Adèle Castillon",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cbfd04fb7bf792323de82023bbf974bd/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.393586946200211903.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3?hdnea=exp=1793843475~acl=/api/1/1/4/5/4/0/454f37384658a3e6e4bbeca269e7588d.mp3*~data=user_id=0,application_id=42~hmac=fabd5799c8c9d1126fde74de7b55de1fc0e49df68b571968abff8e8db9d551e1",
+    "titre": "Wagyu",
+    "artistes": "Mattie",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5284830d9f62e5fa32e5e01cf22f12d0/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/b/0/fabff48c49932432cbb2b5a3de478a1f.mp3?hdnea=exp=1793868119~acl=/api/1/1/f/a/b/0/fabff48c49932432cbb2b5a3de478a1f.mp3*~data=user_id=0,application_id=42~hmac=dc83443674666ae0d7dc8b385b62fe57bee79224cdbd2ef9e8d17d2ce9079a3c",
     "date": "2026-11-05",
-    "heure": 1,
-    "album": "Été avec toi",
+    "heure": 8,
+    "album": "Wagyu",
     "annee": 2026,
-    "start_ts": 1793842504,
-    "end_ts": 1793842688
+    "start_ts": 1793866435,
+    "end_ts": 1793866556
   },
   "derniers_morceaux": [
+    {
+      "titre": "Wagyu",
+      "artistes": "Mattie",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5284830d9f62e5fa32e5e01cf22f12d0/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/b/0/fabff48c49932432cbb2b5a3de478a1f.mp3?hdnea=exp=1793868119~acl=/api/1/1/f/a/b/0/fabff48c49932432cbb2b5a3de478a1f.mp3*~data=user_id=0,application_id=42~hmac=dc83443674666ae0d7dc8b385b62fe57bee79224cdbd2ef9e8d17d2ce9079a3c",
+      "date": "2026-11-05",
+      "heure": 8,
+      "album": "Wagyu",
+      "annee": 2026,
+      "start_ts": 1793866435,
+      "end_ts": 1793866556
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1793868120~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=d5530b7cd2c2d95a622d4b0c53482efcf1854b84f3fa73521b8794451b5f2fc9",
+      "date": "2026-11-05",
+      "heure": 7,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1793865034,
+      "end_ts": 1793865191
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1793868121~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=8f6c6233b6d6cc033b32ac5010ba40ded0083c2f62bcaf760d8d5a3bc4adee6b",
+      "date": "2026-11-05",
+      "heure": 7,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1793864556,
+      "end_ts": 1793864722
+    },
+    {
+      "titre": "Empire state of mind",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/91/SKYC.5264974183396079391.8.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-05",
+      "heure": 7,
+      "album": null,
+      "annee": null,
+      "start_ts": 1793863288,
+      "end_ts": 1793863526
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1793868123~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=a314dc714e6cfd9cc01c1b5d99635272f14ef14eedc52db856d414cf195b77ba",
+      "date": "2026-11-05",
+      "heure": 7,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1793862826,
+      "end_ts": 1793862979
+    },
+    {
+      "titre": "J'assume",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-05",
+      "heure": 7,
+      "album": null,
+      "annee": null,
+      "start_ts": 1793862087,
+      "end_ts": 1793862208
+    },
     {
       "titre": "Été avec toi",
       "artistes": "Adèle Castillon",
@@ -1220,84 +1298,6 @@
       "annee": 2026,
       "start_ts": 1793842000,
       "end_ts": 1793842128
-    },
-    {
-      "titre": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1793843479~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=c712d115a3ca165643af3592c5ac2e6e717432d12cd619c34a0c9f1092fd897e",
-      "date": "2026-11-05",
-      "heure": 1,
-      "album": "VIVE LA MONNAIE",
-      "annee": 2026,
-      "start_ts": 1793841819,
-      "end_ts": 1793841997
-    },
-    {
-      "titre": "I Don't Wanna Know",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/13/SKYC.8469042264539263013.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-05",
-      "heure": 1,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793841579,
-      "end_ts": 1793841826
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mattie",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5284830d9f62e5fa32e5e01cf22f12d0/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/a/b/0/fabff48c49932432cbb2b5a3de478a1f.mp3?hdnea=exp=1793828625~acl=/api/1/1/f/a/b/0/fabff48c49932432cbb2b5a3de478a1f.mp3*~data=user_id=0,application_id=42~hmac=49ad6091ddc10b449cab17de92c50e485bc8d8f701920c6dfdd07e10e3803d1b",
-      "date": "2026-11-04",
-      "heure": 21,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1793826782,
-      "end_ts": 1793826903
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1793828626~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=20b94841f9df0f20341b219e8dc3b465d62db286d357f9584b42b0f349eaecff",
-      "date": "2026-11-04",
-      "heure": 20,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1793824805,
-      "end_ts": 1793824962
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1793828627~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=ae3fce5a1c8947745be093803ddd3b2065ffe9716a53f6d9c1d541aa6a9916de",
-      "date": "2026-11-04",
-      "heure": 19,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1793822280,
-      "end_ts": 1793822446
-    },
-    {
-      "titre": "Pangor (Swalalala)",
-      "artistes": "Djaksparo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1793828628~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=0229cbd22b546393194b550843a6e056db6ff7ba094f7494bf031e6165c43bd4",
-      "date": "2026-11-04",
-      "heure": 19,
-      "album": "Pangor (Swalalala)",
-      "annee": 2026,
-      "start_ts": 1793819896,
-      "end_ts": 1793820017
     }
   ]
 }
