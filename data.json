@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-06T02:25:11.706586",
-  "genere_ts": 1793931911,
+  "genere_le": "2026-11-06T09:33:37.007882",
+  "genere_ts": 1793957617,
   "volume": {
-    "nb_diffusions": 1077,
-    "nb_artistes": 209,
-    "nb_titres": 234,
+    "nb_diffusions": 1083,
+    "nb_artistes": 210,
+    "nb_titres": 235,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-06",
-    "heures_antenne": 52.46,
+    "heures_antenne": 52.75,
     "duree_moy_s": 175.4
   },
   "top_artistes": [
@@ -55,9 +55,9 @@
     },
     {
       "artistes": "Jok'air",
-      "nb_diffusions": 25,
+      "nb_diffusions": 26,
       "titres_differents": 2,
-      "minutes_antenne": 91.2
+      "minutes_antenne": 94.9
     },
     {
       "artistes": "Apache 207",
@@ -102,16 +102,16 @@
       "minutes_antenne": 61.0
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 24,
+      "titres_differents": 1,
+      "minutes_antenne": 58.4
+    },
+    {
       "artistes": "BIGBANG",
       "nb_diffusions": 16,
       "titres_differents": 1,
       "minutes_antenne": 58.1
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 23,
-      "titres_differents": 1,
-      "minutes_antenne": 56.0
     },
     {
       "artistes": "L2B",
@@ -190,8 +190,14 @@
     {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
+      "nb_diffusions": 24,
+      "minutes_antenne": 58.4
+    },
+    {
+      "artistes": "Jok'air",
+      "titre": "Nouméa",
       "nb_diffusions": 23,
-      "minutes_antenne": 56.0
+      "minutes_antenne": 85.9
     },
     {
       "artistes": "Niska",
@@ -204,12 +210,6 @@
       "titre": "RENÉ CAOVILLA",
       "nb_diffusions": 22,
       "minutes_antenne": 48.1
-    },
-    {
-      "artistes": "Jok'air",
-      "titre": "Nouméa",
-      "nb_diffusions": 22,
-      "minutes_antenne": 82.1
     },
     {
       "artistes": "Apache 207",
@@ -293,7 +293,7 @@
     },
     {
       "heure": 9,
-      "nb_diffusions": 37
+      "nb_diffusions": 43
     },
     {
       "heure": 10,
@@ -550,8 +550,8 @@
     },
     {
       "date": "2026-11-06",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 11
     }
   ],
   "semaine": [
@@ -577,7 +577,7 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 160
+      "nb_diffusions": 166
     },
     {
       "jour": "Samedi",
@@ -652,6 +652,12 @@
       "minutes": 70.9
     },
     {
+      "artistes": "Jok'air",
+      "nb_jours": 17,
+      "nb_diffusions": 26,
+      "minutes": 94.9
+    },
+    {
       "artistes": "Niska",
       "nb_jours": 17,
       "nb_diffusions": 24,
@@ -670,16 +676,10 @@
       "minutes": 61.0
     },
     {
-      "artistes": "Jok'air",
-      "nb_jours": 16,
-      "nb_diffusions": 25,
-      "minutes": 91.2
-    },
-    {
       "artistes": "DJ Jordan MasterBoy",
-      "nb_jours": 15,
-      "nb_diffusions": 23,
-      "minutes": 56.0
+      "nb_jours": 16,
+      "nb_diffusions": 24,
+      "minutes": 58.4
     },
     {
       "artistes": "Lil Gianni",
@@ -780,6 +780,12 @@
       "nb_diffusions": 21
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_jours": 16,
+      "nb_diffusions": 24
+    },
+    {
       "artistes": "Mauvais djo",
       "titre": "Wagyu",
       "nb_jours": 16,
@@ -798,8 +804,8 @@
       "nb_diffusions": 19
     },
     {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
+      "artistes": "Jok'air",
+      "titre": "Nouméa",
       "nb_jours": 15,
       "nb_diffusions": 23
     },
@@ -808,12 +814,6 @@
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_jours": 15,
       "nb_diffusions": 20
-    },
-    {
-      "artistes": "Jok'air",
-      "titre": "Nouméa",
-      "nb_jours": 14,
-      "nb_diffusions": 22
     },
     {
       "artistes": "Tame Impala",
@@ -877,7 +877,7 @@
     {
       "artistes": "Jok'air",
       "nb_titres_differents": 2,
-      "nb_diffusions": 25
+      "nb_diffusions": 26
     },
     {
       "artistes": "Niska",
@@ -945,7 +945,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 625
+      "nb_diffusions": 629
     },
     {
       "annee": 2025,
@@ -953,11 +953,11 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 72
+      "nb_diffusions": 73
     },
     {
       "annee": 2023,
-      "nb_diffusions": 34
+      "nb_diffusions": 35
     },
     {
       "annee": 2022,
@@ -1051,11 +1051,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 545
+      "nb": 547
     },
     {
       "type_contenu": "Explicit",
-      "nb": 530
+      "nb": 534
     }
   ],
   "albums": [
@@ -1105,6 +1105,11 @@
       "nb_diffusions": 27
     },
     {
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "nb_diffusions": 24
+    },
+    {
       "album": "Wagyu",
       "artistes": "Mattie",
       "nb_diffusions": 23
@@ -1120,19 +1125,14 @@
       "nb_diffusions": 23
     },
     {
-      "album": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
+      "album": "Nouméa",
+      "artistes": "Jok'air",
       "nb_diffusions": 23
     },
     {
       "album": "Allo Doudou",
       "artistes": "Niska",
       "nb_diffusions": 23
-    },
-    {
-      "album": "Nouméa",
-      "artistes": "Jok'air",
-      "nb_diffusions": 22
     },
     {
       "album": "Loser",
@@ -1165,15 +1165,93 @@
     "artistes": "Le Crime",
     "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
     "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793932806~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=117f3bccd475c0830934236df419c3ea00aa4d0d7019368269c6e8789846e3ad",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793958511~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=6dcb412f3838f6a8c0a1adc02e2aa3c969b17e4af6c7db316b7c73fe4001f325",
     "date": "2026-11-06",
-    "heure": 2,
+    "heure": 9,
     "album": "Casus Belli",
     "annee": 2026,
-    "start_ts": 1793931878,
-    "end_ts": 1793932028
+    "start_ts": 1793957483,
+    "end_ts": 1793957633
   },
   "derniers_morceaux": [
+    {
+      "titre": "Bodycount",
+      "artistes": "Le Crime",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793958511~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=6dcb412f3838f6a8c0a1adc02e2aa3c969b17e4af6c7db316b7c73fe4001f325",
+      "date": "2026-11-06",
+      "heure": 9,
+      "album": "Casus Belli",
+      "annee": 2026,
+      "start_ts": 1793957483,
+      "end_ts": 1793957633
+    },
+    {
+      "titre": "Paris (Remix)",
+      "artistes": "ANS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2eb4304b144c815f3b28a2f3e75a4b5c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8750011706350687308.479.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/7/0/8a7c04bdf3a9ad6b885dfc326f8b8763.mp3?hdnea=exp=1793958512~acl=/api/1/1/8/a/7/0/8a7c04bdf3a9ad6b885dfc326f8b8763.mp3*~data=user_id=0,application_id=42~hmac=8cfc40ca64742ba8fb31ccd3e5ecd70bdffb3521c7299c328c0e04a38ff96f64",
+      "date": "2026-11-06",
+      "heure": 9,
+      "album": "MOSSEBA",
+      "annee": 2026,
+      "start_ts": 1793957310,
+      "end_ts": 1793957478
+    },
+    {
+      "titre": "Nouméa",
+      "artistes": "Jok'air",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1793958513~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=7f4beab1a9a3ef590e6e7709c45c8fed09cadc58d0de24f355b587722f9cde57",
+      "date": "2026-11-06",
+      "heure": 9,
+      "album": "Nouméa",
+      "annee": 2026,
+      "start_ts": 1793957088,
+      "end_ts": 1793957312
+    },
+    {
+      "titre": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1793958514~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=9b2085f50be49e58c477e25f6457ce09a55a2f867a6c954ebbcea50ffd34f246",
+      "date": "2026-11-06",
+      "heure": 9,
+      "album": "La petasse",
+      "annee": 2024,
+      "start_ts": 1793956938,
+      "end_ts": 1793957084
+    },
+    {
+      "titre": "Professionnels",
+      "artistes": "SCH",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/94eb47dd221ad81bc58161edff6c9be3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a43d57c04964535d4a68cf1c11d8af8.mp3?hdnea=exp=1793958515~acl=/api/1/1/7/a/4/0/7a43d57c04964535d4a68cf1c11d8af8.mp3*~data=user_id=0,application_id=42~hmac=b6cc6cee3beb1b8aaa322e82556aa92ede44a5040357eee1ce42816b5a45a4b2",
+      "date": "2026-11-06",
+      "heure": 9,
+      "album": "Précipices & Professionnels",
+      "annee": 2026,
+      "start_ts": 1793956330,
+      "end_ts": 1793956481
+    },
+    {
+      "titre": "Easy On Me",
+      "artistes": "Pablo Cepeda",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a05dff553156d1b44b2f9921c2d32833/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/88/SKYC.3243718816479229488.16.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/d/0/f0d07562cdc55153f0e6846d765807df.mp3?hdnea=exp=1793958515~acl=/api/1/1/f/0/d/0/f0d07562cdc55153f0e6846d765807df.mp3*~data=user_id=0,application_id=42~hmac=0ae9dd0d6869215f3a1c5e9f0d124befc8a50527c9cb2fe901dbc1c5ebf4fa6e",
+      "date": "2026-11-06",
+      "heure": 9,
+      "album": "Bossa Nova Pop Hits",
+      "annee": 2023,
+      "start_ts": 1793956110,
+      "end_ts": 1793956323
+    },
     {
       "titre": "Bodycount",
       "artistes": "Le Crime",
@@ -1225,84 +1303,6 @@
       "annee": 2026,
       "start_ts": 1793931329,
       "end_ts": 1793931502
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-06",
-      "heure": 2,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793931100,
-      "end_ts": 1793931334
-    },
-    {
-      "titre": "Pilé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-06",
-      "heure": 2,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793930951,
-      "end_ts": 1793931098
-    },
-    {
-      "titre": "Bodycount",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-05",
-      "heure": 21,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793915771,
-      "end_ts": 1793915952
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-05",
-      "heure": 21,
-      "album": null,
-      "annee": null,
-      "start_ts": 1793913590,
-      "end_ts": 1793913711
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1793917774~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=ff9ded5c0259be38aea4c27153f403a3827c35a2d240e76fd67ed22a404b9a97",
-      "date": "2026-11-05",
-      "heure": 20,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1793910710,
-      "end_ts": 1793910861
-    },
-    {
-      "titre": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1793917775~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=1447122035daaecfeeb7cea14bfacdf71d10b9ec2759150b739c07c2346df5df",
-      "date": "2026-11-05",
-      "heure": 19,
-      "album": "VIVE LA MONNAIE",
-      "annee": 2026,
-      "start_ts": 1793908609,
-      "end_ts": 1793908787
     }
   ]
 }
