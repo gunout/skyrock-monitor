@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-06T09:33:37.007882",
-  "genere_ts": 1793957617,
+  "genere_le": "2026-11-06T16:54:18.290992",
+  "genere_ts": 1793984058,
   "volume": {
-    "nb_diffusions": 1083,
-    "nb_artistes": 210,
-    "nb_titres": 235,
+    "nb_diffusions": 1089,
+    "nb_artistes": 211,
+    "nb_titres": 236,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-06",
-    "heures_antenne": 52.75,
-    "duree_moy_s": 175.4
+    "heures_antenne": 53.03,
+    "duree_moy_s": 175.3
   },
   "top_artistes": [
     {
@@ -42,16 +42,16 @@
       "minutes_antenne": 102.6
     },
     {
+      "artistes": "Timal",
+      "nb_diffusions": 41,
+      "titres_differents": 1,
+      "minutes_antenne": 98.1
+    },
+    {
       "artistes": "Slimane",
       "nb_diffusions": 31,
       "titres_differents": 1,
       "minutes_antenne": 96.1
-    },
-    {
-      "artistes": "Timal",
-      "nb_diffusions": 40,
-      "titres_differents": 1,
-      "minutes_antenne": 95.7
     },
     {
       "artistes": "Jok'air",
@@ -85,9 +85,9 @@
     },
     {
       "artistes": "Niska",
-      "nb_diffusions": 24,
+      "nb_diffusions": 25,
       "titres_differents": 2,
-      "minutes_antenne": 67.2
+      "minutes_antenne": 70.0
     },
     {
       "artistes": "Tame Impala",
@@ -148,8 +148,8 @@
     {
       "artistes": "Timal",
       "titre": "Sicario",
-      "nb_diffusions": 40,
-      "minutes_antenne": 95.7
+      "nb_diffusions": 41,
+      "minutes_antenne": 98.1
     },
     {
       "artistes": "Tiakola",
@@ -194,16 +194,16 @@
       "minutes_antenne": 58.4
     },
     {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_diffusions": 24,
+      "minutes_antenne": 66.8
+    },
+    {
       "artistes": "Jok'air",
       "titre": "Nouméa",
       "nb_diffusions": 23,
       "minutes_antenne": 85.9
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_diffusions": 23,
-      "minutes_antenne": 64.0
     },
     {
       "artistes": "Gambi",
@@ -321,7 +321,7 @@
     },
     {
       "heure": 16,
-      "nb_diffusions": 46
+      "nb_diffusions": 52
     },
     {
       "heure": 17,
@@ -550,8 +550,8 @@
     },
     {
       "date": "2026-11-06",
-      "nb_diffusions": 12,
-      "titres_differents": 11
+      "nb_diffusions": 18,
+      "titres_differents": 16
     }
   ],
   "semaine": [
@@ -577,7 +577,7 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 166
+      "nb_diffusions": 172
     },
     {
       "jour": "Samedi",
@@ -606,8 +606,8 @@
     {
       "artistes": "Timal",
       "nb_jours": 25,
-      "nb_diffusions": 40,
-      "minutes": 95.7
+      "nb_diffusions": 41,
+      "minutes": 98.1
     },
     {
       "artistes": "KAROL G",
@@ -652,16 +652,16 @@
       "minutes": 70.9
     },
     {
+      "artistes": "Niska",
+      "nb_jours": 18,
+      "nb_diffusions": 25,
+      "minutes": 70.0
+    },
+    {
       "artistes": "Jok'air",
       "nb_jours": 17,
       "nb_diffusions": 26,
       "minutes": 94.9
-    },
-    {
-      "artistes": "Niska",
-      "nb_jours": 17,
-      "nb_diffusions": 24,
-      "minutes": 67.2
     },
     {
       "artistes": "Apache 207",
@@ -729,7 +729,7 @@
       "artistes": "Timal",
       "titre": "Sicario",
       "nb_jours": 25,
-      "nb_diffusions": 40
+      "nb_diffusions": 41
     },
     {
       "artistes": "KAROL G",
@@ -770,8 +770,8 @@
     {
       "artistes": "Niska",
       "titre": "Allo Doudou",
-      "nb_jours": 17,
-      "nb_diffusions": 23
+      "nb_jours": 18,
+      "nb_diffusions": 24
     },
     {
       "artistes": "Apache 207",
@@ -882,7 +882,7 @@
     {
       "artistes": "Niska",
       "nb_titres_differents": 2,
-      "nb_diffusions": 24
+      "nb_diffusions": 25
     },
     {
       "artistes": "Aya Nakamura",
@@ -915,6 +915,11 @@
       "nb_diffusions": 4
     },
     {
+      "artistes": "Gazo",
+      "nb_titres_differents": 2,
+      "nb_diffusions": 3
+    },
+    {
       "artistes": "ROSALÍA",
       "nb_titres_differents": 2,
       "nb_diffusions": 3
@@ -923,11 +928,6 @@
       "artistes": "Stromae",
       "nb_titres_differents": 2,
       "nb_diffusions": 3
-    },
-    {
-      "artistes": "Beyoncé",
-      "nb_titres_differents": 2,
-      "nb_diffusions": 2
     }
   ],
   "emissions": [
@@ -945,7 +945,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 629
+      "nb_diffusions": 634
     },
     {
       "annee": 2025,
@@ -961,7 +961,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 79
+      "nb_diffusions": 80
     },
     {
       "annee": 2021,
@@ -1051,11 +1051,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 547
+      "nb": 550
     },
     {
       "type_contenu": "Explicit",
-      "nb": 534
+      "nb": 537
     }
   ],
   "albums": [
@@ -1072,7 +1072,7 @@
     {
       "album": "Sicario",
       "artistes": "Timal",
-      "nb_diffusions": 42
+      "nb_diffusions": 43
     },
     {
       "album": "Mélo Décalé",
@@ -1110,6 +1110,11 @@
       "nb_diffusions": 24
     },
     {
+      "album": "Allo Doudou",
+      "artistes": "Niska",
+      "nb_diffusions": 24
+    },
+    {
       "album": "Wagyu",
       "artistes": "Mattie",
       "nb_diffusions": 23
@@ -1127,11 +1132,6 @@
     {
       "album": "Nouméa",
       "artistes": "Jok'air",
-      "nb_diffusions": 23
-    },
-    {
-      "album": "Allo Doudou",
-      "artistes": "Niska",
       "nb_diffusions": 23
     },
     {
@@ -1161,19 +1161,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Bodycount",
-    "artistes": "Le Crime",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793958511~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=6dcb412f3838f6a8c0a1adc02e2aa3c969b17e4af6c7db316b7c73fe4001f325",
+    "titre": "Si No Estás (Afro House)",
+    "artistes": "Chill Gull",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0397a4331722d70507eba66b3aa0f28d/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/66/SKYC.479653009686331266.766.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/f/0/41ff5786078461d2b085f149d4e05e98.mp3?hdnea=exp=1793984951~acl=/api/1/1/4/1/f/0/41ff5786078461d2b085f149d4e05e98.mp3*~data=user_id=0,application_id=42~hmac=c872bb7c2878d13f9abc162a1592ea674947d09a4d713f4ac404f96f6497d098",
     "date": "2026-11-06",
-    "heure": 9,
-    "album": "Casus Belli",
+    "heure": 16,
+    "album": "Si No Estás (Afro House)",
     "annee": 2026,
-    "start_ts": 1793957483,
-    "end_ts": 1793957633
+    "start_ts": 1793983390,
+    "end_ts": 1793983569
   },
   "derniers_morceaux": [
+    {
+      "titre": "Si No Estás (Afro House)",
+      "artistes": "Chill Gull",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0397a4331722d70507eba66b3aa0f28d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/66/SKYC.479653009686331266.766.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/f/0/41ff5786078461d2b085f149d4e05e98.mp3?hdnea=exp=1793984951~acl=/api/1/1/4/1/f/0/41ff5786078461d2b085f149d4e05e98.mp3*~data=user_id=0,application_id=42~hmac=c872bb7c2878d13f9abc162a1592ea674947d09a4d713f4ac404f96f6497d098",
+      "date": "2026-11-06",
+      "heure": 16,
+      "album": "Si No Estás (Afro House)",
+      "annee": 2026,
+      "start_ts": 1793983390,
+      "end_ts": 1793983569
+    },
+    {
+      "titre": "Sicario",
+      "artistes": "Timal",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1793984952~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=8195983d06ac5063ec733f11ce74c16ebcc5044477934b0d24ce1bff028c186f",
+      "date": "2026-11-06",
+      "heure": 16,
+      "album": "Sicario",
+      "annee": 2026,
+      "start_ts": 1793983252,
+      "end_ts": 1793983396
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1793984953~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=0e84b1528ae3dc4a56676519b819d7ff62262962a7b30f592e14a23c1494728a",
+      "date": "2026-11-06",
+      "heure": 16,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1793983089,
+      "end_ts": 1793983266
+    },
+    {
+      "titre": "RAPPEL",
+      "artistes": "Gazo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2bcbcb5b54085e978f3c7f7f34a80c1f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/39/SKYC.1521119169412688939.10.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/a/0/78ab1dcf8361d6f181c24ebc1bbd3366.mp3?hdnea=exp=1793984954~acl=/api/1/1/7/8/a/0/78ab1dcf8361d6f181c24ebc1bbd3366.mp3*~data=user_id=0,application_id=42~hmac=e18c1f2b616cc1d36919f42acdbfcc24b1219a531b7974a886a18908c08da13f",
+      "date": "2026-11-06",
+      "heure": 16,
+      "album": "KMT",
+      "annee": 2022,
+      "start_ts": 1793982883,
+      "end_ts": 1793983092
+    },
+    {
+      "titre": "XXX",
+      "artistes": "Orelsan",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5d7f42f3a107fe479f02583c38227b24/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.3422119490917987222.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3?hdnea=exp=1793984956~acl=/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3*~data=user_id=0,application_id=42~hmac=e6123b93155b817dd207b6ce1f69f7fb0e3ba00b6cdac5cda2519cdddf2b4e30",
+      "date": "2026-11-06",
+      "heure": 16,
+      "album": "XXX",
+      "annee": 2026,
+      "start_ts": 1793982761,
+      "end_ts": 1793982889
+    },
+    {
+      "titre": "Allo Doudou",
+      "artistes": "Niska",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1793984957~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=3732e52acf4fcd83240197b7935e2db32d4317b5c12dab62dff1ba1895e0624b",
+      "date": "2026-11-06",
+      "heure": 16,
+      "album": "Allo Doudou",
+      "annee": 2026,
+      "start_ts": 1793982598,
+      "end_ts": 1793982765
+    },
     {
       "titre": "Bodycount",
       "artistes": "Le Crime",
@@ -1225,84 +1303,6 @@
       "annee": 2024,
       "start_ts": 1793956938,
       "end_ts": 1793957084
-    },
-    {
-      "titre": "Professionnels",
-      "artistes": "SCH",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/94eb47dd221ad81bc58161edff6c9be3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a43d57c04964535d4a68cf1c11d8af8.mp3?hdnea=exp=1793958515~acl=/api/1/1/7/a/4/0/7a43d57c04964535d4a68cf1c11d8af8.mp3*~data=user_id=0,application_id=42~hmac=b6cc6cee3beb1b8aaa322e82556aa92ede44a5040357eee1ce42816b5a45a4b2",
-      "date": "2026-11-06",
-      "heure": 9,
-      "album": "Précipices & Professionnels",
-      "annee": 2026,
-      "start_ts": 1793956330,
-      "end_ts": 1793956481
-    },
-    {
-      "titre": "Easy On Me",
-      "artistes": "Pablo Cepeda",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a05dff553156d1b44b2f9921c2d32833/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/88/SKYC.3243718816479229488.16.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/d/0/f0d07562cdc55153f0e6846d765807df.mp3?hdnea=exp=1793958515~acl=/api/1/1/f/0/d/0/f0d07562cdc55153f0e6846d765807df.mp3*~data=user_id=0,application_id=42~hmac=0ae9dd0d6869215f3a1c5e9f0d124befc8a50527c9cb2fe901dbc1c5ebf4fa6e",
-      "date": "2026-11-06",
-      "heure": 9,
-      "album": "Bossa Nova Pop Hits",
-      "annee": 2023,
-      "start_ts": 1793956110,
-      "end_ts": 1793956323
-    },
-    {
-      "titre": "Bodycount",
-      "artistes": "Le Crime",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1793932806~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=117f3bccd475c0830934236df419c3ea00aa4d0d7019368269c6e8789846e3ad",
-      "date": "2026-11-06",
-      "heure": 2,
-      "album": "Casus Belli",
-      "annee": 2026,
-      "start_ts": 1793931878,
-      "end_ts": 1793932028
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1793932807~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=ab74df99b324273f344aca319e769b6a78726038313570506796ac15d5b59a7e",
-      "date": "2026-11-06",
-      "heure": 2,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1793931731,
-      "end_ts": 1793931875
-    },
-    {
-      "titre": "Just A Lil Bit (Remix)",
-      "artistes": "George Masri",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/74417f441241f9e8148d3d353c7378e4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.4671725789218432129.4.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/d/0/3ed82516b6af2da4fd9d12f32dc944f2.mp3?hdnea=exp=1793932808~acl=/api/1/1/3/e/d/0/3ed82516b6af2da4fd9d12f32dc944f2.mp3*~data=user_id=0,application_id=42~hmac=c3ccf85c78be2a4e6bbef86c2fa2cca9344cdc98ead14255b50bcafa6dac7997",
-      "date": "2026-11-06",
-      "heure": 2,
-      "album": "Just A Lil Bit (Remix)",
-      "annee": 2024,
-      "start_ts": 1793931503,
-      "end_ts": 1793931730
-    },
-    {
-      "titre": "CYBERTESLA",
-      "artistes": "L2B",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1793932809~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=113410de5f839a0d04c583efc05c0814e8f1be7b74787e09dfe9a23db68a7bfa",
-      "date": "2026-11-06",
-      "heure": 2,
-      "album": "CYBERTESLA",
-      "annee": 2026,
-      "start_ts": 1793931329,
-      "end_ts": 1793931502
     }
   ]
 }
