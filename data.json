@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-11-07T13:58:06.019588",
-  "genere_ts": 1794059886,
+  "genere_le": "2026-11-07T18:26:07.455630",
+  "genere_ts": 1794075967,
   "volume": {
-    "nb_diffusions": 1108,
+    "nb_diffusions": 1114,
     "nb_artistes": 213,
     "nb_titres": 239,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-07",
-    "heures_antenne": 53.97,
+    "heures_antenne": 54.27,
     "duree_moy_s": 175.4
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 59,
+      "nb_diffusions": 60,
       "titres_differents": 2,
-      "minutes_antenne": 170.4
+      "minutes_antenne": 172.9
     },
     {
       "artistes": "KAROL G",
@@ -154,8 +154,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_diffusions": 39,
-      "minutes_antenne": 98.3
+      "nb_diffusions": 40,
+      "minutes_antenne": 100.9
     },
     {
       "artistes": "GIMS",
@@ -218,6 +218,12 @@
       "minutes_antenne": 76.3
     },
     {
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "nb_diffusions": 21,
+      "minutes_antenne": 52.5
+    },
+    {
       "artistes": "Mauvais djo",
       "titre": "Wagyu",
       "nb_diffusions": 21,
@@ -228,12 +234,6 @@
       "titre": "Sexy Nana",
       "nb_diffusions": 20,
       "minutes_antenne": 50.6
-    },
-    {
-      "artistes": "Lil Gianni",
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_diffusions": 20,
-      "minutes_antenne": 50.0
     },
     {
       "artistes": "Tiakola",
@@ -329,7 +329,7 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 101
+      "nb_diffusions": 107
     },
     {
       "heure": 19,
@@ -555,8 +555,8 @@
     },
     {
       "date": "2026-11-07",
-      "nb_diffusions": 16,
-      "titres_differents": 16
+      "nb_diffusions": 22,
+      "titres_differents": 21
     }
   ],
   "semaine": [
@@ -586,15 +586,15 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 203
+      "nb_diffusions": 209
     }
   ],
   "recurrents": [
     {
       "artistes": "Tiakola",
-      "nb_jours": 32,
-      "nb_diffusions": 59,
-      "minutes": 170.4
+      "nb_jours": 33,
+      "nb_diffusions": 60,
+      "minutes": 172.9
     },
     {
       "artistes": "Leto",
@@ -688,9 +688,9 @@
     },
     {
       "artistes": "Lil Gianni",
-      "nb_jours": 15,
-      "nb_diffusions": 20,
-      "minutes": 50.0
+      "nb_jours": 16,
+      "nb_diffusions": 21,
+      "minutes": 52.5
     },
     {
       "artistes": "Tame Impala",
@@ -727,8 +727,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_jours": 26,
-      "nb_diffusions": 39
+      "nb_jours": 27,
+      "nb_diffusions": 40
     },
     {
       "artistes": "Timal",
@@ -803,6 +803,12 @@
       "nb_diffusions": 21
     },
     {
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "nb_jours": 16,
+      "nb_diffusions": 21
+    },
+    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_jours": 16,
@@ -813,12 +819,6 @@
       "titre": "NUEVAYoL",
       "nb_jours": 16,
       "nb_diffusions": 19
-    },
-    {
-      "artistes": "Lil Gianni",
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_jours": 15,
-      "nb_diffusions": 20
     },
     {
       "artistes": "Djaksparo",
@@ -872,7 +872,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 2,
-      "nb_diffusions": 59
+      "nb_diffusions": 60
     },
     {
       "artistes": "Gambi",
@@ -950,7 +950,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 646
+      "nb_diffusions": 649
     },
     {
       "annee": 2025,
@@ -966,7 +966,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 80
+      "nb_diffusions": 81
     },
     {
       "annee": 2021,
@@ -982,7 +982,7 @@
     },
     {
       "annee": 2018,
-      "nb_diffusions": 20
+      "nb_diffusions": 21
     },
     {
       "annee": 2017,
@@ -1022,7 +1022,7 @@
     },
     {
       "annee": 2007,
-      "nb_diffusions": 16
+      "nb_diffusions": 17
     },
     {
       "annee": 2006,
@@ -1056,11 +1056,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 562
+      "nb": 565
     },
     {
       "type_contenu": "Explicit",
-      "nb": 544
+      "nb": 547
     }
   ],
   "albums": [
@@ -1082,7 +1082,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 39
+      "nb_diffusions": 40
     },
     {
       "album": "VIVE LA MONNAIE",
@@ -1140,6 +1140,11 @@
       "nb_diffusions": 23
     },
     {
+      "album": "SAMPLEMAKER",
+      "artistes": "Lil Gianni",
+      "nb_diffusions": 21
+    },
+    {
       "album": "Loser",
       "artistes": "Apache 207",
       "nb_diffusions": 21
@@ -1147,11 +1152,6 @@
     {
       "album": "WpointM",
       "artistes": "Tiakola",
-      "nb_diffusions": 20
-    },
-    {
-      "album": "SAMPLEMAKER",
-      "artistes": "Lil Gianni",
       "nb_diffusions": 20
     },
     {
@@ -1166,19 +1166,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "VIVE LA MONNAIE",
-    "artistes": "GIMS",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1794060779~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=d45877acdbf646dbd343cfde7320154a4dad7e9b1da7b94d799749a9dd93d319",
+    "titre": "Billie Jean",
+    "artistes": "Chris Cornell",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1794076861~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=314248bd92f0adf71ff9a83915b77ca43aa06331c7116c528e1e824ebf6c2cfd",
     "date": "2026-11-07",
-    "heure": 13,
-    "album": "VIVE LA MONNAIE",
-    "annee": 2026,
-    "start_ts": 1794059854,
-    "end_ts": 1794060032
+    "heure": 18,
+    "album": "Chris Cornell (Deluxe Edition)",
+    "annee": 2018,
+    "start_ts": 1794075706,
+    "end_ts": 1794075992
   },
   "derniers_morceaux": [
+    {
+      "titre": "Billie Jean",
+      "artistes": "Chris Cornell",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1794076861~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=314248bd92f0adf71ff9a83915b77ca43aa06331c7116c528e1e824ebf6c2cfd",
+      "date": "2026-11-07",
+      "heure": 18,
+      "album": "Chris Cornell (Deluxe Edition)",
+      "annee": 2018,
+      "start_ts": 1794075706,
+      "end_ts": 1794075992
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1794076862~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=0e5b594555eb5dbc8cbb6c2c4d3ef0cb56a298bf2747ded4ef003764b61cacbb",
+      "date": "2026-11-07",
+      "heure": 18,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1794075555,
+      "end_ts": 1794075706
+    },
+    {
+      "titre": "Professionnels",
+      "artistes": "SCH",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/94eb47dd221ad81bc58161edff6c9be3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/4/0/7a43d57c04964535d4a68cf1c11d8af8.mp3?hdnea=exp=1794076863~acl=/api/1/1/7/a/4/0/7a43d57c04964535d4a68cf1c11d8af8.mp3*~data=user_id=0,application_id=42~hmac=b61b85a46b4f9014fc875581cd787d68853e98db38a309c13cdf19d584b60dec",
+      "date": "2026-11-07",
+      "heure": 18,
+      "album": "Précipices & Professionnels",
+      "annee": 2026,
+      "start_ts": 1794075251,
+      "end_ts": 1794075402
+    },
+    {
+      "titre": "On s'attache",
+      "artistes": "Christophe Maé",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1794076864~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=108a6ed8fc66cbb3746225405b5c76bdfaf321ad2d0bf17aecc13877479252ce",
+      "date": "2026-11-07",
+      "heure": 18,
+      "album": "Mon paradis",
+      "annee": 2007,
+      "start_ts": 1794075056,
+      "end_ts": 1794075246
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1794076865~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=63052405d9700579c2f94697153f02861c64221207a29b77e5222e9b6911bec1",
+      "date": "2026-11-07",
+      "heure": 18,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1794074903,
+      "end_ts": 1794075053
+    },
+    {
+      "titre": "XXX",
+      "artistes": "Orelsan",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5d7f42f3a107fe479f02583c38227b24/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.3422119490917987222.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3?hdnea=exp=1794076866~acl=/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3*~data=user_id=0,application_id=42~hmac=ea4f8782dab1b1ee71e312c8c54510a9c1b9f72eff94cb3e6acb897910ec5060",
+      "date": "2026-11-07",
+      "heure": 18,
+      "album": "XXX",
+      "annee": 2026,
+      "start_ts": 1794074772,
+      "end_ts": 1794074900
+    },
     {
       "titre": "VIVE LA MONNAIE",
       "artistes": "GIMS",
@@ -1230,84 +1308,6 @@
       "annee": 2026,
       "start_ts": 1794059013,
       "end_ts": 1794059180
-    },
-    {
-      "titre": "BbY WOW",
-      "artistes": "KAROL G",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1794060783~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=1960394eaef3536b5897453749480cba1f3ce99cf0c007c5f87b14c9abeb0e6c",
-      "date": "2026-11-07",
-      "heure": 13,
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "annee": 2026,
-      "start_ts": 1794058785,
-      "end_ts": 1794059008
-    },
-    {
-      "titre": "Trop beau (Version acoustique)",
-      "artistes": "Emma Peters",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/907fd9eac567baeeb77acac429f21eb7/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.1851074005573891858.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/f/c/0/4fc132f698ead0ffc674e696aa025fc9.mp3?hdnea=exp=1794060784~acl=/api/1/1/4/f/c/0/4fc132f698ead0ffc674e696aa025fc9.mp3*~data=user_id=0,application_id=42~hmac=eaf14607c8f81f88da286493616cf631040fa8b8587842de68b1bb6344c11420",
-      "date": "2026-11-07",
-      "heure": 13,
-      "album": "Emma Peters (Remixed)",
-      "annee": 2020,
-      "start_ts": 1794058548,
-      "end_ts": 1794058783
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1794036468~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=4447a5ef4e01eb905a183f3e418cb4e062cb8eac6c9b9d587fe7ca768bc6128d",
-      "date": "2026-11-07",
-      "heure": 7,
-      "album": "Nouméa",
-      "annee": 2026,
-      "start_ts": 1794035264,
-      "end_ts": 1794035488
-    },
-    {
-      "titre": "Pilé (Gospel)",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b6364dcbe3436b723aa844aff15768f3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.7464668579636720898.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/6/0/a66a9d6e8fa4dd664938f17cbc57d925.mp3?hdnea=exp=1794036469~acl=/api/1/1/a/6/6/0/a66a9d6e8fa4dd664938f17cbc57d925.mp3*~data=user_id=0,application_id=42~hmac=2f0d9dc6b62be031ec24a1921f8c57cbfb3424e810af269548aa32d83bfea20f",
-      "date": "2026-11-07",
-      "heure": 7,
-      "album": "Pilé (Gospel)",
-      "annee": 2026,
-      "start_ts": 1794034837,
-      "end_ts": 1794034958
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-07",
-      "heure": 6,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794034307,
-      "end_ts": 1794034541
-    },
-    {
-      "titre": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) (Remix / Radio Edit)",
-      "artistes": "Master KG",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c9db716ce7cada1e9fd8dbde8e0b1301/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.4225065556690253984.26.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/6/0/39604f85eb7cb481cdd66f0963700c1c.mp3?hdnea=exp=1794036470~acl=/api/1/1/3/9/6/0/39604f85eb7cb481cdd66f0963700c1c.mp3*~data=user_id=0,application_id=42~hmac=9522da99633329cdb89a36704900abe8c6c8fe5fa44a09b0686449e36991524b",
-      "date": "2026-11-07",
-      "heure": 6,
-      "album": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) (Remix)",
-      "annee": 2020,
-      "start_ts": 1794033922,
-      "end_ts": 1794034157
     }
   ]
 }
