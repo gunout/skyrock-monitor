@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-08T14:24:34.224249",
-  "genere_ts": 1794147874,
+  "genere_le": "2026-11-08T18:54:47.639465",
+  "genere_ts": 1794164087,
   "volume": {
-    "nb_diffusions": 1138,
-    "nb_artistes": 216,
-    "nb_titres": 244,
+    "nb_diffusions": 1141,
+    "nb_artistes": 219,
+    "nb_titres": 247,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-08",
-    "heures_antenne": 55.48,
-    "duree_moy_s": 175.5
+    "heures_antenne": 55.7,
+    "duree_moy_s": 175.7
   },
   "top_artistes": [
     {
@@ -329,7 +329,7 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 107
+      "nb_diffusions": 113
     },
     {
       "heure": 19,
@@ -560,14 +560,14 @@
     },
     {
       "date": "2026-11-08",
-      "nb_diffusions": 18,
-      "titres_differents": 18
+      "nb_diffusions": 24,
+      "titres_differents": 24
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 195
+      "nb_diffusions": 201
     },
     {
       "jour": "Lundi",
@@ -1011,7 +1011,7 @@
     },
     {
       "annee": 2012,
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "annee": 2010,
@@ -1034,6 +1034,10 @@
       "nb_diffusions": 4
     },
     {
+      "annee": 2004,
+      "nb_diffusions": 1
+    },
+    {
       "annee": 2003,
       "nb_diffusions": 2
     },
@@ -1054,6 +1058,10 @@
       "nb_diffusions": 6
     },
     {
+      "annee": 1998,
+      "nb_diffusions": 1
+    },
+    {
       "annee": 1995,
       "nb_diffusions": 1
     }
@@ -1061,7 +1069,7 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 581
+      "nb": 584
     },
     {
       "type_contenu": "Explicit",
@@ -1171,19 +1179,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Billie Jean",
-    "artistes": "Chris Cornell",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1794148767~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=80433a10c11467f9593506b5e9731a2f953551ba05d8fe3cccdae538facc28b3",
+    "titre": "Black & Yellow",
+    "artistes": "Josh Vietti",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c099b7f32418701622a64bb7f21475ad/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/82/SKYC.8773478173313753182.2.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/6/0/eb662aa6d4d5f6818f440191d925f5a4.mp3?hdnea=exp=1794164982~acl=/api/1/1/e/b/6/0/eb662aa6d4d5f6818f440191d925f5a4.mp3*~data=user_id=0,application_id=42~hmac=429c71fcfca45cad17408cbfa9ea4dd13b68ad6a44a09e3cccd81b94c75f20e1",
     "date": "2026-11-08",
-    "heure": 14,
-    "album": "Chris Cornell (Deluxe Edition)",
-    "annee": 2018,
-    "start_ts": 1794147802,
-    "end_ts": 1794148088
+    "heure": 18,
+    "album": "Best of Both Worlds",
+    "annee": 2012,
+    "start_ts": 1794163958,
+    "end_ts": 1794164174
   },
   "derniers_morceaux": [
+    {
+      "titre": "Black & Yellow",
+      "artistes": "Josh Vietti",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c099b7f32418701622a64bb7f21475ad/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/82/SKYC.8773478173313753182.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/6/0/eb662aa6d4d5f6818f440191d925f5a4.mp3?hdnea=exp=1794164982~acl=/api/1/1/e/b/6/0/eb662aa6d4d5f6818f440191d925f5a4.mp3*~data=user_id=0,application_id=42~hmac=429c71fcfca45cad17408cbfa9ea4dd13b68ad6a44a09e3cccd81b94c75f20e1",
+      "date": "2026-11-08",
+      "heure": 18,
+      "album": "Best of Both Worlds",
+      "annee": 2012,
+      "start_ts": 1794163958,
+      "end_ts": 1794164174
+    },
+    {
+      "titre": "On Se Connait",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/71/SKYC.1779884229391438871.6.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-08",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794163829,
+      "end_ts": 1794163951
+    },
+    {
+      "titre": "Try again - Inédit",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.2881339760847000417.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-08",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794163321,
+      "end_ts": 1794163598
+    },
+    {
+      "titre": "Un monde parfait (feat. Janik)",
+      "artistes": "Ärsenik",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/14a2e5998aa1ca5e6457cc51818d0277/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/01/SKYC.3407621877779124501.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/2/0/912c6dd9f95a779030cbdcfcab8c4874.mp3?hdnea=exp=1794164984~acl=/api/1/1/9/1/2/0/912c6dd9f95a779030cbdcfcab8c4874.mp3*~data=user_id=0,application_id=42~hmac=e5ac524ac65ecbafabfa98a83bafed4c2ef984c808fe7f35f269b34262a41ee7",
+      "date": "2026-11-08",
+      "heure": 18,
+      "album": "Quelques gouttes suffisent",
+      "annee": 1998,
+      "start_ts": 1794163006,
+      "end_ts": 1794163328
+    },
+    {
+      "titre": "Dangerous",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/32/SKYC.7846400301914778132.5.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-08",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794162791,
+      "end_ts": 1794163010
+    },
+    {
+      "titre": "Ça fait plaisir (avec Intouchable)",
+      "artistes": "Rohff",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/334b5f93322d203db46bb1a9ec0e1b9c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/99/SKYC.7574164268087680599.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/a/0/68a76db40742e904192b82a95e318c7b.mp3?hdnea=exp=1794164986~acl=/api/1/1/6/8/a/0/68a76db40742e904192b82a95e318c7b.mp3*~data=user_id=0,application_id=42~hmac=ca3edc0f0695e382d58b0206ae248b59fa3bbeea1393123a1b439b4e47199836",
+      "date": "2026-11-08",
+      "heure": 18,
+      "album": "la fierte des notres",
+      "annee": 2004,
+      "start_ts": 1794162536,
+      "end_ts": 1794162793
+    },
     {
       "titre": "Billie Jean",
       "artistes": "Chris Cornell",
@@ -1235,84 +1321,6 @@
       "annee": 2012,
       "start_ts": 1794146971,
       "end_ts": 1794147217
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1794148771~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=3edef0b0883c829712aeddfb2b9f7ff694038635e1e7f97e301d98c078c10a94",
-      "date": "2026-11-08",
-      "heure": 14,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1794146824,
-      "end_ts": 1794146970
-    },
-    {
-      "titre": "BbY WOW",
-      "artistes": "KAROL G",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1794148772~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=5005301c9479a975f4d6d459ff9adea9c39b913d28b244d9aca8f5b02543cf73",
-      "date": "2026-11-08",
-      "heure": 14,
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "annee": 2026,
-      "start_ts": 1794146601,
-      "end_ts": 1794146824
-    },
-    {
-      "titre": "Histoire sans fin",
-      "artistes": "Yuston XIII",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1794123697~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=a1b6c9b45c964ad59ef12a5af23a89e0674265e9507e1a28e481469b919829a1",
-      "date": "2026-11-08",
-      "heure": 7,
-      "album": "Les Enfants du Chaos",
-      "annee": 2026,
-      "start_ts": 1794122789,
-      "end_ts": 1794122994
-    },
-    {
-      "titre": "Wagyu",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/66b39a68d93714c5bfa416f83c22fb05/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/31/SKYC.5491195853488870831.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3?hdnea=exp=1794123698~acl=/api/1/1/1/2/3/0/123a37f7073198fac5dbe6034a7b876f.mp3*~data=user_id=0,application_id=42~hmac=2fdac6380b5fa113d9f7f81308ad7e242356131274578f25c9eafcac90941da2",
-      "date": "2026-11-08",
-      "heure": 7,
-      "album": "Wagyu",
-      "annee": 2026,
-      "start_ts": 1794122673,
-      "end_ts": 1794122785
-    },
-    {
-      "titre": "Jaloux",
-      "artistes": "Dadju",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/01dbf7979fdba6d83586d01ec07fa808/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/74/SKYC.6842206611507902574.6.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/b/c/0/dbc52f50db98f89e12bec44ae24dab63.mp3?hdnea=exp=1794123699~acl=/api/1/1/d/b/c/0/dbc52f50db98f89e12bec44ae24dab63.mp3*~data=user_id=0,application_id=42~hmac=de29449d72b536aeb5aafd7a0c3aee121ec5ab55f21fe9ae6f4fa9f0a655c6fa",
-      "date": "2026-11-08",
-      "heure": 7,
-      "album": "Jaloux",
-      "annee": 2018,
-      "start_ts": 1794122440,
-      "end_ts": 1794122669
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1794123700~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=91cb29e8020d8c30e66f5a4b3e88acd833f485cb2e8b23a2db488fc57b6fd905",
-      "date": "2026-11-08",
-      "heure": 7,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1794122281,
-      "end_ts": 1794122432
     }
   ]
 }
