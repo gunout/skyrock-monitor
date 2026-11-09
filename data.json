@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-09T08:44:02.337344",
-  "genere_ts": 1794213842,
+  "genere_le": "2026-11-09T19:09:12.082033",
+  "genere_ts": 1794251352,
   "volume": {
-    "nb_diffusions": 1156,
+    "nb_diffusions": 1162,
     "nb_artistes": 222,
-    "nb_titres": 250,
+    "nb_titres": 251,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-09",
-    "heures_antenne": 56.44,
-    "duree_moy_s": 175.8
+    "heures_antenne": 56.69,
+    "duree_moy_s": 175.6
   },
   "top_artistes": [
     {
@@ -37,9 +37,9 @@
     },
     {
       "artistes": "GIMS",
-      "nb_diffusions": 36,
-      "titres_differents": 4,
-      "minutes_antenne": 108.5
+      "nb_diffusions": 37,
+      "titres_differents": 5,
+      "minutes_antenne": 111.1
     },
     {
       "artistes": "Jok'air",
@@ -121,9 +121,9 @@
     },
     {
       "artistes": "L2B",
-      "nb_diffusions": 19,
+      "nb_diffusions": 20,
       "titres_differents": 2,
-      "minutes_antenne": 55.1
+      "minutes_antenne": 58.0
     },
     {
       "artistes": "Aya Nakamura",
@@ -250,8 +250,8 @@
     {
       "artistes": "Djaksparo",
       "titre": "Pangor (Swalalala)",
-      "nb_diffusions": 18,
-      "minutes_antenne": 36.1
+      "nb_diffusions": 19,
+      "minutes_antenne": 38.1
     }
   ],
   "heures": [
@@ -329,7 +329,7 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 113
+      "nb_diffusions": 119
     },
     {
       "heure": 19,
@@ -565,8 +565,8 @@
     },
     {
       "date": "2026-11-09",
-      "nb_diffusions": 12,
-      "titres_differents": 12
+      "nb_diffusions": 18,
+      "titres_differents": 18
     }
   ],
   "semaine": [
@@ -576,7 +576,7 @@
     },
     {
       "jour": "Lundi",
-      "nb_diffusions": 144
+      "nb_diffusions": 150
     },
     {
       "jour": "Mardi",
@@ -632,9 +632,9 @@
     },
     {
       "artistes": "GIMS",
-      "nb_jours": 25,
-      "nb_diffusions": 36,
-      "minutes": 108.5
+      "nb_jours": 26,
+      "nb_diffusions": 37,
+      "minutes": 111.1
     },
     {
       "artistes": "Gambi",
@@ -697,16 +697,16 @@
       "minutes": 61.0
     },
     {
+      "artistes": "Djaksparo",
+      "nb_jours": 17,
+      "nb_diffusions": 19,
+      "minutes": 38.1
+    },
+    {
       "artistes": "Lil Gianni",
       "nb_jours": 16,
       "nb_diffusions": 21,
       "minutes": 52.5
-    },
-    {
-      "artistes": "Djaksparo",
-      "nb_jours": 16,
-      "nb_diffusions": 18,
-      "minutes": 36.1
     },
     {
       "artistes": "Tame Impala",
@@ -715,10 +715,10 @@
       "minutes": 63.6
     },
     {
-      "artistes": "Bouss",
+      "artistes": "L2B",
       "nb_jours": 14,
-      "nb_diffusions": 16,
-      "minutes": 44.8
+      "nb_diffusions": 20,
+      "minutes": 58.0
     }
   ],
   "titres_recurrents": [
@@ -813,6 +813,12 @@
       "nb_diffusions": 21
     },
     {
+      "artistes": "Djaksparo",
+      "titre": "Pangor (Swalalala)",
+      "nb_jours": 17,
+      "nb_diffusions": 19
+    },
+    {
       "artistes": "Jok'air",
       "titre": "Nouméa",
       "nb_jours": 16,
@@ -829,12 +835,6 @@
       "titre": "NUEVAYoL",
       "nb_jours": 16,
       "nb_diffusions": 19
-    },
-    {
-      "artistes": "Djaksparo",
-      "titre": "Pangor (Swalalala)",
-      "nb_jours": 16,
-      "nb_diffusions": 18
     },
     {
       "artistes": "Tame Impala",
@@ -856,8 +856,8 @@
     },
     {
       "artistes": "GIMS",
-      "nb_titres_differents": 4,
-      "nb_diffusions": 36
+      "nb_titres_differents": 5,
+      "nb_diffusions": 37
     },
     {
       "artistes": "Mauvais djo",
@@ -917,7 +917,7 @@
     {
       "artistes": "L2B",
       "nb_titres_differents": 2,
-      "nb_diffusions": 19
+      "nb_diffusions": 20
     },
     {
       "artistes": "Tame Impala",
@@ -960,11 +960,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 675
+      "nb_diffusions": 679
     },
     {
       "annee": 2025,
-      "nb_diffusions": 123
+      "nb_diffusions": 124
     },
     {
       "annee": 2024,
@@ -996,7 +996,7 @@
     },
     {
       "annee": 2017,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     },
     {
       "annee": 2016,
@@ -1074,11 +1074,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 593
+      "nb": 597
     },
     {
       "type_contenu": "Explicit",
-      "nb": 561
+      "nb": 563
     }
   ],
   "albums": [
@@ -1173,30 +1173,108 @@
       "nb_diffusions": 21
     },
     {
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "artistes": "Bad Bunny",
+      "album": "Pangor (Swalalala)",
+      "artistes": "Djaksparo",
       "nb_diffusions": 19
     },
     {
-      "album": "Pangor (Swalalala)",
-      "artistes": "Djaksparo",
-      "nb_diffusions": 18
+      "album": "DeBÍ TiRAR MáS FOToS",
+      "artistes": "Bad Bunny",
+      "nb_diffusions": 19
     }
   ],
   "dernier_morceau": {
-    "titre": "Bella",
-    "artistes": "DMZ",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2e500a68bf6424f7dd94a53014f4f481/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/78/SKYC.3573273813361278578.2.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/0/0/780b073d6ae403b48a9fe833d5591c9a.mp3?hdnea=exp=1794214737~acl=/api/1/1/7/8/0/0/780b073d6ae403b48a9fe833d5591c9a.mp3*~data=user_id=0,application_id=42~hmac=08c67ec16f76068a972fe6489e2c4395763d97deddcbce99597e7271c046c9ec",
+    "titre": "Pangor (Swalalala)",
+    "artistes": "Djaksparo",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1794252245~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=aeb7cfe155168a275bb7a609ace95be58c834c660f808cdb745c78fa7abab691",
     "date": "2026-11-09",
-    "heure": 8,
-    "album": "Bella",
+    "heure": 18,
+    "album": "Pangor (Swalalala)",
     "annee": 2026,
-    "start_ts": 1794213683,
-    "end_ts": 1794213861
+    "start_ts": 1794250407,
+    "end_ts": 1794250528
   },
   "derniers_morceaux": [
+    {
+      "titre": "Pangor (Swalalala)",
+      "artistes": "Djaksparo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1794252245~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=aeb7cfe155168a275bb7a609ace95be58c834c660f808cdb745c78fa7abab691",
+      "date": "2026-11-09",
+      "heure": 18,
+      "album": "Pangor (Swalalala)",
+      "annee": 2026,
+      "start_ts": 1794250407,
+      "end_ts": 1794250528
+    },
+    {
+      "titre": "Wetin Day",
+      "artistes": "Zed",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a07fcb09e6597331fe4d23d1e9e0b4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/93/SKYC.5347151068534367293.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/4/0/f242762aa397a0327a1dadf74e1195af.mp3?hdnea=exp=1794252246~acl=/api/1/1/f/2/4/0/f242762aa397a0327a1dadf74e1195af.mp3*~data=user_id=0,application_id=42~hmac=18b6ff3d51a661fe3c77c6a0ed99f7547fefc913bbdf586c55a1eb5c35f29b86",
+      "date": "2026-11-09",
+      "heure": 18,
+      "album": "Wetin Day",
+      "annee": 2026,
+      "start_ts": 1794250107,
+      "end_ts": 1794250239
+    },
+    {
+      "titre": "BABY",
+      "artistes": "GIMS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/8469f2d480876a98532d0e9ee5c68364/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/54/SKYC.6154967045722614654.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/a/0/8ca5311bb5b29700bc6895d3c16044c3.mp3?hdnea=exp=1794252247~acl=/api/1/1/8/c/a/0/8ca5311bb5b29700bc6895d3c16044c3.mp3*~data=user_id=0,application_id=42~hmac=50516471b0b44cbd46934c5a86715de8571a3faea2b7b4229f7956ee47ef81ef",
+      "date": "2026-11-09",
+      "heure": 18,
+      "album": "BABY",
+      "annee": 2025,
+      "start_ts": 1794249952,
+      "end_ts": 1794250108
+    },
+    {
+      "titre": "CYBERTESLA",
+      "artistes": "L2B",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1794252248~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=7fe108af4b2c29f20f37c7847920fc3652c86ab23ab1e2a353aca6f44d80e8f7",
+      "date": "2026-11-09",
+      "heure": 18,
+      "album": "CYBERTESLA",
+      "annee": 2026,
+      "start_ts": 1794249783,
+      "end_ts": 1794249956
+    },
+    {
+      "titre": "Rendez-vous professionnels",
+      "artistes": "Assimil",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ac53b3abae55378acdaca64a73b22ca8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/8/0/c585609a4ea2d89ebf374108efe3450c.mp3?hdnea=exp=1794252249~acl=/api/1/1/c/5/8/0/c585609a4ea2d89ebf374108efe3450c.mp3*~data=user_id=0,application_id=42~hmac=952a1bb3be3f78a03d59fbaf96f907b3f7194cd42bde4b2280642da8d25ac90a",
+      "date": "2026-11-09",
+      "heure": 18,
+      "album": "Guide de conversation Anglais",
+      "annee": 2017,
+      "start_ts": 1794249622,
+      "end_ts": 1794249773
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1794252250~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=dcdb22260bf112ab2e753604cb0466817a58c60600f7c63838421b36e408c4bd",
+      "date": "2026-11-09",
+      "heure": 18,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1794249445,
+      "end_ts": 1794249622
+    },
     {
       "titre": "Bella",
       "artistes": "DMZ",
@@ -1248,84 +1326,6 @@
       "annee": 2024,
       "start_ts": 1794213178,
       "end_ts": 1794213324
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-09",
-      "heure": 8,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794212286,
-      "end_ts": 1794212467
-    },
-    {
-      "titre": "Maladie",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-09",
-      "heure": 8,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794211892,
-      "end_ts": 1794212013
-    },
-    {
-      "titre": "Finesse",
-      "artistes": "Pheelz",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/3cd08785ca6d2a471c70f774fc3e9b8c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/28/SKYC.3420707466942015728.6.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/d/0/afd5df054552ee5c17bfbccf910d8e45.mp3?hdnea=exp=1794190117~acl=/api/1/1/a/f/d/0/afd5df054552ee5c17bfbccf910d8e45.mp3*~data=user_id=0,application_id=42~hmac=5f96e428621809d71b781de26cf20e9d69b68ef4403a4405bfff83b1f3481cb8",
-      "date": "2026-11-09",
-      "heure": 1,
-      "album": "Finesse",
-      "annee": 2022,
-      "start_ts": 1794189080,
-      "end_ts": 1794189230
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1794190118~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=dae84ace7156476428b83bba21209fd4625df0f7e28cc13031d3f56fcf630e22",
-      "date": "2026-11-09",
-      "heure": 1,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1794188914,
-      "end_ts": 1794189080
-    },
-    {
-      "titre": "My Salsa",
-      "artistes": "Franglish",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7f7a10f010ecfc428ea881311c97d3dd/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/65/SKYC.2481334945075978665.10.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/1/0/bb132540c76c6977e5054a798dba9169.mp3?hdnea=exp=1794190119~acl=/api/1/1/b/b/1/0/bb132540c76c6977e5054a798dba9169.mp3*~data=user_id=0,application_id=42~hmac=54a91b56392e972bae45ed54d15e72d235140a7900f58187eae9e940666f4750",
-      "date": "2026-11-09",
-      "heure": 1,
-      "album": "Mood",
-      "annee": 2020,
-      "start_ts": 1794188572,
-      "end_ts": 1794188776
-    },
-    {
-      "titre": "Billie Jean",
-      "artistes": "Chris Cornell",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1794190121~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=fb2c8676502baf5476a900543f38572b522bd93dc58f0850fb252d9273b76e11",
-      "date": "2026-11-09",
-      "heure": 1,
-      "album": "Chris Cornell (Deluxe Edition)",
-      "annee": 2018,
-      "start_ts": 1794188290,
-      "end_ts": 1794188576
     }
   ]
 }
