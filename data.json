@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-08T22:33:05.788114",
-  "genere_ts": 1794177185,
+  "genere_le": "2026-11-09T01:53:44.889127",
+  "genere_ts": 1794189224,
   "volume": {
-    "nb_diffusions": 1146,
-    "nb_artistes": 219,
-    "nb_titres": 247,
+    "nb_diffusions": 1152,
+    "nb_artistes": 221,
+    "nb_titres": 249,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-11-08",
-    "heures_antenne": 55.91,
-    "duree_moy_s": 175.6
+    "derniere_date": "2026-11-09",
+    "heures_antenne": 56.25,
+    "duree_moy_s": 175.8
   },
   "top_artistes": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 48,
+      "nb_diffusions": 49,
       "titres_differents": 1,
-      "minutes_antenne": 132.8
+      "minutes_antenne": 135.6
     },
     {
       "artistes": "Leto",
@@ -136,8 +136,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 48,
-      "minutes_antenne": 132.8
+      "nb_diffusions": 49,
+      "minutes_antenne": 135.6
     },
     {
       "artistes": "Leto",
@@ -261,7 +261,7 @@
     },
     {
       "heure": 1,
-      "nb_diffusions": 89
+      "nb_diffusions": 95
     },
     {
       "heure": 2,
@@ -562,6 +562,11 @@
       "date": "2026-11-08",
       "nb_diffusions": 30,
       "titres_differents": 27
+    },
+    {
+      "date": "2026-11-09",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -571,7 +576,7 @@
     },
     {
       "jour": "Lundi",
-      "nb_diffusions": 132
+      "nb_diffusions": 138
     },
     {
       "jour": "Mardi",
@@ -603,9 +608,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_jours": 30,
-      "nb_diffusions": 48,
-      "minutes": 132.8
+      "nb_jours": 31,
+      "nb_diffusions": 49,
+      "minutes": 135.6
     },
     {
       "artistes": "Leto",
@@ -720,8 +725,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_jours": 30,
-      "nb_diffusions": 48
+      "nb_jours": 31,
+      "nb_diffusions": 49
     },
     {
       "artistes": "Leto",
@@ -955,7 +960,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 670
+      "nb_diffusions": 673
     },
     {
       "annee": 2025,
@@ -971,7 +976,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 82
+      "nb_diffusions": 83
     },
     {
       "annee": 2021,
@@ -979,7 +984,7 @@
     },
     {
       "annee": 2020,
-      "nb_diffusions": 11
+      "nb_diffusions": 12
     },
     {
       "annee": 2019,
@@ -987,7 +992,7 @@
     },
     {
       "annee": 2018,
-      "nb_diffusions": 23
+      "nb_diffusions": 24
     },
     {
       "annee": 2017,
@@ -1069,11 +1074,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 586
+      "nb": 590
     },
     {
       "type_contenu": "Explicit",
-      "nb": 558
+      "nb": 560
     }
   ],
   "albums": [
@@ -1085,7 +1090,7 @@
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 48
+      "nb_diffusions": 49
     },
     {
       "album": "Sicario",
@@ -1179,19 +1184,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Wetin Day",
-    "artistes": "Zed",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a07fcb09e6597331fe4d23d1e9e0b4/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/93/SKYC.5347151068534367293.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/4/0/f242762aa397a0327a1dadf74e1195af.mp3?hdnea=exp=1794178080~acl=/api/1/1/f/2/4/0/f242762aa397a0327a1dadf74e1195af.mp3*~data=user_id=0,application_id=42~hmac=0927724dc419b81fcbc98e5f047d97fecbe2c52b1dcbbffa1efe0f627f9015a0",
-    "date": "2026-11-08",
-    "heure": 22,
-    "album": "Wetin Day",
-    "annee": 2026,
-    "start_ts": 1794176827,
-    "end_ts": 1794176959
+    "titre": "Finesse",
+    "artistes": "Pheelz",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/3cd08785ca6d2a471c70f774fc3e9b8c/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/28/SKYC.3420707466942015728.6.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/d/0/afd5df054552ee5c17bfbccf910d8e45.mp3?hdnea=exp=1794190117~acl=/api/1/1/a/f/d/0/afd5df054552ee5c17bfbccf910d8e45.mp3*~data=user_id=0,application_id=42~hmac=5f96e428621809d71b781de26cf20e9d69b68ef4403a4405bfff83b1f3481cb8",
+    "date": "2026-11-09",
+    "heure": 1,
+    "album": "Finesse",
+    "annee": 2022,
+    "start_ts": 1794189080,
+    "end_ts": 1794189230
   },
   "derniers_morceaux": [
+    {
+      "titre": "Finesse",
+      "artistes": "Pheelz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/3cd08785ca6d2a471c70f774fc3e9b8c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/28/SKYC.3420707466942015728.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/d/0/afd5df054552ee5c17bfbccf910d8e45.mp3?hdnea=exp=1794190117~acl=/api/1/1/a/f/d/0/afd5df054552ee5c17bfbccf910d8e45.mp3*~data=user_id=0,application_id=42~hmac=5f96e428621809d71b781de26cf20e9d69b68ef4403a4405bfff83b1f3481cb8",
+      "date": "2026-11-09",
+      "heure": 1,
+      "album": "Finesse",
+      "annee": 2022,
+      "start_ts": 1794189080,
+      "end_ts": 1794189230
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1794190118~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=dae84ace7156476428b83bba21209fd4625df0f7e28cc13031d3f56fcf630e22",
+      "date": "2026-11-09",
+      "heure": 1,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1794188914,
+      "end_ts": 1794189080
+    },
+    {
+      "titre": "My Salsa",
+      "artistes": "Franglish",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7f7a10f010ecfc428ea881311c97d3dd/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/65/SKYC.2481334945075978665.10.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/1/0/bb132540c76c6977e5054a798dba9169.mp3?hdnea=exp=1794190119~acl=/api/1/1/b/b/1/0/bb132540c76c6977e5054a798dba9169.mp3*~data=user_id=0,application_id=42~hmac=54a91b56392e972bae45ed54d15e72d235140a7900f58187eae9e940666f4750",
+      "date": "2026-11-09",
+      "heure": 1,
+      "album": "Mood",
+      "annee": 2020,
+      "start_ts": 1794188572,
+      "end_ts": 1794188776
+    },
+    {
+      "titre": "Billie Jean",
+      "artistes": "Chris Cornell",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1794190121~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=fb2c8676502baf5476a900543f38572b522bd93dc58f0850fb252d9273b76e11",
+      "date": "2026-11-09",
+      "heure": 1,
+      "album": "Chris Cornell (Deluxe Edition)",
+      "annee": 2018,
+      "start_ts": 1794188290,
+      "end_ts": 1794188576
+    },
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1794190122~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=e8028d1a9dbe245df2467e1ddd6c4b4370d98361aa6d8244986e3897a00e2edc",
+      "date": "2026-11-09",
+      "heure": 1,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1794188098,
+      "end_ts": 1794188303
+    },
+    {
+      "titre": "Housewife",
+      "artistes": "Tate McRae",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1794190123~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=2a923995b49d91bbeb3ba3884297031dd89ea39905e22c289405f8f530d7969f",
+      "date": "2026-11-09",
+      "heure": 1,
+      "album": "Housewife",
+      "annee": 2026,
+      "start_ts": 1794187898,
+      "end_ts": 1794188103
+    },
     {
       "titre": "Wetin Day",
       "artistes": "Zed",
@@ -1243,84 +1326,6 @@
       "annee": 2023,
       "start_ts": 1794171804,
       "end_ts": 1794171985
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1794178083~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=c8ff8ad106263ba025cd1cdd3335479ea3fb0d11edf354ecc8e6facb0fa6a563",
-      "date": "2026-11-08",
-      "heure": 20,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1794170008,
-      "end_ts": 1794170174
-    },
-    {
-      "titre": "Mr. Know It All",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1100245519751421784.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-08",
-      "heure": 19,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794167791,
-      "end_ts": 1794167942
-    },
-    {
-      "titre": "Black & Yellow",
-      "artistes": "Josh Vietti",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c099b7f32418701622a64bb7f21475ad/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/82/SKYC.8773478173313753182.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/6/0/eb662aa6d4d5f6818f440191d925f5a4.mp3?hdnea=exp=1794164982~acl=/api/1/1/e/b/6/0/eb662aa6d4d5f6818f440191d925f5a4.mp3*~data=user_id=0,application_id=42~hmac=429c71fcfca45cad17408cbfa9ea4dd13b68ad6a44a09e3cccd81b94c75f20e1",
-      "date": "2026-11-08",
-      "heure": 18,
-      "album": "Best of Both Worlds",
-      "annee": 2012,
-      "start_ts": 1794163958,
-      "end_ts": 1794164174
-    },
-    {
-      "titre": "On Se Connait",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/71/SKYC.1779884229391438871.6.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-08",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794163829,
-      "end_ts": 1794163951
-    },
-    {
-      "titre": "Try again - Inédit",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.2881339760847000417.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-08",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794163321,
-      "end_ts": 1794163598
-    },
-    {
-      "titre": "Un monde parfait (feat. Janik)",
-      "artistes": "Ärsenik",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/14a2e5998aa1ca5e6457cc51818d0277/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/01/SKYC.3407621877779124501.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/2/0/912c6dd9f95a779030cbdcfcab8c4874.mp3?hdnea=exp=1794164984~acl=/api/1/1/9/1/2/0/912c6dd9f95a779030cbdcfcab8c4874.mp3*~data=user_id=0,application_id=42~hmac=e5ac524ac65ecbafabfa98a83bafed4c2ef984c808fe7f35f269b34262a41ee7",
-      "date": "2026-11-08",
-      "heure": 18,
-      "album": "Quelques gouttes suffisent",
-      "annee": 1998,
-      "start_ts": 1794163006,
-      "end_ts": 1794163328
     }
   ]
 }
