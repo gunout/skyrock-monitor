@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-10T09:20:28.556636",
-  "genere_ts": 1794302428,
+  "genere_le": "2026-11-10T17:08:20.214426",
+  "genere_ts": 1794330500,
   "volume": {
-    "nb_diffusions": 1174,
-    "nb_artistes": 224,
-    "nb_titres": 255,
+    "nb_diffusions": 1180,
+    "nb_artistes": 225,
+    "nb_titres": 256,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-10",
-    "heures_antenne": 57.27,
-    "duree_moy_s": 175.6
+    "heures_antenne": 57.58,
+    "duree_moy_s": 175.7
   },
   "top_artistes": [
     {
@@ -19,9 +19,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 50,
+      "nb_diffusions": 51,
       "titres_differents": 1,
-      "minutes_antenne": 138.3
+      "minutes_antenne": 141.1
     },
     {
       "artistes": "KAROL G",
@@ -67,9 +67,9 @@
     },
     {
       "artistes": "Rusky",
-      "nb_diffusions": 30,
+      "nb_diffusions": 31,
       "titres_differents": 1,
-      "minutes_antenne": 76.0
+      "minutes_antenne": 78.5
     },
     {
       "artistes": "PLK",
@@ -136,8 +136,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 50,
-      "minutes_antenne": 138.3
+      "nb_diffusions": 51,
+      "minutes_antenne": 141.1
     },
     {
       "artistes": "Leto",
@@ -178,8 +178,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 30,
-      "minutes_antenne": 76.0
+      "nb_diffusions": 31,
+      "minutes_antenne": 78.5
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -321,11 +321,11 @@
     },
     {
       "heure": 16,
-      "nb_diffusions": 52
+      "nb_diffusions": 56
     },
     {
       "heure": 17,
-      "nb_diffusions": 94
+      "nb_diffusions": 96
     },
     {
       "heure": 18,
@@ -570,8 +570,8 @@
     },
     {
       "date": "2026-11-10",
-      "nb_diffusions": 12,
-      "titres_differents": 11
+      "nb_diffusions": 18,
+      "titres_differents": 15
     }
   ],
   "semaine": [
@@ -585,7 +585,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 250
+      "nb_diffusions": 256
     },
     {
       "jour": "Mercredi",
@@ -614,8 +614,8 @@
     {
       "artistes": "Vacra",
       "nb_jours": 32,
-      "nb_diffusions": 50,
-      "minutes": 138.3
+      "nb_diffusions": 51,
+      "minutes": 141.1
     },
     {
       "artistes": "Leto",
@@ -667,9 +667,9 @@
     },
     {
       "artistes": "Rusky",
-      "nb_jours": 20,
-      "nb_diffusions": 30,
-      "minutes": 76.0
+      "nb_jours": 21,
+      "nb_diffusions": 31,
+      "minutes": 78.5
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -731,7 +731,7 @@
       "artistes": "Vacra",
       "titre": "Fille à Papa",
       "nb_jours": 32,
-      "nb_diffusions": 50
+      "nb_diffusions": 51
     },
     {
       "artistes": "Leto",
@@ -778,8 +778,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_jours": 20,
-      "nb_diffusions": 30
+      "nb_jours": 21,
+      "nb_diffusions": 31
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -857,7 +857,7 @@
     {
       "artistes": "The Weeknd",
       "nb_titres_differents": 6,
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "artistes": "GIMS",
@@ -965,7 +965,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 686
+      "nb_diffusions": 689
     },
     {
       "annee": 2025,
@@ -973,11 +973,11 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 81
+      "nb_diffusions": 82
     },
     {
       "annee": 2023,
-      "nb_diffusions": 38
+      "nb_diffusions": 39
     },
     {
       "annee": 2022,
@@ -1041,7 +1041,7 @@
     },
     {
       "annee": 2006,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     },
     {
       "annee": 2004,
@@ -1079,18 +1079,18 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 602
+      "nb": 606
     },
     {
       "type_contenu": "Explicit",
-      "nb": 570
+      "nb": 572
     }
   ],
   "albums": [
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 50
+      "nb_diffusions": 51
     },
     {
       "album": "Pineapple",
@@ -1125,7 +1125,7 @@
     {
       "album": "SEXY NANA (Radio Edit)",
       "artistes": "Rusky",
-      "nb_diffusions": 30
+      "nb_diffusions": 31
     },
     {
       "album": "La petasse",
@@ -1189,19 +1189,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Mélo Décalé",
-    "artistes": "Tiakola",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1794303322~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=44a6521e430f8d72a7b4c742070d31f9a96229aa187a9146bc6096bca0244cca",
+    "titre": "Housewife",
+    "artistes": "Tate McRae",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1794331394~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=acafaa73db65d9befef7ab458d800dfd7f8a25599225f8ca0208af1e9cd899d4",
     "date": "2026-11-10",
-    "heure": 9,
-    "album": "Mélo Décalé",
+    "heure": 17,
+    "album": "Housewife",
     "annee": 2026,
-    "start_ts": 1794302354,
-    "end_ts": 1794302505
+    "start_ts": 1794330355,
+    "end_ts": 1794330560
   },
   "derniers_morceaux": [
+    {
+      "titre": "Housewife",
+      "artistes": "Tate McRae",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1794331394~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=acafaa73db65d9befef7ab458d800dfd7f8a25599225f8ca0208af1e9cd899d4",
+      "date": "2026-11-10",
+      "heure": 17,
+      "album": "Housewife",
+      "annee": 2026,
+      "start_ts": 1794330355,
+      "end_ts": 1794330560
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1794331395~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=a8f062d365ce245b021dc362b64060de37aef4d2f9382fa0216c8fbadfac6f05",
+      "date": "2026-11-10",
+      "heure": 17,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1794330189,
+      "end_ts": 1794330355
+    },
+    {
+      "titre": "Family Affair",
+      "artistes": "Mary J. Blige",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a3939a5b62df412e83d898dfd85035c9/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/35/SKYC.2891162138642765435.17.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/7/0/ea74dbeba11d7b55877202a62502aa3e.mp3?hdnea=exp=1794331396~acl=/api/1/1/e/a/7/0/ea74dbeba11d7b55877202a62502aa3e.mp3*~data=user_id=0,application_id=42~hmac=0383541e3884d32339cddb2fb77b4388cc5f1eb064460670163822882cb5580f",
+      "date": "2026-11-10",
+      "heure": 16,
+      "album": "Reflections - A Retrospective",
+      "annee": 2006,
+      "start_ts": 1794329889,
+      "end_ts": 1794330147
+    },
+    {
+      "titre": "Dégun",
+      "artistes": "BARA8!",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5424c2d09ecc19e0b73b686149db2837/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/7/5/0/c75883f2bb8b44db08c8fe000a859442.mp3?hdnea=exp=1794331397~acl=/api/1/1/c/7/5/0/c75883f2bb8b44db08c8fe000a859442.mp3*~data=user_id=0,application_id=42~hmac=80760e0c208f11e3bafcb69cbbec484fb0b91c1d2080606cd01fee8f7116efad",
+      "date": "2026-11-10",
+      "heure": 16,
+      "album": "Dégun",
+      "annee": 2023,
+      "start_ts": 1794329586,
+      "end_ts": 1794329707
+    },
+    {
+      "titre": "Dancing In The Flames (Acapella)",
+      "artistes": "The Weeknd",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6854a01c51b451bb836cf62afd75c0f2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.3643349027087007051.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/3/0/623030aed85a7057abeeb9123c780d1b.mp3?hdnea=exp=1794331398~acl=/api/1/1/6/2/3/0/623030aed85a7057abeeb9123c780d1b.mp3*~data=user_id=0,application_id=42~hmac=613799a38a807722875b1a93f21ad5c69c4e651a524b344b2ac35debae94faef",
+      "date": "2026-11-10",
+      "heure": 16,
+      "album": "Dancing In The Flames",
+      "annee": 2024,
+      "start_ts": 1794329063,
+      "end_ts": 1794329258
+    },
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1794331399~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=91a61f628670e240b94c50ab8c8fd0ee223f23c922f50c05e2535f62530a1932",
+      "date": "2026-11-10",
+      "heure": 16,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1794328910,
+      "end_ts": 1794329062
+    },
     {
       "titre": "Mélo Décalé",
       "artistes": "Tiakola",
@@ -1253,84 +1331,6 @@
       "annee": 2024,
       "start_ts": 1794301596,
       "end_ts": 1794301742
-    },
-    {
-      "titre": "Housewife",
-      "artistes": "Tate McRae",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1794303326~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=0155678f713d23a15a024dcba1ad6ccecd63594298ad5a2a4ba09698f34046d4",
-      "date": "2026-11-10",
-      "heure": 9,
-      "album": "Housewife",
-      "annee": 2026,
-      "start_ts": 1794301389,
-      "end_ts": 1794301594
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1794303327~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=023e16def45ba873d23158f835794e1f6aa6e99a934fc8739a3acc01f4197d0d",
-      "date": "2026-11-10",
-      "heure": 9,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1794301218,
-      "end_ts": 1794301384
-    },
-    {
-      "titre": "BRACELET",
-      "artistes": "ASHE 22",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e5b5dd3f343248bc46244b754ec59f4c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.5787994376877845642.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3?hdnea=exp=1794276913~acl=/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3*~data=user_id=0,application_id=42~hmac=b5da1d684f83d60545b8291db6a849d4edfcebac368eace5e61522b19e8b8fb2",
-      "date": "2026-11-10",
-      "heure": 1,
-      "album": "MOVIE TAPE",
-      "annee": 2024,
-      "start_ts": 1794275978,
-      "end_ts": 1794276145
-    },
-    {
-      "titre": "Chaussures Roses",
-      "artistes": "TeddyBear",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/02a449ca102112cc7526ac14fc4c7a34/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3315345366449998416.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3?hdnea=exp=1794276914~acl=/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3*~data=user_id=0,application_id=42~hmac=72cbaffa7c6ec006b3e443ee3e4e17581f4c3655f2c51be6c5b35a0da32841a9",
-      "date": "2026-11-10",
-      "heure": 1,
-      "album": "Le Plus Beau",
-      "annee": 2026,
-      "start_ts": 1794275786,
-      "end_ts": 1794275980
-    },
-    {
-      "titre": "CYBERTESLA",
-      "artistes": "L2B",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1794276915~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=21cf7de7ce5e302da7c4b07a9619c7f8a6df08674a6e68b8d28b6c61ba157bd4",
-      "date": "2026-11-10",
-      "heure": 1,
-      "album": "CYBERTESLA",
-      "annee": 2026,
-      "start_ts": 1794275611,
-      "end_ts": 1794275784
-    },
-    {
-      "titre": "One Love",
-      "artistes": "Skip Marley",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/27098a34e5abbb8ea065263f615868e4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/23/SKYC.7310237038184077023.5.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/7/0/2074be4bc7cb33094b318b2b9be61b82.mp3?hdnea=exp=1794276916~acl=/api/1/1/2/0/7/0/2074be4bc7cb33094b318b2b9be61b82.mp3*~data=user_id=0,application_id=42~hmac=e4b589a9e1627ed02c97e4c64ab8d270893dee8d78a9236c430c1a1f5f3d5b00",
-      "date": "2026-11-10",
-      "heure": 1,
-      "album": "One Love",
-      "annee": 2026,
-      "start_ts": 1794275439,
-      "end_ts": 1794275605
     }
   ]
 }
