@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-09T19:09:12.082033",
-  "genere_ts": 1794251352,
+  "genere_le": "2026-11-10T02:00:20.256432",
+  "genere_ts": 1794276020,
   "volume": {
-    "nb_diffusions": 1162,
-    "nb_artistes": 222,
-    "nb_titres": 251,
+    "nb_diffusions": 1168,
+    "nb_artistes": 224,
+    "nb_titres": 253,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-11-09",
-    "heures_antenne": 56.69,
-    "duree_moy_s": 175.6
+    "derniere_date": "2026-11-10",
+    "heures_antenne": 56.99,
+    "duree_moy_s": 175.7
   },
   "top_artistes": [
     {
@@ -91,9 +91,9 @@
     },
     {
       "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 27,
+      "nb_diffusions": 28,
       "titres_differents": 1,
-      "minutes_antenne": 65.7
+      "minutes_antenne": 68.1
     },
     {
       "artistes": "Tame Impala",
@@ -108,6 +108,12 @@
       "minutes_antenne": 61.0
     },
     {
+      "artistes": "L2B",
+      "nb_diffusions": 21,
+      "titres_differents": 2,
+      "minutes_antenne": 60.9
+    },
+    {
       "artistes": "Mauvais djo",
       "nb_diffusions": 30,
       "titres_differents": 4,
@@ -118,12 +124,6 @@
       "nb_diffusions": 16,
       "titres_differents": 1,
       "minutes_antenne": 58.1
-    },
-    {
-      "artistes": "L2B",
-      "nb_diffusions": 20,
-      "titres_differents": 2,
-      "minutes_antenne": 58.0
     },
     {
       "artistes": "Aya Nakamura",
@@ -182,16 +182,16 @@
       "minutes_antenne": 76.0
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_diffusions": 28,
+      "minutes_antenne": 68.1
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_diffusions": 28,
       "minutes_antenne": 75.6
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
-      "nb_diffusions": 27,
-      "minutes_antenne": 65.7
     },
     {
       "artistes": "Jok'air",
@@ -242,16 +242,16 @@
       "minutes_antenne": 50.6
     },
     {
+      "artistes": "L2B",
+      "titre": "CYBERTESLA",
+      "nb_diffusions": 20,
+      "minutes_antenne": 57.9
+    },
+    {
       "artistes": "Bad Bunny",
       "titre": "NUEVAYoL",
       "nb_diffusions": 19,
       "minutes_antenne": 57.6
-    },
-    {
-      "artistes": "Djaksparo",
-      "titre": "Pangor (Swalalala)",
-      "nb_diffusions": 19,
-      "minutes_antenne": 38.1
     }
   ],
   "heures": [
@@ -261,7 +261,7 @@
     },
     {
       "heure": 1,
-      "nb_diffusions": 95
+      "nb_diffusions": 101
     },
     {
       "heure": 2,
@@ -567,6 +567,11 @@
       "date": "2026-11-09",
       "nb_diffusions": 18,
       "titres_differents": 18
+    },
+    {
+      "date": "2026-11-10",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -580,7 +585,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 238
+      "nb_diffusions": 244
     },
     {
       "jour": "Mercredi",
@@ -668,9 +673,9 @@
     },
     {
       "artistes": "DJ Jordan MasterBoy",
-      "nb_jours": 19,
-      "nb_diffusions": 27,
-      "minutes": 65.7
+      "nb_jours": 20,
+      "nb_diffusions": 28,
+      "minutes": 68.1
     },
     {
       "artistes": "Niska",
@@ -709,16 +714,16 @@
       "minutes": 52.5
     },
     {
+      "artistes": "L2B",
+      "nb_jours": 15,
+      "nb_diffusions": 21,
+      "minutes": 60.9
+    },
+    {
       "artistes": "Tame Impala",
       "nb_jours": 15,
       "nb_diffusions": 19,
       "minutes": 63.6
-    },
-    {
-      "artistes": "L2B",
-      "nb_jours": 14,
-      "nb_diffusions": 20,
-      "minutes": 58.0
     }
   ],
   "titres_recurrents": [
@@ -777,16 +782,16 @@
       "nb_diffusions": 30
     },
     {
+      "artistes": "DJ Jordan MasterBoy",
+      "titre": "La petasse",
+      "nb_jours": 20,
+      "nb_diffusions": 28
+    },
+    {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
       "nb_jours": 20,
       "nb_diffusions": 22
-    },
-    {
-      "artistes": "DJ Jordan MasterBoy",
-      "titre": "La petasse",
-      "nb_jours": 19,
-      "nb_diffusions": 27
     },
     {
       "artistes": "Niska",
@@ -837,10 +842,10 @@
       "nb_diffusions": 19
     },
     {
-      "artistes": "Tame Impala",
-      "titre": "Dracula (with JENNIE)",
+      "artistes": "L2B",
+      "titre": "CYBERTESLA",
       "nb_jours": 14,
-      "nb_diffusions": 18
+      "nb_diffusions": 20
     }
   ],
   "diversifies": [
@@ -910,12 +915,12 @@
       "nb_diffusions": 21
     },
     {
-      "artistes": "Bad Bunny",
+      "artistes": "L2B",
       "nb_titres_differents": 2,
-      "nb_diffusions": 20
+      "nb_diffusions": 21
     },
     {
-      "artistes": "L2B",
+      "artistes": "Bad Bunny",
       "nb_titres_differents": 2,
       "nb_diffusions": 20
     },
@@ -960,7 +965,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 679
+      "nb_diffusions": 682
     },
     {
       "annee": 2025,
@@ -968,7 +973,7 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 77
+      "nb_diffusions": 79
     },
     {
       "annee": 2023,
@@ -980,7 +985,7 @@
     },
     {
       "annee": 2021,
-      "nb_diffusions": 15
+      "nb_diffusions": 16
     },
     {
       "annee": 2020,
@@ -1074,11 +1079,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 597
+      "nb": 600
     },
     {
       "type_contenu": "Explicit",
-      "nb": 563
+      "nb": 566
     }
   ],
   "albums": [
@@ -1123,14 +1128,14 @@
       "nb_diffusions": 30
     },
     {
-      "album": "Grand Garçon",
-      "artistes": "PLK",
+      "album": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 28
     },
     {
-      "album": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "nb_diffusions": 27
+      "album": "Grand Garçon",
+      "artistes": "PLK",
+      "nb_diffusions": 28
     },
     {
       "album": "Nouméa",
@@ -1173,30 +1178,108 @@
       "nb_diffusions": 21
     },
     {
-      "album": "Pangor (Swalalala)",
-      "artistes": "Djaksparo",
-      "nb_diffusions": 19
+      "album": "CYBERTESLA",
+      "artistes": "L2B",
+      "nb_diffusions": 20
     },
     {
-      "album": "DeBÍ TiRAR MáS FOToS",
-      "artistes": "Bad Bunny",
+      "album": "Pangor (Swalalala)",
+      "artistes": "Djaksparo",
       "nb_diffusions": 19
     }
   ],
   "dernier_morceau": {
-    "titre": "Pangor (Swalalala)",
-    "artistes": "Djaksparo",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2f429adde6fafa4c76351a6751ca47ab/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.4478226379223205345.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3?hdnea=exp=1794252245~acl=/api/1/1/2/3/f/0/23f85363cebb394ea44367695d904429.mp3*~data=user_id=0,application_id=42~hmac=aeb7cfe155168a275bb7a609ace95be58c834c660f808cdb745c78fa7abab691",
-    "date": "2026-11-09",
-    "heure": 18,
-    "album": "Pangor (Swalalala)",
-    "annee": 2026,
-    "start_ts": 1794250407,
-    "end_ts": 1794250528
+    "titre": "BRACELET",
+    "artistes": "ASHE 22",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e5b5dd3f343248bc46244b754ec59f4c/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.5787994376877845642.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3?hdnea=exp=1794276913~acl=/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3*~data=user_id=0,application_id=42~hmac=b5da1d684f83d60545b8291db6a849d4edfcebac368eace5e61522b19e8b8fb2",
+    "date": "2026-11-10",
+    "heure": 1,
+    "album": "MOVIE TAPE",
+    "annee": 2024,
+    "start_ts": 1794275978,
+    "end_ts": 1794276145
   },
   "derniers_morceaux": [
+    {
+      "titre": "BRACELET",
+      "artistes": "ASHE 22",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e5b5dd3f343248bc46244b754ec59f4c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.5787994376877845642.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3?hdnea=exp=1794276913~acl=/api/1/1/2/e/3/0/2e3295e8cb615698193971b0cdf07ca7.mp3*~data=user_id=0,application_id=42~hmac=b5da1d684f83d60545b8291db6a849d4edfcebac368eace5e61522b19e8b8fb2",
+      "date": "2026-11-10",
+      "heure": 1,
+      "album": "MOVIE TAPE",
+      "annee": 2024,
+      "start_ts": 1794275978,
+      "end_ts": 1794276145
+    },
+    {
+      "titre": "Chaussures Roses",
+      "artistes": "TeddyBear",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/02a449ca102112cc7526ac14fc4c7a34/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3315345366449998416.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3?hdnea=exp=1794276914~acl=/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3*~data=user_id=0,application_id=42~hmac=72cbaffa7c6ec006b3e443ee3e4e17581f4c3655f2c51be6c5b35a0da32841a9",
+      "date": "2026-11-10",
+      "heure": 1,
+      "album": "Le Plus Beau",
+      "annee": 2026,
+      "start_ts": 1794275786,
+      "end_ts": 1794275980
+    },
+    {
+      "titre": "CYBERTESLA",
+      "artistes": "L2B",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1794276915~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=21cf7de7ce5e302da7c4b07a9619c7f8a6df08674a6e68b8d28b6c61ba157bd4",
+      "date": "2026-11-10",
+      "heure": 1,
+      "album": "CYBERTESLA",
+      "annee": 2026,
+      "start_ts": 1794275611,
+      "end_ts": 1794275784
+    },
+    {
+      "titre": "One Love",
+      "artistes": "Skip Marley",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/27098a34e5abbb8ea065263f615868e4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/23/SKYC.7310237038184077023.5.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/7/0/2074be4bc7cb33094b318b2b9be61b82.mp3?hdnea=exp=1794276916~acl=/api/1/1/2/0/7/0/2074be4bc7cb33094b318b2b9be61b82.mp3*~data=user_id=0,application_id=42~hmac=e4b589a9e1627ed02c97e4c64ab8d270893dee8d78a9236c430c1a1f5f3d5b00",
+      "date": "2026-11-10",
+      "heure": 1,
+      "album": "One Love",
+      "annee": 2026,
+      "start_ts": 1794275439,
+      "end_ts": 1794275605
+    },
+    {
+      "titre": "La petasse",
+      "artistes": "DJ Jordan MasterBoy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1794276917~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=37e09994f9e76a7b0db6b095a95b87fbe473a22dbfbb7f42f9ac4d2932da91dc",
+      "date": "2026-11-10",
+      "heure": 1,
+      "album": "La petasse",
+      "annee": 2024,
+      "start_ts": 1794275289,
+      "end_ts": 1794275435
+    },
+    {
+      "titre": "Ramenez la coupe à la maison (16-Bit Vegedream Emulation)",
+      "artistes": "Arcade Player",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/380d1fb0fbdadc11ba74a1050f1c6975/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.7437138409018293617.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/4/0/6349b9d712b01975b23110a20104408d.mp3?hdnea=exp=1794276918~acl=/api/1/1/6/3/4/0/6349b9d712b01975b23110a20104408d.mp3*~data=user_id=0,application_id=42~hmac=4cc1165d2c33cf6888534df3ab8bed3b355e7310ee2e5bdca98645e1e7f29876",
+      "date": "2026-11-10",
+      "heure": 1,
+      "album": "The Impossible Game Soundtrack, Vol. 66",
+      "annee": 2021,
+      "start_ts": 1794274916,
+      "end_ts": 1794275148
+    },
     {
       "titre": "Pangor (Swalalala)",
       "artistes": "Djaksparo",
@@ -1248,84 +1331,6 @@
       "annee": 2026,
       "start_ts": 1794249783,
       "end_ts": 1794249956
-    },
-    {
-      "titre": "Rendez-vous professionnels",
-      "artistes": "Assimil",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ac53b3abae55378acdaca64a73b22ca8/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/8/0/c585609a4ea2d89ebf374108efe3450c.mp3?hdnea=exp=1794252249~acl=/api/1/1/c/5/8/0/c585609a4ea2d89ebf374108efe3450c.mp3*~data=user_id=0,application_id=42~hmac=952a1bb3be3f78a03d59fbaf96f907b3f7194cd42bde4b2280642da8d25ac90a",
-      "date": "2026-11-09",
-      "heure": 18,
-      "album": "Guide de conversation Anglais",
-      "annee": 2017,
-      "start_ts": 1794249622,
-      "end_ts": 1794249773
-    },
-    {
-      "titre": "J'assume",
-      "artistes": "RnBoi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1794252250~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=dcdb22260bf112ab2e753604cb0466817a58c60600f7c63838421b36e408c4bd",
-      "date": "2026-11-09",
-      "heure": 18,
-      "album": "J'assume",
-      "annee": 2026,
-      "start_ts": 1794249445,
-      "end_ts": 1794249622
-    },
-    {
-      "titre": "Bella",
-      "artistes": "DMZ",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2e500a68bf6424f7dd94a53014f4f481/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/78/SKYC.3573273813361278578.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/0/0/780b073d6ae403b48a9fe833d5591c9a.mp3?hdnea=exp=1794214737~acl=/api/1/1/7/8/0/0/780b073d6ae403b48a9fe833d5591c9a.mp3*~data=user_id=0,application_id=42~hmac=08c67ec16f76068a972fe6489e2c4395763d97deddcbce99597e7271c046c9ec",
-      "date": "2026-11-09",
-      "heure": 8,
-      "album": "Bella",
-      "annee": 2026,
-      "start_ts": 1794213683,
-      "end_ts": 1794213861
-    },
-    {
-      "titre": "4",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/437940fa0dd0408cd00d0b444dca6f12/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/69/SKYC.4458488018929370369.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/1/0/141cc01b96098e3cd54828386846ef88.mp3?hdnea=exp=1794214738~acl=/api/1/1/1/4/1/0/141cc01b96098e3cd54828386846ef88.mp3*~data=user_id=0,application_id=42~hmac=289b0547a1d3523e85ffdecbaa7e723c4b9bad88e6a319c238d531f906364e82",
-      "date": "2026-11-09",
-      "heure": 8,
-      "album": "4",
-      "annee": 2026,
-      "start_ts": 1794213548,
-      "end_ts": 1794213686
-    },
-    {
-      "titre": "Loser",
-      "artistes": "Apache 207",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.295.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1794214739~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=dd64b3fe98a424f6259aad1e410eff264ab29d213e9a2fc64c4f3caf96f576df",
-      "date": "2026-11-09",
-      "heure": 8,
-      "album": "Loser",
-      "annee": 2024,
-      "start_ts": 1794213330,
-      "end_ts": 1794213548
-    },
-    {
-      "titre": "La petasse",
-      "artistes": "DJ Jordan MasterBoy",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a22dbeb051bdb7f890c4ad7b56a1e6f5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3?hdnea=exp=1794214740~acl=/api/1/1/f/6/0/0/f6009395114d245c0befd93e87f6279f.mp3*~data=user_id=0,application_id=42~hmac=f97466119b0fdaeaac760e0919aa5777325629eaec59b59ecedcebca0b8ec05f",
-      "date": "2026-11-09",
-      "heure": 8,
-      "album": "La petasse",
-      "annee": 2024,
-      "start_ts": 1794213178,
-      "end_ts": 1794213324
     }
   ]
 }
