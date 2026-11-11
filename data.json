@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-11T08:48:23.215434",
-  "genere_ts": 1794386903,
+  "genere_le": "2026-11-11T16:38:46.950830",
+  "genere_ts": 1794415126,
   "volume": {
-    "nb_diffusions": 1192,
+    "nb_diffusions": 1197,
     "nb_artistes": 226,
-    "nb_titres": 257,
+    "nb_titres": 258,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-11",
-    "heures_antenne": 58.14,
-    "duree_moy_s": 175.6
+    "heures_antenne": 58.41,
+    "duree_moy_s": 175.7
   },
   "top_artistes": [
     {
@@ -37,9 +37,9 @@
     },
     {
       "artistes": "GIMS",
-      "nb_diffusions": 38,
+      "nb_diffusions": 39,
       "titres_differents": 5,
-      "minutes_antenne": 114.1
+      "minutes_antenne": 117.0
     },
     {
       "artistes": "Timal",
@@ -96,6 +96,12 @@
       "minutes_antenne": 70.3
     },
     {
+      "artistes": "L2B",
+      "nb_diffusions": 22,
+      "titres_differents": 2,
+      "minutes_antenne": 63.7
+    },
+    {
       "artistes": "Tame Impala",
       "nb_diffusions": 19,
       "titres_differents": 2,
@@ -114,22 +120,16 @@
       "minutes_antenne": 61.0
     },
     {
-      "artistes": "L2B",
-      "nb_diffusions": 21,
-      "titres_differents": 2,
-      "minutes_antenne": 60.9
-    },
-    {
       "artistes": "BIGBANG",
       "nb_diffusions": 16,
       "titres_differents": 1,
       "minutes_antenne": 58.1
     },
     {
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 21,
-      "titres_differents": 2,
-      "minutes_antenne": 53.0
+      "artistes": "Chris Cornell",
+      "nb_diffusions": 12,
+      "titres_differents": 1,
+      "minutes_antenne": 57.2
     }
   ],
   "top_titres": [
@@ -160,8 +160,8 @@
     {
       "artistes": "GIMS",
       "titre": "VIVE LA MONNAIE",
-      "nb_diffusions": 34,
-      "minutes_antenne": 101.5
+      "nb_diffusions": 35,
+      "minutes_antenne": 104.5
     },
     {
       "artistes": "Rusky",
@@ -224,6 +224,12 @@
       "minutes_antenne": 41.1
     },
     {
+      "artistes": "L2B",
+      "titre": "CYBERTESLA",
+      "nb_diffusions": 21,
+      "minutes_antenne": 60.8
+    },
+    {
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_diffusions": 21,
@@ -240,12 +246,6 @@
       "titre": "Sexy Nana",
       "nb_diffusions": 20,
       "minutes_antenne": 50.6
-    },
-    {
-      "artistes": "L2B",
-      "titre": "CYBERTESLA",
-      "nb_diffusions": 20,
-      "minutes_antenne": 57.9
     },
     {
       "artistes": "Bad Bunny",
@@ -321,7 +321,7 @@
     },
     {
       "heure": 16,
-      "nb_diffusions": 56
+      "nb_diffusions": 62
     },
     {
       "heure": 17,
@@ -575,8 +575,8 @@
     },
     {
       "date": "2026-11-11",
-      "nb_diffusions": 12,
-      "titres_differents": 11
+      "nb_diffusions": 18,
+      "titres_differents": 15
     }
   ],
   "semaine": [
@@ -594,7 +594,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 182
+      "nb_diffusions": 188
     },
     {
       "jour": "Jeudi",
@@ -643,8 +643,8 @@
     {
       "artistes": "GIMS",
       "nb_jours": 27,
-      "nb_diffusions": 38,
-      "minutes": 114.1
+      "nb_diffusions": 39,
+      "minutes": 117.0
     },
     {
       "artistes": "Gambi",
@@ -713,16 +713,16 @@
       "minutes": 38.1
     },
     {
+      "artistes": "L2B",
+      "nb_jours": 16,
+      "nb_diffusions": 22,
+      "minutes": 63.7
+    },
+    {
       "artistes": "Lil Gianni",
       "nb_jours": 16,
       "nb_diffusions": 21,
       "minutes": 52.5
-    },
-    {
-      "artistes": "L2B",
-      "nb_jours": 15,
-      "nb_diffusions": 21,
-      "minutes": 60.9
     },
     {
       "artistes": "Tame Impala",
@@ -766,7 +766,7 @@
       "artistes": "GIMS",
       "titre": "VIVE LA MONNAIE",
       "nb_jours": 24,
-      "nb_diffusions": 34
+      "nb_diffusions": 35
     },
     {
       "artistes": "Rusky",
@@ -847,10 +847,10 @@
       "nb_diffusions": 19
     },
     {
-      "artistes": "Bouss",
-      "titre": "Cote à la hausse",
+      "artistes": "L2B",
+      "titre": "CYBERTESLA",
       "nb_jours": 15,
-      "nb_diffusions": 17
+      "nb_diffusions": 21
     }
   ],
   "diversifies": [
@@ -867,7 +867,7 @@
     {
       "artistes": "GIMS",
       "nb_titres_differents": 5,
-      "nb_diffusions": 38
+      "nb_diffusions": 39
     },
     {
       "artistes": "Mauvais djo",
@@ -878,6 +878,11 @@
       "artistes": "KAROL G",
       "nb_titres_differents": 3,
       "nb_diffusions": 38
+    },
+    {
+      "artistes": "Aya Nakamura",
+      "nb_titres_differents": 3,
+      "nb_diffusions": 22
     },
     {
       "artistes": "Guy2bezbar",
@@ -915,14 +920,9 @@
       "nb_diffusions": 26
     },
     {
-      "artistes": "Aya Nakamura",
-      "nb_titres_differents": 2,
-      "nb_diffusions": 21
-    },
-    {
       "artistes": "L2B",
       "nb_titres_differents": 2,
-      "nb_diffusions": 21
+      "nb_diffusions": 22
     },
     {
       "artistes": "Bad Bunny",
@@ -970,7 +970,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 696
+      "nb_diffusions": 700
     },
     {
       "annee": 2025,
@@ -1002,7 +1002,7 @@
     },
     {
       "annee": 2018,
-      "nb_diffusions": 24
+      "nb_diffusions": 25
     },
     {
       "annee": 2017,
@@ -1084,11 +1084,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 614
+      "nb": 617
     },
     {
       "type_contenu": "Explicit",
-      "nb": 576
+      "nb": 578
     }
   ],
   "albums": [
@@ -1115,7 +1115,7 @@
     {
       "album": "VIVE LA MONNAIE",
       "artistes": "GIMS",
-      "nb_diffusions": 34
+      "nb_diffusions": 35
     },
     {
       "album": "SEXY NANA (Radio Edit)",
@@ -1185,7 +1185,7 @@
     {
       "album": "CYBERTESLA",
       "artistes": "L2B",
-      "nb_diffusions": 20
+      "nb_diffusions": 21
     },
     {
       "album": "Pangor (Swalalala)",
@@ -1194,19 +1194,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Cote à la hausse",
-    "artistes": "Bouss",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1794387797~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=7f2a82f297e78718cb17414f013e8091ab67ce91afe69852c9e4a46f4232509a",
+    "titre": "VIVE LA MONNAIE",
+    "artistes": "GIMS",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1794416020~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=b517e2f5a1b583fa4641199a946732c7b2bde442010131b5bfd88ebb6fe30ba5",
     "date": "2026-11-11",
-    "heure": 8,
-    "album": "Et si j'échoue ??",
-    "annee": 2025,
-    "start_ts": 1794386554,
-    "end_ts": 1794386722
+    "heure": 16,
+    "album": "VIVE LA MONNAIE",
+    "annee": 2026,
+    "start_ts": 1794415005,
+    "end_ts": 1794415183
   },
   "derniers_morceaux": [
+    {
+      "titre": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1794416020~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=b517e2f5a1b583fa4641199a946732c7b2bde442010131b5bfd88ebb6fe30ba5",
+      "date": "2026-11-11",
+      "heure": 16,
+      "album": "VIVE LA MONNAIE",
+      "annee": 2026,
+      "start_ts": 1794415005,
+      "end_ts": 1794415183
+    },
+    {
+      "titre": "Billie Jean",
+      "artistes": "Chris Cornell",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1794416021~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=aad690cef1fbe275ae2183636ea9c3db3ed574fd9d386029ea614fee07a5b622",
+      "date": "2026-11-11",
+      "heure": 16,
+      "album": "Chris Cornell (Deluxe Edition)",
+      "annee": 2018,
+      "start_ts": 1794414727,
+      "end_ts": 1794415013
+    },
+    {
+      "titre": "La pétasse",
+      "artistes": "Aya Nakamura",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d3f1894639bfe302d254a76126787b3d/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/1/0/87120fa926b2753567f896ed44a08871.mp3?hdnea=exp=1794416022~acl=/api/1/1/8/7/1/0/87120fa926b2753567f896ed44a08871.mp3*~data=user_id=0,application_id=42~hmac=03550c26d0ee028c11df5db9b5556404d2083b8d34bf857a2f9041171c02648d",
+      "date": "2026-11-11",
+      "heure": 16,
+      "album": "Destinée Supremacy",
+      "annee": 2026,
+      "start_ts": 1794414575,
+      "end_ts": 1794414721
+    },
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-11",
+      "heure": 16,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794414342,
+      "end_ts": 1794414576
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1794416024~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=94dd41d12972098449384b26ed0a351be3c8c334a1ff57b02117dde02eaa6156",
+      "date": "2026-11-11",
+      "heure": 16,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1794414167,
+      "end_ts": 1794414344
+    },
+    {
+      "titre": "CYBERTESLA",
+      "artistes": "L2B",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1794416025~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=dc1e078b6bec3f88213df53dd8d2a12341a50a0e5015b5b5632b658c80975fb1",
+      "date": "2026-11-11",
+      "heure": 16,
+      "album": "CYBERTESLA",
+      "annee": 2026,
+      "start_ts": 1794413576,
+      "end_ts": 1794413749
+    },
     {
       "titre": "Cote à la hausse",
       "artistes": "Bouss",
@@ -1258,84 +1336,6 @@
       "annee": 2026,
       "start_ts": 1794386069,
       "end_ts": 1794386221
-    },
-    {
-      "titre": "Let Me Love You",
-      "artistes": "DJ Snake",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6a52e1bbddc750c996a66b0ccfa4370c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.3915130551404413355.110.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/e/0/41ef13d965b718f0ca98b7a9a32c0100.mp3?hdnea=exp=1794387801~acl=/api/1/1/4/1/e/0/41ef13d965b718f0ca98b7a9a32c0100.mp3*~data=user_id=0,application_id=42~hmac=8dc53491f7cabb11a1f5e7c3518d53305f458097fe0e9b176fffcc26dec2da3a",
-      "date": "2026-11-11",
-      "heure": 8,
-      "album": "Encore",
-      "annee": 2016,
-      "start_ts": 1794384799,
-      "end_ts": 1794384999
-    },
-    {
-      "titre": "La pétasse",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-11",
-      "heure": 8,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794384405,
-      "end_ts": 1794384526
-    },
-    {
-      "titre": "Rendez-vous professionnels",
-      "artistes": "Assimil",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ac53b3abae55378acdaca64a73b22ca8/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/8/0/c585609a4ea2d89ebf374108efe3450c.mp3?hdnea=exp=1794363235~acl=/api/1/1/c/5/8/0/c585609a4ea2d89ebf374108efe3450c.mp3*~data=user_id=0,application_id=42~hmac=9138ef619baa1cb1b505d6fcf536d205a89a8e0e0ca7cd26df4f4d3cf2900046",
-      "date": "2026-11-11",
-      "heure": 1,
-      "album": "Guide de conversation Anglais",
-      "annee": 2017,
-      "start_ts": 1794362254,
-      "end_ts": 1794362405
-    },
-    {
-      "titre": "Cuenta (feat. Meryl & Shay)",
-      "artistes": "Ronisia",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1794363236~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=accd2c8ae6337aeca40f97c36e38eadb19841dc26391513e1f718d49b0dd2423",
-      "date": "2026-11-11",
-      "heure": 1,
-      "album": "Cuenta (feat. Meryl & Shay)",
-      "annee": 2026,
-      "start_ts": 1794362076,
-      "end_ts": 1794362256
-    },
-    {
-      "titre": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1794363237~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=9f2e021b2f8e6ebd77b8559299a9defeed1bbfe41d8e93f1e595ab172e54490c",
-      "date": "2026-11-11",
-      "heure": 1,
-      "album": "SEXY NANA (Radio Edit)",
-      "annee": 2026,
-      "start_ts": 1794361916,
-      "end_ts": 1794362068
-    },
-    {
-      "titre": "Emiliana",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.6434425594726028925.18.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-11",
-      "heure": 1,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794361776,
-      "end_ts": 1794361916
     }
   ]
 }
