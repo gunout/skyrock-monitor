@@ -1,8 +1,8 @@
 ﻿artistes,titre,nb_diffusions,minutes_antenne
 Vacra,Fille à Papa,53,146.6
 Leto,Pineapple,48,125.7
+Timal,Sicario,46,110.1
 Tiakola,Mélo Décalé,45,113.5
-Timal,Sicario,45,107.7
 GIMS,VIVE LA MONNAIE,38,113.4
 Slimane,Maladie,34,105.4
 Rusky,SEXY NANA (Radio Edit),34,86.1
@@ -10,13 +10,13 @@ KAROL G,BbY WOW,33,122.7
 DJ Jordan MasterBoy,La petasse,29,70.6
 PLK,Pocahontas,28,75.6
 Jok'air,Nouméa,26,97.1
+Apache 207,Loser,25,90.8
 Niska,Allo Doudou,25,69.6
-Apache 207,Loser,24,87.2
 L2B,CYBERTESLA,22,63.8
+Lil Gianni,"Séminaire (feat. Soushimada, Shivas & Machi)",22,55.0
 Gambi,RENÉ CAOVILLA,22,48.1
 Mauvais djo,Wagyu,22,41.1
 Tiakola,La Nocturne,21,75.6
-Lil Gianni,"Séminaire (feat. Soushimada, Shivas & Machi)",21,52.5
 Aya Nakamura,Sexy Nana,20,50.6
 Bad Bunny,NUEVAYoL,19,57.6
 RnBoi,J'assume,19,56.1
@@ -26,9 +26,9 @@ Bouss,Cote à la hausse,17,47.6
 BIGBANG,LOSER,16,58.1
 Yuston XIII,Histoire sans fin,15,51.3
 Christophe Maé,On s'attache,15,47.5
+disiz,melodrama,15,43.5
 Adèle Castillon,Été avec toi,14,43.0
-disiz,melodrama,14,40.6
-Chris Cornell,Billie Jean,12,57.2
+Chris Cornell,Billie Jean,13,62.0
 Guy2bezbar,Je pense à toi,12,34.0
 Le Crime,Bodycount,12,30.0
 Ronisia,Cuenta (feat. Meryl & Shay),11,33.0
@@ -254,6 +254,7 @@ Paul Edwards,Falling,1,2.5
 Myke Towers,CUENTA,1,2.5
 Mauvais djo,Pilé,1,2.5
 Louane,Capitaine,1,2.5
+Lil Nas X,HOLIDAY,1,2.5
 Lil Baby Grand,NUEVAYoL (piano version),1,2.5
 Kojaque,WAGYU,1,2.5
 K-Rosif,Bodycount,1,2.5
