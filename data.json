@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-15T16:38:25.501394",
-  "genere_ts": 1794760705,
+  "genere_le": "2026-11-15T21:13:11.500165",
+  "genere_ts": 1794777191,
   "volume": {
-    "nb_diffusions": 1287,
-    "nb_artistes": 236,
-    "nb_titres": 265,
+    "nb_diffusions": 1291,
+    "nb_artistes": 238,
+    "nb_titres": 268,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-15",
-    "heures_antenne": 62.89,
-    "duree_moy_s": 175.9
+    "heures_antenne": 63.13,
+    "duree_moy_s": 176.1
   },
   "top_artistes": [
     {
@@ -329,15 +329,15 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 129
+      "nb_diffusions": 133
     },
     {
       "heure": 19,
-      "nb_diffusions": 77
+      "nb_diffusions": 78
     },
     {
       "heure": 20,
-      "nb_diffusions": 56
+      "nb_diffusions": 57
     },
     {
       "heure": 21,
@@ -595,14 +595,14 @@
     },
     {
       "date": "2026-11-15",
-      "nb_diffusions": 18,
-      "titres_differents": 16
+      "nb_diffusions": 24,
+      "titres_differents": 22
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 225
+      "nb_diffusions": 231
     },
     {
       "jour": "Lundi",
@@ -1026,7 +1026,7 @@
     },
     {
       "annee": 2017,
-      "nb_diffusions": 8
+      "nb_diffusions": 9
     },
     {
       "annee": 2016,
@@ -1058,7 +1058,7 @@
     },
     {
       "annee": 2008,
-      "nb_diffusions": 3
+      "nb_diffusions": 4
     },
     {
       "annee": 2007,
@@ -1066,11 +1066,11 @@
     },
     {
       "annee": 2006,
-      "nb_diffusions": 5
+      "nb_diffusions": 6
     },
     {
       "annee": 2004,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "annee": 2003,
@@ -1104,7 +1104,7 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 663
+      "nb": 667
     },
     {
       "type_contenu": "Explicit",
@@ -1214,19 +1214,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "SEXY NANA (Radio Edit)",
-    "artistes": "Rusky",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1794761599~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=7299cbc7800e6c20d83e66251c0992ce037a98a6ae874fc9f045d498ae5e5e68",
+    "titre": "Nouméa",
+    "artistes": null,
+    "cover_deezer": null,
+    "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+    "preview_mp3": null,
     "date": "2026-11-15",
-    "heure": 16,
-    "album": "SEXY NANA (Radio Edit)",
-    "annee": 2026,
-    "start_ts": 1794760684,
-    "end_ts": 1794760836
+    "heure": 20,
+    "album": null,
+    "annee": null,
+    "start_ts": 1794776278,
+    "end_ts": 1794776459
   },
   "derniers_morceaux": [
+    {
+      "titre": "Nouméa",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-15",
+      "heure": 20,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794776278,
+      "end_ts": 1794776459
+    },
+    {
+      "titre": "Rendez-vous professionnels",
+      "artistes": "Assimil",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ac53b3abae55378acdaca64a73b22ca8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/8/0/c585609a4ea2d89ebf374108efe3450c.mp3?hdnea=exp=1794778087~acl=/api/1/1/c/5/8/0/c585609a4ea2d89ebf374108efe3450c.mp3*~data=user_id=0,application_id=42~hmac=c98dce5f5fa710aab5789775410c19ca01154186ea00fd90e1658ae3ac8a472d",
+      "date": "2026-11-15",
+      "heure": 19,
+      "album": "Guide de conversation Anglais",
+      "annee": 2017,
+      "start_ts": 1794772442,
+      "end_ts": 1794772593
+    },
+    {
+      "titre": "My Love (feat. T.I.)",
+      "artistes": "Justin Timberlake",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/615bb58abf2e5fd86741ed5311d364b1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/01/SKYC.5962405239337802001.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/7/0/d07c8f3e3de67216a6ddd905cccddf55.mp3?hdnea=exp=1794778087~acl=/api/1/1/d/0/7/0/d07c8f3e3de67216a6ddd905cccddf55.mp3*~data=user_id=0,application_id=42~hmac=ded35083f1b87d8765f68c6c61e8380b115949c234d60fe15c0d308e13f5898b",
+      "date": "2026-11-15",
+      "heure": 18,
+      "album": "FutureSex/LoveSounds Deluxe Edition",
+      "annee": 2006,
+      "start_ts": 1794768970,
+      "end_ts": 1794769246
+    },
+    {
+      "titre": "Closer",
+      "artistes": "Kings Of Leon",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a4d41f829fac22196b44e97824ee9180/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/03/SKYC.8935585499024734403.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/f/0/0/df0d1356cb4819ecaeef5543ad6c3a52.mp3?hdnea=exp=1794778088~acl=/api/1/1/d/f/0/0/df0d1356cb4819ecaeef5543ad6c3a52.mp3*~data=user_id=0,application_id=42~hmac=ae29982b60f1d6fee7db7ccbac5f0fa6b9410c2be29185ea89d4575c12c326a5",
+      "date": "2026-11-15",
+      "heure": 18,
+      "album": "Only By The Night",
+      "annee": 2008,
+      "start_ts": 1794768740,
+      "end_ts": 1794768972
+    },
+    {
+      "titre": "funk you",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/27/SKYC.1516825501375980427.2.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-15",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794768584,
+      "end_ts": 1794768735
+    },
+    {
+      "titre": "Goodies (No Rap)",
+      "artistes": "Ciara",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/280bae73da457dd10081aac861316717/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.2980153160530064851.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/a/0/e7a306798f862dc2b3a8a828915543e4.mp3?hdnea=exp=1794778090~acl=/api/1/1/e/7/a/0/e7a306798f862dc2b3a8a828915543e4.mp3*~data=user_id=0,application_id=42~hmac=7d73e1cc4ee4f29084bc50e5340df7933906d2aff00f8338244ddbf9561a9412",
+      "date": "2026-11-15",
+      "heure": 18,
+      "album": "Goodies",
+      "annee": 2004,
+      "start_ts": 1794768141,
+      "end_ts": 1794768363
+    },
     {
       "titre": "SEXY NANA (Radio Edit)",
       "artistes": "Rusky",
@@ -1278,84 +1356,6 @@
       "annee": 2026,
       "start_ts": 1794759980,
       "end_ts": 1794760203
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1794761603~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=c838810c173cbc54de80aebdb3e93ed7ba624c870fed7284bef2cbb16dcce89d",
-      "date": "2026-11-15",
-      "heure": 16,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1794759830,
-      "end_ts": 1794759981
-    },
-    {
-      "titre": "Chaussures Roses",
-      "artistes": "TeddyBear",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/02a449ca102112cc7526ac14fc4c7a34/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3315345366449998416.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3?hdnea=exp=1794761604~acl=/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3*~data=user_id=0,application_id=42~hmac=c6676356d30cf00107ada017b3608b2acf95eda530d971ebfe3fc7020ad42356",
-      "date": "2026-11-15",
-      "heure": 16,
-      "album": "Le Plus Beau",
-      "annee": 2026,
-      "start_ts": 1794759639,
-      "end_ts": 1794759833
-    },
-    {
-      "titre": "Chaussures Roses",
-      "artistes": "TeddyBear",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/02a449ca102112cc7526ac14fc4c7a34/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3315345366449998416.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3?hdnea=exp=1794737073~acl=/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3*~data=user_id=0,application_id=42~hmac=b8a5afc8f5c17c4a5e92366015fc29c7540d6302c5e81954c1b7eb3b9e852b34",
-      "date": "2026-11-15",
-      "heure": 9,
-      "album": "Le Plus Beau",
-      "annee": 2026,
-      "start_ts": 1794735693,
-      "end_ts": 1794735887
-    },
-    {
-      "titre": "melodrama",
-      "artistes": "disiz",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1794737074~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=999a548511f68907c6dff5812b83e211ace8c5ffe01f7dbd675130035d0e3f8c",
-      "date": "2026-11-15",
-      "heure": 9,
-      "album": "melodrama",
-      "annee": 2025,
-      "start_ts": 1794735517,
-      "end_ts": 1794735691
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1794737075~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=0c585313eb556531de077582fd9e42c86e85a4c42562aa2e0a37d519b02bddd5",
-      "date": "2026-11-15",
-      "heure": 9,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1794735374,
-      "end_ts": 1794735518
-    },
-    {
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "artistes": "Lil Gianni",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1794737076~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=3ad3b0f30f19d898ea8ec152d9a01d51e8f98511007831b2ee1f797af55c3b69",
-      "date": "2026-11-15",
-      "heure": 9,
-      "album": "SAMPLEMAKER",
-      "annee": 2022,
-      "start_ts": 1794735222,
-      "end_ts": 1794735372
     }
   ]
 }
