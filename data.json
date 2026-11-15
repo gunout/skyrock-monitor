@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-15T02:33:55.521907",
-  "genere_ts": 1794710035,
+  "genere_le": "2026-11-15T09:49:39.379696",
+  "genere_ts": 1794736179,
   "volume": {
-    "nb_diffusions": 1275,
+    "nb_diffusions": 1281,
     "nb_artistes": 235,
     "nb_titres": 264,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-15",
-    "heures_antenne": 62.29,
-    "duree_moy_s": 175.9
+    "heures_antenne": 62.56,
+    "duree_moy_s": 175.8
   },
   "top_artistes": [
     {
@@ -43,9 +43,9 @@
     },
     {
       "artistes": "Timal",
-      "nb_diffusions": 47,
+      "nb_diffusions": 48,
       "titres_differents": 1,
-      "minutes_antenne": 112.5
+      "minutes_antenne": 114.9
     },
     {
       "artistes": "Jok'air",
@@ -148,8 +148,8 @@
     {
       "artistes": "Timal",
       "titre": "Sicario",
-      "nb_diffusions": 47,
-      "minutes_antenne": 112.5
+      "nb_diffusions": 48,
+      "minutes_antenne": 114.9
     },
     {
       "artistes": "Tiakola",
@@ -212,16 +212,16 @@
       "minutes_antenne": 72.4
     },
     {
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "nb_diffusions": 24,
+      "minutes_antenne": 60.0
+    },
+    {
       "artistes": "L2B",
       "titre": "CYBERTESLA",
       "nb_diffusions": 23,
       "minutes_antenne": 66.7
-    },
-    {
-      "artistes": "Lil Gianni",
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_diffusions": 23,
-      "minutes_antenne": 57.5
     },
     {
       "artistes": "Gambi",
@@ -293,7 +293,7 @@
     },
     {
       "heure": 9,
-      "nb_diffusions": 49
+      "nb_diffusions": 55
     },
     {
       "heure": 10,
@@ -595,14 +595,14 @@
     },
     {
       "date": "2026-11-15",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 12
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 213
+      "nb_diffusions": 219
     },
     {
       "jour": "Lundi",
@@ -650,9 +650,9 @@
     },
     {
       "artistes": "Timal",
-      "nb_jours": 30,
-      "nb_diffusions": 47,
-      "minutes": 112.5
+      "nb_jours": 31,
+      "nb_diffusions": 48,
+      "minutes": 114.9
     },
     {
       "artistes": "KAROL G",
@@ -721,6 +721,12 @@
       "minutes": 106.1
     },
     {
+      "artistes": "Lil Gianni",
+      "nb_jours": 18,
+      "nb_diffusions": 24,
+      "minutes": 60.0
+    },
+    {
       "artistes": "RnBoi",
       "nb_jours": 18,
       "nb_diffusions": 21,
@@ -733,22 +739,16 @@
       "minutes": 69.6
     },
     {
-      "artistes": "Lil Gianni",
-      "nb_jours": 17,
-      "nb_diffusions": 23,
-      "minutes": 57.5
-    },
-    {
       "artistes": "Bad Bunny",
       "nb_jours": 17,
       "nb_diffusions": 20,
       "minutes": 61.0
     },
     {
-      "artistes": "Djaksparo",
+      "artistes": "Bouss",
       "nb_jours": 17,
-      "nb_diffusions": 19,
-      "minutes": 38.1
+      "nb_diffusions": 20,
+      "minutes": 56.0
     }
   ],
   "titres_recurrents": [
@@ -773,8 +773,8 @@
     {
       "artistes": "Timal",
       "titre": "Sicario",
-      "nb_jours": 30,
-      "nb_diffusions": 47
+      "nb_jours": 31,
+      "nb_diffusions": 48
     },
     {
       "artistes": "KAROL G",
@@ -831,6 +831,12 @@
       "nb_diffusions": 22
     },
     {
+      "artistes": "Lil Gianni",
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "nb_jours": 18,
+      "nb_diffusions": 24
+    },
+    {
       "artistes": "RnBoi",
       "titre": "J'assume",
       "nb_jours": 18,
@@ -841,12 +847,6 @@
       "titre": "Nouméa",
       "nb_jours": 17,
       "nb_diffusions": 26
-    },
-    {
-      "artistes": "Lil Gianni",
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_jours": 17,
-      "nb_diffusions": 23
     },
     {
       "artistes": "Mauvais djo",
@@ -861,16 +861,16 @@
       "nb_diffusions": 21
     },
     {
+      "artistes": "Bouss",
+      "titre": "Cote à la hausse",
+      "nb_jours": 17,
+      "nb_diffusions": 20
+    },
+    {
       "artistes": "Djaksparo",
       "titre": "Pangor (Swalalala)",
       "nb_jours": 17,
       "nb_diffusions": 19
-    },
-    {
-      "artistes": "L2B",
-      "titre": "CYBERTESLA",
-      "nb_jours": 16,
-      "nb_diffusions": 23
     }
   ],
   "diversifies": [
@@ -990,11 +990,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 747
+      "nb_diffusions": 750
     },
     {
       "annee": 2025,
-      "nb_diffusions": 131
+      "nb_diffusions": 133
     },
     {
       "annee": 2024,
@@ -1006,7 +1006,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 88
+      "nb_diffusions": 89
     },
     {
       "annee": 2021,
@@ -1104,11 +1104,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 657
+      "nb": 659
     },
     {
       "type_contenu": "Explicit",
-      "nb": 616
+      "nb": 620
     }
   ],
   "albums": [
@@ -1125,7 +1125,7 @@
     {
       "album": "Sicario",
       "artistes": "Timal",
-      "nb_diffusions": 49
+      "nb_diffusions": 50
     },
     {
       "album": "Mélo Décalé",
@@ -1183,13 +1183,13 @@
       "nb_diffusions": 24
     },
     {
-      "album": "Sexy Nana",
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 23
-    },
-    {
       "album": "SAMPLEMAKER",
       "artistes": "Lil Gianni",
+      "nb_diffusions": 24
+    },
+    {
+      "album": "Sexy Nana",
+      "artistes": "Aya Nakamura",
       "nb_diffusions": 23
     },
     {
@@ -1214,19 +1214,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "La pétasse",
-    "artistes": "Aya Nakamura",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d3f1894639bfe302d254a76126787b3d/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/20/SKYC.4472939190264101520.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/7/1/0/87120fa926b2753567f896ed44a08871.mp3?hdnea=exp=1794710928~acl=/api/1/1/8/7/1/0/87120fa926b2753567f896ed44a08871.mp3*~data=user_id=0,application_id=42~hmac=9b48c65455a382f08668a5086bcc905ccb15203fa54f0fd217710ad57aed8841",
+    "titre": "Chaussures Roses",
+    "artistes": "TeddyBear",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/02a449ca102112cc7526ac14fc4c7a34/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3315345366449998416.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3?hdnea=exp=1794737073~acl=/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3*~data=user_id=0,application_id=42~hmac=b8a5afc8f5c17c4a5e92366015fc29c7540d6302c5e81954c1b7eb3b9e852b34",
     "date": "2026-11-15",
-    "heure": 2,
-    "album": "Destinée Supremacy",
+    "heure": 9,
+    "album": "Le Plus Beau",
     "annee": 2026,
-    "start_ts": 1794709937,
-    "end_ts": 1794710083
+    "start_ts": 1794735693,
+    "end_ts": 1794735887
   },
   "derniers_morceaux": [
+    {
+      "titre": "Chaussures Roses",
+      "artistes": "TeddyBear",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/02a449ca102112cc7526ac14fc4c7a34/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3315345366449998416.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3?hdnea=exp=1794737073~acl=/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3*~data=user_id=0,application_id=42~hmac=b8a5afc8f5c17c4a5e92366015fc29c7540d6302c5e81954c1b7eb3b9e852b34",
+      "date": "2026-11-15",
+      "heure": 9,
+      "album": "Le Plus Beau",
+      "annee": 2026,
+      "start_ts": 1794735693,
+      "end_ts": 1794735887
+    },
+    {
+      "titre": "melodrama",
+      "artistes": "disiz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1794737074~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=999a548511f68907c6dff5812b83e211ace8c5ffe01f7dbd675130035d0e3f8c",
+      "date": "2026-11-15",
+      "heure": 9,
+      "album": "melodrama",
+      "annee": 2025,
+      "start_ts": 1794735517,
+      "end_ts": 1794735691
+    },
+    {
+      "titre": "Sicario",
+      "artistes": "Timal",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1794737075~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=0c585313eb556531de077582fd9e42c86e85a4c42562aa2e0a37d519b02bddd5",
+      "date": "2026-11-15",
+      "heure": 9,
+      "album": "Sicario",
+      "annee": 2026,
+      "start_ts": 1794735374,
+      "end_ts": 1794735518
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1794737076~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=3ad3b0f30f19d898ea8ec152d9a01d51e8f98511007831b2ee1f797af55c3b69",
+      "date": "2026-11-15",
+      "heure": 9,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1794735222,
+      "end_ts": 1794735372
+    },
+    {
+      "titre": "Wetin Day",
+      "artistes": "Zed",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a07fcb09e6597331fe4d23d1e9e0b4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/93/SKYC.5347151068534367293.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/4/0/f242762aa397a0327a1dadf74e1195af.mp3?hdnea=exp=1794737077~acl=/api/1/1/f/2/4/0/f242762aa397a0327a1dadf74e1195af.mp3*~data=user_id=0,application_id=42~hmac=01d41661c644e970119e290895374aa20a8a55d418b44b350a83a6ca8a612ab9",
+      "date": "2026-11-15",
+      "heure": 9,
+      "album": "Wetin Day",
+      "annee": 2026,
+      "start_ts": 1794735097,
+      "end_ts": 1794735229
+    },
+    {
+      "titre": "Cote à la hausse",
+      "artistes": "Bouss",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1794737078~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=187affa8d166e660f467c11640cb16398213fc4b1a74f554fd9e6642d7e8cad1",
+      "date": "2026-11-15",
+      "heure": 9,
+      "album": "Et si j'échoue ??",
+      "annee": 2025,
+      "start_ts": 1794734929,
+      "end_ts": 1794735097
+    },
     {
       "titre": "La pétasse",
       "artistes": "Aya Nakamura",
@@ -1278,84 +1356,6 @@
       "annee": 2015,
       "start_ts": 1794709299,
       "end_ts": 1794709544
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1794710933~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=0b54ec86350eefd59ca487bf893e07e96dd29d02bcbed754d6105910f44b62b2",
-      "date": "2026-11-15",
-      "heure": 2,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1794709130,
-      "end_ts": 1794709297
-    },
-    {
-      "titre": "Cuenta (feat. Meryl & Shay)",
-      "artistes": "Ronisia",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1794710934~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=d82a368aee62f8542dfd6466e4c35f10cae24513728abc8ca7440cf33c0e92a6",
-      "date": "2026-11-15",
-      "heure": 2,
-      "album": "Cuenta (feat. Meryl & Shay)",
-      "annee": 2026,
-      "start_ts": 1794708951,
-      "end_ts": 1794709131
-    },
-    {
-      "titre": "Charm",
-      "artistes": "Moe Shop",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04efc299f6a490904eceff544c05c090/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/05/SKYC.1311608008005470305.10.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/c/0/9ac372b11f3398348ac7dc8c099d2f6d.mp3?hdnea=exp=1794698535~acl=/api/1/1/9/a/c/0/9ac372b11f3398348ac7dc8c099d2f6d.mp3*~data=user_id=0,application_id=42~hmac=5c34d0c3eec0c9639de18513f764ec40537d0eabbcf6da66d16f504f95c9ff4c",
-      "date": "2026-11-14",
-      "heure": 23,
-      "album": "Charm",
-      "annee": 2017,
-      "start_ts": 1794697600,
-      "end_ts": 1794697799
-    },
-    {
-      "titre": "Cote à la hausse",
-      "artistes": "Bouss",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1794698536~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=8566b27a40e4d412247e1f3303f127a60e943aaaf72027decfdab4e3cddaa8d1",
-      "date": "2026-11-14",
-      "heure": 23,
-      "album": "Et si j'échoue ??",
-      "annee": 2025,
-      "start_ts": 1794697430,
-      "end_ts": 1794697598
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1794698537~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=819f6413bb4818dfe1c06b77dd5f4c7c6b1c58f6e5d52bd94ed153edd7d72e84",
-      "date": "2026-11-14",
-      "heure": 23,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1794697289,
-      "end_ts": 1794697433
-    },
-    {
-      "titre": "Bracelet",
-      "artistes": "RDR",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/3329f0d536bb0e8eccd5b9ceb8157a89/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.5787994376877845642.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/3/0/e537e5a0b5c166882e8a56d5f676737f.mp3?hdnea=exp=1794698538~acl=/api/1/1/e/5/3/0/e537e5a0b5c166882e8a56d5f676737f.mp3*~data=user_id=0,application_id=42~hmac=87abca98ecc75fbf951d4f5b55e3a0b8b3c7d4eef44025f72ee5c3d628b2051a",
-      "date": "2026-11-14",
-      "heure": 22,
-      "album": "Bracelet",
-      "annee": 2026,
-      "start_ts": 1794697098,
-      "end_ts": 1794697279
     }
   ]
 }
