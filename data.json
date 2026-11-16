@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-15T21:13:11.500165",
-  "genere_ts": 1794777191,
+  "genere_le": "2026-11-16T00:59:47.082952",
+  "genere_ts": 1794790787,
   "volume": {
-    "nb_diffusions": 1291,
+    "nb_diffusions": 1295,
     "nb_artistes": 238,
     "nb_titres": 268,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-11-15",
-    "heures_antenne": 63.13,
+    "derniere_date": "2026-11-16",
+    "heures_antenne": 63.33,
     "duree_moy_s": 176.1
   },
   "top_artistes": [
@@ -19,9 +19,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 56,
+      "nb_diffusions": 57,
       "titres_differents": 1,
-      "minutes_antenne": 154.9
+      "minutes_antenne": 157.7
     },
     {
       "artistes": "KAROL G",
@@ -109,9 +109,9 @@
     },
     {
       "artistes": "Mauvais djo",
-      "nb_diffusions": 33,
+      "nb_diffusions": 34,
       "titres_differents": 5,
-      "minutes_antenne": 66.5
+      "minutes_antenne": 69.2
     },
     {
       "artistes": "Tame Impala",
@@ -136,8 +136,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 56,
-      "minutes_antenne": 154.9
+      "nb_diffusions": 57,
+      "minutes_antenne": 157.7
     },
     {
       "artistes": "Leto",
@@ -257,7 +257,7 @@
   "heures": [
     {
       "heure": 0,
-      "nb_diffusions": 120
+      "nb_diffusions": 126
     },
     {
       "heure": 1,
@@ -597,6 +597,11 @@
       "date": "2026-11-15",
       "nb_diffusions": 24,
       "titres_differents": 22
+    },
+    {
+      "date": "2026-11-16",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -606,7 +611,7 @@
     },
     {
       "jour": "Lundi",
-      "nb_diffusions": 150
+      "nb_diffusions": 156
     },
     {
       "jour": "Mardi",
@@ -638,9 +643,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_jours": 36,
-      "nb_diffusions": 56,
-      "minutes": 154.9
+      "nb_jours": 37,
+      "nb_diffusions": 57,
+      "minutes": 157.7
     },
     {
       "artistes": "Leto",
@@ -668,9 +673,9 @@
     },
     {
       "artistes": "Mauvais djo",
-      "nb_jours": 25,
-      "nb_diffusions": 33,
-      "minutes": 66.5
+      "nb_jours": 26,
+      "nb_diffusions": 34,
+      "minutes": 69.2
     },
     {
       "artistes": "Rusky",
@@ -755,8 +760,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_jours": 36,
-      "nb_diffusions": 56
+      "nb_jours": 37,
+      "nb_diffusions": 57
     },
     {
       "artistes": "Leto",
@@ -892,7 +897,7 @@
     {
       "artistes": "Mauvais djo",
       "nb_titres_differents": 5,
-      "nb_diffusions": 33
+      "nb_diffusions": 34
     },
     {
       "artistes": "KAROL G",
@@ -990,7 +995,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 754
+      "nb_diffusions": 758
     },
     {
       "annee": 2025,
@@ -1104,18 +1109,18 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 667
+      "nb": 670
     },
     {
       "type_contenu": "Explicit",
-      "nb": 622
+      "nb": 623
     }
   ],
   "albums": [
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 56
+      "nb_diffusions": 57
     },
     {
       "album": "Pineapple",
@@ -1214,19 +1219,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Nouméa",
-    "artistes": null,
-    "cover_deezer": null,
-    "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-    "preview_mp3": null,
-    "date": "2026-11-15",
-    "heure": 20,
-    "album": null,
-    "annee": null,
-    "start_ts": 1794776278,
-    "end_ts": 1794776459
+    "titre": "Histoire sans fin",
+    "artistes": "Yuston XIII",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1794791682~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=a7b5fbf1da6173561f73276f95ef3fc2c4187bff166882fe9a62f1010eb47191",
+    "date": "2026-11-16",
+    "heure": 0,
+    "album": "Les Enfants du Chaos",
+    "annee": 2026,
+    "start_ts": 1794790708,
+    "end_ts": 1794790913
   },
   "derniers_morceaux": [
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1794791682~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=a7b5fbf1da6173561f73276f95ef3fc2c4187bff166882fe9a62f1010eb47191",
+      "date": "2026-11-16",
+      "heure": 0,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1794790708,
+      "end_ts": 1794790913
+    },
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-16",
+      "heure": 0,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794790479,
+      "end_ts": 1794790713
+    },
+    {
+      "titre": "12",
+      "artistes": "Mauvais djo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/10b71b178c844d63099064213b9a9fbb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.926550190497851830.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0c0ffc5ce8bf7c0c37d0af14e4a3926.mp3?hdnea=exp=1794791683~acl=/api/1/1/f/0/c/0/f0c0ffc5ce8bf7c0c37d0af14e4a3926.mp3*~data=user_id=0,application_id=42~hmac=57ff56a138efa5561bd7e51f281cbc56643de1e55939bbce38717be55f5c699a",
+      "date": "2026-11-16",
+      "heure": 0,
+      "album": "L'undertaker, Pt.2",
+      "annee": 2026,
+      "start_ts": 1794790331,
+      "end_ts": 1794790496
+    },
+    {
+      "titre": "I Don't Wanna Know",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/13/SKYC.8469042264539263013.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-16",
+      "heure": 0,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794790096,
+      "end_ts": 1794790343
+    },
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1794791684~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=6f4654d6bb1b4ca931f4b9e8173778e4679dd34dc2900123898076fd30518ea2",
+      "date": "2026-11-16",
+      "heure": 0,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1794789935,
+      "end_ts": 1794790101
+    },
+    {
+      "titre": "Bella",
+      "artistes": "DMZ",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2e500a68bf6424f7dd94a53014f4f481/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/78/SKYC.3573273813361278578.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/0/0/780b073d6ae403b48a9fe833d5591c9a.mp3?hdnea=exp=1794791685~acl=/api/1/1/7/8/0/0/780b073d6ae403b48a9fe833d5591c9a.mp3*~data=user_id=0,application_id=42~hmac=14b8157ab6322d04947a66d4e504dedae61d89f153f0a701bdaf29514e13b43c",
+      "date": "2026-11-16",
+      "heure": 0,
+      "album": "Bella",
+      "annee": 2026,
+      "start_ts": 1794789639,
+      "end_ts": 1794789817
+    },
     {
       "titre": "Nouméa",
       "artistes": null,
@@ -1278,84 +1361,6 @@
       "annee": 2008,
       "start_ts": 1794768740,
       "end_ts": 1794768972
-    },
-    {
-      "titre": "funk you",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/27/SKYC.1516825501375980427.2.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-15",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1794768584,
-      "end_ts": 1794768735
-    },
-    {
-      "titre": "Goodies (No Rap)",
-      "artistes": "Ciara",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/280bae73da457dd10081aac861316717/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.2980153160530064851.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/7/a/0/e7a306798f862dc2b3a8a828915543e4.mp3?hdnea=exp=1794778090~acl=/api/1/1/e/7/a/0/e7a306798f862dc2b3a8a828915543e4.mp3*~data=user_id=0,application_id=42~hmac=7d73e1cc4ee4f29084bc50e5340df7933906d2aff00f8338244ddbf9561a9412",
-      "date": "2026-11-15",
-      "heure": 18,
-      "album": "Goodies",
-      "annee": 2004,
-      "start_ts": 1794768141,
-      "end_ts": 1794768363
-    },
-    {
-      "titre": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1794761599~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=7299cbc7800e6c20d83e66251c0992ce037a98a6ae874fc9f045d498ae5e5e68",
-      "date": "2026-11-15",
-      "heure": 16,
-      "album": "SEXY NANA (Radio Edit)",
-      "annee": 2026,
-      "start_ts": 1794760684,
-      "end_ts": 1794760836
-    },
-    {
-      "titre": "Billie Jean",
-      "artistes": "Chris Cornell",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1794761600~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=8fd16ab005ae16311be66c118784aa1b7f8ac34b10853f4da1e1bb159a8c5630",
-      "date": "2026-11-15",
-      "heure": 16,
-      "album": "Chris Cornell (Deluxe Edition)",
-      "annee": 2018,
-      "start_ts": 1794760401,
-      "end_ts": 1794760687
-    },
-    {
-      "titre": "Ne reviens pas",
-      "artistes": "Gradur",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cb796947a7677ddab4e190084b822653/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/54/SKYC.7538857047139874054.6.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/f/0/f2f76a862077391eff1364215d6979a5.mp3?hdnea=exp=1794761601~acl=/api/1/1/f/2/f/0/f2f76a862077391eff1364215d6979a5.mp3*~data=user_id=0,application_id=42~hmac=c610ec477bde40bed937de5f234b6483c48b92461b7d54646cb284018bca55c5",
-      "date": "2026-11-15",
-      "heure": 16,
-      "album": "Ne reviens pas",
-      "annee": 2019,
-      "start_ts": 1794760213,
-      "end_ts": 1794760399
-    },
-    {
-      "titre": "BbY WOW",
-      "artistes": "KAROL G",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1794761602~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=d93599af0552984f0e6039a3ce9f93f09785dc6cfefef4017f5dc940247ce593",
-      "date": "2026-11-15",
-      "heure": 16,
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "annee": 2026,
-      "start_ts": 1794759980,
-      "end_ts": 1794760203
     }
   ]
 }
