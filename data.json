@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-17T00:54:19.868375",
-  "genere_ts": 1794876859,
+  "genere_le": "2026-11-17T08:35:32.975863",
+  "genere_ts": 1794904532,
   "volume": {
-    "nb_diffusions": 1312,
+    "nb_diffusions": 1317,
     "nb_artistes": 239,
     "nb_titres": 270,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-17",
-    "heures_antenne": 64.15,
+    "heures_antenne": 64.4,
     "duree_moy_s": 176.0
   },
   "top_artistes": [
@@ -19,9 +19,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 57,
+      "nb_diffusions": 58,
       "titres_differents": 1,
-      "minutes_antenne": 157.7
+      "minutes_antenne": 160.4
     },
     {
       "artistes": "KAROL G",
@@ -96,6 +96,12 @@
       "minutes_antenne": 71.5
     },
     {
+      "artistes": "RnBoi",
+      "nb_diffusions": 24,
+      "titres_differents": 1,
+      "minutes_antenne": 70.9
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 29,
       "titres_differents": 1,
@@ -114,12 +120,6 @@
       "minutes_antenne": 69.2
     },
     {
-      "artistes": "RnBoi",
-      "nb_diffusions": 23,
-      "titres_differents": 1,
-      "minutes_antenne": 67.9
-    },
-    {
       "artistes": "Tame Impala",
       "nb_diffusions": 19,
       "titres_differents": 2,
@@ -136,8 +136,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 57,
-      "minutes_antenne": 157.7
+      "nb_diffusions": 58,
+      "minutes_antenne": 160.4
     },
     {
       "artistes": "Leto",
@@ -226,8 +226,8 @@
     {
       "artistes": "RnBoi",
       "titre": "J'assume",
-      "nb_diffusions": 23,
-      "minutes_antenne": 67.9
+      "nb_diffusions": 24,
+      "minutes_antenne": 70.9
     },
     {
       "artistes": "Gambi",
@@ -285,11 +285,11 @@
     },
     {
       "heure": 7,
-      "nb_diffusions": 41
+      "nb_diffusions": 45
     },
     {
       "heure": 8,
-      "nb_diffusions": 54
+      "nb_diffusions": 56
     },
     {
       "heure": 9,
@@ -605,8 +605,8 @@
     },
     {
       "date": "2026-11-17",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 12
     }
   ],
   "semaine": [
@@ -620,7 +620,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 268
+      "nb_diffusions": 274
     },
     {
       "jour": "Mercredi",
@@ -648,9 +648,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_jours": 37,
-      "nb_diffusions": 57,
-      "minutes": 157.7
+      "nb_jours": 38,
+      "nb_diffusions": 58,
+      "minutes": 160.4
     },
     {
       "artistes": "Leto",
@@ -732,9 +732,9 @@
     },
     {
       "artistes": "RnBoi",
-      "nb_jours": 19,
-      "nb_diffusions": 23,
-      "minutes": 67.9
+      "nb_jours": 20,
+      "nb_diffusions": 24,
+      "minutes": 70.9
     },
     {
       "artistes": "L2B",
@@ -765,8 +765,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_jours": 37,
-      "nb_diffusions": 57
+      "nb_jours": 38,
+      "nb_diffusions": 58
     },
     {
       "artistes": "Leto",
@@ -835,16 +835,16 @@
       "nb_diffusions": 26
     },
     {
+      "artistes": "RnBoi",
+      "titre": "J'assume",
+      "nb_jours": 20,
+      "nb_diffusions": 24
+    },
+    {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
       "nb_jours": 20,
       "nb_diffusions": 22
-    },
-    {
-      "artistes": "RnBoi",
-      "titre": "J'assume",
-      "nb_jours": 19,
-      "nb_diffusions": 23
     },
     {
       "artistes": "Jok'air",
@@ -977,7 +977,7 @@
     {
       "artistes": "abel31",
       "nb_titres_differents": 2,
-      "nb_diffusions": 4
+      "nb_diffusions": 5
     },
     {
       "artistes": "Gazo",
@@ -1000,15 +1000,15 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 771
+      "nb_diffusions": 773
     },
     {
       "annee": 2025,
-      "nb_diffusions": 135
+      "nb_diffusions": 136
     },
     {
       "annee": 2024,
-      "nb_diffusions": 89
+      "nb_diffusions": 90
     },
     {
       "annee": 2023,
@@ -1068,7 +1068,7 @@
     },
     {
       "annee": 2009,
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "annee": 2008,
@@ -1118,18 +1118,18 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 677
+      "nb": 681
     },
     {
       "type_contenu": "Explicit",
-      "nb": 633
+      "nb": 634
     }
   ],
   "albums": [
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 57
+      "nb_diffusions": 58
     },
     {
       "album": "Pineapple",
@@ -1202,6 +1202,11 @@
       "nb_diffusions": 24
     },
     {
+      "album": "J'assume",
+      "artistes": "RnBoi",
+      "nb_diffusions": 24
+    },
+    {
       "album": "CYBERTESLA",
       "artistes": "L2B",
       "nb_diffusions": 24
@@ -1217,30 +1222,103 @@
       "nb_diffusions": 23
     },
     {
-      "album": "J'assume",
-      "artistes": "RnBoi",
-      "nb_diffusions": 23
-    },
-    {
       "album": "WpointM",
       "artistes": "Tiakola",
       "nb_diffusions": 21
     }
   ],
   "dernier_morceau": {
-    "titre": "Cote à la hausse",
-    "artistes": "Bouss",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1794877752~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=3750e4581c503a7cf87411ab8d3cb7c6e62cc11aa95146e943736ae27e15947d",
+    "titre": "Fille à Papa",
+    "artistes": "Vacra",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1794905427~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=4a8f100d09c37a06d823c6477d93288f0a7124293d52ca4930f92c8c6f5e11fb",
     "date": "2026-11-17",
-    "heure": 0,
-    "album": "Et si j'échoue ??",
-    "annee": 2025,
-    "start_ts": 1794876747,
-    "end_ts": 1794876915
+    "heure": 8,
+    "album": "Fille à Papa",
+    "annee": 2026,
+    "start_ts": 1794904475,
+    "end_ts": 1794904641
   },
   "derniers_morceaux": [
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1794905427~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=4a8f100d09c37a06d823c6477d93288f0a7124293d52ca4930f92c8c6f5e11fb",
+      "date": "2026-11-17",
+      "heure": 8,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1794904475,
+      "end_ts": 1794904641
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1794905428~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=aa8a3a4d93b0a2d0e2b42b3e4ec6841ab7616de0c49c1e06b4c0a71a9cdc9f3f",
+      "date": "2026-11-17",
+      "heure": 8,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1794903183,
+      "end_ts": 1794903364
+    },
+    {
+      "titre": "Rude Boy",
+      "artistes": "Rihanna",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/af82bfab0277506de1d91c3f9d2e28c3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.8716830237892033729.20.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/7/0/99710befef9a6b2f1d297ad06da95573.mp3?hdnea=exp=1794905429~acl=/api/1/1/9/9/7/0/99710befef9a6b2f1d297ad06da95573.mp3*~data=user_id=0,application_id=42~hmac=6ab069a27524d92e40346da30e499649259e10d8e19244355f71c56ac97c90cd",
+      "date": "2026-11-17",
+      "heure": 7,
+      "album": "Rated R",
+      "annee": 2009,
+      "start_ts": 1794901685,
+      "end_ts": 1794901906
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-17",
+      "heure": 7,
+      "album": null,
+      "annee": null,
+      "start_ts": 1794901298,
+      "end_ts": 1794901446
+    },
+    {
+      "titre": "maladie (feat. baby hayabusa)",
+      "artistes": "abel31",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fb2e50acd8742e1129b8f49725825421/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/2/0/c2208ab90a62d1f8efc8db0349bd989e.mp3?hdnea=exp=1794905430~acl=/api/1/1/c/2/2/0/c2208ab90a62d1f8efc8db0349bd989e.mp3*~data=user_id=0,application_id=42~hmac=d68707d7aca401a374dc73024a8ffa0e9269d28ad8466c76ead75550ea605b5d",
+      "date": "2026-11-17",
+      "heure": 7,
+      "album": "0010",
+      "annee": 2024,
+      "start_ts": 1794900250,
+      "end_ts": 1794900401
+    },
+    {
+      "titre": "Billie Jean",
+      "artistes": "Sunset Chasers",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cf3b0394a9f3fd962f99c22602c493f8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/3/0/8f3892be022f48ffd61c8f5789d9147c.mp3?hdnea=exp=1794905431~acl=/api/1/1/8/f/3/0/8f3892be022f48ffd61c8f5789d9147c.mp3*~data=user_id=0,application_id=42~hmac=35e3c6696f041f212929a39836ad8dde8c5782702ea381b279d646565a7d30d5",
+      "date": "2026-11-17",
+      "heure": 7,
+      "album": "Billie Jean",
+      "annee": 2025,
+      "start_ts": 1794899729,
+      "end_ts": 1794899916
+    },
     {
       "titre": "Cote à la hausse",
       "artistes": "Bouss",
@@ -1292,84 +1370,6 @@
       "annee": 2026,
       "start_ts": 1794876254,
       "end_ts": 1794876404
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1794877757~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=f90e0068d42699cd4d6d8095a77b544bd441deb66f0ed535b5d0bd538d6e076f",
-      "date": "2026-11-17",
-      "heure": 0,
-      "album": "Nouméa",
-      "annee": 2026,
-      "start_ts": 1794875898,
-      "end_ts": 1794876122
-    },
-    {
-      "titre": "CYBERTESLA",
-      "artistes": "L2B",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ef5dfe6d935abe3f46b84e9abae2c03f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.8060880298267547308.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3?hdnea=exp=1794877758~acl=/api/1/1/8/8/e/0/88e5c1ce368603b9897f1086b28a949a.mp3*~data=user_id=0,application_id=42~hmac=e6ddc578eb871ca3b52c3772b51b05a5f123ce3f3e8d137b19bb7725bc9606cc",
-      "date": "2026-11-17",
-      "heure": 0,
-      "album": "CYBERTESLA",
-      "annee": 2026,
-      "start_ts": 1794875725,
-      "end_ts": 1794875898
-    },
-    {
-      "titre": "Housewife",
-      "artistes": "Tate McRae",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1794850831~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=087b4a51c7796720817095db2cb862c4d942389ae3a499842e73b68325feedd0",
-      "date": "2026-11-16",
-      "heure": 17,
-      "album": "Housewife",
-      "annee": 2026,
-      "start_ts": 1794849884,
-      "end_ts": 1794850089
-    },
-    {
-      "titre": "J'assume",
-      "artistes": "RnBoi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1794850832~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=59381d0dd0a3aa56137d049507cf00c17dc63a7cf6117bd082ebd9a15bd460a0",
-      "date": "2026-11-16",
-      "heure": 17,
-      "album": "J'assume",
-      "annee": 2026,
-      "start_ts": 1794849705,
-      "end_ts": 1794849882
-    },
-    {
-      "titre": "Wetin Day",
-      "artistes": "Zed",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a07fcb09e6597331fe4d23d1e9e0b4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/93/SKYC.5347151068534367293.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/4/0/f242762aa397a0327a1dadf74e1195af.mp3?hdnea=exp=1794850833~acl=/api/1/1/f/2/4/0/f242762aa397a0327a1dadf74e1195af.mp3*~data=user_id=0,application_id=42~hmac=30359c1e73a2549015c02d95e3143a37c3b67c1f077ce5460468d0e95cc7d23c",
-      "date": "2026-11-16",
-      "heure": 17,
-      "album": "Wetin Day",
-      "annee": 2026,
-      "start_ts": 1794849253,
-      "end_ts": 1794849385
-    },
-    {
-      "titre": "On s'attache",
-      "artistes": "Christophe Maé",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1794850834~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=666554b5974502a4ac6fa5387ef45220d5c567f3cd1afd49fd682d8d50a4af5d",
-      "date": "2026-11-16",
-      "heure": 17,
-      "album": "Mon paradis",
-      "annee": 2007,
-      "start_ts": 1794849070,
-      "end_ts": 1794849260
     }
   ]
 }
