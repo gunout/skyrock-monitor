@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-18T15:31:34.409819",
-  "genere_ts": 1795015894,
+  "genere_le": "2026-11-18T22:40:07.677429",
+  "genere_ts": 1795041607,
   "volume": {
-    "nb_diffusions": 1340,
-    "nb_artistes": 243,
+    "nb_diffusions": 1345,
+    "nb_artistes": 244,
     "nb_titres": 276,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-18",
-    "heures_antenne": 65.55,
+    "heures_antenne": 65.78,
     "duree_moy_s": 176.1
   },
   "top_artistes": [
@@ -31,9 +31,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 50,
+      "nb_diffusions": 51,
       "titres_differents": 1,
-      "minutes_antenne": 130.9
+      "minutes_antenne": 133.5
     },
     {
       "artistes": "GIMS",
@@ -142,8 +142,8 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_diffusions": 50,
-      "minutes_antenne": 130.9
+      "nb_diffusions": 51,
+      "minutes_antenne": 133.5
     },
     {
       "artistes": "Timal",
@@ -329,19 +329,19 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 133
+      "nb_diffusions": 134
     },
     {
       "heure": 19,
-      "nb_diffusions": 78
+      "nb_diffusions": 80
     },
     {
       "heure": 20,
-      "nb_diffusions": 57
+      "nb_diffusions": 58
     },
     {
       "heure": 21,
-      "nb_diffusions": 46
+      "nb_diffusions": 48
     },
     {
       "heure": 22,
@@ -610,8 +610,8 @@
     },
     {
       "date": "2026-11-18",
-      "nb_diffusions": 12,
-      "titres_differents": 12
+      "nb_diffusions": 18,
+      "titres_differents": 17
     }
   ],
   "semaine": [
@@ -629,7 +629,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 206
+      "nb_diffusions": 212
     },
     {
       "jour": "Jeudi",
@@ -659,9 +659,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_jours": 34,
-      "nb_diffusions": 50,
-      "minutes": 130.9
+      "nb_jours": 35,
+      "nb_diffusions": 51,
+      "minutes": 133.5
     },
     {
       "artistes": "Timal",
@@ -774,16 +774,16 @@
       "nb_diffusions": 60
     },
     {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_jours": 35,
+      "nb_diffusions": 51
+    },
+    {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 35,
       "nb_diffusions": 49
-    },
-    {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_jours": 34,
-      "nb_diffusions": 50
     },
     {
       "artistes": "Timal",
@@ -1005,7 +1005,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 785
+      "nb_diffusions": 788
     },
     {
       "annee": 2025,
@@ -1029,7 +1029,7 @@
     },
     {
       "annee": 2020,
-      "nb_diffusions": 14
+      "nb_diffusions": 15
     },
     {
       "annee": 2019,
@@ -1109,7 +1109,7 @@
     },
     {
       "annee": 1999,
-      "nb_diffusions": 6
+      "nb_diffusions": 7
     },
     {
       "annee": 1998,
@@ -1123,11 +1123,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 691
+      "nb": 692
     },
     {
       "type_contenu": "Explicit",
-      "nb": 647
+      "nb": 651
     }
   ],
   "albums": [
@@ -1139,12 +1139,12 @@
     {
       "album": "Pineapple",
       "artistes": "Leto",
-      "nb_diffusions": 54
+      "nb_diffusions": 55
     },
     {
       "album": "Sicario",
       "artistes": "Timal",
-      "nb_diffusions": 52
+      "nb_diffusions": 53
     },
     {
       "album": "Mélo Décalé",
@@ -1233,19 +1233,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Billie Jean",
-    "artistes": "Chris Cornell",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1795016787~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=c4f5ae24bdf81dff796571da9a5f85e1c3950872c037bbcfd2461f4ea146565e",
+    "titre": "12",
+    "artistes": "Sasso",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/39f76fb96e64bd1bfac2343b9e0f79cb/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.926550190497851830.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/c/0/0ccd790703d5f0f497546cea1b5db585.mp3?hdnea=exp=1795042501~acl=/api/1/1/0/c/c/0/0ccd790703d5f0f497546cea1b5db585.mp3*~data=user_id=0,application_id=42~hmac=e9e9e56f318f3b3252682d32281db5015de3ead5576d6785e339eae7f28a512f",
     "date": "2026-11-18",
-    "heure": 15,
-    "album": "Chris Cornell (Deluxe Edition)",
-    "annee": 2018,
-    "start_ts": 1795015671,
-    "end_ts": 1795015957
+    "heure": 21,
+    "album": "Enfant2LaRue Vol.1",
+    "annee": 2020,
+    "start_ts": 1795038952,
+    "end_ts": 1795039133
   },
   "derniers_morceaux": [
+    {
+      "titre": "12",
+      "artistes": "Sasso",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/39f76fb96e64bd1bfac2343b9e0f79cb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.926550190497851830.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/c/0/0ccd790703d5f0f497546cea1b5db585.mp3?hdnea=exp=1795042501~acl=/api/1/1/0/c/c/0/0ccd790703d5f0f497546cea1b5db585.mp3*~data=user_id=0,application_id=42~hmac=e9e9e56f318f3b3252682d32281db5015de3ead5576d6785e339eae7f28a512f",
+      "date": "2026-11-18",
+      "heure": 21,
+      "album": "Enfant2LaRue Vol.1",
+      "annee": 2020,
+      "start_ts": 1795038952,
+      "end_ts": 1795039133
+    },
+    {
+      "titre": "Sicario",
+      "artistes": "La Chine",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/725b9b2449c9fb54eb7e3ada0d8b6435/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/9/0/309a760faeff886120fb27b44ded3d38.mp3?hdnea=exp=1795042502~acl=/api/1/1/3/0/9/0/309a760faeff886120fb27b44ded3d38.mp3*~data=user_id=0,application_id=42~hmac=1a4ea3bd9bd6793b2ab209c5c8faf692bd0f76dcf33f93116d5bb2eb6ba8d7a4",
+      "date": "2026-11-18",
+      "heure": 21,
+      "album": "Sicario",
+      "annee": 2026,
+      "start_ts": 1795036831,
+      "end_ts": 1795037012
+    },
+    {
+      "titre": "Bodycount",
+      "artistes": "Le Crime",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1795042503~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=ca9bfea7135db5e0e15cdbe0e53c9423c00aca0b41727b7b419ed4a191a0b7e9",
+      "date": "2026-11-18",
+      "heure": 20,
+      "album": "Casus Belli",
+      "annee": 2026,
+      "start_ts": 1795033814,
+      "end_ts": 1795033964
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1795042504~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=3ce5344b84172ebeb152c275576ab99677acb7cf7d05c2df86327084d29903cd",
+      "date": "2026-11-18",
+      "heure": 19,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1795031878,
+      "end_ts": 1795032035
+    },
+    {
+      "titre": "Degun",
+      "artistes": "Massilia Sound System",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6e22871d769e15df376896de4c7df07f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3?hdnea=exp=1795042505~acl=/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3*~data=user_id=0,application_id=42~hmac=2fb39b0d0fe70c24bb657a0cc545b59f41099b6bd1b1f9a3e7648d88ee8b3f34",
+      "date": "2026-11-18",
+      "heure": 19,
+      "album": "Marseille London Experience",
+      "annee": 1999,
+      "start_ts": 1795029540,
+      "end_ts": 1795029691
+    },
+    {
+      "titre": "Professionnels",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-18",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795027950,
+      "end_ts": 1795028071
+    },
     {
       "titre": "Billie Jean",
       "artistes": "Chris Cornell",
@@ -1297,84 +1375,6 @@
       "annee": 2026,
       "start_ts": 1795014702,
       "end_ts": 1795014869
-    },
-    {
-      "titre": "Cuenta (feat. Meryl & Shay)",
-      "artistes": "Ronisia",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1795016791~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=63a45190b3f8bd50e56b2e576b11829fcfdffc7a6bb52374ed87c11293c0e8b9",
-      "date": "2026-11-18",
-      "heure": 15,
-      "album": "Cuenta (feat. Meryl & Shay)",
-      "annee": 2026,
-      "start_ts": 1795014527,
-      "end_ts": 1795014707
-    },
-    {
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "artistes": "Lil Gianni",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1795016793~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=aa8b963dcb6c94b5612201a6e40e3dc72f2dfaa8c778233879f12cbc14ec3ec9",
-      "date": "2026-11-18",
-      "heure": 15,
-      "album": "SAMPLEMAKER",
-      "annee": 2022,
-      "start_ts": 1795014355,
-      "end_ts": 1795014505
-    },
-    {
-      "titre": "Let's Get It Started",
-      "artistes": "Hits, Etc.",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/04cc3a78913f6614f926e4e496234add/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/84/SKYC.1098339107544610284.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/f/0/25f9c9aa0fc0cf4e004be8b5f0802a28.mp3?hdnea=exp=1794982829~acl=/api/1/1/2/5/f/0/25f9c9aa0fc0cf4e004be8b5f0802a28.mp3*~data=user_id=0,application_id=42~hmac=1653a2dbb5eded56f115d98bad0b74bf1ce563ceb774799a81d917f8f86d9f8e",
-      "date": "2026-11-18",
-      "heure": 5,
-      "album": "2000s Dance Party - Essential Pop and Hip Hop Hits",
-      "annee": 2012,
-      "start_ts": 1794981225,
-      "end_ts": 1794981440
-    },
-    {
-      "titre": "Nouméa",
-      "artistes": "Jok'air",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1794982831~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=c16bf086dd5ba500b9591997f65f51d3d8ed61a79fd4d7736644639fb6f86694",
-      "date": "2026-11-18",
-      "heure": 5,
-      "album": "Nouméa",
-      "annee": 2026,
-      "start_ts": 1794980417,
-      "end_ts": 1794980644
-    },
-    {
-      "titre": "Séminaire",
-      "artistes": "6YP",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2bf1f6352097396e9d4b697dcf9c372e/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/b/b/0/6bbc9d9ce85f229f1c78da39233d0e85.mp3?hdnea=exp=1794982832~acl=/api/1/1/6/b/b/0/6bbc9d9ce85f229f1c78da39233d0e85.mp3*~data=user_id=0,application_id=42~hmac=3e0f4de95866f3bc05e8f122f0c9925ae83a23cb56e072e190ca83f48aefcbe9",
-      "date": "2026-11-18",
-      "heure": 5,
-      "album": "Tout pour Dieu",
-      "annee": 2023,
-      "start_ts": 1794979721,
-      "end_ts": 1794979902
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1794982833~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=0ad621ecb59f49285c376a575d8dc70fcc031f0db4699636d6c841e41014f28b",
-      "date": "2026-11-18",
-      "heure": 5,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1794979048,
-      "end_ts": 1794979192
     }
   ]
 }
