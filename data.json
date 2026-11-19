@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-18T22:40:07.677429",
-  "genere_ts": 1795041607,
+  "genere_le": "2026-11-19T03:49:44.902118",
+  "genere_ts": 1795060184,
   "volume": {
-    "nb_diffusions": 1345,
+    "nb_diffusions": 1350,
     "nb_artistes": 244,
     "nb_titres": 276,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-11-18",
-    "heures_antenne": 65.78,
+    "derniere_date": "2026-11-19",
+    "heures_antenne": 66.04,
     "duree_moy_s": 176.1
   },
   "top_artistes": [
@@ -19,9 +19,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 60,
+      "nb_diffusions": 61,
       "titres_differents": 1,
-      "minutes_antenne": 166.0
+      "minutes_antenne": 168.8
     },
     {
       "artistes": "KAROL G",
@@ -136,8 +136,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 60,
-      "minutes_antenne": 166.0
+      "nb_diffusions": 61,
+      "minutes_antenne": 168.8
     },
     {
       "artistes": "Leto",
@@ -269,7 +269,7 @@
     },
     {
       "heure": 3,
-      "nb_diffusions": 43
+      "nb_diffusions": 49
     },
     {
       "heure": 4,
@@ -612,6 +612,11 @@
       "date": "2026-11-18",
       "nb_diffusions": 18,
       "titres_differents": 17
+    },
+    {
+      "date": "2026-11-19",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -633,7 +638,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 203
+      "nb_diffusions": 209
     },
     {
       "jour": "Vendredi",
@@ -653,9 +658,9 @@
     },
     {
       "artistes": "Vacra",
-      "nb_jours": 39,
-      "nb_diffusions": 60,
-      "minutes": 166.0
+      "nb_jours": 40,
+      "nb_diffusions": 61,
+      "minutes": 168.8
     },
     {
       "artistes": "Leto",
@@ -770,8 +775,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_jours": 39,
-      "nb_diffusions": 60
+      "nb_jours": 40,
+      "nb_diffusions": 61
     },
     {
       "artistes": "Leto",
@@ -1005,7 +1010,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 788
+      "nb_diffusions": 791
     },
     {
       "annee": 2025,
@@ -1021,7 +1026,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 91
+      "nb_diffusions": 92
     },
     {
       "annee": 2021,
@@ -1081,7 +1086,7 @@
     },
     {
       "annee": 2007,
-      "nb_diffusions": 19
+      "nb_diffusions": 20
     },
     {
       "annee": 2006,
@@ -1123,18 +1128,18 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 692
+      "nb": 695
     },
     {
       "type_contenu": "Explicit",
-      "nb": 651
+      "nb": 653
     }
   ],
   "albums": [
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 60
+      "nb_diffusions": 61
     },
     {
       "album": "Pineapple",
@@ -1233,19 +1238,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "12",
-    "artistes": "Sasso",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/39f76fb96e64bd1bfac2343b9e0f79cb/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.926550190497851830.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/c/c/0/0ccd790703d5f0f497546cea1b5db585.mp3?hdnea=exp=1795042501~acl=/api/1/1/0/c/c/0/0ccd790703d5f0f497546cea1b5db585.mp3*~data=user_id=0,application_id=42~hmac=e9e9e56f318f3b3252682d32281db5015de3ead5576d6785e339eae7f28a512f",
-    "date": "2026-11-18",
-    "heure": 21,
-    "album": "Enfant2LaRue Vol.1",
-    "annee": 2020,
-    "start_ts": 1795038952,
-    "end_ts": 1795039133
+    "titre": "Fille à Papa",
+    "artistes": "Vacra",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1795061078~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=70968ea302ecdf8197b9cced9cab87c11bac583d9055d19145664eea7864ed31",
+    "date": "2026-11-19",
+    "heure": 3,
+    "album": "Fille à Papa",
+    "annee": 2026,
+    "start_ts": 1795060168,
+    "end_ts": 1795060334
   },
   "derniers_morceaux": [
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1795061078~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=70968ea302ecdf8197b9cced9cab87c11bac583d9055d19145664eea7864ed31",
+      "date": "2026-11-19",
+      "heure": 3,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1795060168,
+      "end_ts": 1795060334
+    },
+    {
+      "titre": "Hey sexy wow",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/71/SKYC.1714965301514534871.2.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-19",
+      "heure": 3,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795059849,
+      "end_ts": 1795060029
+    },
+    {
+      "titre": "Cuenta (feat. Meryl & Shay)",
+      "artistes": "Ronisia",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1795061080~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=38c2e1724a2283b4e9306b7080f748677d1bd3d30b1869f613da0b77a9924490",
+      "date": "2026-11-19",
+      "heure": 3,
+      "album": "Cuenta (feat. Meryl & Shay)",
+      "annee": 2026,
+      "start_ts": 1795059666,
+      "end_ts": 1795059846
+    },
+    {
+      "titre": "L’enfer",
+      "artistes": "Stromae",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/07d285aac432f1d6452da1a7694f6bf3/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/91/SKYC.5019256606897616491.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/a/0/8bab976a5bfdd06583a4aa5d5758b7c9.mp3?hdnea=exp=1795061081~acl=/api/1/1/8/b/a/0/8bab976a5bfdd06583a4aa5d5758b7c9.mp3*~data=user_id=0,application_id=42~hmac=2ccb204a13c34d53f4a286fd39148e9680c882d3fac9e957a7aa35b0f7ebb332",
+      "date": "2026-11-19",
+      "heure": 3,
+      "album": "Multitude",
+      "annee": 2022,
+      "start_ts": 1795059484,
+      "end_ts": 1795059668
+    },
+    {
+      "titre": "Histoire sans fin",
+      "artistes": "Yuston XIII",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0320c80da8cd52114919d1bdf3101795/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.8319135071480864717.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3?hdnea=exp=1795061082~acl=/api/1/1/a/1/2/0/a12fa4a543653dde335b14dd5b192df9.mp3*~data=user_id=0,application_id=42~hmac=775d1a9f7e49da5477cab0a641f616778d0afe65f17a06d11efc39b2ff1cc7e3",
+      "date": "2026-11-19",
+      "heure": 3,
+      "album": "Les Enfants du Chaos",
+      "annee": 2026,
+      "start_ts": 1795059281,
+      "end_ts": 1795059486
+    },
+    {
+      "titre": "On s'attache",
+      "artistes": "Christophe Maé",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1795061083~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=4c6576086d1e918de73bf530240d766d87b52389fd8c36b7c630d1f6d903a83d",
+      "date": "2026-11-19",
+      "heure": 3,
+      "album": "Mon paradis",
+      "annee": 2007,
+      "start_ts": 1795059092,
+      "end_ts": 1795059282
+    },
     {
       "titre": "12",
       "artistes": "Sasso",
@@ -1297,84 +1380,6 @@
       "annee": 2026,
       "start_ts": 1795031878,
       "end_ts": 1795032035
-    },
-    {
-      "titre": "Degun",
-      "artistes": "Massilia Sound System",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6e22871d769e15df376896de4c7df07f/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3?hdnea=exp=1795042505~acl=/api/1/1/a/4/c/0/a4cd5ba01a1297bff677d5abffe46d84.mp3*~data=user_id=0,application_id=42~hmac=2fb39b0d0fe70c24bb657a0cc545b59f41099b6bd1b1f9a3e7648d88ee8b3f34",
-      "date": "2026-11-18",
-      "heure": 19,
-      "album": "Marseille London Experience",
-      "annee": 1999,
-      "start_ts": 1795029540,
-      "end_ts": 1795029691
-    },
-    {
-      "titre": "Professionnels",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/07/SKYC.7708688132015330507.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-18",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795027950,
-      "end_ts": 1795028071
-    },
-    {
-      "titre": "Billie Jean",
-      "artistes": "Chris Cornell",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1795016787~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=c4f5ae24bdf81dff796571da9a5f85e1c3950872c037bbcfd2461f4ea146565e",
-      "date": "2026-11-18",
-      "heure": 15,
-      "album": "Chris Cornell (Deluxe Edition)",
-      "annee": 2018,
-      "start_ts": 1795015671,
-      "end_ts": 1795015957
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1795016788~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=927f0bb34e2a4e32a326d96f896a03b988342aeae70956c16f0ab350c92b7039",
-      "date": "2026-11-18",
-      "heure": 15,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1795015503,
-      "end_ts": 1795015669
-    },
-    {
-      "titre": "Lola",
-      "artistes": "RK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7d3907119bc2456056cefdb881ef6503/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/68/SKYC.2515241012230219868.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1c0d353c44ae8e90a785e81c73cbf2c.mp3?hdnea=exp=1795016789~acl=/api/1/1/d/1/c/0/d1c0d353c44ae8e90a785e81c73cbf2c.mp3*~data=user_id=0,application_id=42~hmac=9685c14874af129f3143c4adbdc02535e57e9c676cb28fdffc11028672ddc3b3",
-      "date": "2026-11-18",
-      "heure": 15,
-      "album": "Lola",
-      "annee": 2022,
-      "start_ts": 1795014862,
-      "end_ts": 1795015005
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1795016790~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=f22405e2dae54915540ab8556c7bc3a3ac646a0beeec7e3448d7d0631256903f",
-      "date": "2026-11-18",
-      "heure": 15,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1795014702,
-      "end_ts": 1795014869
     }
   ]
 }
