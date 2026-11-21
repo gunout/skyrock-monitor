@@ -1,12 +1,12 @@
 ﻿artistes,nb_diffusions,titres_differents,minutes_antenne
-Tiakola,74,2,210.3
+Tiakola,75,3,213.2
 Vacra,63,1,174.3
 KAROL G,43,3,156.5
 Leto,51,1,133.5
 GIMS,42,5,126.0
 Timal,52,1,124.5
 Jok'air,31,2,113.6
-Slimane,34,1,105.4
+Slimane,35,1,108.5
 Apache 207,29,1,105.4
 Rusky,37,1,93.7
 RnBoi,28,1,82.7
@@ -18,9 +18,9 @@ Mauvais djo,35,5,71.5
 DJ Jordan MasterBoy,29,1,70.6
 Gambi,33,2,70.3
 Aya Nakamura,26,3,65.2
+Bouss,23,1,64.4
 Tame Impala,19,2,63.6
 Lil Gianni,25,1,62.5
-Bouss,22,1,61.6
 Bad Bunny,20,2,61.0
 Yuston XIII,17,1,58.1
 BIGBANG,16,1,58.1
@@ -44,11 +44,11 @@ ASHE 22,7,1,19.5
 Seventh,6,1,19.4
 TK,7,1,18.0
 Massilia Sound System,7,1,17.6
+Orelsan,8,1,17.1
 Bello&Dallas,8,1,16.1
 Zed,7,1,15.4
 "Hits, Etc.",4,2,15.4
 Ekloz,5,1,15.1
-Orelsan,7,1,14.9
 sped up + slowed,3,1,14.3
 BARA8!,7,1,14.1
 Stromae,4,2,13.0
@@ -64,6 +64,7 @@ Eivan SJ,3,1,11.2
 Rihanna,3,2,11.2
 USHER,3,1,10.9
 Drake,3,2,10.7
+fwd/slash,3,1,10.6
 Gazo,3,2,10.5
 Assimil,4,1,10.1
 Wassim,4,1,10.1
@@ -87,7 +88,6 @@ Soolking,2,1,7.3
 The Black Eyed Peas,2,1,7.3
 Jungeli,2,1,7.1
 Pablo Cepeda,2,1,7.1
-fwd/slash,2,1,7.1
 Beyoncé,2,2,7.0
 Flo Rida,2,2,7.0
 Emune,2,1,6.9
@@ -229,6 +229,7 @@ Guille Toledano,1,1,2.5
 Hikari,1,1,2.5
 K-Rosif,1,1,2.5
 Kojaque,1,1,2.5
+La Mano 1.9,1,1,2.5
 Lil Baby Grand,1,1,2.5
 Lil Nas X,1,1,2.5
 Louane,1,1,2.5
