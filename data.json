@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-21T19:33:50.001269",
-  "genere_ts": 1795289630,
+  "genere_le": "2026-11-21T23:53:38.345024",
+  "genere_ts": 1795305218,
   "volume": {
-    "nb_diffusions": 1400,
-    "nb_artistes": 252,
-    "nb_titres": 287,
+    "nb_diffusions": 1405,
+    "nb_artistes": 253,
+    "nb_titres": 288,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-21",
-    "heures_antenne": 68.44,
+    "heures_antenne": 68.69,
     "duree_moy_s": 176.0
   },
   "top_artistes": [
@@ -31,15 +31,15 @@
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 51,
+      "nb_diffusions": 52,
       "titres_differents": 1,
-      "minutes_antenne": 133.5
+      "minutes_antenne": 136.1
     },
     {
       "artistes": "GIMS",
-      "nb_diffusions": 43,
+      "nb_diffusions": 44,
       "titres_differents": 5,
-      "minutes_antenne": 128.9
+      "minutes_antenne": 131.9
     },
     {
       "artistes": "Timal",
@@ -120,16 +120,16 @@
       "minutes_antenne": 70.3
     },
     {
+      "artistes": "Lil Gianni",
+      "nb_diffusions": 27,
+      "titres_differents": 1,
+      "minutes_antenne": 67.5
+    },
+    {
       "artistes": "Bouss",
       "nb_diffusions": 24,
       "titres_differents": 1,
       "minutes_antenne": 67.2
-    },
-    {
-      "artistes": "Aya Nakamura",
-      "nb_diffusions": 26,
-      "titres_differents": 3,
-      "minutes_antenne": 65.2
     }
   ],
   "top_titres": [
@@ -138,6 +138,12 @@
       "titre": "Fille à Papa",
       "nb_diffusions": 64,
       "minutes_antenne": 177.1
+    },
+    {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_diffusions": 52,
+      "minutes_antenne": 136.1
     },
     {
       "artistes": "Tiakola",
@@ -152,16 +158,10 @@
       "minutes_antenne": 124.5
     },
     {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_diffusions": 51,
-      "minutes_antenne": 133.5
-    },
-    {
       "artistes": "GIMS",
       "titre": "VIVE LA MONNAIE",
-      "nb_diffusions": 39,
-      "minutes_antenne": 116.3
+      "nb_diffusions": 40,
+      "minutes_antenne": 119.3
     },
     {
       "artistes": "KAROL G",
@@ -220,8 +220,8 @@
     {
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "nb_diffusions": 26,
-      "minutes_antenne": 65.0
+      "nb_diffusions": 27,
+      "minutes_antenne": 67.5
     },
     {
       "artistes": "Bouss",
@@ -349,7 +349,7 @@
     },
     {
       "heure": 23,
-      "nb_diffusions": 47
+      "nb_diffusions": 53
     }
   ],
   "jours": [
@@ -625,8 +625,8 @@
     },
     {
       "date": "2026-11-21",
-      "nb_diffusions": 18,
-      "titres_differents": 15
+      "nb_diffusions": 24,
+      "titres_differents": 18
     }
   ],
   "semaine": [
@@ -656,7 +656,7 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 263
+      "nb_diffusions": 269
     }
   ],
   "recurrents": [
@@ -674,9 +674,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_jours": 35,
-      "nb_diffusions": 51,
-      "minutes": 133.5
+      "nb_jours": 36,
+      "nb_diffusions": 52,
+      "minutes": 136.1
     },
     {
       "artistes": "Timal",
@@ -693,8 +693,8 @@
     {
       "artistes": "GIMS",
       "nb_jours": 29,
-      "nb_diffusions": 43,
-      "minutes": 128.9
+      "nb_diffusions": 44,
+      "minutes": 131.9
     },
     {
       "artistes": "Mauvais djo",
@@ -759,8 +759,8 @@
     {
       "artistes": "Lil Gianni",
       "nb_jours": 20,
-      "nb_diffusions": 26,
-      "minutes": 65.0
+      "nb_diffusions": 27,
+      "minutes": 67.5
     },
     {
       "artistes": "Bouss",
@@ -797,8 +797,8 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_jours": 35,
-      "nb_diffusions": 51
+      "nb_jours": 36,
+      "nb_diffusions": 52
     },
     {
       "artistes": "Timal",
@@ -816,7 +816,7 @@
       "artistes": "GIMS",
       "titre": "VIVE LA MONNAIE",
       "nb_jours": 26,
-      "nb_diffusions": 39
+      "nb_diffusions": 40
     },
     {
       "artistes": "Rusky",
@@ -864,7 +864,7 @@
       "artistes": "Lil Gianni",
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_jours": 20,
-      "nb_diffusions": 26
+      "nb_diffusions": 27
     },
     {
       "artistes": "Bouss",
@@ -917,7 +917,7 @@
     {
       "artistes": "GIMS",
       "nb_titres_differents": 5,
-      "nb_diffusions": 43
+      "nb_diffusions": 44
     },
     {
       "artistes": "Mauvais djo",
@@ -1020,7 +1020,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 826
+      "nb_diffusions": 830
     },
     {
       "annee": 2025,
@@ -1036,7 +1036,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 96
+      "nb_diffusions": 97
     },
     {
       "annee": 2021,
@@ -1138,11 +1138,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 718
+      "nb": 721
     },
     {
       "type_contenu": "Explicit",
-      "nb": 680
+      "nb": 682
     }
   ],
   "albums": [
@@ -1152,13 +1152,13 @@
       "nb_diffusions": 64
     },
     {
-      "album": "Sicario",
-      "artistes": "Timal",
-      "nb_diffusions": 55
-    },
-    {
       "album": "Pineapple",
       "artistes": "Leto",
+      "nb_diffusions": 56
+    },
+    {
+      "album": "Sicario",
+      "artistes": "Timal",
       "nb_diffusions": 55
     },
     {
@@ -1169,7 +1169,7 @@
     {
       "album": "VIVE LA MONNAIE",
       "artistes": "GIMS",
-      "nb_diffusions": 39
+      "nb_diffusions": 40
     },
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -1219,7 +1219,7 @@
     {
       "album": "SAMPLEMAKER",
       "artistes": "Lil Gianni",
-      "nb_diffusions": 26
+      "nb_diffusions": 27
     },
     {
       "album": "WpointM",
@@ -1248,19 +1248,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-    "artistes": "Lil Gianni",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1795290524~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=3b90a462b76c7bdced3b8df5a7b4dcb31417b5db4a54f677f2fd49f98d716414",
+    "titre": "Housewife",
+    "artistes": "Tate McRae",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1795306112~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=1940081638cfaa1fc9bacae7ee2d44373f46fb75a3afe656cd8feded780e68b6",
     "date": "2026-11-21",
-    "heure": 19,
-    "album": "SAMPLEMAKER",
-    "annee": 2022,
-    "start_ts": 1795289473,
-    "end_ts": 1795289623
+    "heure": 23,
+    "album": "Housewife",
+    "annee": 2026,
+    "start_ts": 1795305151,
+    "end_ts": 1795305356
   },
   "derniers_morceaux": [
+    {
+      "titre": "Housewife",
+      "artistes": "Tate McRae",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1795306112~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=1940081638cfaa1fc9bacae7ee2d44373f46fb75a3afe656cd8feded780e68b6",
+      "date": "2026-11-21",
+      "heure": 23,
+      "album": "Housewife",
+      "annee": 2026,
+      "start_ts": 1795305151,
+      "end_ts": 1795305356
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1795306113~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=a95143893e043c28bef5ad2af754fa5fb619955e1d38819237f79bb8b70a6139",
+      "date": "2026-11-21",
+      "heure": 23,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1795304993,
+      "end_ts": 1795305150
+    },
+    {
+      "titre": "Human (Chill Mix)",
+      "artistes": "Alex Adair",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/be5e1facc55c1d95ab465cab067577a0/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.1067965545778184898.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/8/0/d58c72eb1589811dbdfe79944cad9bb8.mp3?hdnea=exp=1795306114~acl=/api/1/1/d/5/8/0/d58c72eb1589811dbdfe79944cad9bb8.mp3*~data=user_id=0,application_id=42~hmac=5a3ad722394339edbe812a283f939c84e6c61d9ba1c83807a3bd6dab221a8a20",
+      "date": "2026-11-21",
+      "heure": 23,
+      "album": "Human (Chill Mix)",
+      "annee": 2026,
+      "start_ts": 1795304801,
+      "end_ts": 1795304994
+    },
+    {
+      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
+      "artistes": "Lil Gianni",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1795306115~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=5a474ee4283a2d71df301253490b07a5470b4eb1f4bb9c1a46c34cc4c1c97aec",
+      "date": "2026-11-21",
+      "heure": 23,
+      "album": "SAMPLEMAKER",
+      "annee": 2022,
+      "start_ts": 1795304651,
+      "end_ts": 1795304801
+    },
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-21",
+      "heure": 23,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795304334,
+      "end_ts": 1795304568
+    },
+    {
+      "titre": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/1835723079118514c0b09a337e4bac9f/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3?hdnea=exp=1795306116~acl=/api/1/1/7/8/5/0/785999af214aef6accbab44b05ff339c.mp3*~data=user_id=0,application_id=42~hmac=9e8c773d4e73be2b4ecf689de9cd47e8a3ca9844f295adeddab81db4210e0410",
+      "date": "2026-11-21",
+      "heure": 23,
+      "album": "VIVE LA MONNAIE",
+      "annee": 2026,
+      "start_ts": 1795304157,
+      "end_ts": 1795304335
+    },
     {
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "artistes": "Lil Gianni",
@@ -1312,84 +1390,6 @@
       "annee": 2025,
       "start_ts": 1795288918,
       "end_ts": 1795289086
-    },
-    {
-      "titre": "Fille à Papa",
-      "artistes": "Vacra",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1795290527~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=ed043de2555a6190198b2ff848baf41f7ea3697cbf9f2e6186228d0def6b6c3c",
-      "date": "2026-11-21",
-      "heure": 19,
-      "album": "Fille à Papa",
-      "annee": 2026,
-      "start_ts": 1795288751,
-      "end_ts": 1795288917
-    },
-    {
-      "titre": "BANTU MENTALITÉ",
-      "artistes": "SDM",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6fbcac43aeb93c95ae60aa652145caeb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/64/SKYC.1741044035914570464.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/2/0/3a2f6f1f6e5a95944b095b186f2b5bf3.mp3?hdnea=exp=1795290528~acl=/api/1/1/3/a/2/0/3a2f6f1f6e5a95944b095b186f2b5bf3.mp3*~data=user_id=0,application_id=42~hmac=871b17c91f2c5d86e831408bd3c20303a63fb5142adf086c3dce669ab1c6bde2",
-      "date": "2026-11-21",
-      "heure": 19,
-      "album": "IN INFINITUM",
-      "annee": 2026,
-      "start_ts": 1795288297,
-      "end_ts": 1795288480
-    },
-    {
-      "titre": "Cuenta (feat. Meryl & Shay)",
-      "artistes": "Ronisia",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1795264840~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=524de4827fcfdd095431d380f8555be1ffe9ebce9168086c7f947fbbefd53726",
-      "date": "2026-11-21",
-      "heure": 12,
-      "album": "Cuenta (feat. Meryl & Shay)",
-      "annee": 2026,
-      "start_ts": 1795263868,
-      "end_ts": 1795264048
-    },
-    {
-      "titre": "Bodycount",
-      "artistes": "Le Crime",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1795264841~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=65267ecaeb2c9ef2e181b2f9ed286382ae42d429b209f048f6e30e023e761807",
-      "date": "2026-11-21",
-      "heure": 12,
-      "album": "Casus Belli",
-      "annee": 2026,
-      "start_ts": 1795263712,
-      "end_ts": 1795263862
-    },
-    {
-      "titre": "Jet Lag",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/37/SKYC.8486215703553217237.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/a/0/42a854aba9e3cadf507fa40d897f7243.mp3?hdnea=exp=1795264842~acl=/api/1/1/4/2/a/0/42a854aba9e3cadf507fa40d897f7243.mp3*~data=user_id=0,application_id=42~hmac=6d5c4135482bb5d733feadf03064de1a64555df600b632917eca3a11d1d730b2",
-      "date": "2026-11-21",
-      "heure": 12,
-      "album": "WpointM",
-      "annee": 2026,
-      "start_ts": 1795263094,
-      "end_ts": 1795263269
-    },
-    {
-      "titre": "XXX",
-      "artistes": "Orelsan",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5d7f42f3a107fe479f02583c38227b24/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.3422119490917987222.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3?hdnea=exp=1795264843~acl=/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3*~data=user_id=0,application_id=42~hmac=a4a2cdc739bd72bc305133bdbf189dde811ebaa17addc4a3d176fb729039fbec",
-      "date": "2026-11-21",
-      "heure": 12,
-      "album": "XXX",
-      "annee": 2026,
-      "start_ts": 1795262963,
-      "end_ts": 1795263091
     }
   ]
 }
