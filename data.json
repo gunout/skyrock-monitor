@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-22T11:52:59.563850",
-  "genere_ts": 1795348379,
+  "genere_le": "2026-11-22T18:41:38.389744",
+  "genere_ts": 1795372898,
   "volume": {
-    "nb_diffusions": 1415,
-    "nb_artistes": 254,
-    "nb_titres": 290,
+    "nb_diffusions": 1419,
+    "nb_artistes": 257,
+    "nb_titres": 294,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-22",
-    "heures_antenne": 69.19,
-    "duree_moy_s": 176.0
+    "heures_antenne": 69.45,
+    "duree_moy_s": 176.2
   },
   "top_artistes": [
     {
@@ -329,7 +329,7 @@
     },
     {
       "heure": 18,
-      "nb_diffusions": 139
+      "nb_diffusions": 145
     },
     {
       "heure": 19,
@@ -630,14 +630,14 @@
     },
     {
       "date": "2026-11-22",
-      "nb_diffusions": 12,
-      "titres_differents": 12
+      "nb_diffusions": 18,
+      "titres_differents": 18
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 243
+      "nb_diffusions": 249
     },
     {
       "jour": "Lundi",
@@ -1041,7 +1041,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 97
+      "nb_diffusions": 98
     },
     {
       "annee": 2021,
@@ -1049,7 +1049,7 @@
     },
     {
       "annee": 2020,
-      "nb_diffusions": 15
+      "nb_diffusions": 16
     },
     {
       "annee": 2019,
@@ -1101,7 +1101,7 @@
     },
     {
       "annee": 2007,
-      "nb_diffusions": 20
+      "nb_diffusions": 21
     },
     {
       "annee": 2006,
@@ -1117,7 +1117,7 @@
     },
     {
       "annee": 2002,
-      "nb_diffusions": 1
+      "nb_diffusions": 2
     },
     {
       "annee": 2001,
@@ -1143,11 +1143,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 725
+      "nb": 726
     },
     {
       "type_contenu": "Explicit",
-      "nb": 688
+      "nb": 691
     }
   ],
   "albums": [
@@ -1253,19 +1253,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Criminel",
-    "artistes": "Werenoi",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f131bfe81cabbfd3a3d935a850c26f12/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.4435687477361698215.2.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/7/0/cb79d041417f3a8c30de3d2450d593a6.mp3?hdnea=exp=1795349273~acl=/api/1/1/c/b/7/0/cb79d041417f3a8c30de3d2450d593a6.mp3*~data=user_id=0,application_id=42~hmac=d29ed3e7d2cf3aae7c4d621bb5b413eba795efb4ec383e1cf3c7180c75b4e1c5",
+    "titre": "Cœur de pierre",
+    "artistes": "Hayce Lemsi",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e99b5eb24b07d452d4003539cd12c6fd/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/00/SKYC.1245154332769317300.2.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/8/0/a8865fb95215cbebd7ad8fc9f283f7ec.mp3?hdnea=exp=1795373792~acl=/api/1/1/a/8/8/0/a8865fb95215cbebd7ad8fc9f283f7ec.mp3*~data=user_id=0,application_id=42~hmac=47db0da09497f322071e000fc20efa5bdc7f022ec600cc886de7a9faf6d105a6",
     "date": "2026-11-22",
-    "heure": 11,
-    "album": "Criminel",
-    "annee": 2021,
-    "start_ts": 1795347805,
-    "end_ts": 1795347996
+    "heure": 18,
+    "album": "À des années lumières (Adal 2)",
+    "annee": 2020,
+    "start_ts": 1795372758,
+    "end_ts": 1795372980
   },
   "derniers_morceaux": [
+    {
+      "titre": "Cœur de pierre",
+      "artistes": "Hayce Lemsi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e99b5eb24b07d452d4003539cd12c6fd/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/00/SKYC.1245154332769317300.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/8/0/a8865fb95215cbebd7ad8fc9f283f7ec.mp3?hdnea=exp=1795373792~acl=/api/1/1/a/8/8/0/a8865fb95215cbebd7ad8fc9f283f7ec.mp3*~data=user_id=0,application_id=42~hmac=47db0da09497f322071e000fc20efa5bdc7f022ec600cc886de7a9faf6d105a6",
+      "date": "2026-11-22",
+      "heure": 18,
+      "album": "À des années lumières (Adal 2)",
+      "annee": 2020,
+      "start_ts": 1795372758,
+      "end_ts": 1795372980
+    },
+    {
+      "titre": "Berwyn (all that i got is you)",
+      "artistes": "Fred again..",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0c79babffc5400d88fc40db5806858a6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.7665823089496846217.9.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/1/0/0/5109db2c6e5c0b5f621b6934a45e7eb5.mp3?hdnea=exp=1795373793~acl=/api/1/1/5/1/0/0/5109db2c6e5c0b5f621b6934a45e7eb5.mp3*~data=user_id=0,application_id=42~hmac=5d12932f6e29d006509df23d7d2c0d7bbcf1b01ad54778cc9b026f545b9a196c",
+      "date": "2026-11-22",
+      "heure": 18,
+      "album": "Actual Life 3 (January 1 - September 9 2022)",
+      "annee": 2022,
+      "start_ts": 1795372540,
+      "end_ts": 1795372762
+    },
+    {
+      "titre": "R&B 2 Rue",
+      "artistes": "Matt",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49bd50a72f342f40a089bfc049c84528/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/85/SKYC.1591107360475768185.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/1/0/dc18bc1f02cf987ff08c5b19219390e5.mp3?hdnea=exp=1795373794~acl=/api/1/1/d/c/1/0/dc18bc1f02cf987ff08c5b19219390e5.mp3*~data=user_id=0,application_id=42~hmac=d47adc059e26b4fb70863e5111d385ab0afb56c507c3fc0ed4edb4f09d36b059",
+      "date": "2026-11-22",
+      "heure": 18,
+      "album": "R&B 2 Rue",
+      "annee": 2002,
+      "start_ts": 1795372310,
+      "end_ts": 1795372540
+    },
+    {
+      "titre": "Fu-gee-la",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.1241902625091429751.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-22",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795372077,
+      "end_ts": 1795372316
+    },
+    {
+      "titre": "Jackpotes 2000 - Inédit",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9058059342479115558.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-22",
+      "heure": 18,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795371845,
+      "end_ts": 1795372085
+    },
+    {
+      "titre": "Without Me",
+      "artistes": "Eminem",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.8291244469140894825.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3?hdnea=exp=1795373797~acl=/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3*~data=user_id=0,application_id=42~hmac=9e0e0f01e6b99d9a852da1e00171da58773391a83e8bd67a58896a333394d56a",
+      "date": "2026-11-22",
+      "heure": 18,
+      "album": "The Eminem Show",
+      "annee": 2007,
+      "start_ts": 1795371565,
+      "end_ts": 1795371848
+    },
     {
       "titre": "Criminel",
       "artistes": "Werenoi",
@@ -1317,84 +1395,6 @@
       "annee": 2024,
       "start_ts": 1795347248,
       "end_ts": 1795347462
-    },
-    {
-      "titre": "Allo Doudou",
-      "artistes": "Niska",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1795349277~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=f909654340c9a8a151b108a32619aade465a2ccb92a1b1d058b577fe09c3aede",
-      "date": "2026-11-22",
-      "heure": 11,
-      "album": "Allo Doudou",
-      "annee": 2026,
-      "start_ts": 1795347079,
-      "end_ts": 1795347246
-    },
-    {
-      "titre": "Loser",
-      "artistes": "Apache 207",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.379.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1795349278~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=8fe2b817da23add5e68a46eae32fd5bca5d35969a81366cae1cfb2a8900b22eb",
-      "date": "2026-11-22",
-      "heure": 11,
-      "album": "Loser",
-      "annee": 2024,
-      "start_ts": 1795346864,
-      "end_ts": 1795347082
-    },
-    {
-      "titre": "J'assume",
-      "artistes": "RnBoi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1795319275~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=51e2a4d072ce3cc8f5a0e29dc8882e27492220fd73100342067d84bd1ed38476",
-      "date": "2026-11-22",
-      "heure": 3,
-      "album": "J'assume",
-      "annee": 2026,
-      "start_ts": 1795318231,
-      "end_ts": 1795318408
-    },
-    {
-      "titre": "BIR HAKEIM",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-22",
-      "heure": 3,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795317997,
-      "end_ts": 1795318231
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1795319276~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=d21c6cdd5d6b786e9dec3783b1137e01d942d6267953a9ccfb73f5a1b4809dfb",
-      "date": "2026-11-22",
-      "heure": 3,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1795317847,
-      "end_ts": 1795317998
-    },
-    {
-      "titre": "Say My Name - Inédit",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/61/SKYC.2376806425774383761.5.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-22",
-      "heure": 3,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795317610,
-      "end_ts": 1795317849
     }
   ]
 }
