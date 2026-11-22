@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-22T03:33:00.356501",
-  "genere_ts": 1795318380,
+  "genere_le": "2026-11-22T11:52:59.563850",
+  "genere_ts": 1795348379,
   "volume": {
-    "nb_diffusions": 1409,
-    "nb_artistes": 253,
-    "nb_titres": 288,
+    "nb_diffusions": 1415,
+    "nb_artistes": 254,
+    "nb_titres": 290,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-22",
-    "heures_antenne": 68.87,
+    "heures_antenne": 69.19,
     "duree_moy_s": 176.0
   },
   "top_artistes": [
@@ -54,34 +54,34 @@
       "minutes_antenne": 113.6
     },
     {
+      "artistes": "Apache 207",
+      "nb_diffusions": 30,
+      "titres_differents": 1,
+      "minutes_antenne": 109.0
+    },
+    {
       "artistes": "Slimane",
       "nb_diffusions": 35,
       "titres_differents": 1,
       "minutes_antenne": 108.5
     },
     {
-      "artistes": "Apache 207",
-      "nb_diffusions": 29,
+      "artistes": "Rusky",
+      "nb_diffusions": 38,
       "titres_differents": 1,
-      "minutes_antenne": 105.4
+      "minutes_antenne": 96.2
     },
     {
-      "artistes": "Rusky",
-      "nb_diffusions": 37,
-      "titres_differents": 1,
-      "minutes_antenne": 93.7
+      "artistes": "Niska",
+      "nb_diffusions": 31,
+      "titres_differents": 2,
+      "minutes_antenne": 86.7
     },
     {
       "artistes": "RnBoi",
       "nb_diffusions": 29,
       "titres_differents": 1,
       "minutes_antenne": 85.7
-    },
-    {
-      "artistes": "Niska",
-      "nb_diffusions": 30,
-      "titres_differents": 2,
-      "minutes_antenne": 83.9
     },
     {
       "artistes": "PLK",
@@ -172,8 +172,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 37,
-      "minutes_antenne": 93.7
+      "nb_diffusions": 38,
+      "minutes_antenne": 96.2
     },
     {
       "artistes": "Slimane",
@@ -184,20 +184,20 @@
     {
       "artistes": "Apache 207",
       "titre": "Loser",
-      "nb_diffusions": 29,
-      "minutes_antenne": 105.4
+      "nb_diffusions": 30,
+      "minutes_antenne": 109.0
+    },
+    {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_diffusions": 30,
+      "minutes_antenne": 83.5
     },
     {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
       "nb_diffusions": 29,
       "minutes_antenne": 70.6
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_diffusions": 29,
-      "minutes_antenne": 80.7
     },
     {
       "artistes": "PLK",
@@ -301,7 +301,7 @@
     },
     {
       "heure": 11,
-      "nb_diffusions": 17
+      "nb_diffusions": 23
     },
     {
       "heure": 12,
@@ -630,14 +630,14 @@
     },
     {
       "date": "2026-11-22",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 12
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 237
+      "nb_diffusions": 243
     },
     {
       "jour": "Lundi",
@@ -709,9 +709,9 @@
     },
     {
       "artistes": "Rusky",
-      "nb_jours": 25,
-      "nb_diffusions": 37,
-      "minutes": 93.7
+      "nb_jours": 26,
+      "nb_diffusions": 38,
+      "minutes": 96.2
     },
     {
       "artistes": "Slimane",
@@ -726,6 +726,18 @@
       "minutes": 70.3
     },
     {
+      "artistes": "Niska",
+      "nb_jours": 24,
+      "nb_diffusions": 31,
+      "minutes": 86.7
+    },
+    {
+      "artistes": "Apache 207",
+      "nb_jours": 24,
+      "nb_diffusions": 30,
+      "minutes": 109.0
+    },
+    {
       "artistes": "PLK",
       "nb_jours": 24,
       "nb_diffusions": 30,
@@ -736,18 +748,6 @@
       "nb_jours": 24,
       "nb_diffusions": 29,
       "minutes": 85.7
-    },
-    {
-      "artistes": "Niska",
-      "nb_jours": 23,
-      "nb_diffusions": 30,
-      "minutes": 83.9
-    },
-    {
-      "artistes": "Apache 207",
-      "nb_jours": 23,
-      "nb_diffusions": 29,
-      "minutes": 105.4
     },
     {
       "artistes": "Jok'air",
@@ -826,14 +826,26 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_jours": 25,
-      "nb_diffusions": 37
+      "nb_jours": 26,
+      "nb_diffusions": 38
     },
     {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_jours": 25,
       "nb_diffusions": 35
+    },
+    {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
+      "nb_jours": 24,
+      "nb_diffusions": 30
+    },
+    {
+      "artistes": "Apache 207",
+      "titre": "Loser",
+      "nb_jours": 24,
+      "nb_diffusions": 30
     },
     {
       "artistes": "RnBoi",
@@ -844,18 +856,6 @@
     {
       "artistes": "PLK",
       "titre": "Pocahontas",
-      "nb_jours": 23,
-      "nb_diffusions": 29
-    },
-    {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_jours": 23,
-      "nb_diffusions": 29
-    },
-    {
-      "artistes": "Apache 207",
-      "titre": "Loser",
       "nb_jours": 23,
       "nb_diffusions": 29
     },
@@ -960,6 +960,11 @@
       "nb_diffusions": 4
     },
     {
+      "artistes": "Werenoi",
+      "nb_titres_differents": 3,
+      "nb_diffusions": 3
+    },
+    {
       "artistes": "Gambi",
       "nb_titres_differents": 2,
       "nb_diffusions": 33
@@ -972,7 +977,7 @@
     {
       "artistes": "Niska",
       "nb_titres_differents": 2,
-      "nb_diffusions": 30
+      "nb_diffusions": 31
     },
     {
       "artistes": "PLK",
@@ -1003,11 +1008,6 @@
       "artistes": "Ariana Grande",
       "nb_titres_differents": 2,
       "nb_diffusions": 9
-    },
-    {
-      "artistes": "abel31",
-      "nb_titres_differents": 2,
-      "nb_diffusions": 5
     }
   ],
   "emissions": [
@@ -1025,7 +1025,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 834
+      "nb_diffusions": 837
     },
     {
       "annee": 2025,
@@ -1033,7 +1033,7 @@
     },
     {
       "annee": 2024,
-      "nb_diffusions": 93
+      "nb_diffusions": 95
     },
     {
       "annee": 2023,
@@ -1045,7 +1045,7 @@
     },
     {
       "annee": 2021,
-      "nb_diffusions": 18
+      "nb_diffusions": 19
     },
     {
       "annee": 2020,
@@ -1143,11 +1143,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 722
+      "nb": 725
     },
     {
       "type_contenu": "Explicit",
-      "nb": 685
+      "nb": 688
     }
   ],
   "albums": [
@@ -1184,7 +1184,7 @@
     {
       "album": "SEXY NANA (Radio Edit)",
       "artistes": "Rusky",
-      "nb_diffusions": 37
+      "nb_diffusions": 38
     },
     {
       "album": "Chroniques d’un cupidon",
@@ -1194,7 +1194,12 @@
     {
       "album": "Loser",
       "artistes": "Apache 207",
-      "nb_diffusions": 29
+      "nb_diffusions": 30
+    },
+    {
+      "album": "Allo Doudou",
+      "artistes": "Niska",
+      "nb_diffusions": 30
     },
     {
       "album": "La petasse",
@@ -1209,11 +1214,6 @@
     {
       "album": "Grand Garçon",
       "artistes": "PLK",
-      "nb_diffusions": 29
-    },
-    {
-      "album": "Allo Doudou",
-      "artistes": "Niska",
       "nb_diffusions": 29
     },
     {
@@ -1253,19 +1253,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "J'assume",
-    "artistes": "RnBoi",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1795319275~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=51e2a4d072ce3cc8f5a0e29dc8882e27492220fd73100342067d84bd1ed38476",
+    "titre": "Criminel",
+    "artistes": "Werenoi",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f131bfe81cabbfd3a3d935a850c26f12/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.4435687477361698215.2.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/7/0/cb79d041417f3a8c30de3d2450d593a6.mp3?hdnea=exp=1795349273~acl=/api/1/1/c/b/7/0/cb79d041417f3a8c30de3d2450d593a6.mp3*~data=user_id=0,application_id=42~hmac=d29ed3e7d2cf3aae7c4d621bb5b413eba795efb4ec383e1cf3c7180c75b4e1c5",
     "date": "2026-11-22",
-    "heure": 3,
-    "album": "J'assume",
-    "annee": 2026,
-    "start_ts": 1795318231,
-    "end_ts": 1795318408
+    "heure": 11,
+    "album": "Criminel",
+    "annee": 2021,
+    "start_ts": 1795347805,
+    "end_ts": 1795347996
   },
   "derniers_morceaux": [
+    {
+      "titre": "Criminel",
+      "artistes": "Werenoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f131bfe81cabbfd3a3d935a850c26f12/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.4435687477361698215.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/7/0/cb79d041417f3a8c30de3d2450d593a6.mp3?hdnea=exp=1795349273~acl=/api/1/1/c/b/7/0/cb79d041417f3a8c30de3d2450d593a6.mp3*~data=user_id=0,application_id=42~hmac=d29ed3e7d2cf3aae7c4d621bb5b413eba795efb4ec383e1cf3c7180c75b4e1c5",
+      "date": "2026-11-22",
+      "heure": 11,
+      "album": "Criminel",
+      "annee": 2021,
+      "start_ts": 1795347805,
+      "end_ts": 1795347996
+    },
+    {
+      "titre": "Chaussures Roses",
+      "artistes": "TeddyBear",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/02a449ca102112cc7526ac14fc4c7a34/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3315345366449998416.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3?hdnea=exp=1795349274~acl=/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3*~data=user_id=0,application_id=42~hmac=a0dfffb1695ecebc1ce30d0f3c799e2d17fc039d8072bea76283e351b998efc4",
+      "date": "2026-11-22",
+      "heure": 11,
+      "album": "Le Plus Beau",
+      "annee": 2026,
+      "start_ts": 1795347612,
+      "end_ts": 1795347806
+    },
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1795349275~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=63814a67abb9f0c0f745ca6034ef946ac70a6c99b2382c3c92f8e5da4eac757b",
+      "date": "2026-11-22",
+      "heure": 11,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1795347458,
+      "end_ts": 1795347610
+    },
+    {
+      "titre": "Boom Boom Pow",
+      "artistes": "Designer Disguise",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/03f559db9131b92047d00ca4ae8d3be6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/68/SKYC.424444704767954268.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/f/0/98ff757de166e442a2b8ec2323a04920.mp3?hdnea=exp=1795349276~acl=/api/1/1/9/8/f/0/98ff757de166e442a2b8ec2323a04920.mp3*~data=user_id=0,application_id=42~hmac=59636ffe6e7dba911b4c997fdb8224fe6c7b5c85a8ad5da2273bac86405e868e",
+      "date": "2026-11-22",
+      "heure": 11,
+      "album": "WOW That's What I Call Metalcore, Vol. 1",
+      "annee": 2024,
+      "start_ts": 1795347248,
+      "end_ts": 1795347462
+    },
+    {
+      "titre": "Allo Doudou",
+      "artistes": "Niska",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fcc8837889bc5a79ef98d7b357a30b28/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/49/SKYC.8256059233559435449.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3?hdnea=exp=1795349277~acl=/api/1/1/3/f/1/0/3f10242997986c96578bca72d6f41bfb.mp3*~data=user_id=0,application_id=42~hmac=f909654340c9a8a151b108a32619aade465a2ccb92a1b1d058b577fe09c3aede",
+      "date": "2026-11-22",
+      "heure": 11,
+      "album": "Allo Doudou",
+      "annee": 2026,
+      "start_ts": 1795347079,
+      "end_ts": 1795347246
+    },
+    {
+      "titre": "Loser",
+      "artistes": "Apache 207",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.379.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1795349278~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=8fe2b817da23add5e68a46eae32fd5bca5d35969a81366cae1cfb2a8900b22eb",
+      "date": "2026-11-22",
+      "heure": 11,
+      "album": "Loser",
+      "annee": 2024,
+      "start_ts": 1795346864,
+      "end_ts": 1795347082
+    },
     {
       "titre": "J'assume",
       "artistes": "RnBoi",
@@ -1317,84 +1395,6 @@
       "annee": null,
       "start_ts": 1795317610,
       "end_ts": 1795317849
-    },
-    {
-      "titre": "ÇA CHAUFFE",
-      "artistes": "SDM",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/6fbcac43aeb93c95ae60aa652145caeb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.6190894445093729345.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/f/0/b7f7fb003d9924d194d5d26be0642f2f.mp3?hdnea=exp=1795319278~acl=/api/1/1/b/7/f/0/b7f7fb003d9924d194d5d26be0642f2f.mp3*~data=user_id=0,application_id=42~hmac=c85bdbba02739e6cc8d2ad9f0bc0bfcdd3398ec771d3f5d9c142fa500b6c6816",
-      "date": "2026-11-22",
-      "heure": 3,
-      "album": "IN INFINITUM",
-      "annee": 2026,
-      "start_ts": 1795317424,
-      "end_ts": 1795317607
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1795319278~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=38b34beb3621e67ee0fe187135de9823a5f0045a3694e660b39f587cdbb691e0",
-      "date": "2026-11-22",
-      "heure": 3,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1795317283,
-      "end_ts": 1795317427
-    },
-    {
-      "titre": "Housewife",
-      "artistes": "Tate McRae",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1795306112~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=1940081638cfaa1fc9bacae7ee2d44373f46fb75a3afe656cd8feded780e68b6",
-      "date": "2026-11-21",
-      "heure": 23,
-      "album": "Housewife",
-      "annee": 2026,
-      "start_ts": 1795305151,
-      "end_ts": 1795305356
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1795306113~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=a95143893e043c28bef5ad2af754fa5fb619955e1d38819237f79bb8b70a6139",
-      "date": "2026-11-21",
-      "heure": 23,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1795304993,
-      "end_ts": 1795305150
-    },
-    {
-      "titre": "Human (Chill Mix)",
-      "artistes": "Alex Adair",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/be5e1facc55c1d95ab465cab067577a0/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.1067965545778184898.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/8/0/d58c72eb1589811dbdfe79944cad9bb8.mp3?hdnea=exp=1795306114~acl=/api/1/1/d/5/8/0/d58c72eb1589811dbdfe79944cad9bb8.mp3*~data=user_id=0,application_id=42~hmac=5a3ad722394339edbe812a283f939c84e6c61d9ba1c83807a3bd6dab221a8a20",
-      "date": "2026-11-21",
-      "heure": 23,
-      "album": "Human (Chill Mix)",
-      "annee": 2026,
-      "start_ts": 1795304801,
-      "end_ts": 1795304994
-    },
-    {
-      "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
-      "artistes": "Lil Gianni",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c39d072551cafe00b317fc4bcc3bced4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3?hdnea=exp=1795306115~acl=/api/1/1/4/a/9/0/4a9cf123fa8e254582928bc1ba9e8a5c.mp3*~data=user_id=0,application_id=42~hmac=5a474ee4283a2d71df301253490b07a5470b4eb1f4bb9c1a46c34cc4c1c97aec",
-      "date": "2026-11-21",
-      "heure": 23,
-      "album": "SAMPLEMAKER",
-      "annee": 2022,
-      "start_ts": 1795304651,
-      "end_ts": 1795304801
     }
   ]
 }
