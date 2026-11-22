@@ -1,27 +1,27 @@
 {
-  "genere_le": "2026-11-22T18:41:38.389744",
-  "genere_ts": 1795372898,
+  "genere_le": "2026-11-22T23:49:01.537838",
+  "genere_ts": 1795391341,
   "volume": {
-    "nb_diffusions": 1419,
+    "nb_diffusions": 1425,
     "nb_artistes": 257,
-    "nb_titres": 294,
+    "nb_titres": 295,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-22",
-    "heures_antenne": 69.45,
-    "duree_moy_s": 176.2
+    "heures_antenne": 69.79,
+    "duree_moy_s": 176.3
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 77,
+      "nb_diffusions": 78,
       "titres_differents": 3,
-      "minutes_antenne": 218.7
+      "minutes_antenne": 221.6
     },
     {
       "artistes": "Vacra",
-      "nb_diffusions": 64,
+      "nb_diffusions": 65,
       "titres_differents": 1,
-      "minutes_antenne": 177.1
+      "minutes_antenne": 179.8
     },
     {
       "artistes": "KAROL G",
@@ -31,9 +31,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 52,
+      "nb_diffusions": 53,
       "titres_differents": 1,
-      "minutes_antenne": 136.1
+      "minutes_antenne": 138.8
     },
     {
       "artistes": "GIMS",
@@ -91,9 +91,9 @@
     },
     {
       "artistes": "Chris Cornell",
-      "nb_diffusions": 16,
+      "nb_diffusions": 17,
       "titres_differents": 1,
-      "minutes_antenne": 76.3
+      "minutes_antenne": 81.0
     },
     {
       "artistes": "L2B",
@@ -136,8 +136,14 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_diffusions": 64,
-      "minutes_antenne": 177.1
+      "nb_diffusions": 65,
+      "minutes_antenne": 179.8
+    },
+    {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_diffusions": 53,
+      "minutes_antenne": 138.8
     },
     {
       "artistes": "Tiakola",
@@ -150,12 +156,6 @@
       "titre": "Sicario",
       "nb_diffusions": 53,
       "minutes_antenne": 126.9
-    },
-    {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_diffusions": 52,
-      "minutes_antenne": 136.1
     },
     {
       "artistes": "GIMS",
@@ -349,7 +349,7 @@
     },
     {
       "heure": 23,
-      "nb_diffusions": 53
+      "nb_diffusions": 59
     }
   ],
   "jours": [
@@ -630,14 +630,14 @@
     },
     {
       "date": "2026-11-22",
-      "nb_diffusions": 18,
-      "titres_differents": 18
+      "nb_diffusions": 24,
+      "titres_differents": 24
     }
   ],
   "semaine": [
     {
       "jour": "Dimanche",
-      "nb_diffusions": 249
+      "nb_diffusions": 255
     },
     {
       "jour": "Lundi",
@@ -668,20 +668,20 @@
     {
       "artistes": "Tiakola",
       "nb_jours": 45,
-      "nb_diffusions": 77,
-      "minutes": 218.7
+      "nb_diffusions": 78,
+      "minutes": 221.6
     },
     {
       "artistes": "Vacra",
-      "nb_jours": 42,
-      "nb_diffusions": 64,
-      "minutes": 177.1
+      "nb_jours": 43,
+      "nb_diffusions": 65,
+      "minutes": 179.8
     },
     {
       "artistes": "Leto",
-      "nb_jours": 36,
-      "nb_diffusions": 52,
-      "minutes": 136.1
+      "nb_jours": 37,
+      "nb_diffusions": 53,
+      "minutes": 138.8
     },
     {
       "artistes": "Timal",
@@ -790,8 +790,8 @@
     {
       "artistes": "Vacra",
       "titre": "Fille à Papa",
-      "nb_jours": 42,
-      "nb_diffusions": 64
+      "nb_jours": 43,
+      "nb_diffusions": 65
     },
     {
       "artistes": "Tiakola",
@@ -802,8 +802,8 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_jours": 36,
-      "nb_diffusions": 52
+      "nb_jours": 37,
+      "nb_diffusions": 53
     },
     {
       "artistes": "Timal",
@@ -937,7 +937,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 3,
-      "nb_diffusions": 77
+      "nb_diffusions": 78
     },
     {
       "artistes": "KAROL G",
@@ -1025,7 +1025,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 837
+      "nb_diffusions": 841
     },
     {
       "annee": 2025,
@@ -1057,7 +1057,7 @@
     },
     {
       "annee": 2018,
-      "nb_diffusions": 30
+      "nb_diffusions": 31
     },
     {
       "annee": 2017,
@@ -1081,7 +1081,7 @@
     },
     {
       "annee": 2012,
-      "nb_diffusions": 8
+      "nb_diffusions": 9
     },
     {
       "annee": 2011,
@@ -1143,27 +1143,27 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 726
+      "nb": 728
     },
     {
       "type_contenu": "Explicit",
-      "nb": 691
+      "nb": 695
     }
   ],
   "albums": [
     {
       "album": "Fille à Papa",
       "artistes": "Vacra",
-      "nb_diffusions": 64
-    },
-    {
-      "album": "Sicario",
-      "artistes": "Timal",
-      "nb_diffusions": 56
+      "nb_diffusions": 65
     },
     {
       "album": "Pineapple",
       "artistes": "Leto",
+      "nb_diffusions": 57
+    },
+    {
+      "album": "Sicario",
+      "artistes": "Timal",
       "nb_diffusions": 56
     },
     {
@@ -1229,7 +1229,7 @@
     {
       "album": "WpointM",
       "artistes": "Tiakola",
-      "nb_diffusions": 24
+      "nb_diffusions": 25
     },
     {
       "album": "Wagyu",
@@ -1253,19 +1253,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Cœur de pierre",
-    "artistes": "Hayce Lemsi",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e99b5eb24b07d452d4003539cd12c6fd/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/00/SKYC.1245154332769317300.2.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/8/8/0/a8865fb95215cbebd7ad8fc9f283f7ec.mp3?hdnea=exp=1795373792~acl=/api/1/1/a/8/8/0/a8865fb95215cbebd7ad8fc9f283f7ec.mp3*~data=user_id=0,application_id=42~hmac=47db0da09497f322071e000fc20efa5bdc7f022ec600cc886de7a9faf6d105a6",
+    "titre": "Fille à Papa",
+    "artistes": "Vacra",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1795392234~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=23683c85e8a45a3747af886614de4013e56ab0644d7d9a71c50995d2e5b18ef4",
     "date": "2026-11-22",
-    "heure": 18,
-    "album": "À des années lumières (Adal 2)",
-    "annee": 2020,
-    "start_ts": 1795372758,
-    "end_ts": 1795372980
+    "heure": 23,
+    "album": "Fille à Papa",
+    "annee": 2026,
+    "start_ts": 1795391333,
+    "end_ts": 1795391499
   },
   "derniers_morceaux": [
+    {
+      "titre": "Fille à Papa",
+      "artistes": "Vacra",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1795392234~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=23683c85e8a45a3747af886614de4013e56ab0644d7d9a71c50995d2e5b18ef4",
+      "date": "2026-11-22",
+      "heure": 23,
+      "album": "Fille à Papa",
+      "annee": 2026,
+      "start_ts": 1795391333,
+      "end_ts": 1795391499
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1795392235~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=a26da32e0f58abc710a29ba70113efbc3e5abed66f5f7d939e71273f92948c4c",
+      "date": "2026-11-22",
+      "heure": 23,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1795391088,
+      "end_ts": 1795391245
+    },
+    {
+      "titre": "Billie Jean",
+      "artistes": "Chris Cornell",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1795392236~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=40427b68301ca384795d43c70b62a81ccee6517b6f869164663583c51b062a79",
+      "date": "2026-11-22",
+      "heure": 23,
+      "album": "Chris Cornell (Deluxe Edition)",
+      "annee": 2018,
+      "start_ts": 1795390809,
+      "end_ts": 1795391095
+    },
+    {
+      "titre": "Bodycount",
+      "artistes": "Le Crime",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1795392238~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=7dd6eee00d2c88c024daae167fb9d18fb3a92d325e1a6135276e63cc057f76c4",
+      "date": "2026-11-22",
+      "heure": 23,
+      "album": "Casus Belli",
+      "annee": 2026,
+      "start_ts": 1795390657,
+      "end_ts": 1795390807
+    },
+    {
+      "titre": "Girl On Fire (Bluelight Version)",
+      "artistes": "Alicia Keys",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/36c185941d3fd043ff9861d89040ba46/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.1332639816392587353.10.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/8/2/4/0/8247a04228ad7e710b37899a0309d016.mp3?hdnea=exp=1795392239~acl=/api/1/1/8/2/4/0/8247a04228ad7e710b37899a0309d016.mp3*~data=user_id=0,application_id=42~hmac=0208eef27a17c680e61d8ee6bb6a231d50a3837986210db31e3583f9e5330f6a",
+      "date": "2026-11-22",
+      "heure": 23,
+      "album": "Girl on Fire (Remixes) - EP",
+      "annee": 2012,
+      "start_ts": 1795390397,
+      "end_ts": 1795390662
+    },
+    {
+      "titre": "Jet Lag",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/37/SKYC.8486215703553217237.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/a/0/42a854aba9e3cadf507fa40d897f7243.mp3?hdnea=exp=1795392240~acl=/api/1/1/4/2/a/0/42a854aba9e3cadf507fa40d897f7243.mp3*~data=user_id=0,application_id=42~hmac=7c0e89a3dc6a9e0a4907bbf811c0fdf9e247bbc6da089287686fa4bc9cf099be",
+      "date": "2026-11-22",
+      "heure": 23,
+      "album": "WpointM",
+      "annee": 2026,
+      "start_ts": 1795390225,
+      "end_ts": 1795390400
+    },
     {
       "titre": "Cœur de pierre",
       "artistes": "Hayce Lemsi",
@@ -1317,84 +1395,6 @@
       "annee": null,
       "start_ts": 1795372077,
       "end_ts": 1795372316
-    },
-    {
-      "titre": "Jackpotes 2000 - Inédit",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/58/SKYC.9058059342479115558.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-22",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795371845,
-      "end_ts": 1795372085
-    },
-    {
-      "titre": "Without Me",
-      "artistes": "Eminem",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec3c8ed67427064c70f67e5815b74cef/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.8291244469140894825.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3?hdnea=exp=1795373797~acl=/api/1/1/a/e/b/0/aeb58f2f63ee57fb9c47cbe8fb5ccdaa.mp3*~data=user_id=0,application_id=42~hmac=9e0e0f01e6b99d9a852da1e00171da58773391a83e8bd67a58896a333394d56a",
-      "date": "2026-11-22",
-      "heure": 18,
-      "album": "The Eminem Show",
-      "annee": 2007,
-      "start_ts": 1795371565,
-      "end_ts": 1795371848
-    },
-    {
-      "titre": "Criminel",
-      "artistes": "Werenoi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f131bfe81cabbfd3a3d935a850c26f12/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.4435687477361698215.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/7/0/cb79d041417f3a8c30de3d2450d593a6.mp3?hdnea=exp=1795349273~acl=/api/1/1/c/b/7/0/cb79d041417f3a8c30de3d2450d593a6.mp3*~data=user_id=0,application_id=42~hmac=d29ed3e7d2cf3aae7c4d621bb5b413eba795efb4ec383e1cf3c7180c75b4e1c5",
-      "date": "2026-11-22",
-      "heure": 11,
-      "album": "Criminel",
-      "annee": 2021,
-      "start_ts": 1795347805,
-      "end_ts": 1795347996
-    },
-    {
-      "titre": "Chaussures Roses",
-      "artistes": "TeddyBear",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/02a449ca102112cc7526ac14fc4c7a34/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3315345366449998416.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3?hdnea=exp=1795349274~acl=/api/1/1/0/5/c/0/05c42f46c156267c8399a1d3c4ddb7d6.mp3*~data=user_id=0,application_id=42~hmac=a0dfffb1695ecebc1ce30d0f3c799e2d17fc039d8072bea76283e351b998efc4",
-      "date": "2026-11-22",
-      "heure": 11,
-      "album": "Le Plus Beau",
-      "annee": 2026,
-      "start_ts": 1795347612,
-      "end_ts": 1795347806
-    },
-    {
-      "titre": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1795349275~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=63814a67abb9f0c0f745ca6034ef946ac70a6c99b2382c3c92f8e5da4eac757b",
-      "date": "2026-11-22",
-      "heure": 11,
-      "album": "SEXY NANA (Radio Edit)",
-      "annee": 2026,
-      "start_ts": 1795347458,
-      "end_ts": 1795347610
-    },
-    {
-      "titre": "Boom Boom Pow",
-      "artistes": "Designer Disguise",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/03f559db9131b92047d00ca4ae8d3be6/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/68/SKYC.424444704767954268.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/8/f/0/98ff757de166e442a2b8ec2323a04920.mp3?hdnea=exp=1795349276~acl=/api/1/1/9/8/f/0/98ff757de166e442a2b8ec2323a04920.mp3*~data=user_id=0,application_id=42~hmac=59636ffe6e7dba911b4c997fdb8224fe6c7b5c85a8ad5da2273bac86405e868e",
-      "date": "2026-11-22",
-      "heure": 11,
-      "album": "WOW That's What I Call Metalcore, Vol. 1",
-      "annee": 2024,
-      "start_ts": 1795347248,
-      "end_ts": 1795347462
     }
   ]
 }
