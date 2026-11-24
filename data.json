@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-23T14:22:08.495745",
-  "genere_ts": 1795443728,
+  "genere_le": "2026-11-24T01:44:05.300773",
+  "genere_ts": 1795484645,
   "volume": {
-    "nb_diffusions": 1437,
-    "nb_artistes": 257,
-    "nb_titres": 296,
+    "nb_diffusions": 1443,
+    "nb_artistes": 258,
+    "nb_titres": 297,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-11-23",
-    "heures_antenne": 70.38,
+    "derniere_date": "2026-11-24",
+    "heures_antenne": 70.69,
     "duree_moy_s": 176.3
   },
   "top_artistes": [
@@ -25,15 +25,15 @@
     },
     {
       "artistes": "KAROL G",
-      "nb_diffusions": 45,
+      "nb_diffusions": 46,
       "titres_differents": 3,
-      "minutes_antenne": 163.9
+      "minutes_antenne": 167.6
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 53,
+      "nb_diffusions": 54,
       "titres_differents": 1,
-      "minutes_antenne": 138.8
+      "minutes_antenne": 141.4
     },
     {
       "artistes": "GIMS",
@@ -55,9 +55,9 @@
     },
     {
       "artistes": "Apache 207",
-      "nb_diffusions": 30,
+      "nb_diffusions": 31,
       "titres_differents": 1,
-      "minutes_antenne": 109.0
+      "minutes_antenne": 112.6
     },
     {
       "artistes": "Slimane",
@@ -140,16 +140,16 @@
       "minutes_antenne": 179.8
     },
     {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_diffusions": 54,
+      "minutes_antenne": 141.4
+    },
+    {
       "artistes": "Timal",
       "titre": "Sicario",
       "nb_diffusions": 54,
       "minutes_antenne": 129.3
-    },
-    {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_diffusions": 53,
-      "minutes_antenne": 138.8
     },
     {
       "artistes": "Tiakola",
@@ -158,16 +158,16 @@
       "minutes_antenne": 133.6
     },
     {
+      "artistes": "KAROL G",
+      "titre": "BbY WOW",
+      "nb_diffusions": 41,
+      "minutes_antenne": 152.4
+    },
+    {
       "artistes": "GIMS",
       "titre": "VIVE LA MONNAIE",
       "nb_diffusions": 40,
       "minutes_antenne": 119.3
-    },
-    {
-      "artistes": "KAROL G",
-      "titre": "BbY WOW",
-      "nb_diffusions": 40,
-      "minutes_antenne": 148.7
     },
     {
       "artistes": "Rusky",
@@ -182,16 +182,16 @@
       "minutes_antenne": 108.5
     },
     {
+      "artistes": "Apache 207",
+      "titre": "Loser",
+      "nb_diffusions": 31,
+      "minutes_antenne": 112.6
+    },
+    {
       "artistes": "RnBoi",
       "titre": "J'assume",
       "nb_diffusions": 31,
       "minutes_antenne": 91.6
-    },
-    {
-      "artistes": "Apache 207",
-      "titre": "Loser",
-      "nb_diffusions": 30,
-      "minutes_antenne": 109.0
     },
     {
       "artistes": "Niska",
@@ -261,7 +261,7 @@
     },
     {
       "heure": 1,
-      "nb_diffusions": 119
+      "nb_diffusions": 125
     },
     {
       "heure": 2,
@@ -637,6 +637,11 @@
       "date": "2026-11-23",
       "nb_diffusions": 12,
       "titres_differents": 11
+    },
+    {
+      "date": "2026-11-24",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -650,7 +655,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 286
+      "nb_diffusions": 292
     },
     {
       "jour": "Mercredi",
@@ -684,9 +689,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_jours": 37,
-      "nb_diffusions": 53,
-      "minutes": 138.8
+      "nb_jours": 38,
+      "nb_diffusions": 54,
+      "minutes": 141.4
     },
     {
       "artistes": "Timal",
@@ -696,9 +701,9 @@
     },
     {
       "artistes": "KAROL G",
-      "nb_jours": 33,
-      "nb_diffusions": 45,
-      "minutes": 163.9
+      "nb_jours": 34,
+      "nb_diffusions": 46,
+      "minutes": 167.6
     },
     {
       "artistes": "GIMS",
@@ -731,6 +736,12 @@
       "minutes": 72.4
     },
     {
+      "artistes": "Apache 207",
+      "nb_jours": 25,
+      "nb_diffusions": 31,
+      "minutes": 112.6
+    },
+    {
       "artistes": "RnBoi",
       "nb_jours": 25,
       "nb_diffusions": 31,
@@ -741,12 +752,6 @@
       "nb_jours": 24,
       "nb_diffusions": 31,
       "minutes": 86.7
-    },
-    {
-      "artistes": "Apache 207",
-      "nb_jours": 24,
-      "nb_diffusions": 30,
-      "minutes": 109.0
     },
     {
       "artistes": "PLK",
@@ -799,15 +804,15 @@
       "nb_diffusions": 65
     },
     {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_jours": 38,
+      "nb_diffusions": 54
+    },
+    {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 38,
-      "nb_diffusions": 53
-    },
-    {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_jours": 37,
       "nb_diffusions": 53
     },
     {
@@ -819,8 +824,8 @@
     {
       "artistes": "KAROL G",
       "titre": "BbY WOW",
-      "nb_jours": 31,
-      "nb_diffusions": 40
+      "nb_jours": 32,
+      "nb_diffusions": 41
     },
     {
       "artistes": "Rusky",
@@ -847,14 +852,14 @@
       "nb_diffusions": 31
     },
     {
-      "artistes": "Niska",
-      "titre": "Allo Doudou",
-      "nb_jours": 24,
-      "nb_diffusions": 30
-    },
-    {
       "artistes": "Apache 207",
       "titre": "Loser",
+      "nb_jours": 25,
+      "nb_diffusions": 31
+    },
+    {
+      "artistes": "Niska",
+      "titre": "Allo Doudou",
       "nb_jours": 24,
       "nb_diffusions": 30
     },
@@ -947,7 +952,7 @@
     {
       "artistes": "KAROL G",
       "nb_titres_differents": 3,
-      "nb_diffusions": 45
+      "nb_diffusions": 46
     },
     {
       "artistes": "Gambi",
@@ -1030,15 +1035,15 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 849
+      "nb_diffusions": 851
     },
     {
       "annee": 2025,
-      "nb_diffusions": 142
+      "nb_diffusions": 143
     },
     {
       "annee": 2024,
-      "nb_diffusions": 95
+      "nb_diffusions": 96
     },
     {
       "annee": 2023,
@@ -1046,7 +1051,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 100
+      "nb_diffusions": 102
     },
     {
       "annee": 2021,
@@ -1148,11 +1153,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 736
+      "nb": 741
     },
     {
       "type_contenu": "Explicit",
-      "nb": 699
+      "nb": 700
     }
   ],
   "albums": [
@@ -1162,13 +1167,13 @@
       "nb_diffusions": 65
     },
     {
-      "album": "Sicario",
-      "artistes": "Timal",
-      "nb_diffusions": 57
-    },
-    {
       "album": "Pineapple",
       "artistes": "Leto",
+      "nb_diffusions": 58
+    },
+    {
+      "album": "Sicario",
+      "artistes": "Timal",
       "nb_diffusions": 57
     },
     {
@@ -1177,13 +1182,13 @@
       "nb_diffusions": 53
     },
     {
-      "album": "VIVE LA MONNAIE",
-      "artistes": "GIMS",
-      "nb_diffusions": 40
-    },
-    {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
       "artistes": "KAROL G",
+      "nb_diffusions": 41
+    },
+    {
+      "album": "VIVE LA MONNAIE",
+      "artistes": "GIMS",
       "nb_diffusions": 40
     },
     {
@@ -1197,14 +1202,14 @@
       "nb_diffusions": 35
     },
     {
-      "album": "J'assume",
-      "artistes": "RnBoi",
+      "album": "Loser",
+      "artistes": "Apache 207",
       "nb_diffusions": 31
     },
     {
-      "album": "Loser",
-      "artistes": "Apache 207",
-      "nb_diffusions": 30
+      "album": "J'assume",
+      "artistes": "RnBoi",
+      "nb_diffusions": 31
     },
     {
       "album": "Allo Doudou",
@@ -1258,19 +1263,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "XXX",
-    "artistes": "Orelsan",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5d7f42f3a107fe479f02583c38227b24/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.3422119490917987222.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3?hdnea=exp=1795444622~acl=/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3*~data=user_id=0,application_id=42~hmac=ab2e07cf18430ec2d799e242f54d702351211f1bf8ddee8c8c4725823386e0a0",
-    "date": "2026-11-23",
-    "heure": 14,
-    "album": "XXX",
-    "annee": 2026,
-    "start_ts": 1795443423,
-    "end_ts": 1795443551
+    "titre": "Daddy chocolat",
+    "artistes": "Theodora",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f7a6a2e891e8b3913798c2150a2b1596/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7784463046752113677.6.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/f/0/9afcd11c595cfc11f29c28386cd96a5f.mp3?hdnea=exp=1795485538~acl=/api/1/1/9/a/f/0/9afcd11c595cfc11f29c28386cd96a5f.mp3*~data=user_id=0,application_id=42~hmac=014cdf82b63adea1e62d8bf1244219d132501f3a6d1dd2a9bcf3c09f38d196f1",
+    "date": "2026-11-24",
+    "heure": 1,
+    "album": "Daddy chocolat",
+    "annee": 2022,
+    "start_ts": 1795484537,
+    "end_ts": 1795484724
   },
   "derniers_morceaux": [
+    {
+      "titre": "Daddy chocolat",
+      "artistes": "Theodora",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f7a6a2e891e8b3913798c2150a2b1596/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7784463046752113677.6.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/f/0/9afcd11c595cfc11f29c28386cd96a5f.mp3?hdnea=exp=1795485538~acl=/api/1/1/9/a/f/0/9afcd11c595cfc11f29c28386cd96a5f.mp3*~data=user_id=0,application_id=42~hmac=014cdf82b63adea1e62d8bf1244219d132501f3a6d1dd2a9bcf3c09f38d196f1",
+      "date": "2026-11-24",
+      "heure": 1,
+      "album": "Daddy chocolat",
+      "annee": 2022,
+      "start_ts": 1795484537,
+      "end_ts": 1795484724
+    },
+    {
+      "titre": "Loser",
+      "artistes": "Apache 207",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/45a75d602d2b451f8e558b6e7e1c24c5/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.379.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3?hdnea=exp=1795485539~acl=/api/1/1/2/3/f/0/23f09040f3687bb019144453cdec3ef5.mp3*~data=user_id=0,application_id=42~hmac=688330fc05129e6d83a05dd23edb5f3219eb17be2f08bfea51779b3082b82309",
+      "date": "2026-11-24",
+      "heure": 1,
+      "album": "Loser",
+      "annee": 2024,
+      "start_ts": 1795484320,
+      "end_ts": 1795484538
+    },
+    {
+      "titre": "melodrama",
+      "artistes": "disiz",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1795485540~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=cb1a7caa2faf0111af0c0ef84d9e2e5ff5147c24929924cfa140f1d4e93463cc",
+      "date": "2026-11-24",
+      "heure": 1,
+      "album": "melodrama",
+      "annee": 2025,
+      "start_ts": 1795484135,
+      "end_ts": 1795484309
+    },
+    {
+      "titre": "UBER",
+      "artistes": "Moji x Sboy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/78b98745418aa0a06d74b47782613679/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3?hdnea=exp=1795485541~acl=/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3*~data=user_id=0,application_id=42~hmac=55bf4634fde70dd251ef85b05c4351d072fea990d3ef747643cff143ac904deb",
+      "date": "2026-11-24",
+      "heure": 1,
+      "album": "UBER",
+      "annee": 2022,
+      "start_ts": 1795483981,
+      "end_ts": 1795484137
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1795485542~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=bc1e8a3140a5f6c6e3b950ab06948e14f793d9d7f539f679291da17498a65e0a",
+      "date": "2026-11-24",
+      "heure": 1,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1795483821,
+      "end_ts": 1795483978
+    },
+    {
+      "titre": "BbY WOW",
+      "artistes": "KAROL G",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1795485543~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=58066888a4d0fc3a07693ff799d73b8844eaab9e355c8efe95df2be5d6d69e98",
+      "date": "2026-11-24",
+      "heure": 1,
+      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
+      "annee": 2026,
+      "start_ts": 1795483602,
+      "end_ts": 1795483825
+    },
     {
       "titre": "XXX",
       "artistes": "Orelsan",
@@ -1322,84 +1405,6 @@
       "annee": 2026,
       "start_ts": 1795442985,
       "end_ts": 1795443150
-    },
-    {
-      "titre": "Billie Jean",
-      "artistes": "Michael Jackson",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a0ad67d1beb761f2cb9f8b60e5bcf07a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/e/0/e6e0f8717b1e6353e2abf797c6849889.mp3?hdnea=exp=1795444626~acl=/api/1/1/e/6/e/0/e6e0f8717b1e6353e2abf797c6849889.mp3*~data=user_id=0,application_id=42~hmac=4a6da1dcf98a1701701ab5a4a2453363df5b52309f208d0ac07c152f4f34b2ab",
-      "date": "2026-11-23",
-      "heure": 14,
-      "album": "Michael Jackson's This Is It",
-      "annee": 2009,
-      "start_ts": 1795442702,
-      "end_ts": 1795442988
-    },
-    {
-      "titre": "J'assume",
-      "artistes": "RnBoi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1795444627~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=2583340d92e3cfd6d00c3057e1a9ee8bf6e385eb0a704b626cdd52fefd652791",
-      "date": "2026-11-23",
-      "heure": 14,
-      "album": "J'assume",
-      "annee": 2026,
-      "start_ts": 1795442522,
-      "end_ts": 1795442699
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1795407518~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=e14746faf5a5fcd8dca14be1a6bf698893c3ec6904a1f2d353443d6a55d02fbb",
-      "date": "2026-11-23",
-      "heure": 4,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1795406611,
-      "end_ts": 1795406755
-    },
-    {
-      "titre": "Dégun",
-      "artistes": "Lagui",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/17b18162403b38a9c4c200ed70eecbe3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/25/SKYC.7030386439192736125.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/7/8/0/478bd8d12426dd248d708d467f32d617.mp3?hdnea=exp=1795407519~acl=/api/1/1/4/7/8/0/478bd8d12426dd248d708d467f32d617.mp3*~data=user_id=0,application_id=42~hmac=408907b76b0f09e08a310d9b6175c8519e5ee1c86309d289ae8d1c836bc4b98e",
-      "date": "2026-11-23",
-      "heure": 3,
-      "album": "Dégun",
-      "annee": 2026,
-      "start_ts": 1795406330,
-      "end_ts": 1795406505
-    },
-    {
-      "titre": "Lola",
-      "artistes": "RK",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7d3907119bc2456056cefdb881ef6503/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/68/SKYC.2515241012230219868.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1c0d353c44ae8e90a785e81c73cbf2c.mp3?hdnea=exp=1795407520~acl=/api/1/1/d/1/c/0/d1c0d353c44ae8e90a785e81c73cbf2c.mp3*~data=user_id=0,application_id=42~hmac=eb1678fb552d0535b396d9dc041b0fb319f31c47b645b90847a45dfd36ed953c",
-      "date": "2026-11-23",
-      "heure": 3,
-      "album": "Lola",
-      "annee": 2022,
-      "start_ts": 1795406190,
-      "end_ts": 1795406333
-    },
-    {
-      "titre": "BbY WOW",
-      "artistes": "KAROL G",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1795407521~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=c2ff98cc066ed0be254426b244fad416d396299f09706218f700ef7a233ffc64",
-      "date": "2026-11-23",
-      "heure": 3,
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "annee": 2026,
-      "start_ts": 1795405971,
-      "end_ts": 1795406194
     }
   ]
 }
