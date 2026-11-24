@@ -1,13 +1,13 @@
 {
-  "genere_le": "2026-11-24T01:44:05.300773",
-  "genere_ts": 1795484645,
+  "genere_le": "2026-11-24T11:38:02.434789",
+  "genere_ts": 1795520282,
   "volume": {
-    "nb_diffusions": 1443,
-    "nb_artistes": 258,
-    "nb_titres": 297,
+    "nb_diffusions": 1448,
+    "nb_artistes": 259,
+    "nb_titres": 298,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-24",
-    "heures_antenne": 70.69,
+    "heures_antenne": 70.91,
     "duree_moy_s": 176.3
   },
   "top_artistes": [
@@ -97,9 +97,9 @@
     },
     {
       "artistes": "Mauvais djo",
-      "nb_diffusions": 36,
+      "nb_diffusions": 37,
       "titres_differents": 5,
-      "minutes_antenne": 74.3
+      "minutes_antenne": 77.0
     },
     {
       "artistes": "L2B",
@@ -301,7 +301,7 @@
     },
     {
       "heure": 11,
-      "nb_diffusions": 23
+      "nb_diffusions": 29
     },
     {
       "heure": 12,
@@ -640,8 +640,8 @@
     },
     {
       "date": "2026-11-24",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 11
     }
   ],
   "semaine": [
@@ -655,7 +655,7 @@
     },
     {
       "jour": "Mardi",
-      "nb_diffusions": 292
+      "nb_diffusions": 298
     },
     {
       "jour": "Mercredi",
@@ -713,9 +713,9 @@
     },
     {
       "artistes": "Mauvais djo",
-      "nb_jours": 28,
-      "nb_diffusions": 36,
-      "minutes": 74.3
+      "nb_jours": 29,
+      "nb_diffusions": 37,
+      "minutes": 77.0
     },
     {
       "artistes": "Rusky",
@@ -937,7 +937,7 @@
     {
       "artistes": "Mauvais djo",
       "nb_titres_differents": 5,
-      "nb_diffusions": 36
+      "nb_diffusions": 37
     },
     {
       "artistes": "Ninho",
@@ -1035,7 +1035,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 851
+      "nb_diffusions": 853
     },
     {
       "annee": 2025,
@@ -1051,7 +1051,7 @@
     },
     {
       "annee": 2022,
-      "nb_diffusions": 102
+      "nb_diffusions": 105
     },
     {
       "annee": 2021,
@@ -1153,11 +1153,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 741
+      "nb": 744
     },
     {
       "type_contenu": "Explicit",
-      "nb": 700
+      "nb": 702
     }
   ],
   "albums": [
@@ -1263,19 +1263,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Daddy chocolat",
-    "artistes": "Theodora",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f7a6a2e891e8b3913798c2150a2b1596/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7784463046752113677.6.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/a/f/0/9afcd11c595cfc11f29c28386cd96a5f.mp3?hdnea=exp=1795485538~acl=/api/1/1/9/a/f/0/9afcd11c595cfc11f29c28386cd96a5f.mp3*~data=user_id=0,application_id=42~hmac=014cdf82b63adea1e62d8bf1244219d132501f3a6d1dd2a9bcf3c09f38d196f1",
+    "titre": "lost in the fire (instrumental)",
+    "artistes": "no/vox",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4461493b2af350efcb473ca46d2606e1/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.3940947265789218014.14.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/c/0/14cf0d4c99da6fd2d4b5695da0b10769.mp3?hdnea=exp=1795521176~acl=/api/1/1/1/4/c/0/14cf0d4c99da6fd2d4b5695da0b10769.mp3*~data=user_id=0,application_id=42~hmac=aeee66a47cc2bb1e0c50ff9693e4813dfc003acc60d96c8a15d7db205b7816c5",
     "date": "2026-11-24",
-    "heure": 1,
-    "album": "Daddy chocolat",
+    "heure": 11,
+    "album": "lost in the fire (instrumental)",
     "annee": 2022,
-    "start_ts": 1795484537,
-    "end_ts": 1795484724
+    "start_ts": 1795520111,
+    "end_ts": 1795520301
   },
   "derniers_morceaux": [
+    {
+      "titre": "lost in the fire (instrumental)",
+      "artistes": "no/vox",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4461493b2af350efcb473ca46d2606e1/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.3940947265789218014.14.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/c/0/14cf0d4c99da6fd2d4b5695da0b10769.mp3?hdnea=exp=1795521176~acl=/api/1/1/1/4/c/0/14cf0d4c99da6fd2d4b5695da0b10769.mp3*~data=user_id=0,application_id=42~hmac=aeee66a47cc2bb1e0c50ff9693e4813dfc003acc60d96c8a15d7db205b7816c5",
+      "date": "2026-11-24",
+      "heure": 11,
+      "album": "lost in the fire (instrumental)",
+      "annee": 2022,
+      "start_ts": 1795520111,
+      "end_ts": 1795520301
+    },
+    {
+      "titre": "12",
+      "artistes": "Mauvais djo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/10b71b178c844d63099064213b9a9fbb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.926550190497851830.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0c0ffc5ce8bf7c0c37d0af14e4a3926.mp3?hdnea=exp=1795521177~acl=/api/1/1/f/0/c/0/f0c0ffc5ce8bf7c0c37d0af14e4a3926.mp3*~data=user_id=0,application_id=42~hmac=4ace7506fc4f03f2e7cac56560acf98ebb33b7e2a4732e563566f89a98277fe7",
+      "date": "2026-11-24",
+      "heure": 11,
+      "album": "L'undertaker, Pt.2",
+      "annee": 2026,
+      "start_ts": 1795519946,
+      "end_ts": 1795520111
+    },
+    {
+      "titre": "Flower In A Hurricane [From GTAVI_ Original Score]",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.8734521391952668751.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-24",
+      "heure": 11,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795519772,
+      "end_ts": 1795519947
+    },
+    {
+      "titre": "Bodycount",
+      "artistes": "Le Crime",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1795521179~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=5d145d0c8f1178ed8606914bea917112672cd0e22c7325d98fc5bd3c3069064c",
+      "date": "2026-11-24",
+      "heure": 11,
+      "album": "Casus Belli",
+      "annee": 2026,
+      "start_ts": 1795519616,
+      "end_ts": 1795519766
+    },
+    {
+      "titre": "Lola",
+      "artistes": "RK",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7d3907119bc2456056cefdb881ef6503/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/68/SKYC.2515241012230219868.2.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/1/c/0/d1c0d353c44ae8e90a785e81c73cbf2c.mp3?hdnea=exp=1795521180~acl=/api/1/1/d/1/c/0/d1c0d353c44ae8e90a785e81c73cbf2c.mp3*~data=user_id=0,application_id=42~hmac=415742b853f79b727f4ac5eea0b1039cad48ae507f441a8d5f25539092081b19",
+      "date": "2026-11-24",
+      "heure": 11,
+      "album": "Lola",
+      "annee": 2022,
+      "start_ts": 1795518808,
+      "end_ts": 1795518951
+    },
+    {
+      "titre": "UBER",
+      "artistes": "Moji x Sboy",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/78b98745418aa0a06d74b47782613679/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.3458461539972457577.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3?hdnea=exp=1795521181~acl=/api/1/1/6/5/d/0/65d38d14c44b51fe48a087c0d370be93.mp3*~data=user_id=0,application_id=42~hmac=21edda9a18586224dbe129f4d43f6bad459c81f116f6c210b6dc9a838e51ae73",
+      "date": "2026-11-24",
+      "heure": 11,
+      "album": "UBER",
+      "annee": 2022,
+      "start_ts": 1795518654,
+      "end_ts": 1795518810
+    },
     {
       "titre": "Daddy chocolat",
       "artistes": "Theodora",
@@ -1327,84 +1405,6 @@
       "annee": 2022,
       "start_ts": 1795483981,
       "end_ts": 1795484137
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1795485542~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=bc1e8a3140a5f6c6e3b950ab06948e14f793d9d7f539f679291da17498a65e0a",
-      "date": "2026-11-24",
-      "heure": 1,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1795483821,
-      "end_ts": 1795483978
-    },
-    {
-      "titre": "BbY WOW",
-      "artistes": "KAROL G",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f794dd1931dac42fc13f938850b686c6/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.7828299228586710114.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3?hdnea=exp=1795485543~acl=/api/1/1/f/f/5/0/ff58853da92388977e15b6744ad73228.mp3*~data=user_id=0,application_id=42~hmac=58066888a4d0fc3a07693ff799d73b8844eaab9e355c8efe95df2be5d6d69e98",
-      "date": "2026-11-24",
-      "heure": 1,
-      "album": "NO ME ARREPIENTO DE SENTIR TANTO",
-      "annee": 2026,
-      "start_ts": 1795483602,
-      "end_ts": 1795483825
-    },
-    {
-      "titre": "XXX",
-      "artistes": "Orelsan",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/5d7f42f3a107fe479f02583c38227b24/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.3422119490917987222.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3?hdnea=exp=1795444622~acl=/api/1/1/d/c/0/0/dc09ecf6163656391ffd1fbe15449248.mp3*~data=user_id=0,application_id=42~hmac=ab2e07cf18430ec2d799e242f54d702351211f1bf8ddee8c8c4725823386e0a0",
-      "date": "2026-11-23",
-      "heure": 14,
-      "album": "XXX",
-      "annee": 2026,
-      "start_ts": 1795443423,
-      "end_ts": 1795443551
-    },
-    {
-      "titre": "SEXY NANA (Radio Edit)",
-      "artistes": "Rusky",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1795444623~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=f7428d5535fe41e7b34979b649bf9745d5fb3a640fa10d51500c280a7a1baf93",
-      "date": "2026-11-23",
-      "heure": 14,
-      "album": "SEXY NANA (Radio Edit)",
-      "annee": 2026,
-      "start_ts": 1795443271,
-      "end_ts": 1795443423
-    },
-    {
-      "titre": "PETETE",
-      "artistes": "Gambi",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/096d484b15733c2e9c1ce5b38b82cc6a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/19/SKYC.1024365743040736119.6.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/c/1/5/0/c15660dc4ce7ca36ab203803545df5f7.mp3?hdnea=exp=1795444624~acl=/api/1/1/c/1/5/0/c15660dc4ce7ca36ab203803545df5f7.mp3*~data=user_id=0,application_id=42~hmac=6cdf4a0c97c8122def6d82f0db7a717fc186f0ec0ded34fe808736bcc6feb183",
-      "date": "2026-11-23",
-      "heure": 14,
-      "album": "PETETE",
-      "annee": 2022,
-      "start_ts": 1795443148,
-      "end_ts": 1795443270
-    },
-    {
-      "titre": "12",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/10b71b178c844d63099064213b9a9fbb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.926550190497851830.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0c0ffc5ce8bf7c0c37d0af14e4a3926.mp3?hdnea=exp=1795444625~acl=/api/1/1/f/0/c/0/f0c0ffc5ce8bf7c0c37d0af14e4a3926.mp3*~data=user_id=0,application_id=42~hmac=8c41c7322ca1af86169e7b4c458c631af187e18746b95e573f7b2675684fc4ad",
-      "date": "2026-11-23",
-      "heure": 14,
-      "album": "L'undertaker, Pt.2",
-      "annee": 2026,
-      "start_ts": 1795442985,
-      "end_ts": 1795443150
     }
   ]
 }
