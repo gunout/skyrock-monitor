@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-11-24T21:29:06.043236",
-  "genere_ts": 1795555746,
+  "genere_le": "2026-11-25T04:26:56.718348",
+  "genere_ts": 1795580816,
   "volume": {
-    "nb_diffusions": 1451,
-    "nb_artistes": 260,
-    "nb_titres": 299,
+    "nb_diffusions": 1457,
+    "nb_artistes": 261,
+    "nb_titres": 300,
     "premiere_date": "2026-09-28",
-    "derniere_date": "2026-11-24",
-    "heures_antenne": 71.04,
-    "duree_moy_s": 176.2
+    "derniere_date": "2026-11-25",
+    "heures_antenne": 71.37,
+    "duree_moy_s": 176.4
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 78,
+      "nb_diffusions": 79,
       "titres_differents": 3,
-      "minutes_antenne": 221.6
+      "minutes_antenne": 224.1
     },
     {
       "artistes": "Vacra",
@@ -49,9 +49,9 @@
     },
     {
       "artistes": "Jok'air",
-      "nb_diffusions": 31,
+      "nb_diffusions": 32,
       "titres_differents": 2,
-      "minutes_antenne": 113.6
+      "minutes_antenne": 117.4
     },
     {
       "artistes": "Apache 207",
@@ -67,9 +67,9 @@
     },
     {
       "artistes": "Rusky",
-      "nb_diffusions": 39,
+      "nb_diffusions": 40,
       "titres_differents": 1,
-      "minutes_antenne": 98.8
+      "minutes_antenne": 101.3
     },
     {
       "artistes": "RnBoi",
@@ -84,22 +84,22 @@
       "minutes_antenne": 86.7
     },
     {
+      "artistes": "Chris Cornell",
+      "nb_diffusions": 18,
+      "titres_differents": 1,
+      "minutes_antenne": 85.8
+    },
+    {
       "artistes": "PLK",
       "nb_diffusions": 30,
       "titres_differents": 2,
       "minutes_antenne": 81.2
     },
     {
-      "artistes": "Chris Cornell",
-      "nb_diffusions": 17,
-      "titres_differents": 1,
-      "minutes_antenne": 81.0
-    },
-    {
       "artistes": "Mauvais djo",
-      "nb_diffusions": 37,
-      "titres_differents": 5,
-      "minutes_antenne": 77.0
+      "nb_diffusions": 38,
+      "titres_differents": 6,
+      "minutes_antenne": 80.1
     },
     {
       "artistes": "L2B",
@@ -146,16 +146,16 @@
       "minutes_antenne": 144.0
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_diffusions": 54,
+      "minutes_antenne": 136.1
+    },
+    {
       "artistes": "Timal",
       "titre": "Sicario",
       "nb_diffusions": 54,
       "minutes_antenne": 129.3
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_diffusions": 53,
-      "minutes_antenne": 133.6
     },
     {
       "artistes": "KAROL G",
@@ -172,8 +172,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_diffusions": 39,
-      "minutes_antenne": 98.8
+      "nb_diffusions": 40,
+      "minutes_antenne": 101.3
     },
     {
       "artistes": "Slimane",
@@ -206,16 +206,16 @@
       "minutes_antenne": 70.6
     },
     {
+      "artistes": "Jok'air",
+      "titre": "Nouméa",
+      "nb_diffusions": 29,
+      "minutes_antenne": 108.3
+    },
+    {
       "artistes": "PLK",
       "titre": "Pocahontas",
       "nb_diffusions": 29,
       "minutes_antenne": 78.3
-    },
-    {
-      "artistes": "Jok'air",
-      "titre": "Nouméa",
-      "nb_diffusions": 28,
-      "minutes_antenne": 104.6
     },
     {
       "artistes": "Lil Gianni",
@@ -269,11 +269,11 @@
     },
     {
       "heure": 3,
-      "nb_diffusions": 64
+      "nb_diffusions": 66
     },
     {
       "heure": 4,
-      "nb_diffusions": 60
+      "nb_diffusions": 64
     },
     {
       "heure": 5,
@@ -642,6 +642,11 @@
       "date": "2026-11-24",
       "nb_diffusions": 18,
       "titres_differents": 14
+    },
+    {
+      "date": "2026-11-25",
+      "nb_diffusions": 6,
+      "titres_differents": 6
     }
   ],
   "semaine": [
@@ -659,7 +664,7 @@
     },
     {
       "jour": "Mercredi",
-      "nb_diffusions": 212
+      "nb_diffusions": 218
     },
     {
       "jour": "Jeudi",
@@ -677,9 +682,9 @@
   "recurrents": [
     {
       "artistes": "Tiakola",
-      "nb_jours": 45,
-      "nb_diffusions": 78,
-      "minutes": 221.6
+      "nb_jours": 46,
+      "nb_diffusions": 79,
+      "minutes": 224.1
     },
     {
       "artistes": "Vacra",
@@ -706,22 +711,22 @@
       "minutes": 167.6
     },
     {
+      "artistes": "Mauvais djo",
+      "nb_jours": 30,
+      "nb_diffusions": 38,
+      "minutes": 80.1
+    },
+    {
       "artistes": "GIMS",
       "nb_jours": 29,
       "nb_diffusions": 44,
       "minutes": 131.9
     },
     {
-      "artistes": "Mauvais djo",
-      "nb_jours": 29,
-      "nb_diffusions": 37,
-      "minutes": 77.0
-    },
-    {
       "artistes": "Rusky",
-      "nb_jours": 27,
-      "nb_diffusions": 39,
-      "minutes": 98.8
+      "nb_jours": 28,
+      "nb_diffusions": 40,
+      "minutes": 101.3
     },
     {
       "artistes": "Slimane",
@@ -761,9 +766,9 @@
     },
     {
       "artistes": "Jok'air",
-      "nb_jours": 21,
-      "nb_diffusions": 31,
-      "minutes": 113.6
+      "nb_jours": 22,
+      "nb_diffusions": 32,
+      "minutes": 117.4
     },
     {
       "artistes": "DJ Jordan MasterBoy",
@@ -804,16 +809,16 @@
       "nb_diffusions": 65
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_jours": 39,
+      "nb_diffusions": 54
+    },
+    {
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_jours": 38,
       "nb_diffusions": 55
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_jours": 38,
-      "nb_diffusions": 53
     },
     {
       "artistes": "Timal",
@@ -830,8 +835,8 @@
     {
       "artistes": "Rusky",
       "titre": "SEXY NANA (Radio Edit)",
-      "nb_jours": 27,
-      "nb_diffusions": 39
+      "nb_jours": 28,
+      "nb_diffusions": 40
     },
     {
       "artistes": "GIMS",
@@ -870,6 +875,12 @@
       "nb_diffusions": 29
     },
     {
+      "artistes": "Jok'air",
+      "titre": "Nouméa",
+      "nb_jours": 20,
+      "nb_diffusions": 29
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "titre": "La petasse",
       "nb_jours": 20,
@@ -894,12 +905,6 @@
       "nb_diffusions": 22
     },
     {
-      "artistes": "Jok'air",
-      "titre": "Nouméa",
-      "nb_jours": 19,
-      "nb_diffusions": 28
-    },
-    {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
       "nb_jours": 18,
@@ -920,6 +925,11 @@
   ],
   "diversifies": [
     {
+      "artistes": "Mauvais djo",
+      "nb_titres_differents": 6,
+      "nb_diffusions": 38
+    },
+    {
       "artistes": "Jul",
       "nb_titres_differents": 6,
       "nb_diffusions": 8
@@ -935,11 +945,6 @@
       "nb_diffusions": 44
     },
     {
-      "artistes": "Mauvais djo",
-      "nb_titres_differents": 5,
-      "nb_diffusions": 37
-    },
-    {
       "artistes": "Ninho",
       "nb_titres_differents": 4,
       "nb_diffusions": 4
@@ -947,7 +952,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 3,
-      "nb_diffusions": 78
+      "nb_diffusions": 79
     },
     {
       "artistes": "KAROL G",
@@ -982,7 +987,7 @@
     {
       "artistes": "Jok'air",
       "nb_titres_differents": 2,
-      "nb_diffusions": 31
+      "nb_diffusions": 32
     },
     {
       "artistes": "Niska",
@@ -1035,7 +1040,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 855
+      "nb_diffusions": 859
     },
     {
       "annee": 2025,
@@ -1067,11 +1072,11 @@
     },
     {
       "annee": 2018,
-      "nb_diffusions": 31
+      "nb_diffusions": 32
     },
     {
       "annee": 2017,
-      "nb_diffusions": 10
+      "nb_diffusions": 11
     },
     {
       "annee": 2016,
@@ -1153,11 +1158,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 745
+      "nb": 749
     },
     {
       "type_contenu": "Explicit",
-      "nb": 704
+      "nb": 706
     }
   ],
   "albums": [
@@ -1179,7 +1184,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 53
+      "nb_diffusions": 54
     },
     {
       "album": "NO ME ARREPIENTO DE SENTIR TANTO",
@@ -1194,7 +1199,7 @@
     {
       "album": "SEXY NANA (Radio Edit)",
       "artistes": "Rusky",
-      "nb_diffusions": 39
+      "nb_diffusions": 40
     },
     {
       "album": "Chroniques d’un cupidon",
@@ -1217,6 +1222,11 @@
       "nb_diffusions": 30
     },
     {
+      "album": "Nouméa",
+      "artistes": "Jok'air",
+      "nb_diffusions": 29
+    },
+    {
       "album": "La petasse",
       "artistes": "DJ Jordan MasterBoy",
       "nb_diffusions": 29
@@ -1225,11 +1235,6 @@
       "album": "Grand Garçon",
       "artistes": "PLK",
       "nb_diffusions": 29
-    },
-    {
-      "album": "Nouméa",
-      "artistes": "Jok'air",
-      "nb_diffusions": 28
     },
     {
       "album": "SAMPLEMAKER",
@@ -1263,19 +1268,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "VIVE LA MONNAIE",
-    "artistes": null,
-    "cover_deezer": null,
-    "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
-    "preview_mp3": null,
-    "date": "2026-11-24",
-    "heure": 21,
-    "album": null,
-    "annee": null,
-    "start_ts": 1795554968,
-    "end_ts": 1795555089
+    "titre": "Mélo Décalé",
+    "artistes": "Tiakola",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1795581710~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=2ac8aef18cbac0266400a455f11f8cae8c55641d53ea833e041c9dcb614855ee",
+    "date": "2026-11-25",
+    "heure": 4,
+    "album": "Mélo Décalé",
+    "annee": 2026,
+    "start_ts": 1795580438,
+    "end_ts": 1795580589
   },
   "derniers_morceaux": [
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1795581710~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=2ac8aef18cbac0266400a455f11f8cae8c55641d53ea833e041c9dcb614855ee",
+      "date": "2026-11-25",
+      "heure": 4,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1795580438,
+      "end_ts": 1795580589
+    },
+    {
+      "titre": "Nouméa",
+      "artistes": "Jok'air",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/cc955a784400d5d6bc116853f5eccc42/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.4440650806627134530.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3?hdnea=exp=1795581711~acl=/api/1/1/2/7/7/0/2774dec72adb914fd158ad1a0f9b5428.mp3*~data=user_id=0,application_id=42~hmac=5ce6cb94d99b34b933449428329e67e1ad9621335a1dc0601b175a25d994fe47",
+      "date": "2026-11-25",
+      "heure": 4,
+      "album": "Nouméa",
+      "annee": 2026,
+      "start_ts": 1795580215,
+      "end_ts": 1795580439
+    },
+    {
+      "titre": "Billie Jean",
+      "artistes": "Chris Cornell",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a2aa2bd680cdd35dad731218ac46d11c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.4891653077722099351.8.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3?hdnea=exp=1795581712~acl=/api/1/1/4/1/9/0/4194bb0b9345f5da911129ad64fb310e.mp3*~data=user_id=0,application_id=42~hmac=14d03e563baa7310ae9d681b7a30ac8fc9af7ae95c8d52aacd221e10ff140100",
+      "date": "2026-11-25",
+      "heure": 4,
+      "album": "Chris Cornell (Deluxe Edition)",
+      "annee": 2018,
+      "start_ts": 1795579926,
+      "end_ts": 1795580212
+    },
+    {
+      "titre": "SEXY NANA (Radio Edit)",
+      "artistes": "Rusky",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/ec99c020974e3940ca957ed89a381158/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/42/SKYC.194667556941226942.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3?hdnea=exp=1795581713~acl=/api/1/1/9/1/5/0/915387ad378ebd448cc0cddfacf27c86.mp3*~data=user_id=0,application_id=42~hmac=aab20debd056ee051668e4a707af73aa67331f1e801cb78e1b15fa8bc2c957fe",
+      "date": "2026-11-25",
+      "heure": 4,
+      "album": "SEXY NANA (Radio Edit)",
+      "annee": 2026,
+      "start_ts": 1795579451,
+      "end_ts": 1795579603
+    },
+    {
+      "titre": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+      "artistes": "Jason Derulo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/3eaa869a2b298f79a739abc44eb19e04/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/56/SKYC.4968384591140874356.20.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/f/0/6ff99a79d70da00d07d9d9db6a0b5ff8.mp3?hdnea=exp=1795581714~acl=/api/1/1/6/f/f/0/6ff99a79d70da00d07d9d9db6a0b5ff8.mp3*~data=user_id=0,application_id=42~hmac=b6843eceb8682fbf509c73a5257ccebd260caff8928d2ca57305a2329d3e4e90",
+      "date": "2026-11-25",
+      "heure": 3,
+      "album": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+      "annee": 2017,
+      "start_ts": 1795578989,
+      "end_ts": 1795579202
+    },
+    {
+      "titre": "Maladie",
+      "artistes": "Mauvais djo",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d739900fb556aa2e72a8f01e12f8b3eb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/9/0/0e92fe589cbcca9bd888da8153ab158a.mp3?hdnea=exp=1795581715~acl=/api/1/1/0/e/9/0/0e92fe589cbcca9bd888da8153ab158a.mp3*~data=user_id=0,application_id=42~hmac=999f59d42f45c47226b5afb0542d4fc84377c191d2fd05188405c9bcc30c0c38",
+      "date": "2026-11-25",
+      "heure": 3,
+      "album": "Maladie",
+      "annee": 2026,
+      "start_ts": 1795578802,
+      "end_ts": 1795578988
+    },
     {
       "titre": "VIVE LA MONNAIE",
       "artistes": null,
@@ -1327,84 +1410,6 @@
       "annee": null,
       "start_ts": 1795547981,
       "end_ts": 1795548132
-    },
-    {
-      "titre": "VIVE LA MONNAIE",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/10/SKYC.1701781932603445610.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-24",
-      "heure": 18,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795546409,
-      "end_ts": 1795546530
-    },
-    {
-      "titre": "OCEANO DE PROBLEMAS",
-      "artistes": "Bituca",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/b62b0b418d9c3faf8a6d71a6349965a7/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3321812427307385016.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/b/0/26b71a0c9613dd7629628a167447cfdc.mp3?hdnea=exp=1795556644~acl=/api/1/1/2/6/b/0/26b71a0c9613dd7629628a167447cfdc.mp3*~data=user_id=0,application_id=42~hmac=1f705add4bd76b3c6e0a8181666bb483e966c19848da6260cb9d54d715fa9c4d",
-      "date": "2026-11-24",
-      "heure": 18,
-      "album": "OCEANO DE PROBLEMAS",
-      "annee": 2023,
-      "start_ts": 1795545949,
-      "end_ts": 1795546100
-    },
-    {
-      "titre": "lost in the fire (instrumental)",
-      "artistes": "no/vox",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/4461493b2af350efcb473ca46d2606e1/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/14/SKYC.3940947265789218014.14.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/4/c/0/14cf0d4c99da6fd2d4b5695da0b10769.mp3?hdnea=exp=1795521176~acl=/api/1/1/1/4/c/0/14cf0d4c99da6fd2d4b5695da0b10769.mp3*~data=user_id=0,application_id=42~hmac=aeee66a47cc2bb1e0c50ff9693e4813dfc003acc60d96c8a15d7db205b7816c5",
-      "date": "2026-11-24",
-      "heure": 11,
-      "album": "lost in the fire (instrumental)",
-      "annee": 2022,
-      "start_ts": 1795520111,
-      "end_ts": 1795520301
-    },
-    {
-      "titre": "12",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/10b71b178c844d63099064213b9a9fbb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/30/SKYC.926550190497851830.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/0/c/0/f0c0ffc5ce8bf7c0c37d0af14e4a3926.mp3?hdnea=exp=1795521177~acl=/api/1/1/f/0/c/0/f0c0ffc5ce8bf7c0c37d0af14e4a3926.mp3*~data=user_id=0,application_id=42~hmac=4ace7506fc4f03f2e7cac56560acf98ebb33b7e2a4732e563566f89a98277fe7",
-      "date": "2026-11-24",
-      "heure": 11,
-      "album": "L'undertaker, Pt.2",
-      "annee": 2026,
-      "start_ts": 1795519946,
-      "end_ts": 1795520111
-    },
-    {
-      "titre": "Flower In A Hurricane [From GTAVI_ Original Score]",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.8734521391952668751.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-24",
-      "heure": 11,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795519772,
-      "end_ts": 1795519947
-    },
-    {
-      "titre": "Bodycount",
-      "artistes": "Le Crime",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1795521179~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=5d145d0c8f1178ed8606914bea917112672cd0e22c7325d98fc5bd3c3069064c",
-      "date": "2026-11-24",
-      "heure": 11,
-      "album": "Casus Belli",
-      "annee": 2026,
-      "start_ts": 1795519616,
-      "end_ts": 1795519766
     }
   ]
 }
