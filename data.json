@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-11-26T05:09:35.727312",
-  "genere_ts": 1795669775,
+  "genere_le": "2026-11-26T15:04:15.865648",
+  "genere_ts": 1795705455,
   "volume": {
-    "nb_diffusions": 1472,
+    "nb_diffusions": 1476,
     "nb_artistes": 262,
     "nb_titres": 302,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-26",
-    "heures_antenne": 72.14,
+    "heures_antenne": 72.32,
     "duree_moy_s": 176.4
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 81,
+      "nb_diffusions": 82,
       "titres_differents": 3,
-      "minutes_antenne": 229.1
+      "minutes_antenne": 231.7
     },
     {
       "artistes": "Vacra",
@@ -73,9 +73,9 @@
     },
     {
       "artistes": "RnBoi",
-      "nb_diffusions": 31,
+      "nb_diffusions": 32,
       "titres_differents": 1,
-      "minutes_antenne": 91.6
+      "minutes_antenne": 94.5
     },
     {
       "artistes": "Chris Cornell",
@@ -148,8 +148,8 @@
     {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
-      "nb_diffusions": 56,
-      "minutes_antenne": 141.2
+      "nb_diffusions": 57,
+      "minutes_antenne": 143.7
     },
     {
       "artistes": "Timal",
@@ -182,16 +182,16 @@
       "minutes_antenne": 108.5
     },
     {
+      "artistes": "RnBoi",
+      "titre": "J'assume",
+      "nb_diffusions": 32,
+      "minutes_antenne": 94.5
+    },
+    {
       "artistes": "Apache 207",
       "titre": "Loser",
       "nb_diffusions": 31,
       "minutes_antenne": 112.6
-    },
-    {
-      "artistes": "RnBoi",
-      "titre": "J'assume",
-      "nb_diffusions": 31,
-      "minutes_antenne": 91.6
     },
     {
       "artistes": "Niska",
@@ -313,11 +313,11 @@
     },
     {
       "heure": 14,
-      "nb_diffusions": 88
+      "nb_diffusions": 92
     },
     {
       "heure": 15,
-      "nb_diffusions": 68
+      "nb_diffusions": 70
     },
     {
       "heure": 16,
@@ -650,8 +650,8 @@
     },
     {
       "date": "2026-11-26",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 11
     }
   ],
   "semaine": [
@@ -673,7 +673,7 @@
     },
     {
       "jour": "Jeudi",
-      "nb_diffusions": 227
+      "nb_diffusions": 233
     },
     {
       "jour": "Vendredi",
@@ -687,9 +687,9 @@
   "recurrents": [
     {
       "artistes": "Tiakola",
-      "nb_jours": 46,
-      "nb_diffusions": 81,
-      "minutes": 229.1
+      "nb_jours": 47,
+      "nb_diffusions": 82,
+      "minutes": 231.7
     },
     {
       "artistes": "Vacra",
@@ -734,6 +734,12 @@
       "minutes": 101.3
     },
     {
+      "artistes": "RnBoi",
+      "nb_jours": 26,
+      "nb_diffusions": 32,
+      "minutes": 94.5
+    },
+    {
       "artistes": "Slimane",
       "nb_jours": 25,
       "nb_diffusions": 35,
@@ -750,12 +756,6 @@
       "nb_jours": 25,
       "nb_diffusions": 31,
       "minutes": 112.6
-    },
-    {
-      "artistes": "RnBoi",
-      "nb_jours": 25,
-      "nb_diffusions": 31,
-      "minutes": 91.6
     },
     {
       "artistes": "Niska",
@@ -814,16 +814,16 @@
       "nb_diffusions": 66
     },
     {
+      "artistes": "Tiakola",
+      "titre": "Mélo Décalé",
+      "nb_jours": 40,
+      "nb_diffusions": 57
+    },
+    {
       "artistes": "Leto",
       "titre": "Pineapple",
       "nb_jours": 39,
       "nb_diffusions": 57
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "Mélo Décalé",
-      "nb_jours": 39,
-      "nb_diffusions": 56
     },
     {
       "artistes": "Timal",
@@ -850,16 +850,16 @@
       "nb_diffusions": 41
     },
     {
+      "artistes": "RnBoi",
+      "titre": "J'assume",
+      "nb_jours": 26,
+      "nb_diffusions": 32
+    },
+    {
       "artistes": "Slimane",
       "titre": "Maladie",
       "nb_jours": 25,
       "nb_diffusions": 35
-    },
-    {
-      "artistes": "RnBoi",
-      "titre": "J'assume",
-      "nb_jours": 25,
-      "nb_diffusions": 31
     },
     {
       "artistes": "Apache 207",
@@ -957,7 +957,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 3,
-      "nb_diffusions": 81
+      "nb_diffusions": 82
     },
     {
       "artistes": "KAROL G",
@@ -1045,7 +1045,7 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 869
+      "nb_diffusions": 873
     },
     {
       "annee": 2025,
@@ -1163,11 +1163,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 756
+      "nb": 757
     },
     {
       "type_contenu": "Explicit",
-      "nb": 714
+      "nb": 717
     }
   ],
   "albums": [
@@ -1189,7 +1189,7 @@
     {
       "album": "Mélo Décalé",
       "artistes": "Tiakola",
-      "nb_diffusions": 56
+      "nb_diffusions": 57
     },
     {
       "album": "VIVE LA MONNAIE",
@@ -1212,13 +1212,13 @@
       "nb_diffusions": 35
     },
     {
-      "album": "Loser",
-      "artistes": "Apache 207",
-      "nb_diffusions": 31
-    },
-    {
       "album": "J'assume",
       "artistes": "RnBoi",
+      "nb_diffusions": 32
+    },
+    {
+      "album": "Loser",
+      "artistes": "Apache 207",
       "nb_diffusions": 31
     },
     {
@@ -1273,19 +1273,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Fille à Papa",
-    "artistes": "Vacra",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/82913d7ecc1098214160f256ac7bc0a1/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/70/SKYC.7319706733645831170.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3?hdnea=exp=1795670669~acl=/api/1/1/b/7/9/0/b79deba190903c900940fb9ab9b8ef9f.mp3*~data=user_id=0,application_id=42~hmac=44e0febdde34e9abefceda446ef912471c7ee560962c93d6b6dfbb648239c681",
+    "titre": "Cuenta (feat. Meryl & Shay)",
+    "artistes": "Ronisia",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1795706350~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=8966c7d3bb7340e1e2349d3d2bf92952ffd1e6bfcb3f00fc9045c1a9a34ec30c",
     "date": "2026-11-26",
-    "heure": 5,
-    "album": "Fille à Papa",
+    "heure": 15,
+    "album": "Cuenta (feat. Meryl & Shay)",
     "annee": 2026,
-    "start_ts": 1795669737,
-    "end_ts": 1795669903
+    "start_ts": 1795705411,
+    "end_ts": 1795705591
   },
   "derniers_morceaux": [
+    {
+      "titre": "Cuenta (feat. Meryl & Shay)",
+      "artistes": "Ronisia",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1795706350~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=8966c7d3bb7340e1e2349d3d2bf92952ffd1e6bfcb3f00fc9045c1a9a34ec30c",
+      "date": "2026-11-26",
+      "heure": 15,
+      "album": "Cuenta (feat. Meryl & Shay)",
+      "annee": 2026,
+      "start_ts": 1795705411,
+      "end_ts": 1795705591
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1795706351~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=73dc4d57b7be9dbe9756ae2ff45cda492a86bb5feab9f7e2735581ab8b18fb47",
+      "date": "2026-11-26",
+      "heure": 15,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1795705227,
+      "end_ts": 1795705404
+    },
+    {
+      "titre": "Flower In A Hurricane [From GTAVI_ Original Score]",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.8734521391952668751.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-26",
+      "heure": 14,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795704978,
+      "end_ts": 1795705153
+    },
+    {
+      "titre": "Mélo Décalé",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1795706353~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=44dcb3ef27cce75d42930657100cfeccb992c19b55e0dd9b3d7bc156e5e5ed33",
+      "date": "2026-11-26",
+      "heure": 14,
+      "album": "Mélo Décalé",
+      "annee": 2026,
+      "start_ts": 1795704826,
+      "end_ts": 1795704977
+    },
+    {
+      "titre": "Just A Lil Bit",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.4671725789218432129.4.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-26",
+      "heure": 14,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795704114,
+      "end_ts": 1795704341
+    },
+    {
+      "titre": "Bodycount",
+      "artistes": "Le Crime",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1795706354~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=4397b9f6022e4397bd5c344ee33f8d7b907761c554dba4f88a620008c01d8286",
+      "date": "2026-11-26",
+      "heure": 14,
+      "album": "Casus Belli",
+      "annee": 2026,
+      "start_ts": 1795703963,
+      "end_ts": 1795704113
+    },
     {
       "titre": "Fille à Papa",
       "artistes": "Vacra",
@@ -1337,84 +1415,6 @@
       "annee": 2008,
       "start_ts": 1795668357,
       "end_ts": 1795668596
-    },
-    {
-      "titre": "Séminaire",
-      "artistes": "Bello&Dallas",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7892b6cbd78bac873b5726e6b02c7a0b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/5/0/3d509b56eac5cdec393e4154e7e04f01.mp3?hdnea=exp=1795670673~acl=/api/1/1/3/d/5/0/3d509b56eac5cdec393e4154e7e04f01.mp3*~data=user_id=0,application_id=42~hmac=ae2c150530d5decf8ad9fefbbde1a8d3526de0b7ab75b0e003a73c44e1518c3f",
-      "date": "2026-11-26",
-      "heure": 4,
-      "album": "Sarah B.",
-      "annee": 2026,
-      "start_ts": 1795668205,
-      "end_ts": 1795668355
-    },
-    {
-      "titre": "Alibi (with Pabllo Vittar & Yseult)",
-      "artistes": "Sevdaliza",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/293bf5770490667c0ee40d9dd9f51b6a/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/93/SKYC.7000693842543185193.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/6/0/a46b7a008a344fdb2151344781955d99.mp3?hdnea=exp=1795670674~acl=/api/1/1/a/4/6/0/a46b7a008a344fdb2151344781955d99.mp3*~data=user_id=0,application_id=42~hmac=e98b31aabe163e605d18edf7f8efe4fe73b391f931093562e9477d606c377c31",
-      "date": "2026-11-26",
-      "heure": 4,
-      "album": "HEROINA",
-      "annee": 2025,
-      "start_ts": 1795668045,
-      "end_ts": 1795668203
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1795649667~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=ae7d3df2a05a6562387da1255bda694a76db921a31eae7f0343fcfbe33fbfaea",
-      "date": "2026-11-25",
-      "heure": 23,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1795648724,
-      "end_ts": 1795648875
-    },
-    {
-      "titre": "Flower In A Hurricane [From GTAVI_ Original Score]",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.8734521391952668751.3.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-25",
-      "heure": 23,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795648548,
-      "end_ts": 1795648723
-    },
-    {
-      "titre": "Pineapple",
-      "artistes": "Leto",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1795649669~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=d918cf3dd576fa9d82b1ae6aad07026b806ac37da4b9fc2726a9a99b6e5f33de",
-      "date": "2026-11-25",
-      "heure": 23,
-      "album": "Pineapple",
-      "annee": 2026,
-      "start_ts": 1795648359,
-      "end_ts": 1795648516
-    },
-    {
-      "titre": "Maladie",
-      "artistes": "Mauvais djo",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d739900fb556aa2e72a8f01e12f8b3eb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/77/SKYC.7971299723176749977.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/9/0/0e92fe589cbcca9bd888da8153ab158a.mp3?hdnea=exp=1795649670~acl=/api/1/1/0/e/9/0/0e92fe589cbcca9bd888da8153ab158a.mp3*~data=user_id=0,application_id=42~hmac=ed456b92b1a78f2a2c362d8652d4174413228e51951efd0d7476426684d61741",
-      "date": "2026-11-25",
-      "heure": 22,
-      "album": "Maladie",
-      "annee": 2026,
-      "start_ts": 1795646335,
-      "end_ts": 1795646521
     }
   ]
 }
