@@ -1,14 +1,14 @@
 {
-  "genere_le": "2026-11-27T05:21:06.046333",
-  "genere_ts": 1795756866,
+  "genere_le": "2026-11-27T15:16:58.277907",
+  "genere_ts": 1795792618,
   "volume": {
-    "nb_diffusions": 1485,
-    "nb_artistes": 262,
-    "nb_titres": 303,
+    "nb_diffusions": 1490,
+    "nb_artistes": 263,
+    "nb_titres": 304,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-27",
-    "heures_antenne": 72.77,
-    "duree_moy_s": 176.4
+    "heures_antenne": 72.98,
+    "duree_moy_s": 176.3
   },
   "top_artistes": [
     {
@@ -31,9 +31,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_diffusions": 58,
+      "nb_diffusions": 59,
       "titres_differents": 1,
-      "minutes_antenne": 151.8
+      "minutes_antenne": 154.4
     },
     {
       "artistes": "GIMS",
@@ -126,10 +126,10 @@
       "minutes_antenne": 70.6
     },
     {
-      "artistes": "Lil Gianni",
-      "nb_diffusions": 27,
+      "artistes": "Bouss",
+      "nb_diffusions": 25,
       "titres_differents": 1,
-      "minutes_antenne": 67.5
+      "minutes_antenne": 70.0
     }
   ],
   "top_titres": [
@@ -142,8 +142,8 @@
     {
       "artistes": "Leto",
       "titre": "Pineapple",
-      "nb_diffusions": 58,
-      "minutes_antenne": 151.8
+      "nb_diffusions": 59,
+      "minutes_antenne": 154.4
     },
     {
       "artistes": "Tiakola",
@@ -226,8 +226,8 @@
     {
       "artistes": "Bouss",
       "titre": "Cote à la hausse",
-      "nb_diffusions": 24,
-      "minutes_antenne": 67.2
+      "nb_diffusions": 25,
+      "minutes_antenne": 70.0
     },
     {
       "artistes": "L2B",
@@ -242,16 +242,16 @@
       "minutes_antenne": 48.1
     },
     {
+      "artistes": "Le Crime",
+      "titre": "Bodycount",
+      "nb_diffusions": 22,
+      "minutes_antenne": 55.0
+    },
+    {
       "artistes": "Mauvais djo",
       "titre": "Wagyu",
       "nb_diffusions": 22,
       "minutes_antenne": 41.1
-    },
-    {
-      "artistes": "Tiakola",
-      "titre": "La Nocturne",
-      "nb_diffusions": 22,
-      "minutes_antenne": 79.2
     }
   ],
   "heures": [
@@ -313,11 +313,11 @@
     },
     {
       "heure": 14,
-      "nb_diffusions": 92
+      "nb_diffusions": 93
     },
     {
       "heure": 15,
-      "nb_diffusions": 70
+      "nb_diffusions": 75
     },
     {
       "heure": 16,
@@ -655,8 +655,8 @@
     },
     {
       "date": "2026-11-27",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 12
     }
   ],
   "semaine": [
@@ -682,7 +682,7 @@
     },
     {
       "jour": "Vendredi",
-      "nb_diffusions": 233
+      "nb_diffusions": 239
     },
     {
       "jour": "Samedi",
@@ -704,9 +704,9 @@
     },
     {
       "artistes": "Leto",
-      "nb_jours": 40,
-      "nb_diffusions": 58,
-      "minutes": 151.8
+      "nb_jours": 41,
+      "nb_diffusions": 59,
+      "minutes": 154.4
     },
     {
       "artistes": "Timal",
@@ -781,6 +781,12 @@
       "minutes": 117.4
     },
     {
+      "artistes": "Bouss",
+      "nb_jours": 21,
+      "nb_diffusions": 25,
+      "minutes": 70.0
+    },
+    {
       "artistes": "DJ Jordan MasterBoy",
       "nb_jours": 20,
       "nb_diffusions": 29,
@@ -791,12 +797,6 @@
       "nb_jours": 20,
       "nb_diffusions": 27,
       "minutes": 67.5
-    },
-    {
-      "artistes": "Bouss",
-      "nb_jours": 20,
-      "nb_diffusions": 24,
-      "minutes": 67.2
     },
     {
       "artistes": "L2B",
@@ -819,15 +819,15 @@
       "nb_diffusions": 66
     },
     {
+      "artistes": "Leto",
+      "titre": "Pineapple",
+      "nb_jours": 41,
+      "nb_diffusions": 59
+    },
+    {
       "artistes": "Tiakola",
       "titre": "Mélo Décalé",
       "nb_jours": 41,
-      "nb_diffusions": 58
-    },
-    {
-      "artistes": "Leto",
-      "titre": "Pineapple",
-      "nb_jours": 40,
       "nb_diffusions": 58
     },
     {
@@ -885,6 +885,12 @@
       "nb_diffusions": 29
     },
     {
+      "artistes": "Bouss",
+      "titre": "Cote à la hausse",
+      "nb_jours": 21,
+      "nb_diffusions": 25
+    },
+    {
       "artistes": "Jok'air",
       "titre": "Nouméa",
       "nb_jours": 20,
@@ -901,12 +907,6 @@
       "titre": "Séminaire (feat. Soushimada, Shivas & Machi)",
       "nb_jours": 20,
       "nb_diffusions": 27
-    },
-    {
-      "artistes": "Bouss",
-      "titre": "Cote à la hausse",
-      "nb_jours": 20,
-      "nb_diffusions": 24
     },
     {
       "artistes": "Gambi",
@@ -956,8 +956,8 @@
     },
     {
       "artistes": "Ninho",
-      "nb_titres_differents": 4,
-      "nb_diffusions": 4
+      "nb_titres_differents": 5,
+      "nb_diffusions": 5
     },
     {
       "artistes": "Tiakola",
@@ -1050,11 +1050,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 878
+      "nb_diffusions": 882
     },
     {
       "annee": 2025,
-      "nb_diffusions": 147
+      "nb_diffusions": 148
     },
     {
       "annee": 2024,
@@ -1168,11 +1168,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 760
+      "nb": 761
     },
     {
       "type_contenu": "Explicit",
-      "nb": 723
+      "nb": 727
     }
   ],
   "albums": [
@@ -1184,7 +1184,7 @@
     {
       "album": "Pineapple",
       "artistes": "Leto",
-      "nb_diffusions": 62
+      "nb_diffusions": 63
     },
     {
       "album": "Mélo Décalé",
@@ -1257,13 +1257,13 @@
       "nb_diffusions": 26
     },
     {
-      "album": "Wagyu",
-      "artistes": "Mattie",
-      "nb_diffusions": 24
-    },
-    {
       "album": "Et si j'échoue ??",
       "artistes": "Bouss",
+      "nb_diffusions": 25
+    },
+    {
+      "album": "Wagyu",
+      "artistes": "Mattie",
       "nb_diffusions": 24
     },
     {
@@ -1278,19 +1278,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "Jet Lag",
-    "artistes": "Tiakola",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/37/SKYC.8486215703553217237.3.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/2/a/0/42a854aba9e3cadf507fa40d897f7243.mp3?hdnea=exp=1795757760~acl=/api/1/1/4/2/a/0/42a854aba9e3cadf507fa40d897f7243.mp3*~data=user_id=0,application_id=42~hmac=8a834470d6a6fa8d9d0ad04a897d2bf01ce6c71af7ddfabb247fdd2e3afee794",
+    "titre": "Bodycount",
+    "artistes": "Le Crime",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1795793511~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=736fb6ce5be5a9b1d7b524510a4644fc1fa36b97f026acfe43e4e056233ba661",
     "date": "2026-11-27",
-    "heure": 5,
-    "album": "WpointM",
+    "heure": 15,
+    "album": "Casus Belli",
     "annee": 2026,
-    "start_ts": 1795756191,
-    "end_ts": 1795756366
+    "start_ts": 1795792375,
+    "end_ts": 1795792525
   },
   "derniers_morceaux": [
+    {
+      "titre": "Bodycount",
+      "artistes": "Le Crime",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/fa93568232a634fba9e698b3f3e5eab8/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/43/SKYC.3332674691255591243.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3?hdnea=exp=1795793511~acl=/api/1/1/4/8/a/0/48a9ad5c6317901ff920b559968668db.mp3*~data=user_id=0,application_id=42~hmac=736fb6ce5be5a9b1d7b524510a4644fc1fa36b97f026acfe43e4e056233ba661",
+      "date": "2026-11-27",
+      "heure": 15,
+      "album": "Casus Belli",
+      "annee": 2026,
+      "start_ts": 1795792375,
+      "end_ts": 1795792525
+    },
+    {
+      "titre": "Cote à la hausse",
+      "artistes": "Bouss",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/a85bdb619412f15341d589f18929b563/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/44/SKYC.5109259984070212944.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3?hdnea=exp=1795793512~acl=/api/1/1/6/8/6/0/686408abce4d9b97cfed8cd0e78efaa7.mp3*~data=user_id=0,application_id=42~hmac=463b88fef48e481f02294a269127d410ec110ad836bd9c4240b28103f5237b21",
+      "date": "2026-11-27",
+      "heure": 15,
+      "album": "Et si j'échoue ??",
+      "annee": 2025,
+      "start_ts": 1795792203,
+      "end_ts": 1795792371
+    },
+    {
+      "titre": "OCÉAN DE PROBLÈMES",
+      "artistes": "Ninho",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/e7c0ab17c603ca4d76ccd18350d3a7d2/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/16/SKYC.3321812427307385016.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/e/0/b5ecfe305a16c5eab0491e7f3a492d01.mp3?hdnea=exp=1795793513~acl=/api/1/1/b/5/e/0/b5ecfe305a16c5eab0491e7f3a492d01.mp3*~data=user_id=0,application_id=42~hmac=383767fb225a7c315559c03014d422115c7d32b179f289134c7d82d8bd4e3929",
+      "date": "2026-11-27",
+      "heure": 15,
+      "album": "M.I.L.S 4 (Deluxe Edition)",
+      "annee": 2026,
+      "start_ts": 1795792009,
+      "end_ts": 1795792203
+    },
+    {
+      "titre": "BIR HAKEIM",
+      "artistes": null,
+      "cover_deezer": null,
+      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.5196177112305583441.3.0.jpg",
+      "preview_mp3": null,
+      "date": "2026-11-27",
+      "heure": 15,
+      "album": null,
+      "annee": null,
+      "start_ts": 1795791774,
+      "end_ts": 1795792008
+    },
+    {
+      "titre": "Pineapple",
+      "artistes": "Leto",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/49628c81881f67a76bab8b8f22133b31/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/53/SKYC.3457561682975328453.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3?hdnea=exp=1795793515~acl=/api/1/1/f/f/d/0/ffdeda604a5f3ee6e15fca04a8daf263.mp3*~data=user_id=0,application_id=42~hmac=3dc567747c187ba352a1d000207a5864c611840469adf5992abb573c95ebf1a6",
+      "date": "2026-11-27",
+      "heure": 15,
+      "album": "Pineapple",
+      "annee": 2026,
+      "start_ts": 1795791617,
+      "end_ts": 1795791774
+    },
+    {
+      "titre": "Housewife",
+      "artistes": "Brooke Alexx",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/2a204543ddad4d51addd2951ec426b12/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/0/e/0/60e00e2cb113134ed4e40bdb2b3b818d.mp3?hdnea=exp=1795793516~acl=/api/1/1/6/0/e/0/60e00e2cb113134ed4e40bdb2b3b818d.mp3*~data=user_id=0,application_id=42~hmac=7e58bbdd02243369f8511595a6016e19812c70b527fc0db4be9a833463bd067b",
+      "date": "2026-11-27",
+      "heure": 14,
+      "album": "Dream Girl",
+      "annee": 2026,
+      "start_ts": 1795791412,
+      "end_ts": 1795791533
+    },
     {
       "titre": "Jet Lag",
       "artistes": "Tiakola",
@@ -1342,84 +1420,6 @@
       "annee": null,
       "start_ts": 1795754663,
       "end_ts": 1795754919
-    },
-    {
-      "titre": "melodrama",
-      "artistes": "disiz",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/48/SKYC.166476573695678448.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1795757763~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=afbec43ac1c45ddc994de182e444763628c91ec70414d96b8c98e195867e420a",
-      "date": "2026-11-27",
-      "heure": 4,
-      "album": "melodrama",
-      "annee": 2025,
-      "start_ts": 1795754492,
-      "end_ts": 1795754666
-    },
-    {
-      "titre": "Black Beatles",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/98/SKYC.6570719635165809698.164.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-27",
-      "heure": 4,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795754266,
-      "end_ts": 1795754493
-    },
-    {
-      "titre": "Aristocrate",
-      "artistes": "Heuss L'enfoiré",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/d9e47971109dd5f578a004e7d7d5a9d4/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/51/SKYC.6555835633749137351.2.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/d/0/30d309200046bee02bf3978a0b151ee1.mp3?hdnea=exp=1795737439~acl=/api/1/1/3/0/d/0/30d309200046bee02bf3978a0b151ee1.mp3*~data=user_id=0,application_id=42~hmac=0f26f482c99c8af272038bcde8b8b60ffe03da78c97c1c6f7e047db12a217632",
-      "date": "2026-11-26",
-      "heure": 23,
-      "album": "En esprit",
-      "annee": 2019,
-      "start_ts": 1795736422,
-      "end_ts": 1795736585
-    },
-    {
-      "titre": "Loser",
-      "artistes": "Tame Impala",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/23b006b2e956536d97612847bbd7a3b7/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/46/SKYC.4107718472277867946.397.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/3/0/e531a8ca8fc64fd95ca48eb1997e9cd5.mp3?hdnea=exp=1795737440~acl=/api/1/1/e/5/3/0/e531a8ca8fc64fd95ca48eb1997e9cd5.mp3*~data=user_id=0,application_id=42~hmac=592975f97898a89da99c21b1a4cbad624c3d5e85ed3714e99247f70dac058ddf",
-      "date": "2026-11-26",
-      "heure": 23,
-      "album": "Deadbeat",
-      "annee": 2025,
-      "start_ts": 1795736206,
-      "end_ts": 1795736424
-    },
-    {
-      "titre": "Séminaire",
-      "artistes": "Bello&Dallas",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7892b6cbd78bac873b5726e6b02c7a0b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/5/0/3d509b56eac5cdec393e4154e7e04f01.mp3?hdnea=exp=1795737441~acl=/api/1/1/3/d/5/0/3d509b56eac5cdec393e4154e7e04f01.mp3*~data=user_id=0,application_id=42~hmac=ca1c140f7f8b2bde08186ec43fd9434acd1236c3e13ad3d8d93a4266f0e4e1a4",
-      "date": "2026-11-26",
-      "heure": 23,
-      "album": "Sarah B.",
-      "annee": 2026,
-      "start_ts": 1795736053,
-      "end_ts": 1795736203
-    },
-    {
-      "titre": "On s'attache",
-      "artistes": "Christophe Maé",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1795737442~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=1c72c73813d4c4350d9bf613faeeebd6629c38894027e7054608cb1e421269b0",
-      "date": "2026-11-26",
-      "heure": 23,
-      "album": "Mon paradis",
-      "annee": 2007,
-      "start_ts": 1795735862,
-      "end_ts": 1795736052
     }
   ]
 }
