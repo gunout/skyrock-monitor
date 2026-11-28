@@ -1,21 +1,21 @@
 {
-  "genere_le": "2026-11-28T04:50:50.361874",
-  "genere_ts": 1795841450,
+  "genere_le": "2026-11-28T13:42:38.863370",
+  "genere_ts": 1795873358,
   "volume": {
-    "nb_diffusions": 1498,
-    "nb_artistes": 266,
-    "nb_titres": 307,
+    "nb_diffusions": 1504,
+    "nb_artistes": 267,
+    "nb_titres": 308,
     "premiere_date": "2026-09-28",
     "derniere_date": "2026-11-28",
-    "heures_antenne": 73.34,
+    "heures_antenne": 73.65,
     "duree_moy_s": 176.3
   },
   "top_artistes": [
     {
       "artistes": "Tiakola",
-      "nb_diffusions": 86,
+      "nb_diffusions": 87,
       "titres_differents": 3,
-      "minutes_antenne": 242.1
+      "minutes_antenne": 245.7
     },
     {
       "artistes": "Vacra",
@@ -73,9 +73,9 @@
     },
     {
       "artistes": "RnBoi",
-      "nb_diffusions": 32,
+      "nb_diffusions": 33,
       "titres_differents": 1,
-      "minutes_antenne": 94.5
+      "minutes_antenne": 97.5
     },
     {
       "artistes": "Chris Cornell",
@@ -184,8 +184,8 @@
     {
       "artistes": "RnBoi",
       "titre": "J'assume",
-      "nb_diffusions": 32,
-      "minutes_antenne": 94.5
+      "nb_diffusions": 33,
+      "minutes_antenne": 97.5
     },
     {
       "artistes": "Apache 207",
@@ -236,6 +236,12 @@
       "minutes_antenne": 69.6
     },
     {
+      "artistes": "Tiakola",
+      "titre": "La Nocturne",
+      "nb_diffusions": 23,
+      "minutes_antenne": 82.8
+    },
+    {
       "artistes": "Gambi",
       "titre": "RENÉ CAOVILLA",
       "nb_diffusions": 22,
@@ -246,12 +252,6 @@
       "titre": "Bodycount",
       "nb_diffusions": 22,
       "minutes_antenne": 55.0
-    },
-    {
-      "artistes": "Mauvais djo",
-      "titre": "Wagyu",
-      "nb_diffusions": 22,
-      "minutes_antenne": 41.1
     }
   ],
   "heures": [
@@ -309,7 +309,7 @@
     },
     {
       "heure": 13,
-      "nb_diffusions": 38
+      "nb_diffusions": 44
     },
     {
       "heure": 14,
@@ -660,8 +660,8 @@
     },
     {
       "date": "2026-11-28",
-      "nb_diffusions": 6,
-      "titres_differents": 6
+      "nb_diffusions": 12,
+      "titres_differents": 12
     }
   ],
   "semaine": [
@@ -691,15 +691,15 @@
     },
     {
       "jour": "Samedi",
-      "nb_diffusions": 275
+      "nb_diffusions": 281
     }
   ],
   "recurrents": [
     {
       "artistes": "Tiakola",
       "nb_jours": 49,
-      "nb_diffusions": 86,
-      "minutes": 242.1
+      "nb_diffusions": 87,
+      "minutes": 245.7
     },
     {
       "artistes": "Vacra",
@@ -745,9 +745,9 @@
     },
     {
       "artistes": "RnBoi",
-      "nb_jours": 26,
-      "nb_diffusions": 32,
-      "minutes": 94.5
+      "nb_jours": 27,
+      "nb_diffusions": 33,
+      "minutes": 97.5
     },
     {
       "artistes": "Slimane",
@@ -862,8 +862,8 @@
     {
       "artistes": "RnBoi",
       "titre": "J'assume",
-      "nb_jours": 26,
-      "nb_diffusions": 32
+      "nb_jours": 27,
+      "nb_diffusions": 33
     },
     {
       "artistes": "Slimane",
@@ -922,8 +922,8 @@
     {
       "artistes": "Tiakola",
       "titre": "La Nocturne",
-      "nb_jours": 18,
-      "nb_diffusions": 22
+      "nb_jours": 19,
+      "nb_diffusions": 23
     },
     {
       "artistes": "L2B",
@@ -967,7 +967,7 @@
     {
       "artistes": "Tiakola",
       "nb_titres_differents": 3,
-      "nb_diffusions": 86
+      "nb_diffusions": 87
     },
     {
       "artistes": "KAROL G",
@@ -1055,11 +1055,11 @@
   "annees": [
     {
       "annee": 2026,
-      "nb_diffusions": 889
+      "nb_diffusions": 893
     },
     {
       "annee": 2025,
-      "nb_diffusions": 148
+      "nb_diffusions": 149
     },
     {
       "annee": 2024,
@@ -1131,7 +1131,7 @@
     },
     {
       "annee": 2007,
-      "nb_diffusions": 22
+      "nb_diffusions": 23
     },
     {
       "annee": 2006,
@@ -1173,11 +1173,11 @@
   "explicit": [
     {
       "type_contenu": "Clean",
-      "nb": 763
+      "nb": 766
     },
     {
       "type_contenu": "Explicit",
-      "nb": 733
+      "nb": 736
     }
   ],
   "albums": [
@@ -1224,7 +1224,7 @@
     {
       "album": "J'assume",
       "artistes": "RnBoi",
-      "nb_diffusions": 32
+      "nb_diffusions": 33
     },
     {
       "album": "Loser",
@@ -1252,14 +1252,14 @@
       "nb_diffusions": 29
     },
     {
-      "album": "SAMPLEMAKER",
-      "artistes": "Lil Gianni",
+      "album": "WpointM",
+      "artistes": "Tiakola",
       "nb_diffusions": 27
     },
     {
-      "album": "WpointM",
-      "artistes": "Tiakola",
-      "nb_diffusions": 26
+      "album": "SAMPLEMAKER",
+      "artistes": "Lil Gianni",
+      "nb_diffusions": 27
     },
     {
       "album": "Et si j'échoue ??",
@@ -1283,19 +1283,97 @@
     }
   ],
   "dernier_morceau": {
-    "titre": "La La La (Album Version)",
-    "artistes": "LMFAO",
-    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/58ff5a4affa10da1f2c2dadd4edefa6b/250x250-000000-80-0-0.jpg",
-    "cover_uri": "https://media.skyrock.fm/covers/17/SKYC.2850996758071946317.22.0.jpg",
-    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/d/0/25deb37b9455558028e5837f236b70b0.mp3?hdnea=exp=1795842345~acl=/api/1/1/2/5/d/0/25deb37b9455558028e5837f236b70b0.mp3*~data=user_id=0,application_id=42~hmac=a70b4d4fb84704af529f2e92b12f8a7c7e52e3212bca0a643450ddd5ec5f58be",
+    "titre": "On s'attache",
+    "artistes": "Christophe Maé",
+    "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
+    "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
+    "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1795874252~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=8fb66d0f64eb641edcde683d146e428123c231b8e6ad135500c839b20dbd648c",
     "date": "2026-11-28",
-    "heure": 4,
-    "album": "Party Rock",
-    "annee": 2009,
-    "start_ts": 1795841363,
-    "end_ts": 1795841579
+    "heure": 13,
+    "album": "Mon paradis",
+    "annee": 2007,
+    "start_ts": 1795873348,
+    "end_ts": 1795873538
   },
   "derniers_morceaux": [
+    {
+      "titre": "On s'attache",
+      "artistes": "Christophe Maé",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/213be29ac257cea4f89698f4e13b7b75/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/08/SKYC.1328374514479473608.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3?hdnea=exp=1795874252~acl=/api/1/1/f/2/d/0/f2d9b052b061ce0bb8f68169ccf7b718.mp3*~data=user_id=0,application_id=42~hmac=8fb66d0f64eb641edcde683d146e428123c231b8e6ad135500c839b20dbd648c",
+      "date": "2026-11-28",
+      "heure": 13,
+      "album": "Mon paradis",
+      "annee": 2007,
+      "start_ts": 1795873348,
+      "end_ts": 1795873538
+    },
+    {
+      "titre": "KYKY2BONDY",
+      "artistes": "Hamza",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/f3bda13871ffd5060860e2eefa444052/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/78/SKYC.2828630198238239378.403.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/b/4/0/1b4e594af826abf3216007b6bfb80cac.mp3?hdnea=exp=1795874253~acl=/api/1/1/1/b/4/0/1b4e594af826abf3216007b6bfb80cac.mp3*~data=user_id=0,application_id=42~hmac=d44186a365fb790823c5027ebb0f5afb20cf2df1b079134df2838f544a179b0d",
+      "date": "2026-11-28",
+      "heure": 13,
+      "album": "KYKY2BONDY",
+      "annee": 2025,
+      "start_ts": 1795873208,
+      "end_ts": 1795873344
+    },
+    {
+      "titre": "Housewife",
+      "artistes": "Tate McRae",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/55/SKYC.6016851445615456755.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3?hdnea=exp=1795874254~acl=/api/1/1/1/6/7/0/1672d9dbdaeeb422f702c5cf4a009242.mp3*~data=user_id=0,application_id=42~hmac=fcbd224454b92e2143287fec0bbdb8847d06c3868adbec559faae920d4f6ad10",
+      "date": "2026-11-28",
+      "heure": 13,
+      "album": "Housewife",
+      "annee": 2026,
+      "start_ts": 1795873001,
+      "end_ts": 1795873206
+    },
+    {
+      "titre": "La Nocturne",
+      "artistes": "Tiakola",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/20e710fb1b502101b9ec74833e66a310/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/22/SKYC.4567783254480385322.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3?hdnea=exp=1795874255~acl=/api/1/1/3/8/1/0/3812110da121f185f1ea9a12ef6bf0af.mp3*~data=user_id=0,application_id=42~hmac=33c307ac0375876ec635e31e92b22cb3617795a37395500e885d7b4a07ce36a7",
+      "date": "2026-11-28",
+      "heure": 13,
+      "album": "WpointM",
+      "annee": 2026,
+      "start_ts": 1795872780,
+      "end_ts": 1795872996
+    },
+    {
+      "titre": "Cuenta (feat. Meryl & Shay)",
+      "artistes": "Ronisia",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/c4417a5dda608ec67e1489f51f08071e/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/50/SKYC.8214404010250591650.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3?hdnea=exp=1795874256~acl=/api/1/1/6/4/8/0/64867d87bb0b5554df920efbd8c11f15.mp3*~data=user_id=0,application_id=42~hmac=95614b9793cab9005042f0fd3ec81555e1343a105ac6339ef589e48a22f73b13",
+      "date": "2026-11-28",
+      "heure": 13,
+      "album": "Cuenta (feat. Meryl & Shay)",
+      "annee": 2026,
+      "start_ts": 1795872604,
+      "end_ts": 1795872784
+    },
+    {
+      "titre": "J'assume",
+      "artistes": "RnBoi",
+      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/9241e11f46444199f6627d1e9675df7c/250x250-000000-80-0-0.jpg",
+      "cover_uri": "https://media.skyrock.fm/covers/96/SKYC.4811232736746775296.3.0.jpg",
+      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3?hdnea=exp=1795874257~acl=/api/1/1/4/3/3/0/433ee8c50458cb5060cda8d2be43d6de.mp3*~data=user_id=0,application_id=42~hmac=3f737886e42bc5a1c34e8323b7bfa499ff54662044450f9348e8bab8be115945",
+      "date": "2026-11-28",
+      "heure": 13,
+      "album": "J'assume",
+      "annee": 2026,
+      "start_ts": 1795872406,
+      "end_ts": 1795872583
+    },
     {
       "titre": "La La La (Album Version)",
       "artistes": "LMFAO",
@@ -1347,84 +1425,6 @@
       "annee": null,
       "start_ts": 1795840753,
       "end_ts": 1795840909
-    },
-    {
-      "titre": "ca chauffe",
-      "artistes": "Gentlemen côté",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/47000cac2a3b78a00446e5dc1467fac3/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/45/SKYC.6190894445093729345.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/a/f/e/0/afe50681a4eac6ca8994225b17d9a8fe.mp3?hdnea=exp=1795842348~acl=/api/1/1/a/f/e/0/afe50681a4eac6ca8994225b17d9a8fe.mp3*~data=user_id=0,application_id=42~hmac=10c0e28a5720a815d416faf417fed10e53f33a4cdd5e94bf8920f27ed3b83f8a",
-      "date": "2026-11-28",
-      "heure": 4,
-      "album": "second souffle",
-      "annee": 2026,
-      "start_ts": 1795840572,
-      "end_ts": 1795840755
-    },
-    {
-      "titre": "Sicario",
-      "artistes": "Timal",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/52ddc33db9967d6b66af15bdba0f92a5/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/29/SKYC.7982467215912131829.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3?hdnea=exp=1795842349~acl=/api/1/1/5/5/f/0/55f5e7d733a0b09a061f74f052528080.mp3*~data=user_id=0,application_id=42~hmac=a70562a20c513cc2558fcf5aae6096d8b791e546fc876e7330f1ffb1d1a9a9c0",
-      "date": "2026-11-28",
-      "heure": 4,
-      "album": "Sicario",
-      "annee": 2026,
-      "start_ts": 1795840431,
-      "end_ts": 1795840575
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": "Tiakola",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/90f92f4883003958f33ac69decc15deb/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3?hdnea=exp=1795823041~acl=/api/1/1/d/3/4/0/d346aeb4b079a3ae79a6a049da930e73.mp3*~data=user_id=0,application_id=42~hmac=c65bc8a9e09e865b2dc6463272524214daa8a6a57cd2fc1c1275773841e551d2",
-      "date": "2026-11-27",
-      "heure": 22,
-      "album": "Mélo Décalé",
-      "annee": 2026,
-      "start_ts": 1795819469,
-      "end_ts": 1795819620
-    },
-    {
-      "titre": "Mélo Décalé",
-      "artistes": null,
-      "cover_deezer": null,
-      "cover_uri": "https://media.skyrock.fm/covers/41/SKYC.6643135837901240041.7.0.jpg",
-      "preview_mp3": null,
-      "date": "2026-11-27",
-      "heure": 22,
-      "album": null,
-      "annee": null,
-      "start_ts": 1795817220,
-      "end_ts": 1795817401
-    },
-    {
-      "titre": "Séminaire",
-      "artistes": "Bello&Dallas",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/7892b6cbd78bac873b5726e6b02c7a0b/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/15/SKYC.5667608777172190515.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/3/d/5/0/3d509b56eac5cdec393e4154e7e04f01.mp3?hdnea=exp=1795823042~acl=/api/1/1/3/d/5/0/3d509b56eac5cdec393e4154e7e04f01.mp3*~data=user_id=0,application_id=42~hmac=3043f14463db42229cf5b59386885f204b58de8de1d96437f1ec73b41dd2c032",
-      "date": "2026-11-27",
-      "heure": 22,
-      "album": "Sarah B.",
-      "annee": 2026,
-      "start_ts": 1795817157,
-      "end_ts": 1795817307
-    },
-    {
-      "titre": "Jet lag (Evasion #2)",
-      "artistes": "Nahir",
-      "cover_deezer": "https://cdn-images.dzcdn.net/images/cover/8ff4390e97038fc4d694a9505a9d9ab7/250x250-000000-80-0-0.jpg",
-      "cover_uri": "https://media.skyrock.fm/covers/37/SKYC.8486215703553217237.3.0.jpg",
-      "preview_mp3": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/5/0/f45745a403cced86a5024667f9b04551.mp3?hdnea=exp=1795823043~acl=/api/1/1/f/4/5/0/f45745a403cced86a5024667f9b04551.mp3*~data=user_id=0,application_id=42~hmac=81589b6f0e70e9a6967e86c176b429991cd99d0082607797c0c8ea39188e9b3b",
-      "date": "2026-11-27",
-      "heure": 21,
-      "album": "Mission : Impossible & Évasion",
-      "annee": 2026,
-      "start_ts": 1795814308,
-      "end_ts": 1795814429
     }
   ]
 }
